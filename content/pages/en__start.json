@@ -71,7 +71,25 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "hero",
+      "actions": [
+        {
+          "label": "Demos",
+          "href": "#demos-games"
+        },
+        {
+          "label": "Open calendar",
+          "href": "https://calendly.com/audio-digitalks-ai/llamada-de-15-minutos"
+        }
+      ],
+      "featuredDemos": [
+        "033d22dea77a",
+        "1ccedcf82508",
+        "c254808678b9"
+      ],
+      "artwork": "/media/74e3b446b282-patern-e1776428838308-768x737.png"
     },
     {
       "id": "en__start-2",
@@ -254,7 +272,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "cards"
     },
     {
       "id": "en__start-3",
@@ -502,7 +522,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__start-4",
@@ -697,7 +719,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "demos"
     },
     {
       "id": "en__start-5",
@@ -807,7 +831,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "split"
     },
     {
       "id": "en__start-6",
@@ -895,7 +921,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "en__start-7",
@@ -983,7 +1011,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "en__start-8",
@@ -1057,7 +1087,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "logos"
     },
     {
       "id": "en__start-9",
@@ -1215,7 +1247,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     }
   ],
   "backgrounds": [
@@ -1247,5 +1281,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

@@ -1,0 +1,33 @@
+---
+import {parseHTML} from 'linkedom';
+import {renderPresentation} from '../lib/presentation';
+import {demos,type Section,type Page} from '../lib/content';
+import AudioPlayer from './AudioPlayer.astro';
+interface Props {section:Section;lang:string;page?:Page}
+const {section,lang,page}=Astro.props;
+const {document}=parseHTML('<html><body>'+renderPresentation({...section,layout:'flow'},lang,page)+'</body></html>');
+const heading=document.querySelector('h1');
+const eyebrow=Array.from(document.querySelectorAll('.dt-widget-heading .dt-heading-title')).filter(e=>e!==heading&&e.tagName!=='P').map(e=>e.innerHTML);
+const intro=document.querySelector('p.dt-heading-title')?.innerHTML;
+const featured=(section.featuredDemos||[]).map(id=>demos.find(d=>d.id===id)).filter((d):d is typeof demos[number]=>!!d);
+const [primary,...supporting]=featured;
+---
+<section class="editorial-hero" data-section={section.id}>
+  {section.artwork&&<div class="hero-pattern" style={{backgroundImage:`url(${section.artwork})`}} aria-hidden="true"/>}
+  <div class="hero-shell">
+    <div class="hero-copy">
+      {eyebrow.length>0&&<div class="hero-eyebrow">{eyebrow.map(text=><span set:html={text}/>)}</div>}
+      {heading&&<h1 set:html={heading.innerHTML}/>}
+      {intro&&<div class="hero-intro" set:html={intro}/>}
+      {section.actions?.length&&<div class="hero-actions">{section.actions.map((action,i)=><a href={action.href} class:list={['design-button',{secondary:i>0}]}>{action.label}</a>)}</div>}
+    </div>
+    {primary&&<div class="hero-stage">
+      <div class="stage-orbit" aria-hidden="true"></div>
+      <figure class="hero-voice-card">
+        <div class="hero-portrait"><img src={primary.image} alt={primary.title} width="800" height="1000" fetchpriority="high"/></div>
+        <figcaption><div class="voice-caption"><span>{primary.title}</span><span class="voice-language">{primary.language}</span></div><AudioPlayer demo={primary} lang={lang}/></figcaption>
+      </figure>
+      {supporting.slice(0,2).map((d,i)=><figure class:list={['supporting-character',`supporting-${i+1}`]}><img src={d.image} alt={d.title} width="160" height="160" loading="eager"/><figcaption>{d.title}</figcaption></figure>)}
+    </div>}
+  </div>
+</section>

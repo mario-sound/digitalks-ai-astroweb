@@ -11,7 +11,10 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: &a1
+    fields: &a6
+      - name: design
+        type: boolean
+        hidden: true
       - name: id
         type: string
         required: true
@@ -68,8 +71,51 @@ content:
         blockKey: type
         blocks:
           - name: migrated
-            label: Sección original (duplicar desde una página existente)
+            label: Sección DigiTalks (contenido existente)
             fields:
+              - &a1
+                name: surface
+                type: select
+                options:
+                  values:
+                    - light
+                    - soft
+                    - dark
+                    - brand
+              - &a2
+                name: layout
+                type: select
+                options:
+                  values:
+                    - flow
+                    - split
+                    - cards
+                    - demos
+                    - logos
+                    - statement
+                    - hero
+              - &a3
+                name: artwork
+                type: image
+                label: Imagen o fondo de la composición
+              - &a4
+                name: actions
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+                label: Botones destacados
+              - &a5
+                name: featuredDemos
+                type: string
+                list: true
+                label: IDs de demos destacadas (hero) campos opcionales
               - name: videos
                 type: object
                 list:
@@ -159,6 +205,11 @@ content:
           - name: text
             label: Texto
             fields:
+              - *a1
+              - *a2
+              - *a3
+              - *a4
+              - *a5
               - name: enabled
                 type: boolean
               - name: heading
@@ -168,6 +219,11 @@ content:
           - name: image
             label: Imagen
             fields:
+              - *a1
+              - *a2
+              - *a3
+              - *a4
+              - *a5
               - name: heading
                 type: string
               - name: image
@@ -177,6 +233,11 @@ content:
           - name: audio
             label: Demo de audio
             fields:
+              - *a1
+              - *a2
+              - *a3
+              - *a4
+              - *a5
               - name: heading
                 type: string
               - name: demo
@@ -184,6 +245,11 @@ content:
           - name: audio-gallery
             label: Galería de demos (orden de colección)
             fields:
+              - *a1
+              - *a2
+              - *a3
+              - *a4
+              - *a5
               - name: heading
                 type: string
               - name: language
@@ -191,6 +257,11 @@ content:
           - name: form
             label: Formulario configurado
             fields:
+              - *a1
+              - *a2
+              - *a3
+              - *a4
+              - *a5
               - name: heading
                 type: string
               - name: body
@@ -205,7 +276,7 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: *a1
+    fields: *a6
   - name: demos
     label: Demos
     type: collection
@@ -327,7 +398,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a2
+        fields: &a7
           - name: copyright
             type: string
           - name: credit
@@ -348,7 +419,7 @@ content:
             label: Texto legal sin URL recuperada
       - name: en
         type: object
-        fields: *a2
+        fields: *a7
   - name: interface
     label: Interfaz y consentimiento
     type: file
@@ -357,7 +428,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a3
+        fields: &a8
           - name: skip
             type: text
           - name: menu
@@ -378,7 +449,7 @@ content:
             type: text
       - name: en
         type: object
-        fields: *a3
+        fields: *a8
   - name: forms
     label: Formularios
     type: collection
@@ -501,4 +572,4 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: *a1
+    fields: *a6

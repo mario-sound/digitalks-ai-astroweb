@@ -5,6 +5,8 @@ import {general,ui,seo as allSeo,type Page} from '../lib/content';
 import {readFileSync} from 'node:fs';
 import siteCss from '../styles/site.css?inline';
 import fontsCss from '../styles/fonts.css?inline';
+import tokensCss from '../styles/tokens.css?inline';
+import designCss from '../styles/design.css?inline';
 interface Props {page:Page}
 const {page}=Astro.props;
 const seo=allSeo.find(s=>s.id===page.seo);
@@ -28,16 +30,17 @@ for(const bg of page.backgrounds||[]){
   {seo.alternates.map(alt=><link rel="alternate" hreflang={alt.lang} href={new URL(alt.path,general.url).href}/>)}
   <meta property="og:type" content="website"/><meta property="og:title" content={seo.title}/><meta property="og:description" content={seo.description}/><meta property="og:url" content={canonical}/><meta property="og:locale" content={page.lang==='es'?'es_ES':'en_US'}/>
   <meta property="og:image" content={new URL(seo.image,general.url).href}/>
-  {page.styles?.map(href=><link rel="stylesheet" href={href}/>)}
-  <style is:inline set:html={inlineCss}></style>
+  {!page.design&&page.styles?.map(href=><link rel="stylesheet" href={href}/>)}
+  {!page.design&&<style is:inline set:html={inlineCss}></style>}
   <style is:inline set:html={fontsCss}></style>
   <style is:inline set:html={siteCss}></style>
+  {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style></>}
   <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebPage',name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
 </head>
-<body class={page.bodyClass||'dt-kit-46024'} data-sender-account={general.senderEnabled?general.senderAccountId:''} data-gtm-id={general.analyticsEnabled&&!general.preview?general.gtmId:''}>
+<body class={page.design?'digitalks-design':page.bodyClass||'dt-kit-46024'} data-sender-account={general.senderEnabled?general.senderAccountId:''} data-gtm-id={general.analyticsEnabled&&!general.preview?general.gtmId:''}>
   <a class="skip-link" href="#content">{labels.skip}</a>
   <Header page={page} seo={seo}/>
-  <main id="content" class={page.rootClass||''} tabindex="-1">{!page.sections.some(s=>s.template)&&<h1 class="custom-page-title">{page.title}</h1>}<slot/></main>
+  <main id="content" class={page.design?'design-content':page.rootClass||''} tabindex="-1">{!page.sections.some(s=>s.template)&&<h1 class="custom-page-title">{page.title}</h1>}<slot/></main>
   <Footer lang={page.lang}/>
   <dialog id="consent-dialog" aria-labelledby="consent-heading">
     <h2 id="consent-heading">{labels.consentTitle}</h2>

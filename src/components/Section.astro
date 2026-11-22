@@ -1,15 +1,18 @@
 ---
 import {renderSection} from '../lib/render';
-import {demos,forms,type Section} from '../lib/content';
+import {renderPresentation} from '../lib/presentation';
+import EditorialHero from './EditorialHero.astro';
+import {demos,forms,type Page,type Section} from '../lib/content';
 import AudioPlayer from './AudioPlayer.astro';
 import ContactForm from './ContactForm.astro';
-interface Props {section:Section;lang:string}
-const {section,lang}=Astro.props;
+interface Props {section:Section;lang:string;page?:Page}
+const {section,lang,page}=Astro.props;
 const demo=demos.find(x=>x.id===section.demo);
 const gallery=demos.filter(d=>!section.language||d.language===section.language).sort((a,b)=>a.order-b.order);
 const form=forms.find(x=>x.id===section.form);
+const hasContent=!!(section.template||section.heading||section.body||section.image||demo||form||(section.type==='audio-gallery'&&gallery.length));
 ---
-{section.enabled!==false && (section.template ? <Fragment set:html={renderSection(section,lang)} /> : <section class="custom-section">
+{section.enabled!==false && hasContent && (section.template ? (page?.design&&section.layout==='hero'?<EditorialHero section={section} lang={lang} page={page}/>:<Fragment set:html={page?.design?renderPresentation(section,lang,page):renderSection(section,lang)} />) : <section class="custom-section">
   {section.heading&&<h2>{section.heading}</h2>}
   {section.body&&<p class="preserve-lines">{section.body}</p>}
   {section.image&&<img src={section.image} alt={section.alt||''} loading="lazy" />}

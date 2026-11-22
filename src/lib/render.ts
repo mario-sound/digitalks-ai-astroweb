@@ -31,12 +31,14 @@ export function renderSection(section:Section,lang:string){
  let html=readFileSync(join(process.cwd(),'src/templates',section.template+'.html'),'utf8');
  const values=new Map<string,string>();
  for(const text of section.texts||[])values.set(text.key+':value',escape(text.value));
- for(const image of section.images||[]){values.set(image.key+':src',safeUrl(image.src));values.set(image.key+':alt',escape(image.alt));}
- for(const link of section.links||[])values.set(link.key+':href',safeUrl(link.href));
+ for(const image of section.images||[]){values.set(image.key+':src',image.src?safeUrl(image.src):'');values.set(image.key+':alt',escape(image.alt));}
+ for(const link of section.links||[])values.set(link.key+':href',safeUrl(link.href||'#'));
  html=html.replace(/\{\{([^}]+)\}\}/g,(_,key)=>{if(!values.has(key))throw Error('Missing content '+key+' in '+section.template);return values.get(key)!});
+ html=html.replace(/<img\b[^>]*\bsrc=""[^>]*>/g,'');
  html=html.replace(/<div data-audio-slot="([^"]+)"><\/div>/g,(_,id)=>{const demo=demos.find(d=>d.id===id);if(!demo)throw Error('Missing demo '+id);return audioMarkup(demo,lang)});
  html=html.replace(/<div data-video-slot="([^"]+)"><\/div>/g,(_,key)=>{
  const video=section.videos?.find(v=>v.key===key);if(!video)throw Error('Missing video '+key);
+ if(!video.url)return '';
  const u=new URL(video.url);const id=u.hostname==='youtu.be'?u.pathname.slice(1):u.searchParams.get('v');
  if(!id||!/^[a-zA-Z0-9_-]{11}$/.test(id))throw Error('Invalid YouTube ID');
  return `<figure class="external-video"><button type="button" data-video-src="https://www.youtube-nocookie.com/embed/${id}?autoplay=1" aria-label="${escape(video.label)}">${video.poster?`<img src="${safeUrl(video.poster)}" alt="" loading="lazy">`:''}<span>${escape(video.label)}</span></button><figcaption><a href="${safeUrl(video.url)}" target="_blank" rel="noopener noreferrer">YouTube</a></figcaption></figure>`;

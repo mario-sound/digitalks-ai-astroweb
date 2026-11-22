@@ -19,7 +19,7 @@ export function collection<T>(name:string):T[]{
  const prefix='../../content/'+name+'/';
  return Object.entries(contentFiles).filter(([key])=>key.startsWith(prefix)&&!key.slice(prefix.length).includes('/')).sort(([a],[b])=>a.localeCompare(b)).map(([,value])=>value as T);
 }
-export const pages = ['pages','services','legal'].flatMap(n=>collection<Page>(n));
+export const pages = ['pages','services','legal'].flatMap(n=>collection<Page>(n)).map(page=>({...page,design:page.design!==false}));
 export const demos=collection<Demo>('demos');
 export const forms=collection<Form>('forms');
 export const seo=collection<Seo>('seo');
