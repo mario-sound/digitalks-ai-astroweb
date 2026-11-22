@@ -4,7 +4,8 @@
   "character": "old-man",
   "language": "frFR",
   "audio": "/media/70e928265c9d-Old_Man_frFR.mp3",
-  "image": "/media/538c84442dce-france-flag.png",
+  "image": "/media/9ac147e686de.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 10
+  "order": 10,
+  "flag": "/media/538c84442dce-france-flag.png"
 }

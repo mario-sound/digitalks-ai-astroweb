@@ -1,0 +1,168 @@
+{
+  "id": "post-es",
+  "title": "Postproducción de diálogo para videojuegos. Capacidad cuando la necesitas.",
+  "path": "/audio-development/",
+  "lang": "es",
+  "seo": "post-es",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Postproducción de diálogo para videojuegos. Capacidad cuando la necesitas.",
+      "body": "Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.",
+      "items": [],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "hero",
+      "eyebrow": "GAME AUDIO POST-PRODUCTION",
+      "actions": [
+        {
+          "label": "Consultar capacidad de postproducción",
+          "href": "#contacto"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "title": "EDIT",
+          "body": "Voz y diálogo"
+        },
+        {
+          "title": "POST",
+          "body": "Según tus especificaciones"
+        },
+        {
+          "title": "QC",
+          "body": "Control antes de entregar"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "servicio",
+      "heading": "Tú coordinas la grabación. Nosotros reforzamos la entrega.",
+      "body": "Para estudios de videojuegos, publishers, estudios de grabación y proveedores de localización con proyectos simultáneos, nuevos idiomas o lotes que superan la capacidad interna.",
+      "items": [
+        {
+          "title": "Edición de diálogo",
+          "body": "Limpieza, edición de voz y ajustes de duración según las restricciones de tiempo acordadas."
+        },
+        {
+          "title": "Procesamiento técnico",
+          "body": "Niveles, LUFS, true peak, frecuencia de muestreo y formatos según las especificaciones del proyecto."
+        },
+        {
+          "title": "Preparación de assets",
+          "body": "Naming, estructura de carpetas, exportación y organización de archivos finales."
+        },
+        {
+          "title": "QC técnico de entrega",
+          "body": "Comprobaciones de formato, naming y consistencia. Requisitos de sincronía e incidencias según el alcance acordado."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "flujo",
+      "heading": "La grabación continúa. La postproducción también.",
+      "body": "Envía las sesiones conforme estén listas. Iniciamos la postproducción por lotes mientras los estudios siguen grabando; las entregas se coordinan con tus hitos.",
+      "items": [
+        {
+          "title": "Estudios del cliente",
+          "body": "Sesiones de grabación → lotes disponibles"
+        },
+        {
+          "title": "DigiTalks",
+          "body": "Edición → procesamiento → QC → entrega"
+        }
+      ],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "workflow",
+      "note": "Flujo ilustrativo; calendario y revisiones se acuerdan por proyecto."
+    },
+    {
+      "type": "commercial",
+      "id": "suiteqa",
+      "heading": "SuiteQA. El contexto del diálogo, conectado.",
+      "body": "Nuestro sistema interno conecta líneas de guion, recording IDs, referencias de audio y decisiones de QA. Ayuda al equipo a organizar incidencias y seguir el progreso de la producción.",
+      "items": [
+        {
+          "title": "Guion y referencias",
+          "body": "Contexto para revisar cada línea."
+        },
+        {
+          "title": "Estados e incidencias",
+          "body": "Información de grabación, postproducción y QA en el flujo de trabajo."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "suiteqa",
+      "image": "/media/suiteqa-production.webp",
+      "alt": "Captura real de SuiteQA: líneas de guion, referencias y decisiones de revisión",
+      "caption": "Vista interna de SuiteQA extraída de la documentación de producción. No representa un portal de cliente.",
+      "note": "SuiteQA forma parte de nuestro proceso de servicio. No se ofrece como licencia de software ni se incluye acceso a un dashboard de cliente."
+    },
+    {
+      "type": "commercial",
+      "id": "colaboracion",
+      "heading": "El refuerzo que encaja con tu producción.",
+      "body": "",
+      "items": [
+        {
+          "title": "Overflow puntual",
+          "body": "Capacidad adicional para picos, nuevos idiomas o lotes tardíos."
+        },
+        {
+          "title": "Equipo remoto recurrente",
+          "body": "Un equipo familiarizado con tus especificaciones para cargas continuas."
+        },
+        {
+          "title": "Postproducción multilingüe",
+          "body": "Criterios de entrega y seguimiento compartidos entre idiomas."
+        }
+      ],
+      "enabled": true,
+      "surface": "light"
+    },
+    {
+      "type": "commercial",
+      "id": "complementos",
+      "heading": "Apoyo adicional, con alcance propio.",
+      "body": "Los complementos se presupuestan según lo que necesita el proyecto; no están incluidos automáticamente en la postproducción.",
+      "items": [
+        {
+          "title": "Preparación",
+          "body": "Guiones, referencias, recording IDs, naming y sesiones Pro Tools."
+        },
+        {
+          "title": "Auditoría técnica",
+          "body": "Revisión de sincronía, niveles, formatos e informes de excepciones, también como servicio independiente."
+        },
+        {
+          "title": "QA lingüístico",
+          "body": "Revisión de escucha: correspondencia con guion, pronunciación e incidencias de edición."
+        }
+      ],
+      "enabled": true,
+      "surface": "soft"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "¿Tienes un lote en camino?",
+      "body": "Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "post-es",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

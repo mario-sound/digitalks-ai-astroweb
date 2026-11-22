@@ -1,0 +1,21 @@
+{
+  "id": "dubbing-es",
+  "title": "Doblaje multilingüe con IA | Animación y videojuegos | DigiTalks",
+  "description": "Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.",
+  "canonical": "/",
+  "alternates": [
+    {
+      "lang": "es",
+      "path": "/"
+    },
+    {
+      "lang": "en",
+      "path": "/en/start/"
+    },
+    {
+      "lang": "x-default",
+      "path": "/"
+    }
+  ],
+  "image": "/media/03616d41884b.webp"
+}

@@ -1,0 +1,109 @@
+{
+  "id": "dubbing-en",
+  "title": "dubbing en",
+  "lang": "en",
+  "source": "B2B brief",
+  "fields": [
+    {
+      "name": "name",
+      "label": "Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "company",
+      "label": "Company",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "email",
+      "label": "Work email",
+      "type": "email",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "content",
+      "label": "Content type",
+      "type": "select",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": [
+        {
+          "label": "Select",
+          "value": ""
+        },
+        {
+          "label": "Animation",
+          "value": "animation"
+        },
+        {
+          "label": "Games",
+          "value": "games"
+        },
+        {
+          "label": "Other",
+          "value": "other"
+        }
+      ]
+    },
+    {
+      "name": "languages",
+      "label": "Source and target languages",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "volume",
+      "label": "Approximate volume (minutes or words)",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "message",
+      "label": "Project and comments",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "privacy",
+      "label": "I have read the privacy policy and consent to processing for this enquiry.",
+      "type": "checkbox",
+      "required": true,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    }
+  ],
+  "submit": "Request a quote",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+}

@@ -1,0 +1,21 @@
+{
+  "id": "post-es",
+  "title": "Postproducción de diálogo para videojuegos | DigiTalks",
+  "description": "Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.",
+  "canonical": "/audio-development/",
+  "alternates": [
+    {
+      "lang": "es",
+      "path": "/audio-development/"
+    },
+    {
+      "lang": "en",
+      "path": "/en/audio-development-en/"
+    },
+    {
+      "lang": "x-default",
+      "path": "/audio-development/"
+    }
+  ],
+  "image": "/media/suiteqa-production.webp"
+}

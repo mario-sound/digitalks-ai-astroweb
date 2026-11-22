@@ -1,0 +1,21 @@
+{
+  "id": "dubbing-en",
+  "title": "Multilingual AI Dubbing for Animation & Games | DigiTalks",
+  "description": "Bring your content to new markets with professional dubbing and a production model built around your project.",
+  "canonical": "/en/start/",
+  "alternates": [
+    {
+      "lang": "es",
+      "path": "/"
+    },
+    {
+      "lang": "en",
+      "path": "/en/start/"
+    },
+    {
+      "lang": "x-default",
+      "path": "/"
+    }
+  ],
+  "image": "/media/03616d41884b.webp"
+}

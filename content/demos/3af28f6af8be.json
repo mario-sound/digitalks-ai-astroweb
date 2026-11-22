@@ -4,7 +4,8 @@
   "character": "girl-child",
   "language": "ptBR",
   "audio": "/media/3af28f6af8be-GirlChild_v1_ptBR.mp3",
-  "image": "/media/c3bb2d64ffdc-brazil-flag.png",
+  "image": "/media/6fa8b87f9bcd.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 15
+  "order": 15,
+  "flag": "/media/c3bb2d64ffdc-brazil-flag.png"
 }

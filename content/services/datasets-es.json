@@ -1,0 +1,166 @@
+{
+  "id": "datasets-es",
+  "title": "Datasets de voz grabados en estudio. A medida de tu proyecto.",
+  "path": "/audio-data-collection/",
+  "lang": "es",
+  "seo": "datasets-es",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Datasets de voz grabados en estudio. A medida de tu proyecto.",
+      "body": "Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.",
+      "items": [],
+      "enabled": true,
+      "surface": "light",
+      "kind": "hero",
+      "eyebrow": "STUDIO VOICE DATASETS / ON DEMAND",
+      "actions": [
+        {
+          "label": "Solicitar presupuesto de dataset",
+          "href": "#contacto"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "title": "01",
+          "body": "Guiones y requisitos"
+        },
+        {
+          "title": "02",
+          "body": "Grabación supervisada"
+        },
+        {
+          "title": "03",
+          "body": "Entrega revisada"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "idiomas",
+      "heading": "FIGS + catalán. Producción bajo demanda.",
+      "body": "Francés, italiano, alemán, español de España y catalán. Confirmamos perfiles, disponibilidad y calendario para cada encargo.",
+      "items": [
+        {
+          "title": "FR",
+          "body": "fr-FR"
+        },
+        {
+          "title": "IT",
+          "body": "it-IT"
+        },
+        {
+          "title": "DE",
+          "body": "de-DE"
+        },
+        {
+          "title": "ES",
+          "body": "es-ES"
+        },
+        {
+          "title": "CA",
+          "body": "ca-ES"
+        }
+      ],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "languages"
+    },
+    {
+      "type": "commercial",
+      "id": "grabacion",
+      "heading": "Control desde el guion hasta el archivo.",
+      "body": "Para equipos de ASR, TTS, I+D de voz y proveedores de datos que necesitan grabaciones consistentes. Cada corpus se produce según su uso previsto; los requisitos de reconocimiento y síntesis se definen por separado.",
+      "items": [
+        {
+          "title": "Grabación a medida",
+          "body": "Guiones y requisitos del cliente en un entorno profesional de estudio."
+        },
+        {
+          "title": "Selección de talento",
+          "body": "Selección y coordinación de voces nativas según el perfil acordado."
+        },
+        {
+          "title": "Supervisión de grabación",
+          "body": "Dirección y seguimiento para mantener consistencia entre sesiones."
+        },
+        {
+          "title": "Control de calidad",
+          "body": "Revisión técnica y de consistencia antes de preparar la entrega."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "especificaciones",
+      "heading": "Tu especificación define la entrega.",
+      "body": "Acordamos los parámetros antes de grabar. No hay un único formato válido para todos los proyectos.",
+      "items": [
+        {
+          "title": "Audio",
+          "body": "Formato, frecuencia de muestreo, profundidad de bits, canales y pistas separadas cuando proceda."
+        },
+        {
+          "title": "Condiciones de captura",
+          "body": "Niveles, ruido de fondo y criterios de consistencia."
+        },
+        {
+          "title": "Organización",
+          "body": "Naming, identificadores de guion, estructura de carpetas y metadatos requeridos."
+        },
+        {
+          "title": "Uso y derechos",
+          "body": "Consentimiento, derechos de voz y usos permitidos establecidos expresamente para cada proyecto."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "specs"
+    },
+    {
+      "type": "commercial",
+      "id": "proceso",
+      "heading": "Un corpus nuevo. Un proceso definido.",
+      "body": "",
+      "items": [
+        {
+          "title": "Definir",
+          "body": "Uso previsto, guiones, perfiles y requisitos."
+        },
+        {
+          "title": "Preparar",
+          "body": "Talento, consentimiento y plan de sesiones."
+        },
+        {
+          "title": "Grabar",
+          "body": "Producción en estudio con supervisión."
+        },
+        {
+          "title": "Revisar y entregar",
+          "body": "QC y archivos organizados según el acuerdo."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "process"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "¿Qué datos de voz necesitas?",
+      "body": "Comparte idiomas, perfiles, horas finales, uso previsto y requisitos. Confirmaremos viabilidad y alcance antes de presupuestar.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "datasets-es",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

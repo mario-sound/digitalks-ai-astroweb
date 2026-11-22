@@ -4,7 +4,8 @@
   "character": "girl-child",
   "language": "enUK",
   "audio": "/media/9b4f61cb6e53-GirlChild_v1_enUK.mp3",
-  "image": "/media/7ff3a608d8db-england-flag.png",
+  "image": "/media/6fa8b87f9bcd.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 13
+  "order": 13,
+  "flag": "/media/7ff3a608d8db-england-flag.png"
 }

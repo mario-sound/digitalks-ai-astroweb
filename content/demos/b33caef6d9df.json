@@ -4,7 +4,8 @@
   "character": "old-man",
   "language": "deDE",
   "audio": "/media/b33caef6d9df-Old_Man_deDE.mp3",
-  "image": "/media/09cf0df1bd61-germany-flag.png",
+  "image": "/media/9ac147e686de.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 11
+  "order": 11,
+  "flag": "/media/09cf0df1bd61-germany-flag.png"
 }

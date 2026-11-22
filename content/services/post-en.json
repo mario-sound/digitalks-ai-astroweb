@@ -1,0 +1,168 @@
+{
+  "id": "post-en",
+  "title": "Game audio post-production. Extra capacity when you need it.",
+  "path": "/en/audio-development-en/",
+  "lang": "en",
+  "seo": "post-en",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Game audio post-production. Extra capacity when you need it.",
+      "body": "Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.",
+      "items": [],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "hero",
+      "eyebrow": "GAME AUDIO POST-PRODUCTION",
+      "actions": [
+        {
+          "label": "Request post-production capacity",
+          "href": "#contacto"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "title": "EDIT",
+          "body": "Voice and dialogue"
+        },
+        {
+          "title": "POST",
+          "body": "To your specifications"
+        },
+        {
+          "title": "QC",
+          "body": "Checked before delivery"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "servicio",
+      "heading": "You manage recording. We strengthen delivery.",
+      "body": "For game studios, publishers, recording studios and localization providers facing overlapping projects, extra languages or batches beyond their internal capacity.",
+      "items": [
+        {
+          "title": "Dialogue editing",
+          "body": "Dialogue clean-up, voice editing and duration adjustments to agreed time constraints."
+        },
+        {
+          "title": "Technical processing",
+          "body": "Levels, LUFS, true peak, sample rate and formats matched to the project specifications."
+        },
+        {
+          "title": "Asset preparation",
+          "body": "Naming, folder structure, exports and organized final assets."
+        },
+        {
+          "title": "Delivery technical QC",
+          "body": "Format, naming and consistency checks. Sync requirements and exception reporting within the agreed scope."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "flujo",
+      "heading": "Recording continues. So does post-production.",
+      "body": "Send completed sessions as they become available. We begin post-production in batches while your studios keep recording, with deliveries coordinated around your milestones.",
+      "items": [
+        {
+          "title": "Client studios",
+          "body": "Recording sessions → available batches"
+        },
+        {
+          "title": "DigiTalks",
+          "body": "Editing → processing → QC → delivery"
+        }
+      ],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "workflow",
+      "note": "Illustrative workflow; schedule and reviews are agreed per project."
+    },
+    {
+      "type": "commercial",
+      "id": "suiteqa",
+      "heading": "SuiteQA. Dialogue context, connected.",
+      "body": "Our internal system connects script lines, recording IDs, audio references and QA decisions. It helps the team organize issues and follow production progress.",
+      "items": [
+        {
+          "title": "Scripts and references",
+          "body": "Context for reviewing each line."
+        },
+        {
+          "title": "Status and issues",
+          "body": "Recording, post-production and QA information within the workflow."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "suiteqa",
+      "image": "/media/suiteqa-production.webp",
+      "alt": "Actual SuiteQA screenshot: script lines, references and review decisions",
+      "caption": "Internal SuiteQA view from the production documentation. This is not a client portal.",
+      "note": "SuiteQA supports our service workflow. It is not offered as a software licence and does not include client dashboard access."
+    },
+    {
+      "type": "commercial",
+      "id": "colaboracion",
+      "heading": "Support that fits your production.",
+      "body": "",
+      "items": [
+        {
+          "title": "Overflow support",
+          "body": "Extra capacity for production peaks, additional languages or late batches."
+        },
+        {
+          "title": "Recurring remote team",
+          "body": "A team familiar with your specifications for ongoing workloads."
+        },
+        {
+          "title": "Multilingual post team",
+          "body": "Shared delivery rules and production tracking across languages."
+        }
+      ],
+      "enabled": true,
+      "surface": "light"
+    },
+    {
+      "type": "commercial",
+      "id": "complementos",
+      "heading": "Additional support, separately scoped.",
+      "body": "Add-ons are scoped around the project’s needs and are not automatically included in post-production.",
+      "items": [
+        {
+          "title": "Preparation",
+          "body": "Scripts, references, recording IDs, naming and Pro Tools sessions."
+        },
+        {
+          "title": "Technical audit",
+          "body": "Review of sync rules, levels, formats and exception reports, also available as a standalone service."
+        },
+        {
+          "title": "Linguistic audio QA",
+          "body": "Listening review for script mismatches, pronunciation and editing issues."
+        }
+      ],
+      "enabled": true,
+      "surface": "soft"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "Have a batch coming up?",
+      "body": "Send the file count, languages, specifications and target date. We will review the scope and capacity required.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "post-en",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

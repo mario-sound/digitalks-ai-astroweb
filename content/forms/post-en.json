@@ -1,0 +1,102 @@
+{
+  "id": "post-en",
+  "title": "post en",
+  "lang": "en",
+  "source": "B2B brief",
+  "fields": [
+    {
+      "name": "name",
+      "label": "Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "company",
+      "label": "Company",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "email",
+      "label": "Work email",
+      "type": "email",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "files",
+      "label": "Approximate file count",
+      "type": "number",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "languages",
+      "label": "Languages",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "services",
+      "label": "Services required",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "date",
+      "label": "Target date",
+      "type": "date",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "message",
+      "label": "Technical requirements and comments",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "privacy",
+      "label": "I have read the privacy policy and consent to processing for this enquiry.",
+      "type": "checkbox",
+      "required": true,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    }
+  ],
+  "submit": "Request a quote",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+}

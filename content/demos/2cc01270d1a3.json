@@ -4,7 +4,8 @@
   "character": "girl-child",
   "language": "esES",
   "audio": "/media/2cc01270d1a3-GirlChild_v1_esES.mp3",
-  "image": "/media/40af1f608b84-spain-flag.png",
+  "image": "/media/6fa8b87f9bcd.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 12
+  "order": 12,
+  "flag": "/media/40af1f608b84-spain-flag.png"
 }

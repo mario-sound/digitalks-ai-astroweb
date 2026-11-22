@@ -1,0 +1,109 @@
+{
+  "id": "dubbing-es",
+  "title": "dubbing es",
+  "lang": "es",
+  "source": "B2B brief",
+  "fields": [
+    {
+      "name": "name",
+      "label": "Nombre",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "company",
+      "label": "Empresa",
+      "type": "text",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "email",
+      "label": "Email profesional",
+      "type": "email",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "content",
+      "label": "Tipo de contenido",
+      "type": "select",
+      "required": true,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": [
+        {
+          "label": "Selecciona",
+          "value": ""
+        },
+        {
+          "label": "Animación",
+          "value": "animation"
+        },
+        {
+          "label": "Videojuegos",
+          "value": "games"
+        },
+        {
+          "label": "Otro",
+          "value": "other"
+        }
+      ]
+    },
+    {
+      "name": "languages",
+      "label": "Idiomas de origen y destino",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "volume",
+      "label": "Volumen aproximado (minutos o palabras)",
+      "type": "text",
+      "required": false,
+      "placeholder": "",
+      "width": "half",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "message",
+      "label": "Proyecto y comentarios",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    },
+    {
+      "name": "privacy",
+      "label": "He leído la política de privacidad y consiento el tratamiento para atender mi consulta.",
+      "type": "checkbox",
+      "required": true,
+      "placeholder": "",
+      "width": "full",
+      "showLabel": true,
+      "options": []
+    }
+  ],
+  "submit": "Solicitar presupuesto",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."
+}

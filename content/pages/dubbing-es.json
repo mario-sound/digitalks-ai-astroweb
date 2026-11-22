@@ -1,0 +1,197 @@
+{
+  "id": "dubbing-es",
+  "title": "Doblaje multilingüe con IA para animación y videojuegos.",
+  "path": "/",
+  "lang": "es",
+  "seo": "dubbing-es",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Doblaje multilingüe con IA para animación y videojuegos.",
+      "body": "Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.",
+      "items": [],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "hero",
+      "eyebrow": "DIGITALKS AI / DUBBING",
+      "image": "/media/03616d41884b.webp",
+      "alt": "Personaje bárbaro de las demos DigiTalks",
+      "actions": [
+        {
+          "label": "Solicitar presupuesto",
+          "href": "#contacto"
+        },
+        {
+          "label": "Escuchar demos",
+          "href": "#demos"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "sectores",
+      "heading": "Dos sectores. Distintas necesidades.",
+      "body": "",
+      "items": [
+        {
+          "title": "Animación · Más recorrido para tu catálogo",
+          "body": "Para productoras, distribuidoras y propietarios de IP. Crea versiones para nuevos territorios, coordina varios idiomas y conserva la identidad vocal de tus personajes en series y contenidos recurrentes."
+        },
+        {
+          "title": "Videojuegos · Más idiomas para tu mundo",
+          "body": "Para desarrolladoras y publishers. Organiza grandes volúmenes de diálogo, NPCs y actualizaciones con voces interpretadas, generadas o una combinación de ambas, según las necesidades de cada personaje y la localización."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "sectors"
+    },
+    {
+      "type": "commercial",
+      "id": "demos",
+      "heading": "Escucha los personajes. Compara los idiomas.",
+      "body": "Demos originales de DigiTalks. Escucha cada voz directamente, sin salir de la página.",
+      "items": [],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "demos",
+      "characterLabel": "Personajes · Español",
+      "multilingualLabel": "Una voz, varios idiomas",
+      "demoIds": [
+        "033d22dea77a",
+        "1ccedcf82508",
+        "c254808678b9",
+        "c97e1df4f785",
+        "2280308e51d6",
+        "bb946e455591",
+        "c0650d2d911d",
+        "96a7a8374a7c",
+        "865aadf770ce",
+        "70e928265c9d",
+        "b33caef6d9df",
+        "2cc01270d1a3",
+        "9b4f61cb6e53",
+        "136d449eee15",
+        "3af28f6af8be",
+        "0abe5c673d61"
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "produccion",
+      "heading": "Del guion a la versión final.",
+      "body": "Producción completa o fases concretas, según el estado de tus materiales y tu equipo. Definimos el alcance antes de empezar.",
+      "items": [
+        {
+          "title": "Traducción y adaptación",
+          "body": "Texto, contexto, personaje y sincronía."
+        },
+        {
+          "title": "Casting y voces",
+          "body": "Selección, creación o generación según el proyecto."
+        },
+        {
+          "title": "Doblaje en estudio y con IA",
+          "body": "Interpretación dirigida y producción de voces."
+        },
+        {
+          "title": "Postproducción y mezcla",
+          "body": "Edición, sincronía y acabado de audio."
+        },
+        {
+          "title": "Revisión y control",
+          "body": "Revisión lingüística y comprobaciones técnicas."
+        },
+        {
+          "title": "Subtitulado",
+          "body": "Traducción y sincronización cuando el proyecto lo requiere."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "voces",
+      "heading": "La voz adecuada para cada personaje.",
+      "body": "Elegimos el método de producción según el contenido, la interpretación y el presupuesto. Crear una voz y producir el doblaje son fases distintas.",
+      "items": [
+        {
+          "title": "Actores profesionales",
+          "body": "Casting, dirección e interpretación en estudio."
+        },
+        {
+          "title": "Voces IA personalizadas",
+          "body": "Creación de una voz para las necesidades del proyecto, con las autorizaciones que correspondan."
+        },
+        {
+          "title": "Voces sintéticas y de catálogo",
+          "body": "Opciones de diseño y selección con condiciones de uso propias; las voces de catálogo no son exclusivas."
+        },
+        {
+          "title": "Producción híbrida",
+          "body": "Combina interpretación humana y voces generadas en una misma producción."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "note": "Derechos de voz, consentimiento, usos y cualquier exclusividad se acuerdan por proyecto."
+    },
+    {
+      "type": "commercial",
+      "id": "proceso",
+      "heading": "Un proceso, de principio a fin.",
+      "body": "",
+      "items": [
+        {
+          "title": "Materiales",
+          "body": "Guiones, audio y referencias."
+        },
+        {
+          "title": "Adaptación",
+          "body": "Texto preparado para el idioma y el personaje."
+        },
+        {
+          "title": "Voces",
+          "body": "Casting y método de producción."
+        },
+        {
+          "title": "Producción",
+          "body": "Doblaje, edición y mezcla."
+        },
+        {
+          "title": "Revisión y entrega",
+          "body": "Control lingüístico, técnico y archivos finales."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "process"
+    },
+    {
+      "type": "commercial",
+      "id": "equipo",
+      "heading": "Criterio de producción. Coordinación multilingüe.",
+      "body": "Un equipo con experiencia profesional en audio, localización y videojuegos. Acordamos referencias, criterios de revisión y entregables para mantener coherencia entre idiomas y fases. Las demos muestran el resultado que puedes evaluar.",
+      "items": [],
+      "enabled": true,
+      "surface": "soft"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "¿Qué contenido quieres llevar a nuevos mercados?",
+      "body": "Cuéntanos el tipo de contenido, los idiomas y el volumen aproximado. Revisaremos los materiales y el alcance contigo.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "dubbing-es",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

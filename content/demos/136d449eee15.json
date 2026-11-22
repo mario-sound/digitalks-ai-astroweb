@@ -4,7 +4,8 @@
   "character": "girl-child",
   "language": "plPL",
   "audio": "/media/136d449eee15-GirlChild_v1_plPL.mp3",
-  "image": "/media/dc722e1ec294-poland-flag.png",
+  "image": "/media/6fa8b87f9bcd.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 14
+  "order": 14,
+  "flag": "/media/dc722e1ec294-poland-flag.png"
 }

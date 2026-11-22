@@ -1,0 +1,197 @@
+{
+  "id": "dubbing-en",
+  "title": "Multilingual AI dubbing for animation and games.",
+  "path": "/en/start/",
+  "lang": "en",
+  "seo": "dubbing-en",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Multilingual AI dubbing for animation and games.",
+      "body": "Bring your content to new markets with professional dubbing and a production model built around your project.",
+      "items": [],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "hero",
+      "eyebrow": "DIGITALKS AI / DUBBING",
+      "image": "/media/03616d41884b.webp",
+      "alt": "Barbarian character from the DigiTalks demos",
+      "actions": [
+        {
+          "label": "Request a dubbing quote",
+          "href": "#contacto"
+        },
+        {
+          "label": "Listen to demos",
+          "href": "#demos"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "sectores",
+      "heading": "Two sectors. Different production needs.",
+      "body": "",
+      "items": [
+        {
+          "title": "Animation · Take your catalogue further",
+          "body": "For producers, distributors and IP owners. Build versions for new territories, coordinate languages and maintain each character’s vocal identity across series and recurring content."
+        },
+        {
+          "title": "Games · More languages for your world",
+          "body": "For developers and publishers. Handle dialogue volumes, NPCs and updates with performed voices, generated voices or a combination, chosen for each character and localization workflow."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "sectors"
+    },
+    {
+      "type": "commercial",
+      "id": "demos",
+      "heading": "Hear the characters. Compare the languages.",
+      "body": "Original DigiTalks demos. Play each voice directly on this page.",
+      "items": [],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "demos",
+      "characterLabel": "Characters · Spanish",
+      "multilingualLabel": "One voice, multiple languages",
+      "demoIds": [
+        "033d22dea77a",
+        "1ccedcf82508",
+        "c254808678b9",
+        "c97e1df4f785",
+        "2280308e51d6",
+        "bb946e455591",
+        "c0650d2d911d",
+        "96a7a8374a7c",
+        "865aadf770ce",
+        "70e928265c9d",
+        "b33caef6d9df",
+        "2cc01270d1a3",
+        "9b4f61cb6e53",
+        "136d449eee15",
+        "3af28f6af8be",
+        "0abe5c673d61"
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "produccion",
+      "heading": "From script to final version.",
+      "body": "Commission the full production or selected stages around your materials and team. We agree the scope before production.",
+      "items": [
+        {
+          "title": "Translation and adaptation",
+          "body": "Text, context, character and timing."
+        },
+        {
+          "title": "Casting and voices",
+          "body": "Selection, creation or generation to fit the project."
+        },
+        {
+          "title": "Studio and AI dubbing",
+          "body": "Directed performance and voice production."
+        },
+        {
+          "title": "Post-production and mixing",
+          "body": "Editing, synchronization and audio finishing."
+        },
+        {
+          "title": "Review and quality control",
+          "body": "Linguistic review and technical checks."
+        },
+        {
+          "title": "Subtitling",
+          "body": "Translation and timing where the project requires it."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "voces",
+      "heading": "The right voice for each character.",
+      "body": "We choose the production method around the content, performance and budget. Creating a voice and producing the dub are separate stages.",
+      "items": [
+        {
+          "title": "Professional actors",
+          "body": "Casting, direction and studio performance."
+        },
+        {
+          "title": "Custom AI voices",
+          "body": "Voice creation for the project’s requirements, with the appropriate permissions."
+        },
+        {
+          "title": "Synthetic and catalogue voices",
+          "body": "Designed or selected options with their own usage terms; catalogue voices are non-exclusive."
+        },
+        {
+          "title": "Hybrid production",
+          "body": "Combine human performance and generated voices within one production."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "note": "Voice rights, consent, permitted uses and any exclusivity are agreed per project."
+    },
+    {
+      "type": "commercial",
+      "id": "proceso",
+      "heading": "One coordinated production process.",
+      "body": "",
+      "items": [
+        {
+          "title": "Materials",
+          "body": "Scripts, audio and references."
+        },
+        {
+          "title": "Adaptation",
+          "body": "Scripts prepared for the language and character."
+        },
+        {
+          "title": "Voices",
+          "body": "Casting and production method."
+        },
+        {
+          "title": "Production",
+          "body": "Dubbing, editing and mixing."
+        },
+        {
+          "title": "Review and delivery",
+          "body": "Linguistic and technical review, then final assets."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "process"
+    },
+    {
+      "type": "commercial",
+      "id": "equipo",
+      "heading": "Production judgement. Multilingual coordination.",
+      "body": "A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.",
+      "items": [],
+      "enabled": true,
+      "surface": "soft"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "Which content would you like to take to new markets?",
+      "body": "Tell us about the content, languages and approximate volume. We will review the materials and scope with you.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "dubbing-en",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

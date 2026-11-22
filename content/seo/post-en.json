@@ -1,0 +1,21 @@
+{
+  "id": "post-en",
+  "title": "Game Audio Post-production & Dialogue Editing | DigiTalks",
+  "description": "Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.",
+  "canonical": "/en/audio-development-en/",
+  "alternates": [
+    {
+      "lang": "es",
+      "path": "/audio-development/"
+    },
+    {
+      "lang": "en",
+      "path": "/en/audio-development-en/"
+    },
+    {
+      "lang": "x-default",
+      "path": "/audio-development/"
+    }
+  ],
+  "image": "/media/suiteqa-production.webp"
+}

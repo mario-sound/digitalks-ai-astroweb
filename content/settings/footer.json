@@ -12,21 +12,21 @@
         "href": "/politica-de-cookies-ue/"
       }
     ],
-    "unlinked": "Términos y condiciones"
+    "unlinked": ""
   },
   "en": {
-    "copyright": "Copyright © 2025 DigiTalks-AI. Todos los derechos reservados",
-    "credit": "Diseñado por DigiTalks|ai",
+    "copyright": "Copyright © DigiTalks-AI. All rights reserved.",
+    "credit": "Designed by DigiTalks|ai",
     "links": [
       {
-        "label": "Política de privacidad",
-        "href": "/politica-de-privacidad/"
+        "label": "Privacy policy",
+        "href": "/en/privacy-policy/"
       },
       {
-        "label": "Política de cookies",
+        "label": "Cookie policy (Spanish)",
         "href": "/politica-de-cookies-ue/"
       }
     ],
-    "unlinked": "Términos y condiciones"
+    "unlinked": ""
   }
 }

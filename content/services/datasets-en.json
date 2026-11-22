@@ -1,0 +1,166 @@
+{
+  "id": "datasets-en",
+  "title": "Studio-recorded voice datasets. Built to your brief.",
+  "path": "/en/audio-data-collection-en/",
+  "lang": "en",
+  "seo": "datasets-en",
+  "design": true,
+  "commercial": true,
+  "sections": [
+    {
+      "type": "commercial",
+      "id": "intro",
+      "heading": "Studio-recorded voice datasets. Built to your brief.",
+      "body": "Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.",
+      "items": [],
+      "enabled": true,
+      "surface": "light",
+      "kind": "hero",
+      "eyebrow": "STUDIO VOICE DATASETS / ON DEMAND",
+      "actions": [
+        {
+          "label": "Request a voice dataset quote",
+          "href": "#contacto"
+        }
+      ],
+      "heroMetrics": [
+        {
+          "title": "01",
+          "body": "Scripts and requirements"
+        },
+        {
+          "title": "02",
+          "body": "Supervised recording"
+        },
+        {
+          "title": "03",
+          "body": "Reviewed delivery"
+        }
+      ]
+    },
+    {
+      "type": "commercial",
+      "id": "idiomas",
+      "heading": "FIGS + Catalan. Recorded on demand.",
+      "body": "French, Italian, German, Spain Spanish and Catalan. Talent profiles, availability and schedule are confirmed for each commission.",
+      "items": [
+        {
+          "title": "FR",
+          "body": "fr-FR"
+        },
+        {
+          "title": "IT",
+          "body": "it-IT"
+        },
+        {
+          "title": "DE",
+          "body": "de-DE"
+        },
+        {
+          "title": "ES",
+          "body": "es-ES"
+        },
+        {
+          "title": "CA",
+          "body": "ca-ES"
+        }
+      ],
+      "enabled": true,
+      "surface": "soft",
+      "kind": "languages"
+    },
+    {
+      "type": "commercial",
+      "id": "grabacion",
+      "heading": "Control from script to file.",
+      "body": "For ASR, TTS, speech R&D teams and data providers that need consistent recordings. Each corpus is produced for its intended use; recognition and synthesis requirements are defined separately.",
+      "items": [
+        {
+          "title": "Custom studio recording",
+          "body": "Client scripts and requirements recorded in a professional studio environment."
+        },
+        {
+          "title": "Talent sourcing",
+          "body": "Selection and coordination of native speakers to the agreed profile."
+        },
+        {
+          "title": "Recording supervision",
+          "body": "Direction and supervision for consistency across sessions."
+        },
+        {
+          "title": "Quality control",
+          "body": "Technical and consistency checks before preparing delivery."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "services"
+    },
+    {
+      "type": "commercial",
+      "id": "especificaciones",
+      "heading": "Your specification defines delivery.",
+      "body": "We agree the parameters before recording. There is no single format for every project.",
+      "items": [
+        {
+          "title": "Audio",
+          "body": "Format, sample rate, bit depth, channels and separate tracks where required."
+        },
+        {
+          "title": "Recording conditions",
+          "body": "Levels, background noise and consistency criteria."
+        },
+        {
+          "title": "Organization",
+          "body": "Naming, script identifiers, folder structure and required metadata."
+        },
+        {
+          "title": "Usage and rights",
+          "body": "Consent, voice rights and permitted uses expressly agreed for each project."
+        }
+      ],
+      "enabled": true,
+      "surface": "dark",
+      "kind": "specs"
+    },
+    {
+      "type": "commercial",
+      "id": "proceso",
+      "heading": "A new corpus. A defined process.",
+      "body": "",
+      "items": [
+        {
+          "title": "Define",
+          "body": "Intended use, scripts, speaker profiles and requirements."
+        },
+        {
+          "title": "Prepare",
+          "body": "Talent, consent and session plan."
+        },
+        {
+          "title": "Record",
+          "body": "Supervised studio production."
+        },
+        {
+          "title": "Review and deliver",
+          "body": "QC and files organized to the agreed specification."
+        }
+      ],
+      "enabled": true,
+      "surface": "light",
+      "kind": "process"
+    },
+    {
+      "type": "commercial",
+      "id": "contacto",
+      "heading": "Tell us what voice data you need.",
+      "body": "Share the languages, speaker profiles, finished hours, intended use and requirements. We will confirm feasibility and scope before quoting.",
+      "items": [],
+      "enabled": true,
+      "surface": "brand",
+      "kind": "contact",
+      "form": "datasets-en",
+      "email": "audio@digitalks-ai.com"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "datasets-en",
+  "title": "Custom Studio Voice Datasets | FIGS & Catalan | DigiTalks",
+  "description": "Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.",
+  "canonical": "/en/audio-data-collection-en/",
+  "alternates": [
+    {
+      "lang": "es",
+      "path": "/audio-data-collection/"
+    },
+    {
+      "lang": "en",
+      "path": "/en/audio-data-collection-en/"
+    },
+    {
+      "lang": "x-default",
+      "path": "/audio-data-collection/"
+    }
+  ],
+  "image": "/media/03616d41884b.webp"
+}

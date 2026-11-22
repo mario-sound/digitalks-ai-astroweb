@@ -1,42 +1,38 @@
 {
   "es": [
     {
-      "label": "Home",
+      "label": "Doblaje con IA",
       "href": "/"
     },
     {
-      "label": "Voz IA",
-      "href": "/voz-ia/"
+      "label": "Audio Post-production",
+      "href": "/audio-development/"
     },
     {
-      "label": "Audio Data Collection",
+      "label": "Voice Datasets",
       "href": "/audio-data-collection/"
     },
     {
-      "label": "Audio development",
-      "href": "/audio-development/"
+      "label": "Contacto",
+      "href": "/#contacto"
     }
   ],
   "en": [
     {
-      "label": "Home",
+      "label": "AI Dubbing",
       "href": "/en/start/"
     },
     {
-      "label": "AI Voice",
-      "href": "/en/ia-voice/"
-    },
-    {
-      "label": "Audio Data Collection",
-      "href": "/en/audio-data-collection-en/"
-    },
-    {
-      "label": "Audio Development",
+      "label": "Audio Post-production",
       "href": "/en/audio-development-en/"
     },
     {
-      "label": "Privacy Policy",
-      "href": "/en/privacy-policy/"
+      "label": "Voice Datasets",
+      "href": "/en/audio-data-collection-en/"
+    },
+    {
+      "label": "Contact",
+      "href": "/en/start/#contacto"
     }
   ]
 }

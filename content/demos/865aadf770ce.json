@@ -4,7 +4,8 @@
   "character": "old-man",
   "language": "itIT",
   "audio": "/media/865aadf770ce-Old_Man_itIT.mp3",
-  "image": "/media/4da39724c779-italy-flag.png",
+  "image": "/media/9ac147e686de.webp",
   "source": "https://digitalks-ai.com/",
-  "order": 9
+  "order": 9,
+  "flag": "/media/4da39724c779-italy-flag.png"
 }

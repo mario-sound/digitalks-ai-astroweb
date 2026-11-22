@@ -8,3 +8,5 @@ dist/
 __pycache__/
 *.pyc
 .comparison/
+# Private source presentations: never publish or commit.
+refs/*.pdf
