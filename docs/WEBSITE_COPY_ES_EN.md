@@ -8,15 +8,15 @@ Fuente editable: JSON de Pages CMS. Secciones activas en orden; las páginas leg
 
 DIGITALKS AI / DUBBING
 
-Bring your content to new markets with professional dubbing and a production model built around your project.
+Your content already has a voice. Take it further with professional dubbing, more languages and production built around your project.
 
 CTA: Request a dubbing quote → #contacto
 
 CTA: Listen to demos → #demos
 
-ORIGINAL CHARACTERS · MULTILINGUAL VOICES
+CHARACTERS · MULTILINGUAL VOICES
 
-### Two sectors. Different production needs.
+### Two worlds. Production that fits.
 
 
 
@@ -68,11 +68,11 @@ Demo: Girl child · ptBR
 
 Demo: Girl child · itIT
 
-### From script to final version.
+### From script to delivery.
 
 
 
-Commission the full production or selected stages around your materials and team. We agree the scope before production.
+The whole production or the stage you need. We agree the materials, voices and deliverables before work begins.
 
 - **Translation and adaptation**: Text, context, character and timing.
 
@@ -86,11 +86,11 @@ Commission the full production or selected stages around your materials and team
 
 - **Subtitling**: Translation and timing where the project requires it.
 
-### The right voice for each character.
+### Different characters. Different voices.
 
 
 
-We choose the production method around the content, performance and budget. Creating a voice and producing the dub are separate stages.
+Actors, AI voices or both. We choose the method around your character, content and budget. Creating the voice and producing the dub are separate stages.
 
 - **Professional actors**: Casting, direction and studio performance.
 
@@ -102,7 +102,7 @@ We choose the production method around the content, performance and budget. Crea
 
 Voice rights, consent, permitted uses and any exclusivity are agreed per project.
 
-### One coordinated production process.
+### Less back-and-forth. A clear process.
 
 
 
@@ -118,11 +118,11 @@ Voice rights, consent, permitted uses and any exclusivity are agreed per project
 
 - **Review and delivery**: Linguistic and technical review, then final assets.
 
-### Production judgement. Multilingual coordination.
+### Experience you can hear.
 
 
 
-A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.
+Audio, localization and games: we know the stages, the teams and what needs to reach delivery. Our demos let you hear the work.
 
 10+
 
@@ -130,7 +130,7 @@ years of team experience in professional audio production
 
 Game Audio,Localization,Dubbing,Multilingual Production,Post-production,Voice Recording,Technical QA
 
-### Which content would you like to take to new markets?
+### Your next language starts here.
 
 
 
@@ -160,15 +160,15 @@ Description: Multilingual dubbing production for animation and games. Human and 
 
 DIGITALKS AI / DUBBING
 
-Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.
+Tu contenido ya tiene una voz. Hagamos que llegue más lejos: doblaje profesional, más idiomas y una producción a medida.
 
 CTA: Solicitar presupuesto → #contacto
 
 CTA: Escuchar demos → #demos
 
-PERSONAJES PROPIOS · VOCES MULTILINGÜES
+PERSONAJES · VOCES MULTILINGÜES
 
-### Dos sectores. Distintas necesidades.
+### Dos mundos. Una producción que encaja.
 
 
 
@@ -220,11 +220,11 @@ Demo: Girl child · ptBR
 
 Demo: Girl child · itIT
 
-### Del guion a la versión final.
+### Del guion a la entrega.
 
 
 
-Producción completa o fases concretas, según el estado de tus materiales y tu equipo. Definimos el alcance antes de empezar.
+Todo el recorrido o sólo la fase que te falta. Acordamos materiales, voces y entregables antes de ponernos a producir.
 
 - **Traducción y adaptación**: Texto, contexto, personaje y sincronía.
 
@@ -238,11 +238,11 @@ Producción completa o fases concretas, según el estado de tus materiales y tu 
 
 - **Subtitulado**: Traducción y sincronización cuando el proyecto lo requiere.
 
-### La voz adecuada para cada personaje.
+### No todas las voces piden lo mismo.
 
 
 
-Elegimos el método de producción según el contenido, la interpretación y el presupuesto. Crear una voz y producir el doblaje son fases distintas.
+Actores, voces IA o ambas. Elegimos el método por lo que necesita tu personaje, tu contenido y tu presupuesto. Crear la voz y producir el doblaje son fases distintas.
 
 - **Actores profesionales**: Casting, dirección e interpretación en estudio.
 
@@ -254,7 +254,7 @@ Elegimos el método de producción según el contenido, la interpretación y el 
 
 Derechos de voz, consentimiento, usos y cualquier exclusividad se acuerdan por proyecto.
 
-### Un proceso, de principio a fin.
+### Menos vueltas. Un proceso claro.
 
 
 
@@ -270,11 +270,11 @@ Derechos de voz, consentimiento, usos y cualquier exclusividad se acuerdan por p
 
 - **Revisión y entrega**: Control lingüístico, técnico y archivos finales.
 
-### Criterio de producción. Coordinación multilingüe.
+### La experiencia también se escucha.
 
 
 
-Un equipo con experiencia profesional en audio, localización y videojuegos. Acordamos referencias, criterios de revisión y entregables para mantener coherencia entre idiomas y fases. Las demos muestran el resultado que puedes evaluar.
+Audio, localización y videojuegos: conocemos las fases, los equipos y lo que debe llegar a la entrega. Las demos te permiten escuchar nuestro trabajo.
 
 10+
 
@@ -282,7 +282,7 @@ años de experiencia del equipo en producción de audio profesional
 
 Game Audio,Localization,Dubbing,Multilingual Production,Post-production,Voice Recording,Technical QA
 
-### ¿Qué contenido quieres llevar a nuevos mercados?
+### Tu próximo idioma empieza aquí.
 
 
 
@@ -312,7 +312,7 @@ Description: Producción de doblaje multilingüe para animación y videojuegos. 
 
 STUDIO VOICE DATASETS / ON DEMAND
 
-Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.
+Quality starts before REC. Native talent, supervised studio sessions and an organized delivery to your brief. FIGS and Catalan, recorded on demand.
 
 - **01**: Scripts and requirements
 
@@ -352,7 +352,7 @@ For ASR, TTS, speech R&D teams and data providers that need consistent recording
 
 - **Quality control**: Technical and consistency checks before preparing delivery.
 
-### Your specification defines delivery.
+### Your specification. Our starting point.
 
 
 
@@ -412,7 +412,7 @@ Description: Custom studio-recorded voice datasets with native talent, recording
 
 STUDIO VOICE DATASETS / ON DEMAND
 
-Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.
+La calidad empieza antes de pulsar REC. Grabamos en estudio con talento nativo, supervisión y una entrega organizada según tus requisitos. FIGS y catalán, bajo demanda.
 
 - **01**: Guiones y requisitos
 
@@ -452,7 +452,7 @@ Para equipos de ASR, TTS, I+D de voz y proveedores de datos que necesitan grabac
 
 - **Control de calidad**: Revisión técnica y de consistencia antes de preparar la entrega.
 
-### Tu especificación define la entrega.
+### Tu especificación. Nuestro punto de partida.
 
 
 
@@ -512,7 +512,7 @@ Description: Datasets de voz a medida, grabados en estudio con talento nativo y 
 
 GAME AUDIO POST-PRODUCTION
 
-Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.
+Your studios keep recording. We move each batch through editing, technical processing and delivery, for original and localized game dialogue.
 
 - **EDIT**: Voice and dialogue
 
@@ -556,7 +556,7 @@ QA: Batch review
 
 Delivery: Final assets
 
-### SuiteQA. Dialogue context, connected.
+### SuiteQA. Every line in context.
 
 
 
@@ -574,7 +574,7 @@ Captura: Audio and script review · Internal QA view · Original image from the 
 
 Captura: Production reports · Report presentation example. The client dashboard is in development. · development
 
-### Support that fits your production.
+### More capacity. Your way.
 
 
 
@@ -628,7 +628,7 @@ Description: External dialogue post-production for original and localized game a
 
 GAME AUDIO POST-PRODUCTION
 
-Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.
+Tus estudios siguen grabando. Nosotros avanzamos con la edición, el procesamiento técnico y la entrega de cada lote, en versión original o localizada.
 
 - **EDIT**: Voz y diálogo
 
@@ -672,7 +672,7 @@ QA: Revisión del lote
 
 Entrega: Archivos finales
 
-### SuiteQA. El contexto del diálogo, conectado.
+### SuiteQA. Cada línea, con su contexto.
 
 
 
@@ -690,7 +690,7 @@ Captura: Revisión de audio y guion · Vista interna de QA · Captura original d
 
 Captura: Informes de producción · Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo. · development
 
-### El refuerzo que encaja con tu producción.
+### Más capacidad. A tu manera.
 
 
 

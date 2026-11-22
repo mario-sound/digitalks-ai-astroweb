@@ -25,8 +25,8 @@ export function formMarkup(form:Form){
    <div class="compact-email"><label for="${id}-email">${escape(email.label)}</label><input id="${id}-email" name="${escape(email.name)}" type="email" required autocomplete="email" inputmode="email" placeholder="${escape(email.placeholder)}" aria-describedby="${id}-error"><p id="${id}-error" class="field-error" role="status" hidden>${escape(form.emailError)}</p></div>
    ${message?`<details class="project-details"><summary>${escape(form.optionalLabel)}</summary><div><label class="screen-reader-label" for="${id}-message">${escape(message.label)}</label><textarea id="${id}-message" name="${escape(message.name)}" rows="3" maxlength="3000" placeholder="${escape(message.placeholder)}"></textarea></div></details>`:''}
    <button type="submit" disabled aria-describedby="${id}-notice">${escape(form.submit)}</button>
-   <p class="compact-privacy" id="${id}-privacy">${escape(form.privacyText)} <a href="${form.lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}">${escape(form.privacyLabel)}</a>.</p>
-   <p class="form-notice" id="${id}-notice">${escape(form.notice)}</p></form>`;
+   <details class="privacy-disclosure"><summary>${escape(form.privacySummary)}</summary><p class="compact-privacy" id="${id}-privacy">${escape(form.privacyText)} <a href="${form.lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}">${escape(form.privacyLabel)}</a>.</p></details>
+   <span class="integration-state">${escape(form.statusLabel)}</span><p class="form-notice screen-reader-label" id="${id}-notice">${escape(form.notice)}</p></form>`;
  }
 
  return `<form class="dt-form migration-form" data-unconfigured aria-describedby="${id}-notice">${form.fields.map((f,i)=>{

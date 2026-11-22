@@ -66,3 +66,7 @@ Los scripts de auditoría/importación son herramientas de una sola migración: 
 ## Reestructuración comercial B2B
 
 Rama `strategy/b2b-repositioning`: tres servicios ES/EN. Home integra Voz IA; Post y Datasets conservan las URLs anteriores. Ver `docs/WEB_REPOSITIONING_STRATEGY.md`, `docs/CMS_CONTENT_MODEL.md`, `docs/SEO_MIGRATION_PLAN.md` y `docs/QA_REPORT.md`. El archivo comercial anterior está en `content/archive`, fuera de las páginas compiladas. `refs/*.pdf` es material privado local e ignorado; nunca copiarlo a `public`.
+
+## Revisión premium
+
+La rama `design/premium-motion-conversion` conserva las tres líneas ES/EN y añade el sistema visual, formularios mínimos y galería original SuiteQA. Guía y pruebas en `docs/QA_REPORT.md`. Comparar con la versión B2B anterior: `npm run compare -- --revision=6d067cc` (4322). Para el clon inicial WordPress: `npm run compare`.

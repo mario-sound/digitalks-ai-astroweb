@@ -85,3 +85,13 @@ document.querySelectorAll<HTMLElement>('[data-screen-gallery]').forEach(gallery=
  dialog.addEventListener('click',event=>{if(event.target===dialog)dialog.close();});
  dialog.addEventListener('close',()=>{dialog.classList.remove('native-scale');if(scale){scale.setAttribute('aria-pressed','false');scale.textContent=scale.dataset.originalLabel!;}trigger?.focus();});
 });
+// Low-intensity response to the user's pointer; no scroll hijacking or touch tracking.
+const finePointer=matchMedia('(hover: hover) and (pointer: fine)');
+document.querySelectorAll<HTMLElement>('.b2b-hero-art').forEach(art=>{
+ let frame=0;
+ art.addEventListener('pointermove',event=>{
+  if(preference.matches||!finePointer.matches)return;
+  cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{const box=art.getBoundingClientRect();const x=(event.clientX-box.left)/box.width-.5;const y=(event.clientY-box.top)/box.height-.5;art.style.setProperty('--tilt-x',`${-y*4}deg`);art.style.setProperty('--tilt-y',`${x*5}deg`);art.style.setProperty('--shift-x',`${x*8}px`);art.style.setProperty('--shift-y',`${y*6}px`);});
+ });
+ art.addEventListener('pointerleave',()=>{cancelAnimationFrame(frame);for(const key of ['--tilt-x','--tilt-y','--shift-x','--shift-y'])art.style.removeProperty(key);});
+});

@@ -11,7 +11,7 @@ test('strategic rewrite preserves all original audio files and character/languag
 });
 test('six commercial pages have paired translations, real CTAs and distinct service forms',()=>{
  const commercial=pages.filter(p=>p.commercial);assert.equal(commercial.length,6);assert.equal(collection('forms').length,6);
- for(const p of commercial){const d=doc(p.path);assert.equal(d.querySelectorAll('h1').length,1);assert.ok(d.querySelector('.b2b-contact form'));assert.ok(d.querySelector('.b2b-contact a[href="mailto:audio@digitalks-ai.com"]'));assert.ok(d.querySelector('link[hreflang="'+(p.lang==='es'?'en':'es')+'"]'));assert.ok(!d.querySelector('.dt-widget-n-carousel'));}
+ for(const p of commercial){const d=doc(p.path);assert.equal(d.querySelectorAll('h1').length,1);assert.ok(d.querySelector('.b2b-contact form'));assert.ok(d.querySelector('footer a[href="mailto:audio@digitalks-ai.com"]'));assert.ok(d.querySelector('link[hreflang="'+(p.lang==='es'?'en':'es')+'"]'));assert.ok(!d.querySelector('.dt-widget-n-carousel'));}
 });
 test('every source route is active, explicitly redirected or retired without chains',()=>{
  const redirects=read('content/settings/redirects.json'),original=read('docs/original/audit.json');const active=new Set(pages.map(p=>p.path));

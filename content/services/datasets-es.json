@@ -11,7 +11,7 @@
       "type": "commercial",
       "id": "intro",
       "heading": "Datasets de voz grabados en estudio. A medida de tu proyecto.",
-      "body": "Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.",
+      "body": "La calidad empieza antes de pulsar REC. Grabamos en estudio con talento nativo, supervisión y una entrega organizada según tus requisitos. FIGS y catalán, bajo demanda.",
       "items": [],
       "enabled": true,
       "surface": "light",
@@ -101,7 +101,7 @@
     {
       "type": "commercial",
       "id": "especificaciones",
-      "heading": "Tu especificación define la entrega.",
+      "heading": "Tu especificación. Nuestro punto de partida.",
       "body": "Acordamos los parámetros antes de grabar. No hay un único formato válido para todos los proyectos.",
       "items": [
         {
@@ -125,7 +125,7 @@
       "surface": "dark",
       "kind": "specs",
       "caption": "ESPECIFICACIÓN ACORDADA / CONTROL DE PRODUCCIÓN",
-      "headingAccent": "la entrega."
+      "headingAccent": "Nuestro punto de partida."
     },
     {
       "type": "commercial",

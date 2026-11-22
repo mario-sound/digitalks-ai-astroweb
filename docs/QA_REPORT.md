@@ -1,60 +1,60 @@
-# QA — Reposicionamiento B2B DigiTalks
+# QA — DigiTalks premium, conversión y SuiteQA
 
-Validación local final: noche del 22 al 23 de noviembre de 2026. Rama `strategy/b2b-repositioning`. No se ha publicado ni enviado ningún formulario real.
+Validación final local: 23/11/2026. Rama `design/premium-motion-conversion`, derivada de `strategy/b2b-repositioning` en `6d067cc`. No se ha publicado ni enviado ningún formulario real.
 
-## Compilación y contratos
+## Línea base y resultado
 
-`npm run verify`: Astro check sin errores, warnings ni hints; build estático correcto; **19/19 pruebas** aprobadas. Contratos cubiertos:
+Antes de modificar: `npm run verify`, 19/19 pruebas, captura nueva de las seis páginas en tres tamaños (`premium/before/`). Resultado final: **Astro check sin errores/warnings/hints, build estático correcto y 29/29 pruebas aprobadas**. Log: `premium/validation.log`.
 
-- Rutas activas, un H1, metadatos, idioma y traducciones.
-- Todos los enlaces internos y anclas; recursos locales HTML, CSS, scripts e imágenes.
-- Las 16 demos originales: archivos con SHA-256 conservado, IDs, personajes, idiomas y fuentes. Ambas homes contienen las 16.
-- Formularios accesibles con etiquetas y envío desactivado mientras Sender esté sin configurar.
-- Menú móvil y Escape; reproducción exclusiva y error de audio; consentimiento persistente; prevención de envío nativo.
-- Colecciones CMS y controles comerciales, selección de demos/formulario, configuración operativa y contenido legal conservados.
-- Mapa explícito de rutas antiguas, destinos existentes y ausencia de cadenas.
-- Ausencia de PDF privados, precios y ofertas excluidas en el HTML comercial.
-- Sitemap, robots de preview y barreras del despliegue FTPS sin credenciales/autorización.
+Se conservan las 19 pruebas anteriores, actualizando únicamente la ubicación del email de conversión desde el cierre del formulario al footer por petición explícita del usuario. Se añade cobertura para formulario mínimo, navegación sin Contacto, estructura y copy autorizado, banner/atribución/pausa, fallback sin JS, reduced motion, controles de audio, capturas, medio CMS dedicado y barrera de aprobación. Los cambios de tono están registrados en `premium/editorial-revisions.json`; las rutas, H1, secciones, IDs y archivos de audio siguen protegidos.
 
-Las pruebas del checkpoint visual exigían copy idéntico y todas las páginas antiguas activas. Se sustituyeron por contratos del nuevo encargo, que autoriza reescritura y consolidación. También se retiraron las dos pruebas de FAQ/vídeo de las antiguas páginas comerciales, que ya no ofrecen esos controles; permanecen los contratos de audio, formularios, consentimiento, seguridad y navegación.
+## Contratos comprobados
+
+- Seis páginas comerciales ES/EN, tres legales conservadas, un H1, metadatos, canonical/hreflang, anclas, enlaces, scripts, imágenes y CSS locales.
+- Las 16 demos conservan SHA-256, IDs, idiomas, personajes y fuentes; están accesibles en ambas homes. El HTML conserva controles nativos de fallback, sin autoplay.
+- Sólo email obligatorio; descripción opcional, privacidad plegada y sin casilla genérica/marketing automático. Sender sin IDs y envío bloqueado.
+- Menú móvil/Escape, consentimiento persistente, prevención de envío y exclusión entre audios.
+- Diez logos originales del bloque de experiencia, con atribución a roles previos del equipo y alternativa estática.
+- Galería SuiteQA en Post ES/EN, capturas con dimensiones originales, estado de desarrollo visible y build fuera de preview bloqueado mientras falte aprobación.
+- CMS: campos, referencias y medios locales; legales/configuración general conservados.
+- Sitemap/robots de preview, redirecciones existentes y protección FTPS.
 
 ## Navegador real
 
-Capturas de las seis páginas comerciales en escritorio **1440×1000**, tableta **834×1112** y móvil **390×844**: 18 vistas. Sin desbordamiento horizontal de documento, un H1 por página, márgenes móviles de al menos 20 px y sin imágenes observadas rotas. Captura SuiteQA cargada (1915 px originales) en las seis vistas ES/EN de post. Archivos: `docs/strategy/screenshots/` y `browser-results.json`.
+18 vistas finales: escritorio 1440×1000, tableta 834×1112 y móvil 390×844. Sin overflow horizontal de documento, un H1, email como único campo obligatorio y privacidad inicialmente plegada. Evidencias en `premium/after/`, `premium/browser-results.json`, hojas de revisión y comparaciones. Se visitaron las imágenes de carga diferida antes de las capturas finales de la home para incluir todos los personajes y logos.
 
-Revisión visual de composiciones completas mediante `review-desktop.jpg` y `review-mobile.jpg`. Comparaciones con el clon original: `comparison-home.jpg`, `comparison-post.jpg`, `comparison-datasets.jpg`. Los screenshots originales del checkpoint están en `docs/design/before/`.
+Acciones observadas:
 
-Acciones comprobadas realmente:
+- Barbarian y Ogre reproducen con readyState=4. Al iniciar Ogre, Barbarian queda pausado; se pausó audio al acabar.
+- El formulario marca email inválido y muestra error; al corregirlo, elimina aria-invalid y oculta el error. Descripción abre y el foco por teclado llega al textarea. Sin envíos.
+- Menú móvil muestra tres servicios, abre y cierra con Escape. EN → Español mantiene la página equivalente Post.
+- Banner pausa mediante control, aria-pressed=true y animation-play-state=paused. La cifra 10+ mantiene atribución al equipo.
+- Respuesta al cursor del hero observada con variables de inclinación/desplazamiento distintas de cero; limitada a puntero fino y desactivada con reduced motion.
+- SuiteQA abre la imagen real en diálogo, Escape cierra y devuelve foco al enlace. En móvil, «Original size» conserva 1915 px y permite scroll dentro de un área visible de 344 px. Captura en `suiteqa/lightbox-mobile.jpg`.
+- No se observaron errores/warnings en consola en las sesiones de prueba consultadas.
 
-- CTA «Escuchar demos» llega a la galería.
-- Barbarian y Ogre reproducen con `readyState=4`; al iniciar Ogre, Barbarian queda pausado. Se pausó el audio al terminar.
-- Menú móvil abre, Escape cierra y devuelve el foco al botón.
-- Selector ES → English mantiene la página equivalente de postproducción.
-- Email inválido activa `validity.typeMismatch`; nombre, empresa y privacidad obligatorios vacíos quedan inválidos. Botón desactivado y ningún script externo cargado con consentimiento necesario. Sin enviar datos.
-- Página temporal creada mediante JSON se detectó sin reiniciar Vite. Campos opcionales omitidos/vacíos no rompen el render. Se corrigió un «0» residual de arrays vacíos; fixture retirada y compilación final repetida. Evidencia: `cms-local-check.json`.
-- Las seis rutas de consolidación devuelven **301** y Location esperado en el servidor local. Evidencia: `redirect-http-local.json`.
+## Extracción y privacidad de SuiteQA
+
+10 imágenes incrustadas, 10 hashes distintos, 0 duplicados idénticos. Extracción directa ZIP, sin capturas de diapositivas. Originales fuera de public/Git. Dos WebP lossless de QA/informe para preview: 1915×912 y 966×761; buffers RGBA idénticos a los PNG extraídos. Administración, REC y dashboard permanecen privados por datos visibles o procedencia pendiente. Ver [revisión](suiteqa/EXTRACTION_AND_REVIEW.md).
 
 ## Accesibilidad y rendimiento
 
-Se comprobó estructura, etiquetas, controles nativos, foco visible, menú con teclado, separación de acciones y responsive. Se ajustó el naranja de pequeñas etiquetas sobre blanco para mejorar contraste. No se declara una certificación WCAG ni una auditoría completa de lector de pantalla.
+HTML estático, contenido visible antes de scripts, etiquetas, foco visible, controls nativos, diálogo nativo, pausar movimiento y media query reduced motion. La rama reducida se ejecuta en prueba unitaria; CSS verifica eliminación de animación/scroll suave. No se cambió la preferencia del SO ni se afirma haber emulado esa preferencia en navegador. No se declara certificación WCAG completa.
 
-Sitio estático, sin nuevas dependencias ni suscripciones; tipografías y medios locales, imágenes WebP, reproductores nativos sin autoplay, sin carrusel y sin JavaScript adicional para las nuevas composiciones. No se han medido Core Web Vitals de campo ni ejecutado Lighthouse; no se atribuyen puntuaciones inventadas. El rendimiento de producción debe comprobarse en Hostinger tras lanzamiento autorizado.
+Sin dependencias ni suscripciones nuevas. Lighthouse no está instalado; no se inventan puntuaciones ni Core Web Vitals. El parallax continuo de scroll no se usa. Las entradas usan transform/opacity y el seguimiento del puntero se limita a requestAnimationFrame. Las imágenes nuevas mantienen dimensiones intrínsecas y se optimizan sin pérdida.
 
-## Pendientes externos y condiciones de lanzamiento
+## Pendientes externos
 
-1. **Sender:** faltan cuenta/formularios públicos reales. Configurar los seis formularios en Sender con campos, consentimiento, protección antispam y mensajes reales; vincular IDs y validar la carga bajo consentimiento. Hacer una prueba autorizada y comprobar recepción. No hay éxito simulado ni endpoints inventados.
-2. **Pages CMS/GitHub:** configuración YAML y contratos locales verificados; falta comprobar el editor conectado y el flujo real de guardado/publicación. No se ha iniciado sesión ni conectado una cuenta.
-3. **Hostinger:** verificar `.htaccess`, HTTPS, redirecciones 301 y retirada OTS 410 en staging. El dev server sólo valida 301 por middleware; OTS informativo se sirve localmente con 200. El fallback HTML estático de Astro no equivale a un 301 HTTP.
-4. **Medios/afirmaciones:** aprobar difusión de la captura SuiteQA y de sus textos de ejemplo antes de producción; sustituir por fuente original autorizada si se facilita. No se añadieron demos privadas de animación, logos o créditos sin permiso. Dashboard y capacidad semanal no se ofertan.
-5. **SEO/legal:** revisar Search Console y rutas históricas adicionales; aprobación de textos legales y tratamientos por responsables. `preview` mantiene noindex y robots bloqueado hasta lanzamiento.
+1. Sender: cuenta/IDs reales, diseño y campos del embed, finalidad separada de marketing, protección antispam, estados reales de carga/error/éxito, doble envío, prueba autorizada y comprobación de recepción. Nada de esto se simula como operativo.
+2. Pages CMS/GitHub: esquema validado localmente, conexión y guardado real sin verificar.
+3. Hostinger: HTTPS y reglas HTTP 301/410 pendientes de staging. El fallback HTML de Astro no demuestra un 301 en hosting. Las seis redirecciones locales ya verificadas en la fase anterior se conservan; no se encontró página antigua de contacto en el inventario para retirar.
+4. Capturas: aprobación de difusión y procedencia de los textos/estadísticas antes de producción; el build de publicación está bloqueado por esos estados pendientes.
+5. SEO/legal: revisión de Search Console y backlinks históricos no accesibles, tratamiento de datos por responsables. Modo preview sigue bloqueando indexación.
 
-La vista de trabajo puede abrirse en el servidor local existente, http://127.0.0.1:4321/. Para arrancarla en otra sesión: `npm run dev`. No se ha detenido el servidor previo del usuario.
+## Revisar y comparar
 
-## Documentación entregada
+Servidor existente del usuario: http://127.0.0.1:4321/. Para iniciarlo en otra sesión: `npm run dev`. No se ha detenido el servidor previo.
 
-- [Estrategia](WEB_REPOSITIONING_STRATEGY.md)
-- [Copy completo ES/EN](WEBSITE_COPY_ES_EN.md)
-- [Modelo CMS](CMS_CONTENT_MODEL.md)
-- [Migración SEO](SEO_MIGRATION_PLAN.md)
-- [Sistema visual](DESIGN_SYSTEM_DIGITALKS.md)
-- [Fuentes y afirmaciones](SOURCE_CLAIMS_AUDIT.md)
+Comparación con el B2B anterior: `npm run compare -- --revision=6d067cc` en 4322; snapshot preparado y compilado. No cambia la rama. Comparaciones de imágenes: `premium/comparison-home.jpg`, `comparison-post.jpg`, `comparison-datasets.jpg`.
+
+Documentación: [informe visual](VISUAL_REDESIGN_REPORT.md), [motion](MOTION_DESIGN_SYSTEM.md), [conversión](CONVERSION_OPTIMIZATION.md), [Sender](FORM_INTEGRATION_STATUS.md), [CMS](CMS_CONTENT_MODEL.md), [SEO](SEO_MIGRATION_PLAN.md), [copy](WEBSITE_COPY_ES_EN.md), [fuentes](SOURCE_CLAIMS_AUDIT.md).

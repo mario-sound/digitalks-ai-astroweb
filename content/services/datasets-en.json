@@ -11,7 +11,7 @@
       "type": "commercial",
       "id": "intro",
       "heading": "Studio-recorded voice datasets. Built to your brief.",
-      "body": "Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.",
+      "body": "Quality starts before REC. Native talent, supervised studio sessions and an organized delivery to your brief. FIGS and Catalan, recorded on demand.",
       "items": [],
       "enabled": true,
       "surface": "light",
@@ -101,7 +101,7 @@
     {
       "type": "commercial",
       "id": "especificaciones",
-      "heading": "Your specification defines delivery.",
+      "heading": "Your specification. Our starting point.",
       "body": "We agree the parameters before recording. There is no single format for every project.",
       "items": [
         {
@@ -125,7 +125,7 @@
       "surface": "dark",
       "kind": "specs",
       "caption": "AGREED SPECIFICATION / PRODUCTION CONTROL",
-      "headingAccent": "defines delivery."
+      "headingAccent": "Our starting point."
     },
     {
       "type": "commercial",

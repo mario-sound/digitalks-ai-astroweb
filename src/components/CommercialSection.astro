@@ -28,10 +28,10 @@ const form=forms.find(f=>f.id===s.form);
   {s.kind==='suiteqa'&&!!s.screenshots?.length&&<ScreenshotGallery section={s}/>}
   {s.kind==='suiteqa'&&!s.screenshots?.length&&s.image&&<figure class="suiteqa-figure" data-reveal><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
   {s.kind==='demos'&&<div class="b2b-demos">
-   <h3 class="demo-category">{s.characterLabel}</h3><div class="character-grid">{singles.map(d=><article><img src={d.image} alt={d.title} width="260" height="260" loading="lazy"/><div class="demo-card-copy"><h4>{d.title}</h4><p>{d.language}</p><AudioPlayer demo={d} lang={lang}/></div></article>)}</div>
-   <h3 class="demo-category">{s.multilingualLabel}</h3><div class="multilingual-grid">{groups.map(group=><article class="multilingual-character"><img src={group[0].image} alt={group[0].title} width="300" height="300" loading="lazy"/><div><h4>{group[0].title}</h4>{group.map(d=><div class="language-demo"><span lang={d.language.slice(0,2)}>{d.language}</span><AudioPlayer demo={d} lang={lang}/></div>)}</div></article>)}</div>
+   <h3 class="demo-category">{s.characterLabel}</h3><div class="character-grid">{singles.map(d=><article><img src={d.image} alt={d.title} width="260" height="260" loading="lazy"/><div class="demo-card-copy"><div class="demo-card-meta"><h4>{d.title}</h4><p class="language-tag"><small>{d.language.slice(0,2).toLowerCase()}</small><strong>{d.language.slice(2).toUpperCase()}</strong></p></div><AudioPlayer demo={d} lang={lang}/></div></article>)}</div>
+   <h3 class="demo-category">{s.multilingualLabel}</h3><div class="multilingual-grid">{groups.map(group=><article class="multilingual-character"><img src={group[0].image} alt={group[0].title} width="300" height="300" loading="lazy"/><div><h4>{group[0].title}</h4>{group.map(d=><div class="language-demo"><span class="language-tag" lang={d.language.slice(0,2)}><small>{d.language.slice(0,2).toLowerCase()}</small><strong>{d.language.slice(2).toUpperCase()}</strong></span><AudioPlayer demo={d} lang={lang}/></div>)}</div></article>)}</div>
   </div>}
-  {s.kind==='contact'&&<div class="b2b-contact-form">{form&&<ContactForm form={form}/>}<p class="contact-direct"><a href={`mailto:${s.email}`}>{s.email}</a> · <a href={lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}>{lang==='es'?'Privacidad':'Privacy'}</a></p></div>}
+  {s.kind==='contact'&&<div class="b2b-contact-form">{form&&<ContactForm form={form}/>}</div>}
   {s.note&&<p class="b2b-note">{s.note}</p>}
  </div>
 </section>}

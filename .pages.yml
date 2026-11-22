@@ -193,6 +193,21 @@ content:
               - name: specialties
                 type: string
                 list: true
+              - name: logos
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: src
+                    type: image
+                    options:
+                      media: assets
+                  - name: alt
+                    type: string
+              - name: logoAttribution
+                type: string
               - name: pauseLabel
                 type: string
               - name: resumeLabel
@@ -544,6 +559,10 @@ content:
       - name: privacyText
         type: text
       - name: privacyLabel
+        type: string
+      - name: privacySummary
+        type: string
+      - name: statusLabel
         type: string
       - name: emailError
         type: string

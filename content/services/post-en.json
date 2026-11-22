@@ -11,7 +11,7 @@
       "type": "commercial",
       "id": "intro",
       "heading": "Game audio post-production. Extra capacity when you need it.",
-      "body": "Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.",
+      "body": "Your studios keep recording. We move each batch through editing, technical processing and delivery, for original and localized game dialogue.",
       "items": [],
       "enabled": true,
       "surface": "dark",
@@ -108,7 +108,7 @@
     {
       "type": "commercial",
       "id": "suiteqa",
-      "heading": "SuiteQA. Dialogue context, connected.",
+      "heading": "SuiteQA. Every line in context.",
       "body": "Our internal system connects script lines, recording IDs, audio references and QA decisions. It helps the team organize issues and follow production progress.",
       "items": [
         {
@@ -156,12 +156,12 @@
       "developmentLabel": "In development",
       "originalSizeLabel": "Original size",
       "fitLabel": "Fit to screen",
-      "headingAccent": "Dialogue context, connected."
+      "headingAccent": "Every line in context."
     },
     {
       "type": "commercial",
       "id": "colaboracion",
-      "heading": "Support that fits your production.",
+      "heading": "More capacity. Your way.",
       "body": "",
       "items": [
         {
@@ -179,7 +179,7 @@
       ],
       "enabled": true,
       "surface": "light",
-      "headingAccent": "your production."
+      "headingAccent": "Your way."
     },
     {
       "type": "commercial",

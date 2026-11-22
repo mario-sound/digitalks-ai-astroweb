@@ -1,0 +1,257 @@
+{
+  "authorization": "User requested copy closer to the original tone while retaining the current structure, 2026-11-23.",
+  "revisions": [
+    {
+      "path": "/en/start/",
+      "section": "intro",
+      "field": "body",
+      "before": "Bring your content to new markets with professional dubbing and a production model built around your project.",
+      "after": "Your content already has a voice. Take it further with professional dubbing, more languages and production built around your project."
+    },
+    {
+      "path": "/en/start/",
+      "section": "sectores",
+      "field": "heading",
+      "before": "Two sectors. Different production needs.",
+      "after": "Two worlds. Production that fits."
+    },
+    {
+      "path": "/en/start/",
+      "section": "produccion",
+      "field": "heading",
+      "before": "From script to final version.",
+      "after": "From script to delivery."
+    },
+    {
+      "path": "/en/start/",
+      "section": "produccion",
+      "field": "body",
+      "before": "Commission the full production or selected stages around your materials and team. We agree the scope before production.",
+      "after": "The whole production or the stage you need. We agree the materials, voices and deliverables before work begins."
+    },
+    {
+      "path": "/en/start/",
+      "section": "voces",
+      "field": "heading",
+      "before": "The right voice for each character.",
+      "after": "Different characters. Different voices."
+    },
+    {
+      "path": "/en/start/",
+      "section": "voces",
+      "field": "body",
+      "before": "We choose the production method around the content, performance and budget. Creating a voice and producing the dub are separate stages.",
+      "after": "Actors, AI voices or both. We choose the method around your character, content and budget. Creating the voice and producing the dub are separate stages."
+    },
+    {
+      "path": "/en/start/",
+      "section": "proceso",
+      "field": "heading",
+      "before": "One coordinated production process.",
+      "after": "Less back-and-forth. A clear process."
+    },
+    {
+      "path": "/en/start/",
+      "section": "equipo",
+      "field": "heading",
+      "before": "Production judgement. Multilingual coordination.",
+      "after": "Experience you can hear."
+    },
+    {
+      "path": "/en/start/",
+      "section": "equipo",
+      "field": "body",
+      "before": "A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.",
+      "after": "Audio, localization and games: we know the stages, the teams and what needs to reach delivery. Our demos let you hear the work."
+    },
+    {
+      "path": "/en/start/",
+      "section": "contacto",
+      "field": "heading",
+      "before": "Which content would you like to take to new markets?",
+      "after": "Your next language starts here."
+    },
+    {
+      "path": "/en/start/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Tell us about the content, languages and approximate volume. We will review the materials and scope with you.",
+      "after": "Leave your email. Add a few lines about your project if you like, and we can take it from there."
+    },
+    {
+      "path": "/",
+      "section": "intro",
+      "field": "body",
+      "before": "Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.",
+      "after": "Tu contenido ya tiene una voz. Hagamos que llegue más lejos: doblaje profesional, más idiomas y una producción a medida."
+    },
+    {
+      "path": "/",
+      "section": "sectores",
+      "field": "heading",
+      "before": "Dos sectores. Distintas necesidades.",
+      "after": "Dos mundos. Una producción que encaja."
+    },
+    {
+      "path": "/",
+      "section": "produccion",
+      "field": "heading",
+      "before": "Del guion a la versión final.",
+      "after": "Del guion a la entrega."
+    },
+    {
+      "path": "/",
+      "section": "produccion",
+      "field": "body",
+      "before": "Producción completa o fases concretas, según el estado de tus materiales y tu equipo. Definimos el alcance antes de empezar.",
+      "after": "Todo el recorrido o sólo la fase que te falta. Acordamos materiales, voces y entregables antes de ponernos a producir."
+    },
+    {
+      "path": "/",
+      "section": "voces",
+      "field": "heading",
+      "before": "La voz adecuada para cada personaje.",
+      "after": "No todas las voces piden lo mismo."
+    },
+    {
+      "path": "/",
+      "section": "voces",
+      "field": "body",
+      "before": "Elegimos el método de producción según el contenido, la interpretación y el presupuesto. Crear una voz y producir el doblaje son fases distintas.",
+      "after": "Actores, voces IA o ambas. Elegimos el método por lo que necesita tu personaje, tu contenido y tu presupuesto. Crear la voz y producir el doblaje son fases distintas."
+    },
+    {
+      "path": "/",
+      "section": "proceso",
+      "field": "heading",
+      "before": "Un proceso, de principio a fin.",
+      "after": "Menos vueltas. Un proceso claro."
+    },
+    {
+      "path": "/",
+      "section": "equipo",
+      "field": "heading",
+      "before": "Criterio de producción. Coordinación multilingüe.",
+      "after": "La experiencia también se escucha."
+    },
+    {
+      "path": "/",
+      "section": "equipo",
+      "field": "body",
+      "before": "Un equipo con experiencia profesional en audio, localización y videojuegos. Acordamos referencias, criterios de revisión y entregables para mantener coherencia entre idiomas y fases. Las demos muestran el resultado que puedes evaluar.",
+      "after": "Audio, localización y videojuegos: conocemos las fases, los equipos y lo que debe llegar a la entrega. Las demos te permiten escuchar nuestro trabajo."
+    },
+    {
+      "path": "/",
+      "section": "contacto",
+      "field": "heading",
+      "before": "¿Qué contenido quieres llevar a nuevos mercados?",
+      "after": "Tu próximo idioma empieza aquí."
+    },
+    {
+      "path": "/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Cuéntanos el tipo de contenido, los idiomas y el volumen aproximado. Revisaremos los materiales y el alcance contigo.",
+      "after": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación."
+    },
+    {
+      "path": "/en/audio-data-collection-en/",
+      "section": "intro",
+      "field": "body",
+      "before": "Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.",
+      "after": "Quality starts before REC. Native talent, supervised studio sessions and an organized delivery to your brief. FIGS and Catalan, recorded on demand."
+    },
+    {
+      "path": "/en/audio-data-collection-en/",
+      "section": "especificaciones",
+      "field": "heading",
+      "before": "Your specification defines delivery.",
+      "after": "Your specification. Our starting point."
+    },
+    {
+      "path": "/en/audio-data-collection-en/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Share the languages, speaker profiles, finished hours, intended use and requirements. We will confirm feasibility and scope before quoting.",
+      "after": "Leave your email. Add a few lines about your project if you like, and we can take it from there."
+    },
+    {
+      "path": "/audio-data-collection/",
+      "section": "intro",
+      "field": "body",
+      "before": "Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.",
+      "after": "La calidad empieza antes de pulsar REC. Grabamos en estudio con talento nativo, supervisión y una entrega organizada según tus requisitos. FIGS y catalán, bajo demanda."
+    },
+    {
+      "path": "/audio-data-collection/",
+      "section": "especificaciones",
+      "field": "heading",
+      "before": "Tu especificación define la entrega.",
+      "after": "Tu especificación. Nuestro punto de partida."
+    },
+    {
+      "path": "/audio-data-collection/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Comparte idiomas, perfiles, horas finales, uso previsto y requisitos. Confirmaremos viabilidad y alcance antes de presupuestar.",
+      "after": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación."
+    },
+    {
+      "path": "/en/audio-development-en/",
+      "section": "intro",
+      "field": "body",
+      "before": "Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.",
+      "after": "Your studios keep recording. We move each batch through editing, technical processing and delivery, for original and localized game dialogue."
+    },
+    {
+      "path": "/en/audio-development-en/",
+      "section": "suiteqa",
+      "field": "heading",
+      "before": "SuiteQA. Dialogue context, connected.",
+      "after": "SuiteQA. Every line in context."
+    },
+    {
+      "path": "/en/audio-development-en/",
+      "section": "colaboracion",
+      "field": "heading",
+      "before": "Support that fits your production.",
+      "after": "More capacity. Your way."
+    },
+    {
+      "path": "/en/audio-development-en/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Send the file count, languages, specifications and target date. We will review the scope and capacity required.",
+      "after": "Leave your email. Add a few lines about your project if you like, and we can take it from there."
+    },
+    {
+      "path": "/audio-development/",
+      "section": "intro",
+      "field": "body",
+      "before": "Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.",
+      "after": "Tus estudios siguen grabando. Nosotros avanzamos con la edición, el procesamiento técnico y la entrega de cada lote, en versión original o localizada."
+    },
+    {
+      "path": "/audio-development/",
+      "section": "suiteqa",
+      "field": "heading",
+      "before": "SuiteQA. El contexto del diálogo, conectado.",
+      "after": "SuiteQA. Cada línea, con su contexto."
+    },
+    {
+      "path": "/audio-development/",
+      "section": "colaboracion",
+      "field": "heading",
+      "before": "El refuerzo que encaja con tu producción.",
+      "after": "Más capacidad. A tu manera."
+    },
+    {
+      "path": "/audio-development/",
+      "section": "contacto",
+      "field": "body",
+      "before": "Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.",
+      "after": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación."
+    }
+  ]
+}

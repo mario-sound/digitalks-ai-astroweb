@@ -1,0 +1,272 @@
+[
+  {
+    "name": "home",
+    "route": "/",
+    "size": "desktop",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "home",
+    "route": "/",
+    "size": "tablet",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "home",
+    "route": "/",
+    "size": "mobile",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "name": "home-en",
+    "route": "/en/start/",
+    "size": "desktop",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "home-en",
+    "route": "/en/start/",
+    "size": "tablet",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "home-en",
+    "route": "/en/start/",
+    "size": "mobile",
+    "audio": 16,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "name": "post",
+    "route": "/audio-development/",
+    "size": "desktop",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "post",
+    "route": "/audio-development/",
+    "size": "tablet",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "post",
+    "route": "/audio-development/",
+    "size": "mobile",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "name": "post-en",
+    "route": "/en/audio-development-en/",
+    "size": "desktop",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "post-en",
+    "route": "/en/audio-development-en/",
+    "size": "tablet",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "post-en",
+    "route": "/en/audio-development-en/",
+    "size": "mobile",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 2,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "name": "datasets",
+    "route": "/audio-data-collection/",
+    "size": "desktop",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "datasets",
+    "route": "/audio-data-collection/",
+    "size": "tablet",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "datasets",
+    "route": "/audio-data-collection/",
+    "size": "mobile",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 390,
+    "viewport": 390
+  },
+  {
+    "name": "datasets-en",
+    "route": "/en/audio-data-collection-en/",
+    "size": "desktop",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 1440,
+    "viewport": 1440
+  },
+  {
+    "name": "datasets-en",
+    "route": "/en/audio-data-collection-en/",
+    "size": "tablet",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 834,
+    "viewport": 834
+  },
+  {
+    "name": "datasets-en",
+    "route": "/en/audio-data-collection-en/",
+    "size": "mobile",
+    "audio": 0,
+    "broken": [],
+    "h1": 1,
+    "privacyCollapsed": true,
+    "required": [
+      "email"
+    ],
+    "screens": 0,
+    "scrollWidth": 390,
+    "viewport": 390
+  }
+]

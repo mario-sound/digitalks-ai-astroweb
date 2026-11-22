@@ -9,7 +9,7 @@
       "label": "Work email",
       "type": "email",
       "required": true,
-      "placeholder": "nombre@empresa.com",
+      "placeholder": "name@company.com",
       "width": "full",
       "showLabel": true,
       "options": []
@@ -33,5 +33,7 @@
   "optionalLabel": "Tell us more about your project (optional)",
   "privacyText": "La Cabra Sonora S.L.U. will process your details to respond to this enquiry. Basis: pre-contractual steps for service requests or legitimate interest for other communications. See recipients, retention and your rights in our",
   "privacyLabel": "privacy policy",
-  "emailError": "Enter a valid email so we can reply."
+  "emailError": "Enter a valid email so we can reply.",
+  "privacySummary": "Privacy information",
+  "statusLabel": "Website submission unavailable"
 }

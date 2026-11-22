@@ -11,7 +11,7 @@
       "type": "commercial",
       "id": "intro",
       "heading": "Multilingual AI dubbing for animation and games.",
-      "body": "Bring your content to new markets with professional dubbing and a production model built around your project.",
+      "body": "Your content already has a voice. Take it further with professional dubbing, more languages and production built around your project.",
       "items": [],
       "enabled": true,
       "surface": "dark",
@@ -39,12 +39,12 @@
           "alt": "DigiTalks pirate character"
         }
       ],
-      "caption": "ORIGINAL CHARACTERS · MULTILINGUAL VOICES"
+      "caption": "CHARACTERS · MULTILINGUAL VOICES"
     },
     {
       "type": "commercial",
       "id": "sectores",
-      "heading": "Two sectors. Different production needs.",
+      "heading": "Two worlds. Production that fits.",
       "body": "",
       "items": [
         {
@@ -59,7 +59,7 @@
       "enabled": true,
       "surface": "light",
       "kind": "sectors",
-      "headingAccent": "Different production needs."
+      "headingAccent": "Production that fits."
     },
     {
       "type": "commercial",
@@ -95,8 +95,8 @@
     {
       "type": "commercial",
       "id": "produccion",
-      "heading": "From script to final version.",
-      "body": "Commission the full production or selected stages around your materials and team. We agree the scope before production.",
+      "heading": "From script to delivery.",
+      "body": "The whole production or the stage you need. We agree the materials, voices and deliverables before work begins.",
       "items": [
         {
           "title": "Translation and adaptation",
@@ -126,13 +126,13 @@
       "enabled": true,
       "surface": "light",
       "kind": "services",
-      "headingAccent": "final version."
+      "headingAccent": "to delivery."
     },
     {
       "type": "commercial",
       "id": "voces",
-      "heading": "The right voice for each character.",
-      "body": "We choose the production method around the content, performance and budget. Creating a voice and producing the dub are separate stages.",
+      "heading": "Different characters. Different voices.",
+      "body": "Actors, AI voices or both. We choose the method around your character, content and budget. Creating the voice and producing the dub are separate stages.",
       "items": [
         {
           "title": "Professional actors",
@@ -154,12 +154,12 @@
       "enabled": true,
       "surface": "dark",
       "note": "Voice rights, consent, permitted uses and any exclusivity are agreed per project.",
-      "headingAccent": "each character."
+      "headingAccent": "Different voices."
     },
     {
       "type": "commercial",
       "id": "proceso",
-      "heading": "One coordinated production process.",
+      "heading": "Less back-and-forth. A clear process.",
       "body": "",
       "items": [
         {
@@ -186,13 +186,13 @@
       "enabled": true,
       "surface": "light",
       "kind": "process",
-      "headingAccent": "production process."
+      "headingAccent": "A clear process."
     },
     {
       "type": "commercial",
       "id": "equipo",
-      "heading": "Production judgement. Multilingual coordination.",
-      "body": "A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.",
+      "heading": "Experience you can hear.",
+      "body": "Audio, localization and games: we know the stages, the teams and what needs to reach delivery. Our demos let you hear the work.",
       "items": [],
       "enabled": true,
       "surface": "dark",
@@ -209,12 +209,55 @@
         "Technical QA"
       ],
       "pauseLabel": "Pause motion",
-      "resumeLabel": "Resume motion"
+      "resumeLabel": "Resume motion",
+      "logos": [
+        {
+          "src": "/media/aadbadc7c362-bethesda-300x143_white.png",
+          "alt": "Bethesda Game Studios"
+        },
+        {
+          "src": "/media/e03dd0f01ba6-warner-150x150.png",
+          "alt": "Warner Bros. Games"
+        },
+        {
+          "src": "/media/2107e4c33ca2-blizzard-300x158_white.png",
+          "alt": "Blizzard Entertainment"
+        },
+        {
+          "src": "/media/4a98b6b715a2-amazon-games_white.png",
+          "alt": "Amazon Games"
+        },
+        {
+          "src": "/media/7e19c8424f51-activision-300x75_white.png",
+          "alt": "Activision"
+        },
+        {
+          "src": "/media/7c86bad42123-ea-150x150_white.png",
+          "alt": "Electronic Arts"
+        },
+        {
+          "src": "/media/d70eb38c9c1c-Microsoft_white-300x110.png",
+          "alt": "Microsoft"
+        },
+        {
+          "src": "/media/ddd5fc6b3cca-Lionbridge-KG-removebg-preview-300x56.png",
+          "alt": "Lionbridge"
+        },
+        {
+          "src": "/media/f678be52c57b-ubisoft-logo_white-removebg-preview-150x150.png",
+          "alt": "Ubisoft"
+        },
+        {
+          "src": "/media/527093b531a6-Keywords-300x130.png",
+          "alt": "Keywords Studios"
+        }
+      ],
+      "logoAttribution": "References from team members’ previous professional roles."
     },
     {
       "type": "commercial",
       "id": "contacto",
-      "heading": "Which content would you like to take to new markets?",
+      "heading": "Your next language starts here.",
       "body": "Leave your email. Add a few lines about your project if you like, and we can take it from there.",
       "items": [],
       "enabled": true,
@@ -222,7 +265,7 @@
       "kind": "contact",
       "form": "dubbing-en",
       "email": "audio@digitalks-ai.com",
-      "headingAccent": "new markets?"
+      "headingAccent": "starts here."
     }
   ]
 }

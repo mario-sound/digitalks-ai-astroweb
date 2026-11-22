@@ -11,7 +11,7 @@
       "type": "commercial",
       "id": "intro",
       "heading": "Postproducción de diálogo para videojuegos. Capacidad cuando la necesitas.",
-      "body": "Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.",
+      "body": "Tus estudios siguen grabando. Nosotros avanzamos con la edición, el procesamiento técnico y la entrega de cada lote, en versión original o localizada.",
       "items": [],
       "enabled": true,
       "surface": "dark",
@@ -108,7 +108,7 @@
     {
       "type": "commercial",
       "id": "suiteqa",
-      "heading": "SuiteQA. El contexto del diálogo, conectado.",
+      "heading": "SuiteQA. Cada línea, con su contexto.",
       "body": "Nuestro sistema interno conecta líneas de guion, recording IDs, referencias de audio y decisiones de QA. Ayuda al equipo a organizar incidencias y seguir el progreso de la producción.",
       "items": [
         {
@@ -156,12 +156,12 @@
       "developmentLabel": "En desarrollo",
       "originalSizeLabel": "Tamaño original",
       "fitLabel": "Ajustar a pantalla",
-      "headingAccent": "El contexto del diálogo, conectado."
+      "headingAccent": "Cada línea, con su contexto."
     },
     {
       "type": "commercial",
       "id": "colaboracion",
-      "heading": "El refuerzo que encaja con tu producción.",
+      "heading": "Más capacidad. A tu manera.",
       "body": "",
       "items": [
         {
@@ -179,7 +179,7 @@
       ],
       "enabled": true,
       "surface": "light",
-      "headingAccent": "tu producción."
+      "headingAccent": "A tu manera."
     },
     {
       "type": "commercial",

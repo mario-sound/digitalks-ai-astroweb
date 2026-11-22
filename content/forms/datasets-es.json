@@ -33,5 +33,7 @@
   "optionalLabel": "Contarnos más sobre tu proyecto (opcional)",
   "privacyText": "La Cabra Sonora S.L.U. tratará tus datos para responder a esta consulta. Base: medidas precontractuales para solicitudes de servicio o interés legítimo en otras comunicaciones. Consulta destinatarios, conservación y derechos en la",
   "privacyLabel": "política de privacidad",
-  "emailError": "Introduce un email válido para poder responderte."
+  "emailError": "Introduce un email válido para poder responderte.",
+  "privacySummary": "Información de privacidad",
+  "statusLabel": "Envío web no disponible"
 }
