@@ -73,7 +73,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "en__ia-voice-2",
@@ -106,7 +108,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "en__ia-voice-3",
@@ -300,7 +304,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "en__ia-voice-4",
@@ -418,7 +424,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-5",
@@ -661,7 +669,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-6",
@@ -714,7 +724,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "en__ia-voice-7",
@@ -863,7 +875,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-8",
@@ -916,7 +930,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-9",
@@ -1009,7 +1025,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-10",
@@ -1228,7 +1246,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-11",
@@ -1257,7 +1277,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "en__ia-voice-12",
@@ -1527,7 +1549,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-13",
@@ -1771,7 +1795,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "en__ia-voice-14",
@@ -2056,7 +2082,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "split"
     },
     {
       "id": "en__ia-voice-15",
@@ -2154,7 +2182,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     }
   ],
   "backgrounds": [
@@ -2174,5 +2204,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

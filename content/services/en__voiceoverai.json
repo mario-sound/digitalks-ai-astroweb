@@ -52,7 +52,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "en__voiceoverai-2",
@@ -85,7 +87,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "en__voiceoverai-3",
@@ -113,7 +117,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "en__voiceoverai-4",
@@ -227,7 +233,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "split"
     },
     {
       "id": "en__voiceoverai-5",
@@ -415,7 +423,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "en__voiceoverai-6",
@@ -668,7 +678,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "en__voiceoverai-7",
@@ -1266,7 +1278,9 @@
           "poster": "",
           "label": "Play video"
         }
-      ]
+      ],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "en__voiceoverai-8",
@@ -1315,7 +1329,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "en__voiceoverai-9",
@@ -1380,7 +1396,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "statement"
     },
     {
       "id": "en__voiceoverai-10",
@@ -1514,7 +1532,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     }
   ],
   "backgrounds": [
@@ -1534,5 +1554,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

@@ -72,7 +72,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "doblaje-youtube-2",
@@ -123,7 +125,9 @@
           "poster": "",
           "label": "Reproducir vídeo"
         }
-      ]
+      ],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "doblaje-youtube-3",
@@ -271,7 +275,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-4",
@@ -304,7 +310,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "doblaje-youtube-5",
@@ -578,7 +586,9 @@
           "poster": "",
           "label": "Reproducir vídeo"
         }
-      ]
+      ],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-6",
@@ -626,7 +636,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "doblaje-youtube-7",
@@ -689,7 +701,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-8",
@@ -787,7 +801,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-9",
@@ -995,7 +1011,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-10",
@@ -1113,7 +1131,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "doblaje-youtube-11",
@@ -1147,7 +1167,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     }
   ],
   "backgrounds": [
@@ -1167,5 +1189,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

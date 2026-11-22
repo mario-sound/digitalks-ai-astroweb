@@ -62,7 +62,10 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement",
+      "artwork": "/media/c744c36d8e7c.webp"
     },
     {
       "id": "ots-audio-data-collection-2",
@@ -160,7 +163,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "ots-audio-data-collection-3",
@@ -183,7 +188,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "ots-audio-data-collection-4",
@@ -326,7 +333,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "ots-audio-data-collection-5",
@@ -600,7 +609,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "ots-audio-data-collection-6",
@@ -903,7 +914,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "ots-audio-data-collection-7",
@@ -942,7 +955,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "ots-audio-data-collection-8",
@@ -1010,7 +1025,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "ots-audio-data-collection-9",
@@ -1139,7 +1156,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     }
   ],
   "backgrounds": [
@@ -1167,5 +1186,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

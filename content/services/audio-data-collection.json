@@ -41,7 +41,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "audio-data-collection-2",
@@ -64,7 +66,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "audio-data-collection-3",
@@ -217,7 +221,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "audio-data-collection-4",
@@ -320,7 +326,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "audio-data-collection-5",
@@ -424,7 +432,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "split"
     },
     {
       "id": "audio-data-collection-6",
@@ -662,7 +672,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "audio-data-collection-7",
@@ -861,7 +873,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "audio-data-collection-8",
@@ -915,7 +929,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "audio-data-collection-9",
@@ -1128,7 +1144,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "audio-data-collection-10",
@@ -1172,7 +1190,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "audio-data-collection-11",
@@ -1211,7 +1231,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     }
   ],
   "backgrounds": [
@@ -1231,5 +1253,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

@@ -52,7 +52,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "split"
     },
     {
       "id": "locucionesia-2",
@@ -85,7 +87,9 @@
         }
       ],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "statement"
     },
     {
       "id": "locucionesia-3",
@@ -118,7 +122,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "dark",
+      "layout": "statement"
     },
     {
       "id": "locucionesia-4",
@@ -202,7 +208,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "split"
     },
     {
       "id": "locucionesia-5",
@@ -405,7 +413,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "flow"
     },
     {
       "id": "locucionesia-6",
@@ -628,7 +638,9 @@
       "links": [],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "locucionesia-7",
@@ -1241,7 +1253,9 @@
           "poster": "",
           "label": "Reproducir vídeo"
         }
-      ]
+      ],
+      "surface": "dark",
+      "layout": "flow"
     },
     {
       "id": "locucionesia-8",
@@ -1300,7 +1314,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     },
     {
       "id": "locucionesia-9",
@@ -1365,7 +1381,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "soft",
+      "layout": "statement"
     },
     {
       "id": "locucionesia-10",
@@ -1499,7 +1517,9 @@
       ],
       "forms": [],
       "type": "migrated",
-      "videos": []
+      "videos": [],
+      "surface": "light",
+      "layout": "flow"
     }
   ],
   "backgrounds": [
@@ -1519,5 +1539,6 @@
       "original": "/media/eb8399cba787-fa-solid-900.svg",
       "src": "/media/eb8399cba787-fa-solid-900.svg"
     }
-  ]
+  ],
+  "design": true
 }

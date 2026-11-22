@@ -36,6 +36,7 @@ export function renderPresentation(section:Section,lang:string,page?:Page){
   }
  }
  for(const[id,family]of typography(page?.css)){root.querySelector('.dt-element-'+id)?.classList.add(family);}
+ for(const img of root.querySelectorAll<HTMLImageElement>('img')){const width=Number(img.getAttribute('width'));if(width>2)img.style.setProperty('--image-width',width+'px');}
  for(const el of root.querySelectorAll('.dt-widget-spacer,.dt-spacer,.dt-background-overlay'))el.remove();
  for(const grid of root.querySelectorAll<HTMLElement>('.e-grid')){
   const children=Array.from(grid.children) as HTMLElement[];
@@ -63,6 +64,7 @@ export function renderPresentation(section:Section,lang:string,page?:Page){
  }
  root.classList.add('design-section','tone-'+(section.surface||'light'),'layout-'+(section.layout||'flow'));
  if(legal)root.classList.add('legal-section');
+ if(page?.sections[0]?.id===section.id&&!legal)root.classList.add('service-hero');
  if(section.id)root.setAttribute('data-section',section.id);
  const shell=d.createElement('div');shell.className='section-shell';
  while(root.firstChild)shell.append(root.firstChild);root.append(shell);
