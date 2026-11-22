@@ -138,15 +138,15 @@ Formulario:
 - Project and comments
 - I have read the privacy policy and consent to processing for this enquiry. *
 
-Request a quote
+Request a dubbing quote
 
 Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
 
 audio@digitalks-ai.com
 
-SEO title: Multilingual AI Dubbing for Animation & Games | DigiTalks
+SEO title: AI Dubbing for Animation & Games | DigiTalks
 
-Description: Bring your content to new markets with professional dubbing and a production model built around your project.
+Description: Multilingual dubbing production for animation and games. Human and AI voices, script adaptation, post-production and review tailored to your project.
 
 ## ES — /
 
@@ -284,15 +284,15 @@ Formulario:
 - Proyecto y comentarios
 - He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
 
-Solicitar presupuesto
+Solicitar presupuesto de doblaje
 
 El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
 
 audio@digitalks-ai.com
 
-SEO title: Doblaje multilingüe con IA | Animación y videojuegos | DigiTalks
+SEO title: Doblaje con IA para animación y videojuegos | DigiTalks
 
-Description: Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.
+Description: Producción de doblaje multilingüe para animación y videojuegos. Voces humanas e IA, adaptación, postproducción y revisión según tu proyecto.
 
 ## EN — /en/audio-data-collection-en/
 
@@ -386,7 +386,7 @@ Formulario:
 - Technical requirements and comments
 - I have read the privacy policy and consent to processing for this enquiry. *
 
-Request a quote
+Request a dataset quote
 
 Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
 
@@ -394,7 +394,7 @@ audio@digitalks-ai.com
 
 SEO title: Custom Studio Voice Datasets | FIGS & Catalan | DigiTalks
 
-Description: Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.
+Description: Custom studio-recorded voice datasets with native talent, recording supervision and quality control. Primarily French, Italian, German, Spanish and Catalan.
 
 ## ES — /audio-data-collection/
 
@@ -488,15 +488,15 @@ Formulario:
 - Requisitos técnicos y comentarios
 - He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
 
-Solicitar presupuesto
+Consultar dataset de voz
 
 El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
 
 audio@digitalks-ai.com
 
-SEO title: Datasets de voz en estudio a medida | DigiTalks
+SEO title: Datasets de voz grabados en estudio | DigiTalks
 
-Description: Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.
+Description: Datasets de voz a medida, grabados en estudio con talento nativo y control de calidad. Principalmente francés, italiano, alemán, español y catalán.
 
 ## EN — /en/audio-development-en/
 
@@ -550,9 +550,9 @@ Our internal system connects script lines, recording IDs, audio references and Q
 
 - **Status and issues**: Recording, post-production and QA information within the workflow.
 
-Internal SuiteQA view from the production documentation. This is not a client portal.
+SuiteQA · Internal audio and script review view.
 
-SuiteQA supports our service workflow. It is not offered as a software licence and does not include client dashboard access.
+An internal production tool that keeps each line’s context available throughout review.
 
 ### Support that fits your production.
 
@@ -595,7 +595,7 @@ Formulario:
 - Technical requirements and comments
 - I have read the privacy policy and consent to processing for this enquiry. *
 
-Request a quote
+Request post-production capacity
 
 Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
 
@@ -603,7 +603,7 @@ audio@digitalks-ai.com
 
 SEO title: Game Audio Post-production & Dialogue Editing | DigiTalks
 
-Description: Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.
+Description: External dialogue post-production for original and localized game audio. Editing, technical processing, asset preparation and QC to your specifications.
 
 ## ES — /audio-development/
 
@@ -657,9 +657,9 @@ Nuestro sistema interno conecta líneas de guion, recording IDs, referencias de 
 
 - **Estados e incidencias**: Información de grabación, postproducción y QA en el flujo de trabajo.
 
-Vista interna de SuiteQA extraída de la documentación de producción. No representa un portal de cliente.
+SuiteQA · Vista interna de revisión de audio y guion.
 
-SuiteQA forma parte de nuestro proceso de servicio. No se ofrece como licencia de software ni se incluye acceso a un dashboard de cliente.
+Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión.
 
 ### El refuerzo que encaja con tu producción.
 
@@ -702,7 +702,7 @@ Formulario:
 - Requisitos técnicos y comentarios
 - He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
 
-Solicitar presupuesto
+Consultar postproducción
 
 El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
 
@@ -710,4 +710,113 @@ audio@digitalks-ai.com
 
 SEO title: Postproducción de diálogo para videojuegos | DigiTalks
 
-Description: Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.
+Description: Equipo externo de postproducción de voz para videojuegos y localización. Edición, niveles, preparación de assets y QC según tus especificaciones.
+
+## Interfaz: navigation
+
+```json
+{
+  "es": [
+    {
+      "label": "Doblaje con IA",
+      "href": "/"
+    },
+    {
+      "label": "Audio Post-production",
+      "href": "/audio-development/"
+    },
+    {
+      "label": "Voice Datasets",
+      "href": "/audio-data-collection/"
+    },
+    {
+      "label": "Contacto",
+      "href": "/#contacto"
+    }
+  ],
+  "en": [
+    {
+      "label": "AI Dubbing",
+      "href": "/en/start/"
+    },
+    {
+      "label": "Audio Post-production",
+      "href": "/en/audio-development-en/"
+    },
+    {
+      "label": "Voice Datasets",
+      "href": "/en/audio-data-collection-en/"
+    },
+    {
+      "label": "Contact",
+      "href": "/en/start/#contacto"
+    }
+  ]
+}
+```
+
+## Interfaz: footer
+
+```json
+{
+  "es": {
+    "copyright": "Copyright © 2025 DigiTalks-AI. Todos los derechos reservados",
+    "credit": "Diseñado por DigiTalks|ai",
+    "links": [
+      {
+        "label": "Política de privacidad",
+        "href": "/politica-de-privacidad/"
+      },
+      {
+        "label": "Política de cookies",
+        "href": "/politica-de-cookies-ue/"
+      }
+    ],
+    "unlinked": ""
+  },
+  "en": {
+    "copyright": "Copyright © DigiTalks-AI. All rights reserved.",
+    "credit": "Designed by DigiTalks|ai",
+    "links": [
+      {
+        "label": "Privacy policy",
+        "href": "/en/privacy-policy/"
+      },
+      {
+        "label": "Cookie policy (Spanish)",
+        "href": "/politica-de-cookies-ue/"
+      }
+    ],
+    "unlinked": ""
+  }
+}
+```
+
+## Interfaz: ui
+
+```json
+{
+  "es": {
+    "skip": "Ir al contenido",
+    "menu": "Alternar menú",
+    "navigation": "Menú principal",
+    "legal": "Información legal",
+    "consentTitle": "Gestionar consentimiento",
+    "consentText": "Sólo se almacena tu elección en este navegador. Los servicios externos opcionales permanecen bloqueados hasta que los aceptes.",
+    "necessary": "Sólo necesarias",
+    "optional": "Aceptar opcionales",
+    "privacy": "Política de privacidad"
+  },
+  "en": {
+    "skip": "Skip to content",
+    "menu": "Toggle menu",
+    "navigation": "Main menu",
+    "legal": "Legal information",
+    "consentTitle": "Manage consent",
+    "consentText": "Only your choice is stored in this browser. Optional external services remain blocked until you accept them.",
+    "necessary": "Necessary only",
+    "optional": "Accept optional",
+    "privacy": "Privacy policy"
+  }
+}
+```

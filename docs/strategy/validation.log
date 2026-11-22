@@ -1,0 +1,185 @@
+
+> digitalks-web-astro@0.1.0 verify
+> npm run check && npm run build && npm test
+
+
+> digitalks-web-astro@0.1.0 check
+> ASTRO_TELEMETRY_DISABLED=1 astro check
+
+00:06:07 [content] Syncing content
+00:06:07 [content] Synced content
+00:06:07 [types] Generated 52ms
+00:06:07 [check] Getting diagnostics for Astro files in /Users/mariosanchezmolina/Music/_Sessions/2026/Digitalks/Desarrollo/DigiTalks-Web-Astro...
+Result (20 files): 
+- 0 errors
+- 0 warnings
+- 0 hints
+
+
+> digitalks-web-astro@0.1.0 build
+> ASTRO_TELEMETRY_DISABLED=1 astro build
+
+00:06:10 [content] Syncing content
+00:06:10 [content] Synced content
+00:06:10 [types] Generated 44ms
+00:06:10 [build] output: "static"
+00:06:10 [build] mode: "static"
+00:06:10 [build] directory: /Users/mariosanchezmolina/Music/_Sessions/2026/Digitalks/Desarrollo/DigiTalks-Web-Astro/dist/
+00:06:10 [build] Collecting build info...
+00:06:10 [build] ✓ Completed in 61ms.
+00:06:11 [build] Building static entrypoints...
+00:06:12 [vite] ✓ built in 1.41s
+00:06:12 [build] ✓ Completed in 1.43s.
+
+ building client (vite) 
+00:06:12 [vite] transforming...
+00:06:12 [vite] ✓ 2 modules transformed.
+00:06:12 [vite] rendering chunks...
+00:06:12 [vite] computing gzip size...
+00:06:12 [vite] dist/_astro/PageLayout.astro_astro_type_script_index_0_lang.B7IfflOD.js  4.44 kB │ gzip: 1.66 kB
+00:06:12 [vite] ✓ built in 53ms
+
+ generating static routes 
+00:06:12 ▶ src/pages/404.astro
+00:06:12   └─ /404.html (+7ms) 
+00:06:12 ▶ src/pages/[...path].astro
+00:06:12   ├─ /en/start/index.html (+10ms) 
+00:06:12   ├─ /index.html (+5ms) 
+00:06:12   ├─ /en/audio-data-collection-en/index.html (+2ms) 
+00:06:12   ├─ /audio-data-collection/index.html (+2ms) 
+00:06:12   ├─ /en/audio-development-en/index.html (+2ms) 
+00:06:12   ├─ /audio-development/index.html (+4ms) 
+00:06:12   ├─ /en/privacy-policy/index.html (+35ms) 
+00:06:12   ├─ /politica-de-cookies-ue/index.html (+54ms) 
+00:06:12   └─ /politica-de-privacidad/index.html (+25ms) 
+00:06:12 ▶ src/pages/ots-audio-data-collection.astro
+00:06:12   └─ /ots-audio-data-collection/index.html (+3ms) 
+00:06:12 λ src/pages/robots.txt.ts
+00:06:12   └─ /robots.txt (+1ms) 
+00:06:12 λ src/pages/sitemap.xml.ts
+00:06:12   └─ /sitemap.xml (+1ms) 
+00:06:12 ▶ /custom-audio-data-collection/
+00:06:12   └─ /custom-audio-data-collection/index.html (+0ms) 
+00:06:12 ▶ /doblaje-youtube/
+00:06:12   └─ /doblaje-youtube/index.html (+0ms) 
+00:06:12 ▶ /en/ia-voice/
+00:06:12   └─ /en/ia-voice/index.html (+0ms) 
+00:06:12 ▶ /en/voiceoverai/
+00:06:12   └─ /en/voiceoverai/index.html (+0ms) 
+00:06:12 ▶ /locucionesia/
+00:06:12   └─ /locucionesia/index.html (+0ms) 
+00:06:12 ▶ /voz-ia/
+00:06:12   └─ /voz-ia/index.html (+1ms) 
+00:06:12 ✓ Completed in 247ms.
+
+00:06:12 [build] 11 page(s) built in 1.83s
+00:06:12 [build] Complete!
+
+> digitalks-web-astro@0.1.0 test
+> node --test scripts/*.test.mjs
+
+TAP version 13
+# Subtest: mobile menu opens and Escape closes it
+ok 1 - mobile menu opens and Escape closes it
+  ---
+  duration_ms: 38.44
+  ...
+# Subtest: one playing demo pauses all other demos and media errors become visible
+ok 2 - one playing demo pauses all other demos and media errors become visible
+  ---
+  duration_ms: 19.270916
+  ...
+# Subtest: initial consent blocks services, choice persists and can be reopened
+ok 3 - initial consent blocks services, choice persists and can be reopened
+  ---
+  duration_ms: 8.689875
+  ...
+# Subtest: unconfigured form prevents native submission
+ok 4 - unconfigured form prevents native submission
+  ---
+  duration_ms: 6.066375
+  ...
+# Subtest: strategic rewrite preserves all original audio files and character/language associations
+ok 5 - strategic rewrite preserves all original audio files and character/language associations
+  ---
+  duration_ms: 98.265667
+  ...
+# Subtest: six commercial pages have paired translations, real CTAs and distinct service forms
+ok 6 - six commercial pages have paired translations, real CTAs and distinct service forms
+  ---
+  duration_ms: 53.552875
+  ...
+# Subtest: every source route is active, explicitly redirected or retired without chains
+ok 7 - every source route is active, explicitly redirected or retired without chains
+  ---
+  duration_ms: 4.641583
+  ...
+# Subtest: commercial CMS exposes copy, screenshots, demos, links, sections and form selection
+ok 8 - commercial CMS exposes copy, screenshots, demos, links, sections and form selection
+  ---
+  duration_ms: 85.081916
+  ...
+# Subtest: public output excludes private documents, prices, client dashboard and unsupported catalogue offers
+ok 9 - public output excludes private documents, prices, client dashboard and unsupported catalogue offers
+  ---
+  duration_ms: 23.065125
+  ...
+# Subtest: legal content and operational configuration remain preserved
+ok 10 - legal content and operational configuration remain preserved
+  ---
+  duration_ms: 3.486916
+  ...
+# Subtest: every discovered route is built, with unique paths and localized SEO
+ok 11 - every discovered route is built, with unique paths and localized SEO
+  ---
+  duration_ms: 34.232
+  ...
+# Subtest: all internal navigation and fragments resolve
+ok 12 - all internal navigation and fragments resolve
+  ---
+  duration_ms: 11.055333
+  ...
+# Subtest: all page images, sources, scripts and CSS resources exist locally
+ok 13 - all page images, sources, scripts and CSS resources exist locally
+  ---
+  duration_ms: 15.136833
+  ...
+# Subtest: audio demos have valid files, metadata and native accessible controls
+ok 14 - audio demos have valid files, metadata and native accessible controls
+  ---
+  duration_ms: 3.883208
+  ...
+# Subtest: forms cannot submit until real Sender IDs are configured
+ok 15 - forms cannot submit until real Sender IDs are configured
+  ---
+  duration_ms: 6.83925
+  ...
+# Subtest: CMS schema covers all content categories and uses official blocks
+ok 16 - CMS schema covers all content categories and uses official blocks
+  ---
+  duration_ms: 66.863084
+  ...
+# Subtest: basic accessibility: labels, landmarks, alt text, skip link and mobile control
+ok 17 - basic accessibility: labels, landmarks, alt text, skip link and mobile control
+  ---
+  duration_ms: 4.740834
+  ...
+# Subtest: preview blocks indexing and sitemap covers every route
+ok 18 - preview blocks indexing and sitemap covers every route
+  ---
+  duration_ms: 0.591334
+  ...
+# Subtest: FTPS refuses absent secrets and unauthorized production before any network connection
+ok 19 - FTPS refuses absent secrets and unauthorized production before any network connection
+  ---
+  duration_ms: 258.51775
+  ...
+1..19
+# tests 19
+# suites 0
+# pass 19
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1100.969125

@@ -11,77 +11,32 @@ content:
     filename: "{fields.id}.json"
     view:
       primary: title
-    fields:
-      - &a1
-        name: design
+    fields: &a1
+      - name: design
         type: boolean
         hidden: true
-      - &a2
-        name: id
+      - name: commercial
+        type: boolean
+        hidden: true
+      - name: id
         type: string
         required: true
-      - &a3
-        name: title
+      - name: title
         type: string
         required: true
-      - &a4
-        name: path
+      - name: path
         type: string
         required: true
-        label: Ruta completa con / inicial y final
-      - &a5
-        name: lang
+      - name: lang
         type: select
         options:
           values:
             - es
             - en
-      - &a6
-        name: seo
+      - name: seo
         type: string
         required: true
-        label: ID del registro SEO
-      - &a7
-        name: commercial
-        type: boolean
-        hidden: true
-      - &a8
-        name: source
-        type: string
-        readonly: true
-      - &a9
-        name: bodyClass
-        type: string
-        hidden: true
-      - &a10
-        name: rootClass
-        type: string
-        hidden: true
-      - &a11
-        name: css
-        type: string
-        hidden: true
-      - &a12
-        name: styles
-        type: string
-        list: true
-        hidden: true
-      - &a13
-        name: backgrounds
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{label}"
-        fields:
-          - name: original
-            type: string
-            readonly: true
-          - name: src
-            type: image
-        label: Imágenes de fondo
-      - &a14
-        name: sections
+      - name: sections
         type: block
         label: Secciones comerciales
         list: true
@@ -166,16 +121,25 @@ content:
                   - name: href
                     type: string
               - name: demoIds
-                type: string
+                type: reference
                 list: true
-                label: "Demos: IDs en orden de presentación"
+                label: Demos en orden de presentación
+                options:
+                  collection: demos
+                  value: "{fields.id}"
+                  label: "{fields.title} · {fields.language}"
+                  search: title,language
               - name: characterLabel
                 type: string
               - name: multilingualLabel
                 type: string
               - name: form
-                type: string
-                label: ID del formulario
+                type: reference
+                label: Formulario
+                options:
+                  collection: forms
+                  value: "{fields.id}"
+                  label: "{fields.title}"
               - name: email
                 type: string
   - name: services
@@ -186,21 +150,7 @@ content:
     filename: "{fields.id}.json"
     view:
       primary: title
-    fields:
-      - *a1
-      - *a2
-      - *a3
-      - *a4
-      - *a5
-      - *a6
-      - *a7
-      - *a8
-      - *a9
-      - *a10
-      - *a11
-      - *a12
-      - *a13
-      - *a14
+    fields: *a1
   - name: demos
     label: Demos
     type: collection
@@ -216,7 +166,11 @@ content:
       - name: title
         type: string
       - name: character
-        type: string
+        type: reference
+        options:
+          collection: characters
+          value: "{fields.id}"
+          label: "{fields.title}"
       - name: language
         type: string
       - name: audio
@@ -326,7 +280,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a15
+        fields: &a2
           - name: copyright
             type: string
           - name: credit
@@ -347,7 +301,7 @@ content:
             label: Texto legal sin URL recuperada
       - name: en
         type: object
-        fields: *a15
+        fields: *a2
   - name: interface
     label: Interfaz y consentimiento
     type: file
@@ -356,7 +310,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a16
+        fields: &a3
           - name: skip
             type: text
           - name: menu
@@ -377,7 +331,7 @@ content:
             type: text
       - name: en
         type: object
-        fields: *a16
+        fields: *a3
   - name: forms
     label: Formularios
     type: collection
@@ -501,19 +455,61 @@ content:
     view:
       primary: title
     fields:
-      - *a1
-      - *a2
-      - *a3
-      - *a4
-      - *a5
-      - *a6
-      - *a7
-      - *a8
-      - *a9
-      - *a10
-      - *a11
-      - *a12
-      - *a13
+      - name: design
+        type: boolean
+        hidden: true
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: path
+        type: string
+        required: true
+        label: Ruta completa con / inicial y final
+      - name: lang
+        type: select
+        options:
+          values:
+            - es
+            - en
+      - name: seo
+        type: string
+        required: true
+        label: ID del registro SEO
+      - name: commercial
+        type: boolean
+        hidden: true
+      - name: source
+        type: string
+        readonly: true
+      - name: bodyClass
+        type: string
+        hidden: true
+      - name: rootClass
+        type: string
+        hidden: true
+      - name: css
+        type: string
+        hidden: true
+      - name: styles
+        type: string
+        list: true
+        hidden: true
+      - name: backgrounds
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: original
+            type: string
+            readonly: true
+          - name: src
+            type: image
+        label: Imágenes de fondo
       - name: sections
         type: block
         label: "Secciones: editar y reordenar"
@@ -523,7 +519,7 @@ content:
           - name: migrated
             label: Sección DigiTalks (contenido existente)
             fields:
-              - &a17
+              - &a4
                 name: surface
                 type: select
                 options:
@@ -543,11 +539,11 @@ content:
                     - logos
                     - statement
                     - hero
-              - &a18
+              - &a5
                 name: artwork
                 type: image
                 label: Imagen o fondo de la composición
-              - &a19
+              - &a6
                 name: actions
                 type: object
                 list:
@@ -653,8 +649,8 @@ content:
           - name: text
             label: Texto
             fields:
-              - *a17
-              - &a20
+              - *a4
+              - &a7
                 name: layout
                 type: select
                 options:
@@ -662,8 +658,8 @@ content:
                     - flow
                     - split
                     - statement
-              - *a18
-              - *a19
+              - *a5
+              - *a6
               - name: enabled
                 type: boolean
               - name: heading
@@ -673,10 +669,10 @@ content:
           - name: image
             label: Imagen
             fields:
-              - *a17
-              - *a20
-              - *a18
-              - *a19
+              - *a4
+              - *a7
+              - *a5
+              - *a6
               - name: heading
                 type: string
               - name: image
@@ -686,10 +682,10 @@ content:
           - name: audio
             label: Demo de audio
             fields:
-              - *a17
-              - *a20
-              - *a18
-              - *a19
+              - *a4
+              - *a7
+              - *a5
+              - *a6
               - name: heading
                 type: string
               - name: demo
@@ -697,10 +693,10 @@ content:
           - name: audio-gallery
             label: Galería de demos (orden de colección)
             fields:
-              - *a17
-              - *a20
-              - *a18
-              - *a19
+              - *a4
+              - *a7
+              - *a5
+              - *a6
               - name: heading
                 type: string
               - name: language
@@ -708,10 +704,10 @@ content:
           - name: form
             label: Formulario configurado
             fields:
-              - *a17
-              - *a20
-              - *a18
-              - *a19
+              - *a4
+              - *a7
+              - *a5
+              - *a6
               - name: heading
                 type: string
               - name: body

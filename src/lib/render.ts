@@ -20,7 +20,7 @@ export function formMarkup(form:Form){
  if(f.type==='heading')return `<p class="form-heading">${escape(f.label)}</p>`;
  const fid=id+'-'+i;
  const common=`id="${fid}" name="${escape(f.name)}" ${f.required?'required':''} placeholder="${escape(f.placeholder)}"`;
- const field=f.type==='textarea'?`<textarea ${common}></textarea>`:f.type==='select'?`<select ${common}>${f.options.map(x=>`<option value="${escape(x.value)}">${escape(x.label)}</option>`).join('')}</select>`:`<input type="${['email','text','tel','url','checkbox','number','date'].includes(f.type)?f.type:'text'}" ${common} ${f.type==='email'?'autocomplete="email"':''}>`;
+ const field=f.type==='textarea'?`<textarea ${common}></textarea>`:f.type==='select'?`<select ${common}>${f.options.map(x=>`<option value="${escape(x.value)}">${escape(x.label)}</option>`).join('')}</select>`:`<input type="${['email','text','tel','url','checkbox','number','date'].includes(f.type)?f.type:'text'}" ${common} ${f.type==='email'?'autocomplete="email"':''} ${f.type==='number'?'min="0" step="'+(f.name==='hours'?'0.1':'1')+'"':''}>`;
  return `<div class="dt-field-group ${f.width==='half'?'field-half':'field-full'}"><label ${f.showLabel===false?'class="screen-reader-label"':''} for="${fid}">${escape(f.label)}</label>${field}</div>`;
  }).join('')}<button type="submit" disabled>${escape(form.submit)}</button><p class="form-notice" id="${id}-notice">${escape(form.notice)}</p></form>`;
 }

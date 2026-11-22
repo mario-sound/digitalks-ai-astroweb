@@ -25,3 +25,5 @@ Pages CMS guarda JSON y medios en Git. El flujo de GitHub compila y verifica la 
 Para ver cambios localmente: `npm run dev`, abrir http://localhost:4321/. Los JSON usan importaciones observadas por Vite y se recargan al guardar. `npm run verify` comprueba tipos, compilación y contratos de medios, enlaces y SEO.
 
 El nombre de archivo usa `{fields.id}.json` para mantener IDs estables aunque cambie el título. Referencias de configuración verificadas: [Filename](https://pagescms.org/docs/configuration/content/filename/), [Block](https://pagescms.org/docs/configuration/fields/block/), [List](https://pagescms.org/docs/configuration/content/list/).
+
+La selección de demos, personajes y formularios usa [referencias nativas a colecciones](https://pagescms.org/docs/configuration/fields/reference/), con etiquetas legibles e IDs estables. Las demos son una lista reordenable de referencias; no es necesario escribir identificadores para añadir una demo existente. El registro de prueba local con campos vacíos está en `docs/strategy/cms-local-check.json`.

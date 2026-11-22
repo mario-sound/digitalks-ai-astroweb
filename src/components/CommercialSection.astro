@@ -15,10 +15,10 @@ const form=forms.find(f=>f.id===s.form);
    {s.eyebrow&&<p class="b2b-eyebrow">{s.eyebrow}</p>}
    {s.kind==='hero'?<h1>{s.heading}</h1>:<h2>{s.heading}</h2>}
    {s.body&&<p class="b2b-intro">{s.body}</p>}
-   {s.actions?.length&&<div class="hero-actions">{s.actions.map((a,i)=><a class:list={['design-button',{'button-secondary':i>0}]} href={a.href}>{a.label}</a>)}</div>}
+   {!!s.actions?.length&&<div class="hero-actions">{(s.actions||[]).map((a,i)=><a class:list={['design-button',{'button-secondary':i>0}]} href={a.href}>{a.label}</a>)}</div>}
   </div>
   {s.kind==='hero'&&s.image&&<div class="b2b-hero-art"><span aria-hidden="true" class="voice-orbit"></span><img src={s.image} alt={s.alt||''} width="520" height="520" fetchpriority="high"/></div>}
-  {s.heroMetrics?.length&&<div class="production-stack" aria-label={s.eyebrow}>{s.heroMetrics.map((m,i)=><div><span>{m.title}</span><p>{m.body}</p></div>)}</div>}
+  {!!s.heroMetrics?.length&&<div class="production-stack" aria-label={s.eyebrow}>{(s.heroMetrics||[]).map(m=><div><span>{m.title}</span><p>{m.body}</p></div>)}</div>}
   {!!s.items?.length&&<div class="b2b-items">{(s.items||[]).map((item,i)=><article><span class="item-index" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><h3>{item.title}</h3><p>{item.body}</p></article>)}</div>}
   {s.kind==='suiteqa'&&s.image&&<figure class="suiteqa-figure"><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
   {s.kind==='demos'&&<div class="b2b-demos">

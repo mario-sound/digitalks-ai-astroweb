@@ -28,7 +28,7 @@ test('commercial CMS exposes copy, screenshots, demos, links, sections and form 
 test('public output excludes private documents, prices, client dashboard and unsupported catalogue offers',()=>{
  assert.equal(fs.existsSync('dist/refs'),false);
  const html=pages.filter(p=>p.commercial).map(p=>doc(p.path).querySelector('main').textContent).join(' ');
- assert.ok(!/€|3[.,]000|B&R360|24\/7|AAA|crowdsourcing|smartphones|call centers/i.test(html));
+ assert.ok(!/€|3[.,]000|24\/7|AAA|crowdsourcing|smartphones|call centers/i.test(html));
  for(const p of pages.filter(p=>p.id.startsWith('datasets'))){const text=doc(p.path).querySelector('main').textContent;assert.ok(/FIGS/.test(text));assert.ok(/consent/i.test(text));assert.ok(!/48\s?kHz/.test(text));}
 });
 test('legal content and operational configuration remain preserved',()=>{

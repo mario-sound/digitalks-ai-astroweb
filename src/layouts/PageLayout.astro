@@ -36,7 +36,7 @@ for(const bg of page.backgrounds||[]){
   <style is:inline set:html={fontsCss}></style>
   <style is:inline set:html={siteCss}></style>
   {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style><style is:inline set:html={commercialCss}></style></>}
-  <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':page.commercial?'Service':'WebPage',provider:page.commercial?{'@type':'Organization',name:'DigiTalks AI',url:general.url}:undefined,name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
+  <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebPage',mainEntity:page.commercial?{'@type':'Service',name:page.title,provider:{'@type':'Organization',name:'DigiTalks AI',url:general.url}}:undefined,name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
 </head>
 <body class={page.design?'digitalks-design':page.bodyClass||'dt-kit-46024'} data-sender-account={general.senderEnabled?general.senderAccountId:''} data-gtm-id={general.analyticsEnabled&&!general.preview?general.gtmId:''}>
   <a class="skip-link" href="#content">{labels.skip}</a>

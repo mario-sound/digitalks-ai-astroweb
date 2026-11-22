@@ -51,3 +51,5 @@ La sintaxis YAML y las referencias se prueban localmente. No se ha autorizado ni
 ## Rediseño: composiciones editables
 
 La rama design/refero-specify añade superficies light/soft/dark/brand y presets de composición a las secciones, sin retirar campos existentes. El hero reutiliza los fragmentos originales y permite editar sus botones, imagen de apoyo y demos destacadas por ID. Las imágenes/sonidos se siguen cambiando desde sus mismos registros. No es necesario modificar código para textos, fotos, demos, destinos, menús, formularios preparados o SEO habituales. Las reglas globales de diseño están en dos hojas; para una composición completamente nueva se usan los bloques disponibles o se amplía el componente con Codex. La conexión real a Pages CMS sigue pendiente de autorización y prueba externa.
+
+La rama de reposicionamiento reemplaza el editor fragmentado de las páginas comerciales por bloques nativos. La guía vigente para esas seis páginas es `docs/CMS_CONTENT_MODEL.md`; la información anterior de secciones migradas sigue aplicando a Legal y al checkpoint visual archivado.

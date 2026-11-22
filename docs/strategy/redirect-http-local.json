@@ -1,0 +1,38 @@
+[
+  {
+    "from": "/voz-ia/",
+    "to": "/",
+    "status": 301,
+    "location": "/"
+  },
+  {
+    "from": "/en/ia-voice/",
+    "to": "/en/start/",
+    "status": 301,
+    "location": "/en/start/"
+  },
+  {
+    "from": "/locucionesia/",
+    "to": "/#voces",
+    "status": 301,
+    "location": "/#voces"
+  },
+  {
+    "from": "/en/voiceoverai/",
+    "to": "/en/start/#voces",
+    "status": 301,
+    "location": "/en/start/#voces"
+  },
+  {
+    "from": "/custom-audio-data-collection/",
+    "to": "/audio-data-collection/",
+    "status": 301,
+    "location": "/audio-data-collection/"
+  },
+  {
+    "from": "/doblaje-youtube/",
+    "to": "/#produccion",
+    "status": 301,
+    "location": "/#produccion"
+  }
+]
