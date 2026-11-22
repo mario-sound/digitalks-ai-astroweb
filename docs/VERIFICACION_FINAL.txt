@@ -1,0 +1,158 @@
+
+> digitalks-web-astro@0.1.0 verify
+> npm run check && npm run build && npm test
+
+
+> digitalks-web-astro@0.1.0 check
+> ASTRO_TELEMETRY_DISABLED=1 astro check
+
+22:57:53 [content] Syncing content
+22:57:53 [content] Synced content
+22:57:53 [types] Generated 51ms
+22:57:53 [check] Getting diagnostics for Astro files in <project>...
+Result (15 files): 
+- 0 errors
+- 0 warnings
+- 0 hints
+
+
+> digitalks-web-astro@0.1.0 build
+> ASTRO_TELEMETRY_DISABLED=1 astro build
+
+22:57:56 [content] Syncing content
+22:57:56 [content] Synced content
+22:57:56 [types] Generated 43ms
+22:57:56 [build] output: "static"
+22:57:56 [build] mode: "static"
+22:57:56 [build] directory: <project>/dist/
+22:57:56 [build] Collecting build info...
+22:57:56 [build] ✓ Completed in 57ms.
+22:57:56 [build] Building static entrypoints...
+22:57:57 [vite] ✓ built in 1.16s
+22:57:57 [build] ✓ Completed in 1.19s.
+
+ building client (vite) 
+22:57:57 [vite] transforming...
+22:57:57 [vite] ✓ 2 modules transformed.
+22:57:57 [vite] rendering chunks...
+22:57:57 [vite] computing gzip size...
+22:57:57 [vite] dist/_astro/PageLayout.astro_astro_type_script_index_0_lang.B7IfflOD.js  4.44 kB │ gzip: 1.66 kB
+22:57:57 [vite] ✓ built in 35ms
+
+ generating static routes 
+22:57:57 ▶ src/pages/404.astro
+22:57:57   └─ /404.html (+7ms) 
+22:57:57 ▶ src/pages/[...path].astro
+22:57:57   ├─ /en/start/index.html (+20ms) 
+22:57:57   ├─ /index.html (+11ms) 
+22:57:57   ├─ /audio-data-collection/index.html (+8ms) 
+22:57:57   ├─ /audio-development/index.html (+10ms) 
+22:57:58   ├─ /custom-audio-data-collection/index.html (+10ms) 
+22:57:58   ├─ /doblaje-youtube/index.html (+9ms) 
+22:57:58   ├─ /en/audio-data-collection-en/index.html (+8ms) 
+22:57:58   ├─ /en/audio-development-en/index.html (+10ms) 
+22:57:58   ├─ /en/ia-voice/index.html (+15ms) 
+22:57:58   ├─ /en/voiceoverai/index.html (+10ms) 
+22:57:58   ├─ /locucionesia/index.html (+9ms) 
+22:57:58   ├─ /ots-audio-data-collection/index.html (+10ms) 
+22:57:58   ├─ /voz-ia/index.html (+11ms) 
+22:57:58   ├─ /en/privacy-policy/index.html (+5ms) 
+22:57:58   ├─ /politica-de-cookies-ue/index.html (+6ms) 
+22:57:58   └─ /politica-de-privacidad/index.html (+5ms) 
+22:57:58 λ src/pages/robots.txt.ts
+22:57:58   └─ /robots.txt (+0ms) 
+22:57:58 λ src/pages/sitemap.xml.ts
+22:57:58   └─ /sitemap.xml (+0ms) 
+22:57:58 ✓ Completed in 185ms.
+
+22:57:58 [build] 17 page(s) built in 1.49s
+22:57:58 [build] Complete!
+
+> digitalks-web-astro@0.1.0 test
+> node --test scripts/*.test.mjs
+
+TAP version 13
+# Subtest: mobile menu opens and Escape closes it
+ok 1 - mobile menu opens and Escape closes it
+  ---
+  duration_ms: 43.483208
+  ...
+# Subtest: one playing demo pauses all other demos and media errors become visible
+ok 2 - one playing demo pauses all other demos and media errors become visible
+  ---
+  duration_ms: 27.168041
+  ...
+# Subtest: initial consent blocks services, choice persists and can be reopened
+ok 3 - initial consent blocks services, choice persists and can be reopened
+  ---
+  duration_ms: 11.777292
+  ...
+# Subtest: unconfigured form prevents native submission
+ok 4 - unconfigured form prevents native submission
+  ---
+  duration_ms: 12.713209
+  ...
+# Subtest: FAQ accordion opens by keyboard and closes with Escape
+ok 5 - FAQ accordion opens by keyboard and closes with Escape
+  ---
+  duration_ms: 45.2775
+  ...
+# Subtest: YouTube loads only after explicit playback and optional consent
+ok 6 - YouTube loads only after explicit playback and optional consent
+  ---
+  duration_ms: 15.0165
+  ...
+# Subtest: every discovered route is built, with unique paths and localized SEO
+ok 7 - every discovered route is built, with unique paths and localized SEO
+  ---
+  duration_ms: 51.535333
+  ...
+# Subtest: all internal navigation and fragments resolve
+ok 8 - all internal navigation and fragments resolve
+  ---
+  duration_ms: 16.211167
+  ...
+# Subtest: all page images, sources, scripts and CSS resources exist locally
+ok 9 - all page images, sources, scripts and CSS resources exist locally
+  ---
+  duration_ms: 19.0885
+  ...
+# Subtest: audio demos have valid files, metadata and native accessible controls
+ok 10 - audio demos have valid files, metadata and native accessible controls
+  ---
+  duration_ms: 5.58625
+  ...
+# Subtest: forms cannot submit until real Sender IDs are configured
+ok 11 - forms cannot submit until real Sender IDs are configured
+  ---
+  duration_ms: 8.070167
+  ...
+# Subtest: CMS schema covers all content categories and uses official blocks
+ok 12 - CMS schema covers all content categories and uses official blocks
+  ---
+  duration_ms: 41.886125
+  ...
+# Subtest: basic accessibility: labels, landmarks, alt text, skip link and mobile control
+ok 13 - basic accessibility: labels, landmarks, alt text, skip link and mobile control
+  ---
+  duration_ms: 6.536542
+  ...
+# Subtest: preview blocks indexing and sitemap covers every route
+ok 14 - preview blocks indexing and sitemap covers every route
+  ---
+  duration_ms: 0.709375
+  ...
+# Subtest: FTPS refuses absent secrets and unauthorized production before any network connection
+ok 15 - FTPS refuses absent secrets and unauthorized production before any network connection
+  ---
+  duration_ms: 188.550334
+  ...
+1..15
+# tests 15
+# suites 0
+# pass 15
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 963.954583

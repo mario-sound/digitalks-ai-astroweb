@@ -1,0 +1,70 @@
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: italic;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70yjzAei_CDNLfgZxrW6wrZOF2WX5eDlm1vIsHjv3WqcQ0W8YRQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70yjzAei_CDNLfgZxrW6wrZOF2WX5eDlm1vIsHjv3WqcVMW8YRQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70yjzAei_CDNLfgZxrW6wrZOF2WX5eDlm1vIsHjv3WqcWEW8YRQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: italic;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70yjzAei_CDNLfgZxrW6wrZOF2WX5eDlm1vIsHjv3WqcY0R8YRQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70yjzAei_CDNLfgZxrW6wrZOF2WX5eDlm1vIsHjv3WqcbQR8YRQdQ.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGA8MotSwYM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBiMotSwYM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGBQMotSwYM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGC8NYtSwYM.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Spline Sans Mono';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/splinesansmono/v13/R70MjzAei_CDNLfgZxrW6wrZOF2WdZ6xabUGSVtNuGCFNYtSwYM.ttf) format('truetype');
+}

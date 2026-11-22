@@ -1,0 +1,322 @@
+[
+  {
+    "id": "033d22dea77a",
+    "title": "Barbarian Male",
+    "language": "esES",
+    "file": "/media/033d22dea77a-Barbarian_01.mp3",
+    "bytes": 494381,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "28.682438",
+      "bit_rate": "137890"
+    }
+  },
+  {
+    "id": "0abe5c673d61",
+    "title": "Girl child",
+    "language": "itIT",
+    "file": "/media/0abe5c673d61-GirlChild_v1_itIT.mp3",
+    "bytes": 1487959,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "37.146122",
+      "bit_rate": "320455"
+    }
+  },
+  {
+    "id": "136d449eee15",
+    "title": "Girl child",
+    "language": "plPL",
+    "file": "/media/136d449eee15-GirlChild_v1_plPL.mp3",
+    "bytes": 1413772,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "35.291429",
+      "bit_rate": "320479"
+    }
+  },
+  {
+    "id": "1ccedcf82508",
+    "title": "Ogre Male",
+    "language": "esES",
+    "file": "/media/1ccedcf82508-Male_Ogre_01.mp3",
+    "bytes": 1103636,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "27.590900",
+      "bit_rate": "320000"
+    }
+  },
+  {
+    "id": "2280308e51d6",
+    "title": "Soldier Female",
+    "language": "esES",
+    "file": "/media/2280308e51d6-Female_Soldier_01.mp3",
+    "bytes": 313822,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "17.397500",
+      "bit_rate": "144306"
+    }
+  },
+  {
+    "id": "2cc01270d1a3",
+    "title": "Girl child",
+    "language": "esES",
+    "file": "/media/2cc01270d1a3-GirlChild_v1_esES.mp3",
+    "bytes": 1583045,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "39.523265",
+      "bit_rate": "320427"
+    }
+  },
+  {
+    "id": "3af28f6af8be",
+    "title": "Girl child",
+    "language": "ptBR",
+    "file": "/media/3af28f6af8be-GirlChild_v1_ptBR.mp3",
+    "bytes": 1542294,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "38.504490",
+      "bit_rate": "320439"
+    }
+  },
+  {
+    "id": "70e928265c9d",
+    "title": "Old Man",
+    "language": "frFR",
+    "file": "/media/70e928265c9d-Old_Man_frFR.mp3",
+    "bytes": 413824,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "17.240792",
+      "bit_rate": "192020"
+    }
+  },
+  {
+    "id": "865aadf770ce",
+    "title": "Old Man",
+    "language": "itIT",
+    "file": "/media/865aadf770ce-Old_Man_itIT.mp3",
+    "bytes": 505984,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "21.080792",
+      "bit_rate": "192017"
+    }
+  },
+  {
+    "id": "96a7a8374a7c",
+    "title": "Old Man",
+    "language": "enUS",
+    "file": "/media/96a7a8374a7c-Old_Man_enUS.mp3",
+    "bytes": 419467,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "17.475917",
+      "bit_rate": "192020"
+    }
+  },
+  {
+    "id": "9b4f61cb6e53",
+    "title": "Girl child",
+    "language": "enUK",
+    "file": "/media/9b4f61cb6e53-GirlChild_v1_enUK.mp3",
+    "bytes": 1456613,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "36.362449",
+      "bit_rate": "320465"
+    }
+  },
+  {
+    "id": "b33caef6d9df",
+    "title": "Old Man",
+    "language": "deDE",
+    "file": "/media/b33caef6d9df-Old_Man_deDE.mp3",
+    "bytes": 525419,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "21.890583",
+      "bit_rate": "192016"
+    }
+  },
+  {
+    "id": "bb946e455591",
+    "title": "Child",
+    "language": "esES",
+    "file": "/media/bb946e455591-Child_01.mp3",
+    "bytes": 190108,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "10.840813",
+      "bit_rate": "140290"
+    }
+  },
+  {
+    "id": "c0650d2d911d",
+    "title": "Old Man",
+    "language": "esES",
+    "file": "/media/c0650d2d911d-Old_Man_esES.mp3",
+    "bytes": 1234008,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "30.850200",
+      "bit_rate": "320000"
+    }
+  },
+  {
+    "id": "c254808678b9",
+    "title": "NPC Male",
+    "language": "esES",
+    "file": "/media/c254808678b9-Male1_IVC_Remix_v2_02.mp3",
+    "bytes": 398669,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "23.875875",
+      "bit_rate": "133580"
+    }
+  },
+  {
+    "id": "c97e1df4f785",
+    "title": "Pirate Male",
+    "language": "esES",
+    "file": "/media/c97e1df4f785-Pirate_Dwarf_01.mp3",
+    "bytes": 426671,
+    "programs": [],
+    "stream_groups": [],
+    "streams": [
+      {
+        "codec_name": "mp3",
+        "sample_rate": "44100",
+        "channels": 1
+      }
+    ],
+    "format": {
+      "duration": "24.450563",
+      "bit_rate": "139602"
+    }
+  }
+]
