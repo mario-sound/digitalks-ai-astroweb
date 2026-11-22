@@ -25,7 +25,7 @@ const form=forms.find(f=>f.id===s.form);
   {s.kind!=='experience'&&!!s.items?.length&&<div class="b2b-items">{(s.items||[]).map((item,i)=><article data-reveal><span class="item-index" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><h3>{item.title}</h3><p>{item.body}</p></article>)}</div>}
   {s.kind==='workflow'&&!!s.timeline?.length&&<div class="production-timeline" data-reveal>{s.timeline?.map((step,i)=><div class="timeline-phase" style={`--phase:${i}`}><h3>{step.title}</h3><p>{step.body}</p><span class="timeline-bar" aria-hidden="true"></span></div>)}</div>}
   {s.kind==='specs'&&s.caption&&<p class="spec-caption">{s.caption}</p>}
-  {s.kind==='suiteqa'&&!!s.screenshots?.length&&<ScreenshotGallery section={s}/>}
+  {!!s.screenshots?.length&&<ScreenshotGallery section={s}/>}
   {s.kind==='suiteqa'&&!s.screenshots?.length&&s.image&&<figure class="suiteqa-figure" data-reveal><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
   {s.kind==='demos'&&<div class="b2b-demos">
    <h3 class="demo-category">{s.characterLabel}</h3><div class="character-grid">{singles.map(d=><article><img src={d.image} alt={d.title} width="260" height="260" loading="lazy"/><div class="demo-card-copy"><div class="demo-card-meta"><h4>{d.title}</h4><p class="language-tag"><small>{d.language.slice(0,2).toLowerCase()}</small><strong>{d.language.slice(2).toUpperCase()}</strong></p></div><AudioPlayer demo={d} lang={lang}/></div></article>)}</div>

@@ -11,7 +11,7 @@ Fuente local: `refs/DigiTalks_Game_Audio_Post_Production_v13.pptx`. Se leyó com
 | image13.png | 1915 × 912 | 3 / QA Suite | Vista de revisión. Integra preview local; contiene guion, nombres en el texto e IDs. Derechos/procedencia pendientes antes de publicar |
 | image8.png | 1919 × 898 | 3 / QA Suite | Vista REC. Nombre de operador, IDs y texto de trabajo: conservar en privado hasta revisar autorización |
 | image1.png | 931 × 812 | 3 / QA Suite | Administración de usuarios. Nombres, emails personales, roles y fechas: excluida de `public` y de la galería |
-| image2.png | 1916 × 910 | 4 / Client Dashboard | Proyecto, operador y métricas de producción. No se confirma anonimización; sólo archivo privado. La diapositiva identifica el dashboard como en desarrollo y con datos de ejemplo |
+| image2.png | 1916 × 910 | 4 / Client Dashboard | Proyecto, operador y métricas de producción. No se confirma anonimización; incorporado a la vista previa local por selección expresa del usuario el 23/11/2026, pendiente de aprobación para publicación. La diapositiva identifica el dashboard como en desarrollo y con datos de ejemplo |
 | image3.png | 966 × 761 | 5 / Production Reports | Informe con título genérico y contadores. Sin lista de usuarios/emails visible. Preview local; no se presenta como acceso de cliente disponible. Confirmar autorización del informe |
 
 Los otros cinco recursos son gráficos/elementos de la presentación, no nuevas capturas de SuiteQA: image6.png (824 × 824), image7.png (4 × 616), image9.png e image10.png (2048 × 445 cada uno), image11.png (1672 × 941). Están conservados en los originales; no se usan como capturas ni se publican créditos/logos.
@@ -22,18 +22,19 @@ Copias públicas de revisión local en `public/images/suiteqa/`:
 
 - `qa-review.webp`: 1915 × 912, 67 232 bytes frente a 228 182 del PNG.
 - `production-report.webp`: 966 × 761, 21 048 bytes frente a 65 587 del PNG.
+- `client-dashboard.webp`: 1916 × 910, 119 006 bytes, copia exacta sin pérdida del PNG seleccionado por el usuario.
 
-WebP **lossless**, sin cambiar dimensiones. Comparación de los buffers RGBA decodificados con Sharp: idénticos para ambas imágenes. Reducción conjunta aproximada del 70% en bytes. Las otras tres copias WebP se guardan en `refs/suiteqa-web-review/` para revisión privada y no entran en `dist`.
+WebP **lossless**, sin cambiar dimensiones. Comparación de los buffers RGBA decodificados con Sharp: idénticos para las tres imágenes. Las otras dos copias WebP se guardan en `refs/suiteqa-web-review/` para revisión privada y no entran en `dist`.
 
 ## Integración y publicación
 
-Sólo las páginas Post ES/EN reciben la galería. Composición superpuesta en escritorio, apilada en móvil, lightbox con teclado, Escape, retorno del foco, ajuste a pantalla y tamaño original con desplazamiento. Las imágenes son las capturas reales sin filtros, reconstrucciones, recortes ni overlays incorporados a los archivos. Marcos, rótulos y profundidad pertenecen al HTML/CSS.
+Sólo las páginas Post ES/EN reciben las galerías: QA y dashboard en SuiteQA; informe en el bloque de modalidades de colaboración. Composición superpuesta en escritorio, apilada en móvil, lightbox con teclado, Escape, retorno del foco, ajuste a pantalla y tamaño original con desplazamiento. Las imágenes son las capturas reales sin filtros, reconstrucciones, recortes ni overlays incorporados a los archivos. Marcos, rótulos y profundidad pertenecen al HTML/CSS.
 
-Todas las capturas incorporadas siguen con `review: pending`. El modo preview muestra un aviso explícito. `scripts/check-publication.mjs` bloquea un build con `preview:false` mientras haya capturas pendientes con recurso asignado. Este control no sustituye revisar los datos y los permisos; no se han aprobado automáticamente ni publicado.
+Todas las capturas incorporadas siguen con `review: pending`. El aviso de preview y los botones superpuestos se retiraron por petición del usuario; pulsar la imagen abre la ampliación. La retirada del aviso visual no aprueba las capturas. `scripts/check-publication.mjs` bloquea un build con `preview:false` mientras haya capturas pendientes con recurso asignado. Este control no sustituye revisar los datos y los permisos; no se han aprobado automáticamente ni publicado.
 
 ## Pages CMS
 
-En Servicios → Post ES o EN → SuiteQA → Capturas originales: añadir, reordenar, sustituir imagen, editar título/alt/pie, ocultar (`enabled`), marcar estado interno/en desarrollo y registrar aprobación. Fuente de medios dedicada `suiteqa` apunta a `public/images/suiteqa/`; los originales privados no aparecen en el selector. No subir pantallas con usuarios o datos de clientes sin anonimización y autorización. Mantener ES/EN alineados. La conexión externa de Pages CMS sigue pendiente de verificar.
+En Servicios → Post ES o EN → SuiteQA o modalidades de colaboración → Capturas originales: añadir, reordenar, sustituir imagen, editar título/alt/pie, ocultar (`enabled`), marcar estado interno/en desarrollo y registrar aprobación. Fuente de medios dedicada `suiteqa` apunta a `public/images/suiteqa/`; los originales privados no aparecen en el selector. No subir pantallas con usuarios o datos de clientes sin anonimización y autorización. Mantener ES/EN alineados. La conexión externa de Pages CMS sigue pendiente de verificar.
 
 ## Reproducción de la extracción
 

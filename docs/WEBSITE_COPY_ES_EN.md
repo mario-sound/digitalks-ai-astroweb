@@ -30,7 +30,7 @@ CHARACTERS · MULTILINGUAL VOICES
 
 
 
-Original DigiTalks demos. Play each voice directly on this page.
+Hear what we can do. This is what our AI voices sound like.
 
 Characters · Spanish
 
@@ -182,7 +182,7 @@ PERSONAJES · VOCES MULTILINGÜES
 
 
 
-Demos originales de DigiTalks. Escucha cada voz directamente, sin salir de la página.
+Escucha lo que podemos hacer. Así suenan nuestras voces IA.
 
 Personajes · Español
 
@@ -572,7 +572,7 @@ An internal production tool that keeps each line’s context available throughou
 
 Captura: Audio and script review · Internal QA view · Original image from the presentation. · internal
 
-Captura: Production reports · Report presentation example. The client dashboard is in development. · development
+Captura: Production overview · Client dashboard view in development. · development
 
 ### More capacity. Your way.
 
@@ -585,6 +585,8 @@ Captura: Production reports · Report presentation example. The client dashboard
 - **Recurring remote team**: A team familiar with your specifications for ongoing workloads.
 
 - **Multilingual post team**: Shared delivery rules and production tracking across languages.
+
+Captura: Production reports · Report presentation example. The client dashboard is in development. · development
 
 ### Additional support, separately scoped.
 
@@ -688,7 +690,7 @@ Herramienta interna del equipo de producción para mantener el contexto de cada 
 
 Captura: Revisión de audio y guion · Vista interna de QA · Captura original de la presentación. · internal
 
-Captura: Informes de producción · Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo. · development
+Captura: Seguimiento de producción · Vista de dashboard de cliente en desarrollo. · development
 
 ### Más capacidad. A tu manera.
 
@@ -701,6 +703,8 @@ Captura: Informes de producción · Ejemplo de presentación de un informe. El d
 - **Equipo remoto recurrente**: Un equipo familiarizado con tus especificaciones para cargas continuas.
 
 - **Postproducción multilingüe**: Criterios de entrega y seguimiento compartidos entre idiomas.
+
+Captura: Informes de producción · Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo. · development
 
 ### Apoyo adicional, con alcance propio.
 
@@ -778,8 +782,8 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
 ```json
 {
   "es": {
-    "copyright": "Copyright © 2025 DigiTalks-AI. Todos los derechos reservados",
-    "credit": "Diseñado por DigiTalks|ai",
+    "copyright": "© DigiTalks AI. Todos los derechos reservados.",
+    "credit": "",
     "links": [
       {
         "label": "Política de privacidad",
@@ -795,7 +799,7 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
   },
   "en": {
     "copyright": "Copyright © DigiTalks-AI. All rights reserved.",
-    "credit": "Designed by DigiTalks|ai",
+    "credit": "",
     "links": [
       {
         "label": "Privacy policy",

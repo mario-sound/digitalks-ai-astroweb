@@ -139,11 +139,11 @@
           "enabled": true
         },
         {
-          "id": "production-report",
-          "src": "/images/suiteqa/production-report.webp",
-          "title": "Production reports",
-          "alt": "Actual SuiteQA report showing REC, POST and QA stages",
-          "caption": "Report presentation example. The client dashboard is in development.",
+          "id": "client-dashboard",
+          "src": "/images/suiteqa/client-dashboard.webp",
+          "title": "Production overview",
+          "alt": "Original SuiteQA dashboard screenshot with REC, POST and QA status",
+          "caption": "Client dashboard view in development.",
           "status": "development",
           "review": "pending",
           "enabled": true
@@ -152,7 +152,6 @@
       "galleryLabel": "SuiteQA views",
       "zoomLabel": "Enlarge screenshot",
       "closeLabel": "Close screenshot",
-      "previewLabel": "Local preview · Images awaiting publication approval",
       "developmentLabel": "In development",
       "originalSizeLabel": "Original size",
       "fitLabel": "Fit to screen",
@@ -179,7 +178,25 @@
       ],
       "enabled": true,
       "surface": "light",
-      "headingAccent": "Your way."
+      "headingAccent": "Your way.",
+      "screenshots": [
+        {
+          "id": "production-report",
+          "src": "/images/suiteqa/production-report.webp",
+          "title": "Production reports",
+          "alt": "Actual SuiteQA report showing REC, POST and QA stages",
+          "caption": "Report presentation example. The client dashboard is in development.",
+          "status": "development",
+          "review": "pending",
+          "enabled": true
+        }
+      ],
+      "galleryLabel": "SuiteQA views",
+      "zoomLabel": "Enlarge screenshot",
+      "closeLabel": "Close screenshot",
+      "developmentLabel": "In development",
+      "originalSizeLabel": "Original size",
+      "fitLabel": "Fit to screen"
     },
     {
       "type": "commercial",

@@ -169,8 +169,6 @@ content:
                 type: string
               - name: closeLabel
                 type: string
-              - name: previewLabel
-                type: string
               - name: developmentLabel
                 type: string
               - name: artworkImages
@@ -206,12 +204,6 @@ content:
                       media: assets
                   - name: alt
                     type: string
-              - name: logoAttribution
-                type: string
-              - name: pauseLabel
-                type: string
-              - name: resumeLabel
-                type: string
               - name: timeline
                 type: object
                 list:

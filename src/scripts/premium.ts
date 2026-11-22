@@ -2,11 +2,9 @@
 const preference=matchMedia('(prefers-reduced-motion: reduce)');
 const root=document.documentElement;
 const running=new Set<Animation>();
-const banners=document.querySelectorAll<HTMLElement>('.b2b-experience');
 function setMotion(){
  root.classList.toggle('motion-ready',!preference.matches);
  if(preference.matches){running.forEach(animation=>animation.cancel());running.clear();}
- banners.forEach(b=>{const button=b.querySelector<HTMLButtonElement>('.motion-toggle');if(button)button.hidden=preference.matches;});
 }
 setMotion();preference.addEventListener('change',setMotion);
 if('IntersectionObserver' in window){
@@ -25,10 +23,6 @@ if('IntersectionObserver' in window){
  }),{threshold:.12});
  document.querySelectorAll('[data-reveal],.b2b-experience').forEach(el=>observer.observe(el));
 }
-banners.forEach(b=>{
- const button=b.querySelector<HTMLButtonElement>('.motion-toggle');
- button?.addEventListener('click',()=>{const paused=b.classList.toggle('motion-paused');button.setAttribute('aria-pressed',String(paused));button.textContent=paused?button.dataset.resumeLabel!:button.dataset.pauseLabel!;});
-});
 // Native constraints remain available; inline feedback never changes submission status.
 document.querySelectorAll<HTMLFormElement>('.compact-form').forEach(form=>{
  const input=form.querySelector<HTMLInputElement>('input[type=email]');

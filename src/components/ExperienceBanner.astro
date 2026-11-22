@@ -10,6 +10,4 @@ const {section:s}=Astro.props;
   <ul class="expertise-static">{s.logos?.length?s.logos.map(logo=><li class="experience-logo"><img src={logo.src} alt={logo.alt} width="180" height="64" loading="lazy"/></li>):s.specialties?.map(label=><li>{label}</li>)}</ul>
   <div class="marquee-window" aria-hidden="true"><div class="marquee-track">{[0,1].map(()=><div class="marquee-group">{s.logos?.length?s.logos.map(logo=><span class="experience-logo"><img src={logo.src} alt="" width="180" height="64" loading="lazy"/></span>):s.specialties?.map(label=><span>{label}<i></i></span>)}</div>)}</div></div>
  </div>
- {s.logoAttribution&&<p class="logo-attribution">{s.logoAttribution}</p>}
- <button class="motion-toggle" type="button" hidden data-pause-label={s.pauseLabel} data-resume-label={s.resumeLabel} aria-pressed="false">{s.pauseLabel}</button>
 </div>

@@ -65,7 +65,7 @@
       "type": "commercial",
       "id": "demos",
       "heading": "Escucha los personajes. Compara los idiomas.",
-      "body": "Demos originales de DigiTalks. Escucha cada voz directamente, sin salir de la página.",
+      "body": "Escucha lo que podemos hacer. Así suenan nuestras voces IA.",
       "items": [],
       "enabled": true,
       "surface": "soft",
@@ -208,8 +208,6 @@
         "Voice Recording",
         "Technical QA"
       ],
-      "pauseLabel": "Pausar movimiento",
-      "resumeLabel": "Reanudar movimiento",
       "logos": [
         {
           "src": "/media/aadbadc7c362-bethesda-300x143_white.png",
@@ -251,8 +249,7 @@
           "src": "/media/527093b531a6-Keywords-300x130.png",
           "alt": "Keywords Studios"
         }
-      ],
-      "logoAttribution": "Referencias de experiencia profesional previa de integrantes del equipo."
+      ]
     },
     {
       "type": "commercial",

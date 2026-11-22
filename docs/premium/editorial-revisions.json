@@ -252,6 +252,20 @@
       "field": "body",
       "before": "Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.",
       "after": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación."
+    },
+    {
+      "path": "/",
+      "section": "demos",
+      "field": "body",
+      "before": "Demos originales de DigiTalks. Escucha cada voz directamente, sin salir de la página.",
+      "after": "Escucha lo que podemos hacer. Así suenan nuestras voces IA."
+    },
+    {
+      "path": "/en/start/",
+      "section": "demos",
+      "field": "body",
+      "before": "Original DigiTalks demos. Play each voice directly on this page.",
+      "after": "Hear what we can do. This is what our AI voices sound like."
     }
   ]
 }

@@ -2,9 +2,9 @@
 import {general,ui,footer} from '../lib/content';
 const {lang}=Astro.props;const content=footer[lang];
 ---
-<footer class="site-footer">
-  <img src={general.logo} alt={general.title} width="205" height="44" loading="lazy"/>
-  <nav aria-label={ui[lang].legal}>{content.links.map(link=><a href={link.href}>{link.label}</a>)}<span>{content.unlinked}</span></nav>
-  <p class="footer-contact"><a href={`mailto:${content.email||'audio@digitalks-ai.com'}`}>{content.email||'audio@digitalks-ai.com'}</a><br/>{content.copyright}</p><p>{content.credit}</p>
-  <button class="consent-open" type="button">{ui[lang].consentTitle}</button>
+<footer class="site-footer compact-footer">
+ <div class="footer-inner">
+  <div class="footer-top"><img src={general.logo} alt={general.title} width="205" height="44" loading="lazy"/><a class="footer-email" href={`mailto:${content.email||'audio@digitalks-ai.com'}`}>{content.email||'audio@digitalks-ai.com'}</a></div>
+  <div class="footer-bottom"><nav aria-label={ui[lang].legal}>{content.links.map(link=><a href={link.href}>{link.label}</a>)}<button class="consent-open" type="button">{ui[lang].consentTitle}</button></nav><p>{content.copyright}{content.credit&&<span class="footer-credit"> · {content.credit}</span>}</p></div>
+ </div>
 </footer>

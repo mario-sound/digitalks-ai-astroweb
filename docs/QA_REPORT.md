@@ -58,3 +58,12 @@ Servidor existente del usuario: http://127.0.0.1:4321/. Para iniciarlo en otra s
 Comparación con el B2B anterior: `npm run compare -- --revision=6d067cc` en 4322; snapshot preparado y compilado. No cambia la rama. Comparaciones de imágenes: `premium/comparison-home.jpg`, `comparison-post.jpg`, `comparison-datasets.jpg`.
 
 Documentación: [informe visual](VISUAL_REDESIGN_REPORT.md), [motion](MOTION_DESIGN_SYSTEM.md), [conversión](CONVERSION_OPTIMIZATION.md), [Sender](FORM_INTEGRATION_STATUS.md), [CMS](CMS_CONTENT_MODEL.md), [SEO](SEO_MIGRATION_PLAN.md), [copy](WEBSITE_COPY_ES_EN.md), [fuentes](SOURCE_CLAIMS_AUDIT.md).
+
+
+## Ajustes de revisión — 23/11/2026
+
+Aplicados los ocho comentarios: sin botón de pausa ni atribución adicional bajo logos; nuevo copy de demos ES/EN; footer compacto compartido con enlaces legales y consentimiento conservados; sin aviso visual de preview ni botones superpuestos en capturas; dashboard original image2 como segunda captura SuiteQA; informe image3 en modalidades de colaboración. Gestión de imágenes desde Pages CMS conservada en ambos bloques.
+
+Verificación: `npm run verify` completado, Astro sin errores y 30/30 pruebas. Navegador local a 390, 535 y 1440 px: sin desbordamiento horizontal en móvil; footer de ~172 px a 390/535; apertura/cierre real del dashboard y del informe en sus diálogos independientes y retorno de foco. Informe en columna derecha en escritorio y debajo de modalidades en móvil. Evidencia en `docs/review-cleanup/`. Dashboard WebP sin pérdida: 1916×910 y RGBA idéntico al PNG original.
+
+No se publicó en producción. Retirar el aviso de la interfaz no cambia `review: pending` ni el bloqueo de compilación para publicación.

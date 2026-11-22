@@ -139,11 +139,11 @@
           "enabled": true
         },
         {
-          "id": "production-report",
-          "src": "/images/suiteqa/production-report.webp",
-          "title": "Informes de producción",
-          "alt": "Informe real de SuiteQA con fases REC, POST y QA",
-          "caption": "Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo.",
+          "id": "client-dashboard",
+          "src": "/images/suiteqa/client-dashboard.webp",
+          "title": "Seguimiento de producción",
+          "alt": "Captura original del dashboard de SuiteQA con estados REC, POST y QA",
+          "caption": "Vista de dashboard de cliente en desarrollo.",
           "status": "development",
           "review": "pending",
           "enabled": true
@@ -152,7 +152,6 @@
       "galleryLabel": "Vistas de SuiteQA",
       "zoomLabel": "Ampliar captura",
       "closeLabel": "Cerrar captura",
-      "previewLabel": "Vista previa local · Imágenes pendientes de aprobación de publicación",
       "developmentLabel": "En desarrollo",
       "originalSizeLabel": "Tamaño original",
       "fitLabel": "Ajustar a pantalla",
@@ -179,7 +178,25 @@
       ],
       "enabled": true,
       "surface": "light",
-      "headingAccent": "A tu manera."
+      "headingAccent": "A tu manera.",
+      "screenshots": [
+        {
+          "id": "production-report",
+          "src": "/images/suiteqa/production-report.webp",
+          "title": "Informes de producción",
+          "alt": "Informe real de SuiteQA con fases REC, POST y QA",
+          "caption": "Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo.",
+          "status": "development",
+          "review": "pending",
+          "enabled": true
+        }
+      ],
+      "galleryLabel": "Vistas de SuiteQA",
+      "zoomLabel": "Ampliar captura",
+      "closeLabel": "Cerrar captura",
+      "developmentLabel": "En desarrollo",
+      "originalSizeLabel": "Tamaño original",
+      "fitLabel": "Ajustar a pantalla"
     },
     {
       "type": "commercial",

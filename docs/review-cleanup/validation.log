@@ -1,0 +1,241 @@
+
+> digitalks-web-astro@0.1.0 verify
+> npm run check && npm run build && npm test
+
+
+> digitalks-web-astro@0.1.0 check
+> ASTRO_TELEMETRY_DISABLED=1 astro check
+
+00:54:10 [content] Syncing content
+00:54:10 [content] Synced content
+00:54:10 [types] Generated 49ms
+00:54:10 [check] Getting diagnostics for Astro files in /Users/mariosanchezmolina/Music/_Sessions/2026/Digitalks/Desarrollo/DigiTalks-Web-Astro...
+Result (24 files): 
+- 0 errors
+- 0 warnings
+- 0 hints
+
+
+> digitalks-web-astro@0.1.0 build
+> node scripts/check-publication.mjs && ASTRO_TELEMETRY_DISABLED=1 astro build
+
+00:54:14 [content] Syncing content
+00:54:14 [content] Synced content
+00:54:14 [types] Generated 47ms
+00:54:14 [build] output: "static"
+00:54:14 [build] mode: "static"
+00:54:14 [build] directory: /Users/mariosanchezmolina/Music/_Sessions/2026/Digitalks/Desarrollo/DigiTalks-Web-Astro/dist/
+00:54:14 [build] Collecting build info...
+00:54:14 [build] ✓ Completed in 65ms.
+00:54:14 [build] Building static entrypoints...
+00:54:15 [vite] ✓ built in 1.44s
+00:54:15 [build] ✓ Completed in 1.47s.
+
+ building client (vite) 
+00:54:15 [vite] transforming...
+00:54:15 [vite] ✓ 4 modules transformed.
+00:54:15 [vite] rendering chunks...
+00:54:15 [vite] computing gzip size...
+00:54:15 [vite] dist/_astro/PageLayout.astro_astro_type_script_index_1_lang.B7IfflOD.js  4.44 kB │ gzip: 1.66 kB
+00:54:15 [vite] dist/_astro/PageLayout.astro_astro_type_script_index_0_lang.Cbum4cME.js  4.48 kB │ gzip: 1.74 kB
+00:54:15 [vite] ✓ built in 68ms
+
+ generating static routes 
+00:54:15 ▶ src/pages/404.astro
+00:54:15   └─ /404.html (+14ms) 
+00:54:15 ▶ src/pages/[...path].astro
+00:54:15   ├─ /en/start/index.html (+13ms) 
+00:54:15   ├─ /index.html (+6ms) 
+00:54:15   ├─ /en/audio-data-collection-en/index.html (+2ms) 
+00:54:15   ├─ /audio-data-collection/index.html (+4ms) 
+00:54:15   ├─ /en/audio-development-en/index.html (+10ms) 
+00:54:15   ├─ /audio-development/index.html (+4ms) 
+00:54:15   ├─ /en/privacy-policy/index.html (+42ms) 
+00:54:15   ├─ /politica-de-cookies-ue/index.html (+86ms) 
+00:54:16   └─ /politica-de-privacidad/index.html (+26ms) 
+00:54:16 ▶ src/pages/ots-audio-data-collection.astro
+00:54:16   └─ /ots-audio-data-collection/index.html (+3ms) 
+00:54:16 λ src/pages/robots.txt.ts
+00:54:16   └─ /robots.txt (+1ms) 
+00:54:16 λ src/pages/sitemap.xml.ts
+00:54:16   └─ /sitemap.xml (+1ms) 
+00:54:16 ▶ /custom-audio-data-collection/
+00:54:16   └─ /custom-audio-data-collection/index.html (+1ms) 
+00:54:16 ▶ /doblaje-youtube/
+00:54:16   └─ /doblaje-youtube/index.html (+0ms) 
+00:54:16 ▶ /en/ia-voice/
+00:54:16   └─ /en/ia-voice/index.html (+0ms) 
+00:54:16 ▶ /en/voiceoverai/
+00:54:16   └─ /en/voiceoverai/index.html (+0ms) 
+00:54:16 ▶ /locucionesia/
+00:54:16   └─ /locucionesia/index.html (+1ms) 
+00:54:16 ▶ /voz-ia/
+00:54:16   └─ /voz-ia/index.html (+1ms) 
+00:54:16 ✓ Completed in 411ms.
+
+00:54:16 [build] 11 page(s) built in 2.05s
+00:54:16 [build] Complete!
+
+> digitalks-web-astro@0.1.0 test
+> node --test scripts/*.test.mjs
+
+TAP version 13
+# Subtest: mobile menu opens and Escape closes it
+ok 1 - mobile menu opens and Escape closes it
+  ---
+  duration_ms: 42.235792
+  ...
+# Subtest: one playing demo pauses all other demos and media errors become visible
+ok 2 - one playing demo pauses all other demos and media errors become visible
+  ---
+  duration_ms: 25.581875
+  ...
+# Subtest: initial consent blocks services, choice persists and can be reopened
+ok 3 - initial consent blocks services, choice persists and can be reopened
+  ---
+  duration_ms: 12.924625
+  ...
+# Subtest: unconfigured form prevents native submission
+ok 4 - unconfigured form prevents native submission
+  ---
+  duration_ms: 12.026875
+  ...
+# Subtest: strategic rewrite preserves all original audio files and character/language associations
+ok 5 - strategic rewrite preserves all original audio files and character/language associations
+  ---
+  duration_ms: 127.726417
+  ...
+# Subtest: six commercial pages have paired translations, real CTAs and distinct service forms
+ok 6 - six commercial pages have paired translations, real CTAs and distinct service forms
+  ---
+  duration_ms: 75.299458
+  ...
+# Subtest: every source route is active, explicitly redirected or retired without chains
+ok 7 - every source route is active, explicitly redirected or retired without chains
+  ---
+  duration_ms: 8.269958
+  ...
+# Subtest: commercial CMS exposes copy, screenshots, demos, links, sections and form selection
+ok 8 - commercial CMS exposes copy, screenshots, demos, links, sections and form selection
+  ---
+  duration_ms: 86.375833
+  ...
+# Subtest: public output excludes private documents, prices, client dashboard and unsupported catalogue offers
+ok 9 - public output excludes private documents, prices, client dashboard and unsupported catalogue offers
+  ---
+  duration_ms: 23.79325
+  ...
+# Subtest: legal content and operational configuration remain preserved
+ok 10 - legal content and operational configuration remain preserved
+  ---
+  duration_ms: 6.110875
+  ...
+# Subtest: forms collect only mandatory email and optional description, without marketing consent
+ok 11 - forms collect only mandatory email and optional description, without marketing consent
+  ---
+  duration_ms: 75.459791
+  ...
+# Subtest: navigation has only the three offers, local conversion anchors and footer email
+ok 12 - navigation has only the three offers, local conversion anchors and footer email
+  ---
+  duration_ms: 32.101416
+  ...
+# Subtest: authorized tone refinements retain structure, routes and media associations
+ok 13 - authorized tone refinements retain structure, routes and media associations
+  ---
+  duration_ms: 2.645792
+  ...
+# Subtest: experience retains team context and motion preferences without extra visible controls
+ok 14 - experience retains team context and motion preferences without extra visible controls
+  ---
+  duration_ms: 65.345625
+  ...
+# Subtest: reduced motion and no-script fallback remain present in output
+ok 15 - reduced motion and no-script fallback remain present in output
+  ---
+  duration_ms: 5.115666
+  ...
+# Subtest: SuiteQA originals are identified by slide and only reviewed preview copies are public
+ok 16 - SuiteQA originals are identified by slide and only reviewed preview copies are public
+  ---
+  duration_ms: 23.740667
+  ...
+# Subtest: SuiteQA approval gate prevents production build until screenshots are approved
+ok 17 - SuiteQA approval gate prevents production build until screenshots are approved
+  ---
+  duration_ms: 2.888917
+  ...
+# Subtest: enhanced audio tracks actual media events, seeks, mutes and safely handles rejection
+ok 18 - enhanced audio tracks actual media events, seeks, mutes and safely handles rejection
+  ---
+  duration_ms: 17.986917
+  ...
+# Subtest: SuiteQA media picker is scoped and production screens retain intrinsic dimensions
+ok 19 - SuiteQA media picker is scoped and production screens retain intrinsic dimensions
+  ---
+  duration_ms: 32.809458
+  ...
+# Subtest: reviewed compact layout keeps privacy folded, locale case and original experience logos
+ok 20 - reviewed compact layout keeps privacy folded, locale case and original experience logos
+  ---
+  duration_ms: 15.438625
+  ...
+# Subtest: review cleanup preserves image interaction without preview notices or overlay buttons
+ok 21 - review cleanup preserves image interaction without preview notices or overlay buttons
+  ---
+  duration_ms: 12.862625
+  ...
+# Subtest: every discovered route is built, with unique paths and localized SEO
+ok 22 - every discovered route is built, with unique paths and localized SEO
+  ---
+  duration_ms: 50.988333
+  ...
+# Subtest: all internal navigation and fragments resolve
+ok 23 - all internal navigation and fragments resolve
+  ---
+  duration_ms: 7.730416
+  ...
+# Subtest: all page images, sources, scripts and CSS resources exist locally
+ok 24 - all page images, sources, scripts and CSS resources exist locally
+  ---
+  duration_ms: 16.443583
+  ...
+# Subtest: audio demos have valid files, metadata and native accessible controls
+ok 25 - audio demos have valid files, metadata and native accessible controls
+  ---
+  duration_ms: 3.436917
+  ...
+# Subtest: forms cannot submit until real Sender IDs are configured
+ok 26 - forms cannot submit until real Sender IDs are configured
+  ---
+  duration_ms: 5.0495
+  ...
+# Subtest: CMS schema covers all content categories and uses official blocks
+ok 27 - CMS schema covers all content categories and uses official blocks
+  ---
+  duration_ms: 74.326417
+  ...
+# Subtest: basic accessibility: labels, landmarks, alt text, skip link and mobile control
+ok 28 - basic accessibility: labels, landmarks, alt text, skip link and mobile control
+  ---
+  duration_ms: 4.869083
+  ...
+# Subtest: preview blocks indexing and sitemap covers every route
+ok 29 - preview blocks indexing and sitemap covers every route
+  ---
+  duration_ms: 0.946833
+  ...
+# Subtest: FTPS refuses absent secrets and unauthorized production before any network connection
+ok 30 - FTPS refuses absent secrets and unauthorized production before any network connection
+  ---
+  duration_ms: 259.283125
+  ...
+1..30
+# tests 30
+# suites 0
+# pass 30
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 1254.859958
