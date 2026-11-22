@@ -1,0 +1,19 @@
+/* DigiTalks foundations. Refero informs rhythm and geometry, never brand identity. */
+:root {
+  --dt-yellow:#f7d84c; --dt-yellow-strong:#ffd113; --dt-orange:#da6331;
+  --dt-ink:#151515; --dt-black:#090909; --dt-dark:#111213; --dt-raised:#1c1d1e;
+  --dt-white:#fff; --dt-soft:#f5f5f3; --dt-line:#deded9; --dt-muted:#5a5b59;
+  --dt-on-dark:#f5f5f2; --dt-muted-dark:#b9bab5; --dt-line-dark:#353633;
+  --dt-font:'Poppins',sans-serif; --dt-display:'Bebas Neue',sans-serif;
+  --dt-editorial:'Playfair Display',serif; --dt-mono:'Space Mono',monospace;
+  --dt-space-1:8px; --dt-space-2:16px; --dt-space-3:24px; --dt-space-4:32px;
+  --dt-space-5:40px; --dt-space-6:48px; --dt-space-8:64px; --dt-space-10:80px;
+  --dt-space-12:96px; --dt-space-15:120px;
+  --dt-container:1200px; --dt-reading:68ch; --dt-gutter:clamp(20px,4vw,48px);
+  --dt-section-space:clamp(56px,7vw,96px);
+  --dt-radius-card:16px; --dt-radius-control:10px; --dt-radius-pill:40px;
+  --dt-shadow:0 1px 2px #0000000a,0 8px 24px #00000009;
+  --dt-shadow-raised:0 1px 1px #ffffff14 inset,0 12px 32px #00000024;
+  --dt-ease:cubic-bezier(.2,.7,.2,1); --dt-duration:180ms;
+  --brand-yellow:var(--dt-yellow); --brand-orange:var(--dt-orange);
+}
