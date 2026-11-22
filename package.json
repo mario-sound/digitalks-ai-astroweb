@@ -9,7 +9,8 @@
     "preview": "ASTRO_TELEMETRY_DISABLED=1 astro preview --host 127.0.0.1",
     "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
     "test": "node --test scripts/*.test.mjs",
-    "verify": "npm run check && npm run build && npm test"
+    "verify": "npm run check && npm run build && npm test",
+    "compare": "node scripts/compare-original.mjs"
   },
   "dependencies": {
     "astro": "^5.16.0"

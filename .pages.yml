@@ -11,7 +11,7 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: &a6
+    fields: &a5
       - name: design
         type: boolean
         hidden: true
@@ -82,8 +82,7 @@ content:
                     - soft
                     - dark
                     - brand
-              - &a2
-                name: layout
+              - name: layout
                 type: select
                 options:
                   values:
@@ -94,11 +93,11 @@ content:
                     - logos
                     - statement
                     - hero
-              - &a3
+              - &a2
                 name: artwork
                 type: image
                 label: Imagen o fondo de la composición
-              - &a4
+              - &a3
                 name: actions
                 type: object
                 list:
@@ -111,8 +110,7 @@ content:
                   - name: href
                     type: string
                 label: Botones destacados
-              - &a5
-                name: featuredDemos
+              - name: featuredDemos
                 type: string
                 list: true
                 label: IDs de demos destacadas (hero) campos opcionales
@@ -206,10 +204,16 @@ content:
             label: Texto
             fields:
               - *a1
+              - &a4
+                name: layout
+                type: select
+                options:
+                  values:
+                    - flow
+                    - split
+                    - statement
               - *a2
               - *a3
-              - *a4
-              - *a5
               - name: enabled
                 type: boolean
               - name: heading
@@ -220,10 +224,9 @@ content:
             label: Imagen
             fields:
               - *a1
+              - *a4
               - *a2
               - *a3
-              - *a4
-              - *a5
               - name: heading
                 type: string
               - name: image
@@ -234,10 +237,9 @@ content:
             label: Demo de audio
             fields:
               - *a1
+              - *a4
               - *a2
               - *a3
-              - *a4
-              - *a5
               - name: heading
                 type: string
               - name: demo
@@ -246,10 +248,9 @@ content:
             label: Galería de demos (orden de colección)
             fields:
               - *a1
+              - *a4
               - *a2
               - *a3
-              - *a4
-              - *a5
               - name: heading
                 type: string
               - name: language
@@ -258,10 +259,9 @@ content:
             label: Formulario configurado
             fields:
               - *a1
+              - *a4
               - *a2
               - *a3
-              - *a4
-              - *a5
               - name: heading
                 type: string
               - name: body
@@ -276,7 +276,7 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: *a6
+    fields: *a5
   - name: demos
     label: Demos
     type: collection
@@ -398,7 +398,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a7
+        fields: &a6
           - name: copyright
             type: string
           - name: credit
@@ -419,7 +419,7 @@ content:
             label: Texto legal sin URL recuperada
       - name: en
         type: object
-        fields: *a7
+        fields: *a6
   - name: interface
     label: Interfaz y consentimiento
     type: file
@@ -428,7 +428,7 @@ content:
     fields:
       - name: es
         type: object
-        fields: &a8
+        fields: &a7
           - name: skip
             type: text
           - name: menu
@@ -449,7 +449,7 @@ content:
             type: text
       - name: en
         type: object
-        fields: *a8
+        fields: *a7
   - name: forms
     label: Formularios
     type: collection
@@ -572,4 +572,4 @@ content:
     filename: "{primary}.json"
     view:
       primary: title
-    fields: *a6
+    fields: *a5

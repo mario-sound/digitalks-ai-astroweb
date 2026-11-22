@@ -106,3 +106,12 @@ a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible,t
 .service-hero .dt-headline-dynamic-text{color:var(--dt-yellow)}.service-hero.tone-light .dt-headline-dynamic-text{color:var(--dt-ink);background:linear-gradient(transparent 65%,var(--dt-yellow) 0)}
 .section-artwork img{object-position:100% center}
 @media(max-width:767px){.service-hero h2.dt-heading-title{font-size:48px}.service-hero .dt-headline{font-size:72px}.design-section .split-art img{max-height:320px;max-width:min(100%,var(--image-width,320px),320px)}}
+.e-n-accordion-item-title-icon svg{fill:currentColor}
+/* Intro hierarchy: headline first, supporting promise second. */
+.service-hero .headline-cluster{display:block}.design-section.service-hero .headline-cluster .dt-heading-title{display:block}
+.service-hero.has-visible-title h2.dt-heading-title,.service-hero.has-visible-title h3.dt-heading-title{font:400 24px/1.45 var(--dt-font);letter-spacing:-.03em;max-width:38ch;margin-top:16px!important}
+.service-hero.has-visible-title .headline-punch.dt-heading-title{font:400 clamp(64px,7vw,104px)/1.05 var(--dt-display);color:var(--dt-yellow);margin-top:8px!important}
+.service-hero h2.display-title.dt-heading-title{font:600 clamp(40px,4.8vw,68px)/1.12 var(--dt-font);letter-spacing:-.05em;max-width:20ch}
+.service-hero.has-hidden-title .headline-punch.dt-heading-title{margin-top:8px!important}
+@media(max-width:767px){.service-hero h2.display-title.dt-heading-title{font-size:42px}.service-hero.has-visible-title h2.dt-heading-title,.service-hero.has-visible-title h3.dt-heading-title{font-size:20px}.service-hero.has-visible-title .headline-punch.dt-heading-title{font-size:64px}}
+.design-section h1{text-wrap:balance}

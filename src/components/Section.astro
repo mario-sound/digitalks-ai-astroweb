@@ -10,13 +10,17 @@ const {section,lang,page}=Astro.props;
 const demo=demos.find(x=>x.id===section.demo);
 const gallery=demos.filter(d=>!section.language||d.language===section.language).sort((a,b)=>a.order-b.order);
 const form=forms.find(x=>x.id===section.form);
-const hasContent=!!(section.template||section.heading||section.body||section.image||demo||form||(section.type==='audio-gallery'&&gallery.length));
+const actions=(section.actions||[]).filter(a=>a.label&&a.href);
+const artwork=section.image||section.artwork;
+const hasContent=!!(section.template||section.heading||section.body||artwork||actions.length||demo||form||(section.type==='audio-gallery'&&gallery.length));
 ---
-{section.enabled!==false && hasContent && (section.template ? (page?.design&&section.layout==='hero'?<EditorialHero section={section} lang={lang} page={page}/>:<Fragment set:html={page?.design?renderPresentation(section,lang,page):renderSection(section,lang)} />) : <section class="custom-section">
+{section.enabled!==false && hasContent && (section.template ? (page?.design&&section.layout==='hero'?<EditorialHero section={section} lang={lang} page={page}/>:<Fragment set:html={page?.design?renderPresentation(section,lang,page):renderSection(section,lang)} />) : <section class:list={page?.design?['design-section',`tone-${section.surface||'light'}`,`layout-${section.layout||'flow'}`]:['custom-section']}>
+  <div class={page?.design?'section-shell':undefined}><div class="split-copy">
   {section.heading&&<h2>{section.heading}</h2>}
   {section.body&&<p class="preserve-lines">{section.body}</p>}
-  {section.image&&<img src={section.image} alt={section.alt||''} loading="lazy" />}
   {demo&&<AudioPlayer demo={demo} lang={lang}/>}
   {section.type==='audio-gallery'&&<div class="demo-gallery">{gallery.map(d=><article><img src={d.image} alt={d.title} loading="lazy"/><h3>{d.title}</h3><p>{d.language}</p><AudioPlayer demo={d} lang={lang}/></article>)}</div>}
   {form&&<ContactForm form={form}/>}
+  {actions.length>0&&<div class="hero-actions">{actions.map(a=><a href={a.href} class="design-button">{a.label}</a>)}</div>}
+  </div>{artwork&&<aside class="split-art"><img src={artwork} alt={section.alt||''} loading="lazy"/></aside>}</div>
 </section>)}

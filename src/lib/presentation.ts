@@ -43,7 +43,7 @@ export function renderPresentation(section:Section,lang:string,page?:Page){
   if(children.length<2)continue;
   grid.classList.add(children.some(c=>c.querySelector('audio'))?'character-grid':'content-grid');
   grid.style.setProperty('--columns',String(Math.min(children.length,3)));
-  for(const child of children)child.classList.add(child.querySelector('.dtp2-player')?'language-group':child.querySelector('audio')?'character-card':'content-card');
+  for(const child of children){if(child.querySelector('.dtp2-player'))child.classList.add('language-group');else if(child.querySelector('audio'))child.classList.add('character-card');else if(section.layout==='cards')child.classList.add('content-card');}
  }
  // Existing multilingual cards have one image and multiple flag/player rows.
  for(const group of root.querySelectorAll<HTMLElement>('.e-con')){
@@ -64,7 +64,13 @@ export function renderPresentation(section:Section,lang:string,page?:Page){
  }
  root.classList.add('design-section','tone-'+(section.surface||'light'),'layout-'+(section.layout||'flow'));
  if(legal)root.classList.add('legal-section');
- if(page?.sections[0]?.id===section.id&&!legal)root.classList.add('service-hero');
+ if(page?.sections[0]?.id===section.id&&!legal){
+  root.classList.add('service-hero');
+  const mainHeading=root.querySelector('h1');const visible=mainHeading&&!mainHeading.querySelector('[hidden]');
+  root.classList.add(visible?'has-visible-title':'has-hidden-title');
+  const primary=visible?mainHeading:root.querySelector('h2.dt-heading-title,h3.dt-heading-title');primary?.classList.add('display-title');
+  for(const heading of root.querySelectorAll('h2.dt-heading-title,h3.dt-heading-title'))if(heading!==primary&&heading.textContent!.trim().length<22)heading.classList.add('headline-punch');
+ }
  if(section.id)root.setAttribute('data-section',section.id);
  const shell=d.createElement('div');shell.className='section-shell';
  while(root.firstChild)shell.append(root.firstChild);root.append(shell);
@@ -82,5 +88,10 @@ export function renderPresentation(section:Section,lang:string,page?:Page){
   const img=d.createElement('img');img.src=section.artwork;img.alt='';img.loading='lazy';art.append(img);
   const copy=d.createElement('div');copy.className='split-copy';while(shell.firstChild)copy.append(shell.firstChild);shell.append(copy,art);root.classList.add('has-artwork');
  }
+ // Moving artwork out of a legacy grid must not leave an empty half-column.
+ for(const node of Array.from(root.querySelectorAll('div')).reverse()){
+  if(!node.textContent!.trim()&&!node.id&&!node.querySelector('img,audio,form,svg,iframe,input,textarea,select,[id],[role="button"]')&&!node.matches('[role="button"],[data-sender-form-id]'))node.remove();
+ }
+ for(const grid of root.querySelectorAll<HTMLElement>('.content-grid,.column-layout'))grid.style.setProperty('--columns',String(Math.max(1,Math.min(grid.children.length,3))));
  return root.outerHTML;
 }

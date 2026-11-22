@@ -1,0 +1,482 @@
+[
+  {
+    "page": "/en/start/",
+    "mode": "desktop",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/start/",
+    "mode": "tablet",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/start/",
+    "mode": "mobile",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/",
+    "mode": "desktop",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/",
+    "mode": "tablet",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/",
+    "mode": "mobile",
+    "audioCount": 17,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/audio-data-collection/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/audio-data-collection/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/audio-data-collection/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/audio-development/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/audio-development/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/audio-development/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/custom-audio-data-collection/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/custom-audio-data-collection/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/custom-audio-data-collection/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/doblaje-youtube/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/doblaje-youtube/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/doblaje-youtube/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/en/audio-data-collection-en/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/audio-data-collection-en/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/audio-data-collection-en/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/en/audio-development-en/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/audio-development-en/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/audio-development-en/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/en/ia-voice/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/ia-voice/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/ia-voice/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/en/voiceoverai/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/voiceoverai/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/voiceoverai/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/locucionesia/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/locucionesia/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/locucionesia/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 1,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/ots-audio-data-collection/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/ots-audio-data-collection/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/ots-audio-data-collection/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 4,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/voz-ia/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/voz-ia/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/voz-ia/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 2,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/en/privacy-policy/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/en/privacy-policy/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/en/privacy-policy/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/politica-de-cookies-ue/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/politica-de-cookies-ue/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/politica-de-cookies-ue/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  {
+    "page": "/politica-de-privacidad/",
+    "mode": "desktop",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  {
+    "page": "/politica-de-privacidad/",
+    "mode": "tablet",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 834,
+    "width": 834
+  },
+  {
+    "page": "/politica-de-privacidad/",
+    "mode": "mobile",
+    "audioCount": 0,
+    "broken": [],
+    "formCount": 0,
+    "h1Count": 1,
+    "scrollWidth": 390,
+    "width": 390
+  }
+]

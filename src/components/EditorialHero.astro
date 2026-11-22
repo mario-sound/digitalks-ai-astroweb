@@ -25,7 +25,7 @@ const [primary,...supporting]=featured;
       <div class="stage-orbit" aria-hidden="true"></div>
       <figure class="hero-voice-card">
         <div class="hero-portrait"><img src={primary.image} alt={primary.title} width="800" height="1000" fetchpriority="high"/></div>
-        <figcaption><div class="voice-caption"><span>{primary.title}</span><span class="voice-language">{primary.language}</span></div><AudioPlayer demo={primary} lang={lang}/></figcaption>
+        <figcaption><div class="voice-caption"><span>{primary.title}</span><span class="voice-language">{primary.language}</span></div><AudioPlayer demo={primary} lang={lang} preload="metadata"/></figcaption>
       </figure>
       {supporting.slice(0,2).map((d,i)=><figure class:list={['supporting-character',`supporting-${i+1}`]}><img src={d.image} alt={d.title} width="160" height="160" loading="eager"/><figcaption>{d.title}</figcaption></figure>)}
     </div>}

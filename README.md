@@ -1,6 +1,6 @@
 # DigiTalks AI · Astro
 
-Primera réplica local de las 16 páginas públicas descubiertas de https://digitalks-ai.com/. Astro genera HTML estático: el hosting no necesita un servidor Node. No se ha modificado WordPress, DNS, correo ni producción.
+Versión local rediseñada de las 16 páginas públicas de https://digitalks-ai.com/, en la rama `design/refero-specify`. El clon anterior permanece en `main` (commit `31c290f`). Astro genera HTML estático: el hosting no necesita un servidor Node. No se ha modificado WordPress, DNS, correo ni producción.
 
 ## Abrir la web
 
@@ -20,7 +20,19 @@ npm run verify
 npm run preview
 ```
 
-`dist/` contiene los archivos que se subirían a Hostinger. No hay backend de WordPress ni dependencia de sus plugins. El proyecto conserva selectores y estilos visuales exportados, adaptados a prefijos `dt`, para aproximarse al original; no instala ni ejecuta Elementor/Astra/Polylang/Complianz. Los estilos originales se conservan como evidencia de auditoría, sin cargar scripts originales.
+`dist/` contiene los archivos que se subirían a Hostinger. No hay backend de WordPress ni dependencia de sus plugins. Las plantillas conservan los fragmentos editoriales y selectores `dt`; el rediseño usa tokens y componentes visuales propios, sin cargar el CSS heredado por página ni ejecutar Elementor/Astra/Polylang/Complianz. Los archivos originales quedan como evidencia y compatibilidad.
+
+## Comparar con el clon anterior
+
+Con el rediseño abierto en 4321, ejecuta en otra terminal:
+
+```sh
+npm run compare
+```
+
+Abre http://127.0.0.1:4322/ para ver el clon original. Se usa una copia local de su build; si no existe, se reconstruye desde el commit base, sin cambiar de rama ni tocar tu trabajo. Las mismas rutas funcionan en ambos puertos. Control+C detiene cada servidor por separado.
+
+La evaluación visual y las capturas antes/después están en [validación del rediseño](docs/DESIGN_VALIDATION.md). Para cambiar el diseño global: `src/styles/tokens.css` y `src/styles/design.css`; para textos, imágenes y demos: Pages CMS o `content/`. Guardar JSON actualiza la vista de desarrollo.
 
 ## Qué está listo
 

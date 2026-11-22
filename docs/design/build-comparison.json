@@ -1,0 +1,88 @@
+{
+  "pages": [
+    {
+      "path": "/en/start/",
+      "beforeBytes": 641858,
+      "afterBytes": 87024
+    },
+    {
+      "path": "/",
+      "beforeBytes": 642940,
+      "afterBytes": 87393
+    },
+    {
+      "path": "/audio-data-collection/",
+      "beforeBytes": 577479,
+      "afterBytes": 68148
+    },
+    {
+      "path": "/audio-development/",
+      "beforeBytes": 958968,
+      "afterBytes": 103668
+    },
+    {
+      "path": "/custom-audio-data-collection/",
+      "beforeBytes": 957393,
+      "afterBytes": 137953
+    },
+    {
+      "path": "/doblaje-youtube/",
+      "beforeBytes": 689030,
+      "afterBytes": 89453
+    },
+    {
+      "path": "/en/audio-data-collection-en/",
+      "beforeBytes": 576992,
+      "afterBytes": 68134
+    },
+    {
+      "path": "/en/audio-development-en/",
+      "beforeBytes": 959858,
+      "afterBytes": 104205
+    },
+    {
+      "path": "/en/ia-voice/",
+      "beforeBytes": 958562,
+      "afterBytes": 112899
+    },
+    {
+      "path": "/en/voiceoverai/",
+      "beforeBytes": 928239,
+      "afterBytes": 98445
+    },
+    {
+      "path": "/locucionesia/",
+      "beforeBytes": 929660,
+      "afterBytes": 98552
+    },
+    {
+      "path": "/ots-audio-data-collection/",
+      "beforeBytes": 897624,
+      "afterBytes": 90746
+    },
+    {
+      "path": "/voz-ia/",
+      "beforeBytes": 962866,
+      "afterBytes": 115073
+    },
+    {
+      "path": "/en/privacy-policy/",
+      "beforeBytes": 522307,
+      "afterBytes": 60267
+    },
+    {
+      "path": "/politica-de-cookies-ue/",
+      "beforeBytes": 680663,
+      "afterBytes": 80025
+    },
+    {
+      "path": "/politica-de-privacidad/",
+      "beforeBytes": 521627,
+      "afterBytes": 61097
+    }
+  ],
+  "htmlBeforeBytes": 12406066,
+  "htmlAfterBytes": 1463082,
+  "reductionPercent": 88.2,
+  "browserDependenciesAdded": 0
+}

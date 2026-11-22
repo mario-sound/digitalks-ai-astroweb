@@ -1,0 +1,13 @@
+{
+  "test": "Temporary CMS-style page added while dev server was running",
+  "observed": {
+    "route": "/design-optional-check/",
+    "designed": true,
+    "h1Present": true,
+    "emptyImageSources": 0,
+    "brokenImages": 0,
+    "audioPlayers": 0,
+    "forms": 0
+  },
+  "result": "Passed; optional hero actions, featured demos, artwork, migrated image and empty native blocks did not cause errors. Fixture removed after inspection."
+}

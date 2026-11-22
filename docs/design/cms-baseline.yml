@@ -1,0 +1,504 @@
+# Pages CMS official file/collection/block schema. No private credentials.
+media:
+  input: public/media
+  output: /media
+content:
+  - name: pages
+    label: Páginas
+    type: collection
+    path: content/pages
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields: &a1
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+        required: true
+      - name: path
+        type: string
+        required: true
+        label: Ruta completa con / inicial y final
+      - name: lang
+        type: select
+        options:
+          values:
+            - es
+            - en
+      - name: seo
+        type: string
+        required: true
+        label: ID del registro SEO
+      - name: source
+        type: string
+        readonly: true
+      - name: bodyClass
+        type: string
+        hidden: true
+      - name: rootClass
+        type: string
+        hidden: true
+      - name: css
+        type: string
+        hidden: true
+      - name: styles
+        type: string
+        list: true
+        hidden: true
+      - name: backgrounds
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: original
+            type: string
+            readonly: true
+          - name: src
+            type: image
+        label: Imágenes de fondo
+      - name: sections
+        type: block
+        label: "Secciones: editar y reordenar"
+        list: true
+        blockKey: type
+        blocks:
+          - name: migrated
+            label: Sección original (duplicar desde una página existente)
+            fields:
+              - name: videos
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: key
+                    type: string
+                    readonly: true
+                  - name: url
+                    type: string
+                  - name: poster
+                    type: image
+                  - name: label
+                    type: string
+              - name: id
+                type: string
+                readonly: true
+              - name: label
+                type: string
+              - name: template
+                type: string
+                readonly: true
+              - name: enabled
+                type: boolean
+              - name: texts
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: key
+                    type: string
+                    readonly: true
+                  - name: label
+                    type: string
+                    readonly: true
+                  - name: value
+                    type: text
+                label: Textos originales
+              - name: images
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: key
+                    type: string
+                    readonly: true
+                  - name: src
+                    type: image
+                  - name: alt
+                    type: string
+                label: Fotografías e imágenes
+              - name: links
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: key
+                    type: string
+                    readonly: true
+                  - name: label
+                    type: string
+                    readonly: true
+                  - name: href
+                    type: string
+                label: Enlaces y botones
+              - name: forms
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: slot
+                    type: string
+                    readonly: true
+                  - name: form
+                    type: string
+                label: "Formularios: ID del formulario configurado"
+          - name: text
+            label: Texto
+            fields:
+              - name: enabled
+                type: boolean
+              - name: heading
+                type: string
+              - name: body
+                type: text
+          - name: image
+            label: Imagen
+            fields:
+              - name: heading
+                type: string
+              - name: image
+                type: image
+              - name: alt
+                type: string
+          - name: audio
+            label: Demo de audio
+            fields:
+              - name: heading
+                type: string
+              - name: demo
+                type: string
+          - name: audio-gallery
+            label: Galería de demos (orden de colección)
+            fields:
+              - name: heading
+                type: string
+              - name: language
+                type: string
+          - name: form
+            label: Formulario configurado
+            fields:
+              - name: heading
+                type: string
+              - name: body
+                type: text
+              - name: form
+                type: string
+  - name: services
+    label: Servicios
+    type: collection
+    path: content/services
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields: *a1
+  - name: demos
+    label: Demos
+    type: collection
+    path: content/demos
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+      - name: character
+        type: string
+      - name: language
+        type: string
+      - name: audio
+        type: file
+      - name: image
+        type: image
+      - name: source
+        type: string
+        readonly: true
+      - name: order
+        type: number
+  - name: characters
+    label: Personajes
+    type: collection
+    path: content/characters
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: image
+        type: image
+  - name: languages
+    label: Idiomas
+    type: collection
+    path: content/languages
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: home
+        type: string
+      - name: formError
+        type: string
+  - name: navigation
+    label: Navegación
+    type: file
+    path: content/settings/navigation.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: label
+            type: string
+          - name: href
+            type: string
+      - name: en
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: label
+            type: string
+          - name: href
+            type: string
+  - name: general
+    label: Configuración general
+    type: file
+    path: content/settings/general.json
+    format: json
+    fields:
+      - name: title
+        type: string
+      - name: url
+        type: string
+      - name: logo
+        type: image
+      - name: preview
+        type: boolean
+        label: "Vista previa: bloquea indexación"
+      - name: senderAccountId
+        type: string
+        label: ID público de cuenta Sender (nunca API key)
+      - name: senderEnabled
+        type: boolean
+      - name: gtmId
+        type: string
+      - name: analyticsEnabled
+        type: boolean
+      - name: searchConsoleVerification
+        type: string
+  - name: footer
+    label: Pie de página
+    type: file
+    path: content/settings/footer.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        fields: &a2
+          - name: copyright
+            type: string
+          - name: credit
+            type: string
+          - name: links
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{label}"
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: unlinked
+            type: string
+            label: Texto legal sin URL recuperada
+      - name: en
+        type: object
+        fields: *a2
+  - name: interface
+    label: Interfaz y consentimiento
+    type: file
+    path: content/settings/ui.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        fields: &a3
+          - name: skip
+            type: text
+          - name: menu
+            type: text
+          - name: navigation
+            type: text
+          - name: legal
+            type: text
+          - name: consentTitle
+            type: text
+          - name: consentText
+            type: text
+          - name: necessary
+            type: text
+          - name: optional
+            type: text
+          - name: privacy
+            type: text
+      - name: en
+        type: object
+        fields: *a3
+  - name: forms
+    label: Formularios
+    type: collection
+    path: content/forms
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+      - name: lang
+        type: select
+        options:
+          values:
+            - es
+            - en
+      - name: source
+        type: string
+        readonly: true
+      - name: fields
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: name
+            type: string
+          - name: label
+            type: string
+          - name: type
+            type: select
+            options:
+              values:
+                - text
+                - email
+                - tel
+                - textarea
+                - select
+                - checkbox
+                - url
+                - number
+                - date
+                - heading
+          - name: showLabel
+            type: boolean
+          - name: width
+            type: select
+            options:
+              values:
+                - full
+                - half
+          - name: required
+            type: boolean
+          - name: placeholder
+            type: string
+          - name: options
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{label}"
+            fields:
+              - name: label
+                type: string
+              - name: value
+                type: string
+      - name: submit
+        type: string
+      - name: status
+        type: select
+        options:
+          values:
+            - unconfigured
+            - configured
+      - name: senderFormId
+        type: string
+        label: ID público real del formulario Sender
+      - name: notice
+        type: text
+  - name: seo
+    label: SEO
+    type: collection
+    path: content/seo
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: description
+        type: text
+      - name: canonical
+        type: string
+      - name: alternates
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: lang
+            type: string
+          - name: path
+            type: string
+      - name: image
+        type: image
+  - name: legal
+    label: Contenido legal
+    type: collection
+    path: content/legal
+    format: json
+    filename: "{primary}.json"
+    view:
+      primary: title
+    fields: *a1

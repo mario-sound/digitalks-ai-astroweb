@@ -47,3 +47,7 @@ Seleccionar el ID de un formulario existente en la sección. Hasta disponer de d
 ## Límites verificados
 
 La sintaxis YAML y las referencias se prueban localmente. No se ha autorizado ni conectado todavía la app de Pages CMS en GitHub, por lo que no se afirma que el ciclo editar→commit→deploy haya sido probado. Pages CMS no proporciona edición visual libre de CSS/animaciones. El diseño original usa valores CSS fijos; textos mucho más largos requieren revisión móvil después del build.
+
+## Rediseño: composiciones editables
+
+La rama design/refero-specify añade superficies light/soft/dark/brand y presets de composición a las secciones, sin retirar campos existentes. El hero reutiliza los fragmentos originales y permite editar sus botones, imagen de apoyo y demos destacadas por ID. Las imágenes/sonidos se siguen cambiando desde sus mismos registros. No es necesario modificar código para textos, fotos, demos, destinos, menús, formularios preparados o SEO habituales. Las reglas globales de diseño están en dos hojas; para una composición completamente nueva se usan los bloques disponibles o se amplía el componente con Codex. La conexión real a Pages CMS sigue pendiente de autorización y prueba externa.

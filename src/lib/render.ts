@@ -7,9 +7,9 @@ export function safeUrl(s:string):string {
  if(/^(https:\/\/|mailto:|tel:|\/(?!\/)|#)/i.test(s))return escape(s);
  throw Error('Unsafe or non-HTTPS URL: '+s);
 }
-export function audioMarkup(demo:Demo,lang:string){
+export function audioMarkup(demo:Demo,lang:string,preload:'none'|'metadata'='none'){
  const error=languages.find(x=>x.id===lang)?.formError||'Audio unavailable';
- return `<div class="audio-player"><audio class="dt-player__audio" controls preload="none" aria-label="${escape(demo.title+' · '+demo.language)}" data-demo="${escape(demo.id)}"><source src="${safeUrl(demo.audio)}" type="audio/mpeg"><a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></audio><p class="audio-error" role="status" hidden>${escape(error)} <a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></p></div>`;
+ return `<div class="audio-player"><audio class="dt-player__audio" controls preload="${preload}" aria-label="${escape(demo.title+' · '+demo.language)}" data-demo="${escape(demo.id)}"><source src="${safeUrl(demo.audio)}" type="audio/mpeg"><a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></audio><p class="audio-error" role="status" hidden>${escape(error)} <a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></p></div>`;
 }
 export function formMarkup(form:Form){
  if(general.senderEnabled&&general.senderAccountId&&form.status==='configured'&&form.senderFormId){

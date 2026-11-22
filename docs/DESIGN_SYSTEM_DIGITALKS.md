@@ -46,7 +46,7 @@ Para nuevas páginas, se pueden usar bloques de texto, imagen, demo, galería o 
 
 ## Componentes y accesibilidad
 
-Botones con mínimo 48 px de altura y foco visible; campos con 16 px, etiquetas y validaciones originales. Nombres de demos legibles sobre superficie oscura. Audio nativo con progreso, volumen según dispositivo, teclado, error, sin autoplay y pausa entre instancias. Los reproductores del hero reutilizan el componente existente. Menú móvil con estado, Escape y desplazamiento si no cabe. FAQs y carruseles conservan los manejadores existentes.
+Botones con mínimo 48 px de altura y foco visible; campos con 16 px, etiquetas y validaciones originales. Nombres de demos legibles sobre superficie oscura. Audio nativo con progreso, volumen según dispositivo, teclado, error, sin autoplay y pausa entre instancias. El reproductor del hero reutiliza el componente existente y precarga sólo metadatos para mostrar duración; las demás demos mantienen carga bajo demanda. Menú móvil con estado, Escape y desplazamiento si no cabe. FAQs y carruseles conservan los manejadores existentes.
 
 Movimiento breve y respeto a prefers-reduced-motion, sin librerías nuevas. No se necesita animación para descubrir contenido. Imágenes con ajuste proporcional; se permite encuadrar retratos/fondos sin deformarlos. Los archivos originales no cambian. Las capturas finales y comprobaciones se documentan separadamente; no se afirma conformidad WCAG completa.
 
