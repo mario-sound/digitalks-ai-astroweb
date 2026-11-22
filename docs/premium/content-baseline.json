@@ -1,0 +1,1710 @@
+{
+  "pages/dubbing-en.json": {
+    "id": "dubbing-en",
+    "title": "Multilingual AI dubbing for animation and games.",
+    "path": "/en/start/",
+    "lang": "en",
+    "seo": "dubbing-en",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Multilingual AI dubbing for animation and games.",
+        "body": "Bring your content to new markets with professional dubbing and a production model built around your project.",
+        "items": [],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "hero",
+        "eyebrow": "DIGITALKS AI / DUBBING",
+        "image": "/media/03616d41884b.webp",
+        "alt": "Barbarian character from the DigiTalks demos",
+        "actions": [
+          {
+            "label": "Request a dubbing quote",
+            "href": "#contacto"
+          },
+          {
+            "label": "Listen to demos",
+            "href": "#demos"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "sectores",
+        "heading": "Two sectors. Different production needs.",
+        "body": "",
+        "items": [
+          {
+            "title": "Animation · Take your catalogue further",
+            "body": "For producers, distributors and IP owners. Build versions for new territories, coordinate languages and maintain each character’s vocal identity across series and recurring content."
+          },
+          {
+            "title": "Games · More languages for your world",
+            "body": "For developers and publishers. Handle dialogue volumes, NPCs and updates with performed voices, generated voices or a combination, chosen for each character and localization workflow."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "sectors"
+      },
+      {
+        "type": "commercial",
+        "id": "demos",
+        "heading": "Hear the characters. Compare the languages.",
+        "body": "Original DigiTalks demos. Play each voice directly on this page.",
+        "items": [],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "demos",
+        "characterLabel": "Characters · Spanish",
+        "multilingualLabel": "One voice, multiple languages",
+        "demoIds": [
+          "033d22dea77a",
+          "1ccedcf82508",
+          "c254808678b9",
+          "c97e1df4f785",
+          "2280308e51d6",
+          "bb946e455591",
+          "c0650d2d911d",
+          "96a7a8374a7c",
+          "865aadf770ce",
+          "70e928265c9d",
+          "b33caef6d9df",
+          "2cc01270d1a3",
+          "9b4f61cb6e53",
+          "136d449eee15",
+          "3af28f6af8be",
+          "0abe5c673d61"
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "produccion",
+        "heading": "From script to final version.",
+        "body": "Commission the full production or selected stages around your materials and team. We agree the scope before production.",
+        "items": [
+          {
+            "title": "Translation and adaptation",
+            "body": "Text, context, character and timing."
+          },
+          {
+            "title": "Casting and voices",
+            "body": "Selection, creation or generation to fit the project."
+          },
+          {
+            "title": "Studio and AI dubbing",
+            "body": "Directed performance and voice production."
+          },
+          {
+            "title": "Post-production and mixing",
+            "body": "Editing, synchronization and audio finishing."
+          },
+          {
+            "title": "Review and quality control",
+            "body": "Linguistic review and technical checks."
+          },
+          {
+            "title": "Subtitling",
+            "body": "Translation and timing where the project requires it."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "voces",
+        "heading": "The right voice for each character.",
+        "body": "We choose the production method around the content, performance and budget. Creating a voice and producing the dub are separate stages.",
+        "items": [
+          {
+            "title": "Professional actors",
+            "body": "Casting, direction and studio performance."
+          },
+          {
+            "title": "Custom AI voices",
+            "body": "Voice creation for the project’s requirements, with the appropriate permissions."
+          },
+          {
+            "title": "Synthetic and catalogue voices",
+            "body": "Designed or selected options with their own usage terms; catalogue voices are non-exclusive."
+          },
+          {
+            "title": "Hybrid production",
+            "body": "Combine human performance and generated voices within one production."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "note": "Voice rights, consent, permitted uses and any exclusivity are agreed per project."
+      },
+      {
+        "type": "commercial",
+        "id": "proceso",
+        "heading": "One coordinated production process.",
+        "body": "",
+        "items": [
+          {
+            "title": "Materials",
+            "body": "Scripts, audio and references."
+          },
+          {
+            "title": "Adaptation",
+            "body": "Scripts prepared for the language and character."
+          },
+          {
+            "title": "Voices",
+            "body": "Casting and production method."
+          },
+          {
+            "title": "Production",
+            "body": "Dubbing, editing and mixing."
+          },
+          {
+            "title": "Review and delivery",
+            "body": "Linguistic and technical review, then final assets."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "process"
+      },
+      {
+        "type": "commercial",
+        "id": "equipo",
+        "heading": "Production judgement. Multilingual coordination.",
+        "body": "A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.",
+        "items": [],
+        "enabled": true,
+        "surface": "soft"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "Which content would you like to take to new markets?",
+        "body": "Tell us about the content, languages and approximate volume. We will review the materials and scope with you.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "dubbing-en",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "pages/dubbing-es.json": {
+    "id": "dubbing-es",
+    "title": "Doblaje multilingüe con IA para animación y videojuegos.",
+    "path": "/",
+    "lang": "es",
+    "seo": "dubbing-es",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Doblaje multilingüe con IA para animación y videojuegos.",
+        "body": "Lleva tu contenido a nuevos mercados con una producción de doblaje profesional y una inversión adaptable a tu proyecto.",
+        "items": [],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "hero",
+        "eyebrow": "DIGITALKS AI / DUBBING",
+        "image": "/media/03616d41884b.webp",
+        "alt": "Personaje bárbaro de las demos DigiTalks",
+        "actions": [
+          {
+            "label": "Solicitar presupuesto",
+            "href": "#contacto"
+          },
+          {
+            "label": "Escuchar demos",
+            "href": "#demos"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "sectores",
+        "heading": "Dos sectores. Distintas necesidades.",
+        "body": "",
+        "items": [
+          {
+            "title": "Animación · Más recorrido para tu catálogo",
+            "body": "Para productoras, distribuidoras y propietarios de IP. Crea versiones para nuevos territorios, coordina varios idiomas y conserva la identidad vocal de tus personajes en series y contenidos recurrentes."
+          },
+          {
+            "title": "Videojuegos · Más idiomas para tu mundo",
+            "body": "Para desarrolladoras y publishers. Organiza grandes volúmenes de diálogo, NPCs y actualizaciones con voces interpretadas, generadas o una combinación de ambas, según las necesidades de cada personaje y la localización."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "sectors"
+      },
+      {
+        "type": "commercial",
+        "id": "demos",
+        "heading": "Escucha los personajes. Compara los idiomas.",
+        "body": "Demos originales de DigiTalks. Escucha cada voz directamente, sin salir de la página.",
+        "items": [],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "demos",
+        "characterLabel": "Personajes · Español",
+        "multilingualLabel": "Una voz, varios idiomas",
+        "demoIds": [
+          "033d22dea77a",
+          "1ccedcf82508",
+          "c254808678b9",
+          "c97e1df4f785",
+          "2280308e51d6",
+          "bb946e455591",
+          "c0650d2d911d",
+          "96a7a8374a7c",
+          "865aadf770ce",
+          "70e928265c9d",
+          "b33caef6d9df",
+          "2cc01270d1a3",
+          "9b4f61cb6e53",
+          "136d449eee15",
+          "3af28f6af8be",
+          "0abe5c673d61"
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "produccion",
+        "heading": "Del guion a la versión final.",
+        "body": "Producción completa o fases concretas, según el estado de tus materiales y tu equipo. Definimos el alcance antes de empezar.",
+        "items": [
+          {
+            "title": "Traducción y adaptación",
+            "body": "Texto, contexto, personaje y sincronía."
+          },
+          {
+            "title": "Casting y voces",
+            "body": "Selección, creación o generación según el proyecto."
+          },
+          {
+            "title": "Doblaje en estudio y con IA",
+            "body": "Interpretación dirigida y producción de voces."
+          },
+          {
+            "title": "Postproducción y mezcla",
+            "body": "Edición, sincronía y acabado de audio."
+          },
+          {
+            "title": "Revisión y control",
+            "body": "Revisión lingüística y comprobaciones técnicas."
+          },
+          {
+            "title": "Subtitulado",
+            "body": "Traducción y sincronización cuando el proyecto lo requiere."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "voces",
+        "heading": "La voz adecuada para cada personaje.",
+        "body": "Elegimos el método de producción según el contenido, la interpretación y el presupuesto. Crear una voz y producir el doblaje son fases distintas.",
+        "items": [
+          {
+            "title": "Actores profesionales",
+            "body": "Casting, dirección e interpretación en estudio."
+          },
+          {
+            "title": "Voces IA personalizadas",
+            "body": "Creación de una voz para las necesidades del proyecto, con las autorizaciones que correspondan."
+          },
+          {
+            "title": "Voces sintéticas y de catálogo",
+            "body": "Opciones de diseño y selección con condiciones de uso propias; las voces de catálogo no son exclusivas."
+          },
+          {
+            "title": "Producción híbrida",
+            "body": "Combina interpretación humana y voces generadas en una misma producción."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "note": "Derechos de voz, consentimiento, usos y cualquier exclusividad se acuerdan por proyecto."
+      },
+      {
+        "type": "commercial",
+        "id": "proceso",
+        "heading": "Un proceso, de principio a fin.",
+        "body": "",
+        "items": [
+          {
+            "title": "Materiales",
+            "body": "Guiones, audio y referencias."
+          },
+          {
+            "title": "Adaptación",
+            "body": "Texto preparado para el idioma y el personaje."
+          },
+          {
+            "title": "Voces",
+            "body": "Casting y método de producción."
+          },
+          {
+            "title": "Producción",
+            "body": "Doblaje, edición y mezcla."
+          },
+          {
+            "title": "Revisión y entrega",
+            "body": "Control lingüístico, técnico y archivos finales."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "process"
+      },
+      {
+        "type": "commercial",
+        "id": "equipo",
+        "heading": "Criterio de producción. Coordinación multilingüe.",
+        "body": "Un equipo con experiencia profesional en audio, localización y videojuegos. Acordamos referencias, criterios de revisión y entregables para mantener coherencia entre idiomas y fases. Las demos muestran el resultado que puedes evaluar.",
+        "items": [],
+        "enabled": true,
+        "surface": "soft"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "¿Qué contenido quieres llevar a nuevos mercados?",
+        "body": "Cuéntanos el tipo de contenido, los idiomas y el volumen aproximado. Revisaremos los materiales y el alcance contigo.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "dubbing-es",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "services/datasets-en.json": {
+    "id": "datasets-en",
+    "title": "Studio-recorded voice datasets. Built to your brief.",
+    "path": "/en/audio-data-collection-en/",
+    "lang": "en",
+    "seo": "datasets-en",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Studio-recorded voice datasets. Built to your brief.",
+        "body": "Professional recordings to your specifications for speech technology. Native talent, supervised production and structured delivery, primarily in FIGS and Catalan.",
+        "items": [],
+        "enabled": true,
+        "surface": "light",
+        "kind": "hero",
+        "eyebrow": "STUDIO VOICE DATASETS / ON DEMAND",
+        "actions": [
+          {
+            "label": "Request a voice dataset quote",
+            "href": "#contacto"
+          }
+        ],
+        "heroMetrics": [
+          {
+            "title": "01",
+            "body": "Scripts and requirements"
+          },
+          {
+            "title": "02",
+            "body": "Supervised recording"
+          },
+          {
+            "title": "03",
+            "body": "Reviewed delivery"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "idiomas",
+        "heading": "FIGS + Catalan. Recorded on demand.",
+        "body": "French, Italian, German, Spain Spanish and Catalan. Talent profiles, availability and schedule are confirmed for each commission.",
+        "items": [
+          {
+            "title": "FR",
+            "body": "fr-FR"
+          },
+          {
+            "title": "IT",
+            "body": "it-IT"
+          },
+          {
+            "title": "DE",
+            "body": "de-DE"
+          },
+          {
+            "title": "ES",
+            "body": "es-ES"
+          },
+          {
+            "title": "CA",
+            "body": "ca-ES"
+          }
+        ],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "languages"
+      },
+      {
+        "type": "commercial",
+        "id": "grabacion",
+        "heading": "Control from script to file.",
+        "body": "For ASR, TTS, speech R&D teams and data providers that need consistent recordings. Each corpus is produced for its intended use; recognition and synthesis requirements are defined separately.",
+        "items": [
+          {
+            "title": "Custom studio recording",
+            "body": "Client scripts and requirements recorded in a professional studio environment."
+          },
+          {
+            "title": "Talent sourcing",
+            "body": "Selection and coordination of native speakers to the agreed profile."
+          },
+          {
+            "title": "Recording supervision",
+            "body": "Direction and supervision for consistency across sessions."
+          },
+          {
+            "title": "Quality control",
+            "body": "Technical and consistency checks before preparing delivery."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "especificaciones",
+        "heading": "Your specification defines delivery.",
+        "body": "We agree the parameters before recording. There is no single format for every project.",
+        "items": [
+          {
+            "title": "Audio",
+            "body": "Format, sample rate, bit depth, channels and separate tracks where required."
+          },
+          {
+            "title": "Recording conditions",
+            "body": "Levels, background noise and consistency criteria."
+          },
+          {
+            "title": "Organization",
+            "body": "Naming, script identifiers, folder structure and required metadata."
+          },
+          {
+            "title": "Usage and rights",
+            "body": "Consent, voice rights and permitted uses expressly agreed for each project."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "specs"
+      },
+      {
+        "type": "commercial",
+        "id": "proceso",
+        "heading": "A new corpus. A defined process.",
+        "body": "",
+        "items": [
+          {
+            "title": "Define",
+            "body": "Intended use, scripts, speaker profiles and requirements."
+          },
+          {
+            "title": "Prepare",
+            "body": "Talent, consent and session plan."
+          },
+          {
+            "title": "Record",
+            "body": "Supervised studio production."
+          },
+          {
+            "title": "Review and deliver",
+            "body": "QC and files organized to the agreed specification."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "process"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "Tell us what voice data you need.",
+        "body": "Share the languages, speaker profiles, finished hours, intended use and requirements. We will confirm feasibility and scope before quoting.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "datasets-en",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "services/datasets-es.json": {
+    "id": "datasets-es",
+    "title": "Datasets de voz grabados en estudio. A medida de tu proyecto.",
+    "path": "/audio-data-collection/",
+    "lang": "es",
+    "seo": "datasets-es",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Datasets de voz grabados en estudio. A medida de tu proyecto.",
+        "body": "Grabaciones profesionales bajo tus especificaciones para tecnología de voz. Talento nativo, supervisión y entregas estructuradas, principalmente en FIGS y catalán.",
+        "items": [],
+        "enabled": true,
+        "surface": "light",
+        "kind": "hero",
+        "eyebrow": "STUDIO VOICE DATASETS / ON DEMAND",
+        "actions": [
+          {
+            "label": "Solicitar presupuesto de dataset",
+            "href": "#contacto"
+          }
+        ],
+        "heroMetrics": [
+          {
+            "title": "01",
+            "body": "Guiones y requisitos"
+          },
+          {
+            "title": "02",
+            "body": "Grabación supervisada"
+          },
+          {
+            "title": "03",
+            "body": "Entrega revisada"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "idiomas",
+        "heading": "FIGS + catalán. Producción bajo demanda.",
+        "body": "Francés, italiano, alemán, español de España y catalán. Confirmamos perfiles, disponibilidad y calendario para cada encargo.",
+        "items": [
+          {
+            "title": "FR",
+            "body": "fr-FR"
+          },
+          {
+            "title": "IT",
+            "body": "it-IT"
+          },
+          {
+            "title": "DE",
+            "body": "de-DE"
+          },
+          {
+            "title": "ES",
+            "body": "es-ES"
+          },
+          {
+            "title": "CA",
+            "body": "ca-ES"
+          }
+        ],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "languages"
+      },
+      {
+        "type": "commercial",
+        "id": "grabacion",
+        "heading": "Control desde el guion hasta el archivo.",
+        "body": "Para equipos de ASR, TTS, I+D de voz y proveedores de datos que necesitan grabaciones consistentes. Cada corpus se produce según su uso previsto; los requisitos de reconocimiento y síntesis se definen por separado.",
+        "items": [
+          {
+            "title": "Grabación a medida",
+            "body": "Guiones y requisitos del cliente en un entorno profesional de estudio."
+          },
+          {
+            "title": "Selección de talento",
+            "body": "Selección y coordinación de voces nativas según el perfil acordado."
+          },
+          {
+            "title": "Supervisión de grabación",
+            "body": "Dirección y seguimiento para mantener consistencia entre sesiones."
+          },
+          {
+            "title": "Control de calidad",
+            "body": "Revisión técnica y de consistencia antes de preparar la entrega."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "especificaciones",
+        "heading": "Tu especificación define la entrega.",
+        "body": "Acordamos los parámetros antes de grabar. No hay un único formato válido para todos los proyectos.",
+        "items": [
+          {
+            "title": "Audio",
+            "body": "Formato, frecuencia de muestreo, profundidad de bits, canales y pistas separadas cuando proceda."
+          },
+          {
+            "title": "Condiciones de captura",
+            "body": "Niveles, ruido de fondo y criterios de consistencia."
+          },
+          {
+            "title": "Organización",
+            "body": "Naming, identificadores de guion, estructura de carpetas y metadatos requeridos."
+          },
+          {
+            "title": "Uso y derechos",
+            "body": "Consentimiento, derechos de voz y usos permitidos establecidos expresamente para cada proyecto."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "specs"
+      },
+      {
+        "type": "commercial",
+        "id": "proceso",
+        "heading": "Un corpus nuevo. Un proceso definido.",
+        "body": "",
+        "items": [
+          {
+            "title": "Definir",
+            "body": "Uso previsto, guiones, perfiles y requisitos."
+          },
+          {
+            "title": "Preparar",
+            "body": "Talento, consentimiento y plan de sesiones."
+          },
+          {
+            "title": "Grabar",
+            "body": "Producción en estudio con supervisión."
+          },
+          {
+            "title": "Revisar y entregar",
+            "body": "QC y archivos organizados según el acuerdo."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "process"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "¿Qué datos de voz necesitas?",
+        "body": "Comparte idiomas, perfiles, horas finales, uso previsto y requisitos. Confirmaremos viabilidad y alcance antes de presupuestar.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "datasets-es",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "services/post-en.json": {
+    "id": "post-en",
+    "title": "Game audio post-production. Extra capacity when you need it.",
+    "path": "/en/audio-development-en/",
+    "lang": "en",
+    "seo": "post-en",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Game audio post-production. Extra capacity when you need it.",
+        "body": "Professional dialogue editing, technical processing and delivery for original and localized game audio. An external team for production peaks and incoming batches.",
+        "items": [],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "hero",
+        "eyebrow": "GAME AUDIO POST-PRODUCTION",
+        "actions": [
+          {
+            "label": "Request post-production capacity",
+            "href": "#contacto"
+          }
+        ],
+        "heroMetrics": [
+          {
+            "title": "EDIT",
+            "body": "Voice and dialogue"
+          },
+          {
+            "title": "POST",
+            "body": "To your specifications"
+          },
+          {
+            "title": "QC",
+            "body": "Checked before delivery"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "servicio",
+        "heading": "You manage recording. We strengthen delivery.",
+        "body": "For game studios, publishers, recording studios and localization providers facing overlapping projects, extra languages or batches beyond their internal capacity.",
+        "items": [
+          {
+            "title": "Dialogue editing",
+            "body": "Dialogue clean-up, voice editing and duration adjustments to agreed time constraints."
+          },
+          {
+            "title": "Technical processing",
+            "body": "Levels, LUFS, true peak, sample rate and formats matched to the project specifications."
+          },
+          {
+            "title": "Asset preparation",
+            "body": "Naming, folder structure, exports and organized final assets."
+          },
+          {
+            "title": "Delivery technical QC",
+            "body": "Format, naming and consistency checks. Sync requirements and exception reporting within the agreed scope."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "flujo",
+        "heading": "Recording continues. So does post-production.",
+        "body": "Send completed sessions as they become available. We begin post-production in batches while your studios keep recording, with deliveries coordinated around your milestones.",
+        "items": [
+          {
+            "title": "Client studios",
+            "body": "Recording sessions → available batches"
+          },
+          {
+            "title": "DigiTalks",
+            "body": "Editing → processing → QC → delivery"
+          }
+        ],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "workflow",
+        "note": "Illustrative workflow; schedule and reviews are agreed per project."
+      },
+      {
+        "type": "commercial",
+        "id": "suiteqa",
+        "heading": "SuiteQA. Dialogue context, connected.",
+        "body": "Our internal system connects script lines, recording IDs, audio references and QA decisions. It helps the team organize issues and follow production progress.",
+        "items": [
+          {
+            "title": "Scripts and references",
+            "body": "Context for reviewing each line."
+          },
+          {
+            "title": "Status and issues",
+            "body": "Recording, post-production and QA information within the workflow."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "suiteqa",
+        "image": "/media/suiteqa-production.webp",
+        "alt": "Actual SuiteQA screenshot: script lines, references and review decisions",
+        "caption": "SuiteQA · Internal audio and script review view.",
+        "note": "An internal production tool that keeps each line’s context available throughout review."
+      },
+      {
+        "type": "commercial",
+        "id": "colaboracion",
+        "heading": "Support that fits your production.",
+        "body": "",
+        "items": [
+          {
+            "title": "Overflow support",
+            "body": "Extra capacity for production peaks, additional languages or late batches."
+          },
+          {
+            "title": "Recurring remote team",
+            "body": "A team familiar with your specifications for ongoing workloads."
+          },
+          {
+            "title": "Multilingual post team",
+            "body": "Shared delivery rules and production tracking across languages."
+          }
+        ],
+        "enabled": true,
+        "surface": "light"
+      },
+      {
+        "type": "commercial",
+        "id": "complementos",
+        "heading": "Additional support, separately scoped.",
+        "body": "Add-ons are scoped around the project’s needs and are not automatically included in post-production.",
+        "items": [
+          {
+            "title": "Preparation",
+            "body": "Scripts, references, recording IDs, naming and Pro Tools sessions."
+          },
+          {
+            "title": "Technical audit",
+            "body": "Review of sync rules, levels, formats and exception reports, also available as a standalone service."
+          },
+          {
+            "title": "Linguistic audio QA",
+            "body": "Listening review for script mismatches, pronunciation and editing issues."
+          }
+        ],
+        "enabled": true,
+        "surface": "soft"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "Have a batch coming up?",
+        "body": "Send the file count, languages, specifications and target date. We will review the scope and capacity required.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "post-en",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "services/post-es.json": {
+    "id": "post-es",
+    "title": "Postproducción de diálogo para videojuegos. Capacidad cuando la necesitas.",
+    "path": "/audio-development/",
+    "lang": "es",
+    "seo": "post-es",
+    "design": true,
+    "commercial": true,
+    "sections": [
+      {
+        "type": "commercial",
+        "id": "intro",
+        "heading": "Postproducción de diálogo para videojuegos. Capacidad cuando la necesitas.",
+        "body": "Edición de voz, procesamiento técnico y entrega de diálogos originales y localizados. Un equipo externo para absorber picos de producción y nuevos lotes.",
+        "items": [],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "hero",
+        "eyebrow": "GAME AUDIO POST-PRODUCTION",
+        "actions": [
+          {
+            "label": "Consultar capacidad de postproducción",
+            "href": "#contacto"
+          }
+        ],
+        "heroMetrics": [
+          {
+            "title": "EDIT",
+            "body": "Voz y diálogo"
+          },
+          {
+            "title": "POST",
+            "body": "Según tus especificaciones"
+          },
+          {
+            "title": "QC",
+            "body": "Control antes de entregar"
+          }
+        ]
+      },
+      {
+        "type": "commercial",
+        "id": "servicio",
+        "heading": "Tú coordinas la grabación. Nosotros reforzamos la entrega.",
+        "body": "Para estudios de videojuegos, publishers, estudios de grabación y proveedores de localización con proyectos simultáneos, nuevos idiomas o lotes que superan la capacidad interna.",
+        "items": [
+          {
+            "title": "Edición de diálogo",
+            "body": "Limpieza, edición de voz y ajustes de duración según las restricciones de tiempo acordadas."
+          },
+          {
+            "title": "Procesamiento técnico",
+            "body": "Niveles, LUFS, true peak, frecuencia de muestreo y formatos según las especificaciones del proyecto."
+          },
+          {
+            "title": "Preparación de assets",
+            "body": "Naming, estructura de carpetas, exportación y organización de archivos finales."
+          },
+          {
+            "title": "QC técnico de entrega",
+            "body": "Comprobaciones de formato, naming y consistencia. Requisitos de sincronía e incidencias según el alcance acordado."
+          }
+        ],
+        "enabled": true,
+        "surface": "light",
+        "kind": "services"
+      },
+      {
+        "type": "commercial",
+        "id": "flujo",
+        "heading": "La grabación continúa. La postproducción también.",
+        "body": "Envía las sesiones conforme estén listas. Iniciamos la postproducción por lotes mientras los estudios siguen grabando; las entregas se coordinan con tus hitos.",
+        "items": [
+          {
+            "title": "Estudios del cliente",
+            "body": "Sesiones de grabación → lotes disponibles"
+          },
+          {
+            "title": "DigiTalks",
+            "body": "Edición → procesamiento → QC → entrega"
+          }
+        ],
+        "enabled": true,
+        "surface": "soft",
+        "kind": "workflow",
+        "note": "Flujo ilustrativo; calendario y revisiones se acuerdan por proyecto."
+      },
+      {
+        "type": "commercial",
+        "id": "suiteqa",
+        "heading": "SuiteQA. El contexto del diálogo, conectado.",
+        "body": "Nuestro sistema interno conecta líneas de guion, recording IDs, referencias de audio y decisiones de QA. Ayuda al equipo a organizar incidencias y seguir el progreso de la producción.",
+        "items": [
+          {
+            "title": "Guion y referencias",
+            "body": "Contexto para revisar cada línea."
+          },
+          {
+            "title": "Estados e incidencias",
+            "body": "Información de grabación, postproducción y QA en el flujo de trabajo."
+          }
+        ],
+        "enabled": true,
+        "surface": "dark",
+        "kind": "suiteqa",
+        "image": "/media/suiteqa-production.webp",
+        "alt": "Captura real de SuiteQA: líneas de guion, referencias y decisiones de revisión",
+        "caption": "SuiteQA · Vista interna de revisión de audio y guion.",
+        "note": "Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión."
+      },
+      {
+        "type": "commercial",
+        "id": "colaboracion",
+        "heading": "El refuerzo que encaja con tu producción.",
+        "body": "",
+        "items": [
+          {
+            "title": "Overflow puntual",
+            "body": "Capacidad adicional para picos, nuevos idiomas o lotes tardíos."
+          },
+          {
+            "title": "Equipo remoto recurrente",
+            "body": "Un equipo familiarizado con tus especificaciones para cargas continuas."
+          },
+          {
+            "title": "Postproducción multilingüe",
+            "body": "Criterios de entrega y seguimiento compartidos entre idiomas."
+          }
+        ],
+        "enabled": true,
+        "surface": "light"
+      },
+      {
+        "type": "commercial",
+        "id": "complementos",
+        "heading": "Apoyo adicional, con alcance propio.",
+        "body": "Los complementos se presupuestan según lo que necesita el proyecto; no están incluidos automáticamente en la postproducción.",
+        "items": [
+          {
+            "title": "Preparación",
+            "body": "Guiones, referencias, recording IDs, naming y sesiones Pro Tools."
+          },
+          {
+            "title": "Auditoría técnica",
+            "body": "Revisión de sincronía, niveles, formatos e informes de excepciones, también como servicio independiente."
+          },
+          {
+            "title": "QA lingüístico",
+            "body": "Revisión de escucha: correspondencia con guion, pronunciación e incidencias de edición."
+          }
+        ],
+        "enabled": true,
+        "surface": "soft"
+      },
+      {
+        "type": "commercial",
+        "id": "contacto",
+        "heading": "¿Tienes un lote en camino?",
+        "body": "Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.",
+        "items": [],
+        "enabled": true,
+        "surface": "brand",
+        "kind": "contact",
+        "form": "post-es",
+        "email": "audio@digitalks-ai.com"
+      }
+    ]
+  },
+  "forms/datasets-en.json": {
+    "id": "datasets-en",
+    "title": "datasets en",
+    "lang": "en",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Company",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Work email",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "languages",
+        "label": "Languages",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "speakers",
+        "label": "Speaker count and profiles",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "hours",
+        "label": "Approximate finished hours",
+        "type": "number",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "use",
+        "label": "Intended use",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "date",
+        "label": "Target date",
+        "type": "date",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Technical requirements and comments",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "I have read the privacy policy and consent to processing for this enquiry.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Request a dataset quote",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+  },
+  "forms/datasets-es.json": {
+    "id": "datasets-es",
+    "title": "datasets es",
+    "lang": "es",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Nombre",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Empresa",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email profesional",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "languages",
+        "label": "Idiomas",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "speakers",
+        "label": "Número y perfil de locutores",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "hours",
+        "label": "Horas finales aproximadas",
+        "type": "number",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "use",
+        "label": "Uso previsto",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "date",
+        "label": "Fecha estimada",
+        "type": "date",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Requisitos técnicos y comentarios",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "He leído la política de privacidad y consiento el tratamiento para atender mi consulta.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Consultar dataset de voz",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."
+  },
+  "forms/dubbing-en.json": {
+    "id": "dubbing-en",
+    "title": "dubbing en",
+    "lang": "en",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Company",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Work email",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "content",
+        "label": "Content type",
+        "type": "select",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": [
+          {
+            "label": "Select",
+            "value": ""
+          },
+          {
+            "label": "Animation",
+            "value": "animation"
+          },
+          {
+            "label": "Games",
+            "value": "games"
+          },
+          {
+            "label": "Other",
+            "value": "other"
+          }
+        ]
+      },
+      {
+        "name": "languages",
+        "label": "Source and target languages",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "volume",
+        "label": "Approximate volume (minutes or words)",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Project and comments",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "I have read the privacy policy and consent to processing for this enquiry.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Request a dubbing quote",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+  },
+  "forms/dubbing-es.json": {
+    "id": "dubbing-es",
+    "title": "dubbing es",
+    "lang": "es",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Nombre",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Empresa",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email profesional",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "content",
+        "label": "Tipo de contenido",
+        "type": "select",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": [
+          {
+            "label": "Selecciona",
+            "value": ""
+          },
+          {
+            "label": "Animación",
+            "value": "animation"
+          },
+          {
+            "label": "Videojuegos",
+            "value": "games"
+          },
+          {
+            "label": "Otro",
+            "value": "other"
+          }
+        ]
+      },
+      {
+        "name": "languages",
+        "label": "Idiomas de origen y destino",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "volume",
+        "label": "Volumen aproximado (minutos o palabras)",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Proyecto y comentarios",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "He leído la política de privacidad y consiento el tratamiento para atender mi consulta.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Solicitar presupuesto de doblaje",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."
+  },
+  "forms/post-en.json": {
+    "id": "post-en",
+    "title": "post en",
+    "lang": "en",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Company",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Work email",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "files",
+        "label": "Approximate file count",
+        "type": "number",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "languages",
+        "label": "Languages",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "services",
+        "label": "Services required",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "date",
+        "label": "Target date",
+        "type": "date",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Technical requirements and comments",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "I have read the privacy policy and consent to processing for this enquiry.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Request post-production capacity",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+  },
+  "forms/post-es.json": {
+    "id": "post-es",
+    "title": "post es",
+    "lang": "es",
+    "source": "B2B brief",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Nombre",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "company",
+        "label": "Empresa",
+        "type": "text",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "email",
+        "label": "Email profesional",
+        "type": "email",
+        "required": true,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "files",
+        "label": "Número aproximado de archivos",
+        "type": "number",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "languages",
+        "label": "Idiomas",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "services",
+        "label": "Servicios requeridos",
+        "type": "text",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "date",
+        "label": "Fecha estimada",
+        "type": "date",
+        "required": false,
+        "placeholder": "",
+        "width": "half",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "message",
+        "label": "Requisitos técnicos y comentarios",
+        "type": "textarea",
+        "required": false,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      },
+      {
+        "name": "privacy",
+        "label": "He leído la política de privacidad y consiento el tratamiento para atender mi consulta.",
+        "type": "checkbox",
+        "required": true,
+        "placeholder": "",
+        "width": "full",
+        "showLabel": true,
+        "options": []
+      }
+    ],
+    "submit": "Consultar postproducción",
+    "status": "unconfigured",
+    "senderFormId": "",
+    "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."
+  }
+}
