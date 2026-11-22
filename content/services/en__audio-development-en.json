@@ -1,0 +1,1656 @@
+{
+  "id": "en__audio-development-en",
+  "title": "Custom Audio Development & Automation Tools | Digitalks AI",
+  "path": "/en/audio-development-en/",
+  "lang": "en",
+  "seo": "en__audio-development-en",
+  "source": "https://digitalks-ai.com/en/audio-development-en/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-48486 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-48486",
+  "rootClass": "dt dt-48486",
+  "styles": [],
+  "css": "en__audio-development-en.css",
+  "sections": [
+    {
+      "id": "en__audio-development-en-1",
+      "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+      "template": "en__audio-development-en-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+          "value": "Automatización de procesos y desarrollo de software para empresas de audio"
+        },
+        {
+          "key": "text-1",
+          "label": "Stop working",
+          "value": "Stop working"
+        },
+        {
+          "key": "text-2",
+          "label": "like in the",
+          "value": " like in the "
+        },
+        {
+          "key": "text-3",
+          "label": "90s",
+          "value": "90s"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/1e3d2fa8493a.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-2",
+      "label": "\"Build tools that do\"the dirty work for you.",
+      "template": "en__audio-development-en-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "\"Build tools that do\"",
+          "value": "\"Build tools that do\""
+        },
+        {
+          "key": "text-1",
+          "label": "the dirty work for you",
+          "value": "the dirty work for you"
+        },
+        {
+          "key": "text-2",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-3",
+          "label": "- Don’t be an \"audiosaurus\" -",
+          "value": "- Don’t be an \"audiosaurus\" -"
+        },
+        {
+          "key": "text-4",
+          "label": "If you’re looking to",
+          "value": "If you’re looking to "
+        },
+        {
+          "key": "text-5",
+          "label": "automate processes",
+          "value": "automate processes"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-7",
+          "label": "Speed up your",
+          "value": "Speed up your "
+        },
+        {
+          "key": "text-8",
+          "label": "production",
+          "value": "production"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "Boost your bottom line like a",
+          "value": "Boost your bottom line like a "
+        },
+        {
+          "key": "text-11",
+          "label": "heavyweight champ",
+          "value": "heavyweight champ"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-13",
+          "label": "You’re in the",
+          "value": "You’re in the "
+        },
+        {
+          "key": "text-14",
+          "label": "right place",
+          "value": "right place"
+        },
+        {
+          "key": "text-15",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-3",
+      "label": "You’re still taking the stairs...",
+      "template": "en__audio-development-en-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "You’re still taking the",
+          "value": "You’re still taking the "
+        },
+        {
+          "key": "text-1",
+          "label": "stairs",
+          "value": "stairs"
+        },
+        {
+          "key": "text-2",
+          "label": "...",
+          "value": "..."
+        },
+        {
+          "key": "text-3",
+          "label": "Imagine you work on the",
+          "value": "Imagine you work on the "
+        },
+        {
+          "key": "text-4",
+          "label": "12th floor",
+          "value": "12th floor"
+        },
+        {
+          "key": "text-5",
+          "label": "of an",
+          "value": " of an "
+        },
+        {
+          "key": "text-6",
+          "label": "office building",
+          "value": "office building"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-8",
+          "label": "Every morning, instead of taking the",
+          "value": "Every morning, instead of taking the "
+        },
+        {
+          "key": "text-9",
+          "label": "elevator",
+          "value": "elevator"
+        },
+        {
+          "key": "text-10",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-11",
+          "label": "you decide to",
+          "value": " you decide to "
+        },
+        {
+          "key": "text-12",
+          "label": "climb the stairs",
+          "value": "climb the stairs"
+        },
+        {
+          "key": "text-13",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-14",
+          "label": "You arrive",
+          "value": "You arrive "
+        },
+        {
+          "key": "text-15",
+          "label": "sweaty",
+          "value": "sweaty"
+        },
+        {
+          "key": "text-16",
+          "label": "and",
+          "value": " and "
+        },
+        {
+          "key": "text-17",
+          "label": "exhausted",
+          "value": "exhausted"
+        },
+        {
+          "key": "text-18",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-19",
+          "label": "wasting 15 minutes before you even start working",
+          "value": " wasting 15 minutes before you even start working"
+        },
+        {
+          "key": "text-20",
+          "label": "Could you do it?",
+          "value": "Could you do it?"
+        },
+        {
+          "key": "text-21",
+          "label": "Yes.",
+          "value": "Yes."
+        },
+        {
+          "key": "text-22",
+          "label": "Is it efficient?",
+          "value": "Is it efficient?"
+        },
+        {
+          "key": "text-23",
+          "label": "Not really.",
+          "value": "Not really."
+        },
+        {
+          "key": "text-24",
+          "label": "(Although your legs would be made of titanium.)",
+          "value": "(Although your legs would be made of titanium.)"
+        },
+        {
+          "key": "text-25",
+          "label": "Your current processes are",
+          "value": "Your current processes are "
+        },
+        {
+          "key": "text-26",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-27",
+          "label": "those stairs",
+          "value": "those stairs"
+        },
+        {
+          "key": "text-28",
+          "label": "”",
+          "value": "”"
+        },
+        {
+          "key": "text-29",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-30",
+          "label": "They’re",
+          "value": "They’re "
+        },
+        {
+          "key": "text-31",
+          "label": "slow",
+          "value": "slow"
+        },
+        {
+          "key": "text-32",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-33",
+          "label": "They wear your team",
+          "value": " They wear your team "
+        },
+        {
+          "key": "text-34",
+          "label": "down",
+          "value": "down"
+        },
+        {
+          "key": "text-35",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-36",
+          "label": "And they make you spend time on work that smells like",
+          "value": " And they make you spend time on work that smells like "
+        },
+        {
+          "key": "text-37",
+          "label": "last century",
+          "value": "last century"
+        },
+        {
+          "key": "text-38",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-39",
+          "label": "Who wouldn’t want an",
+          "value": "Who wouldn’t want an "
+        },
+        {
+          "key": "text-40",
+          "label": "elevator in their company",
+          "value": "elevator in their company"
+        },
+        {
+          "key": "text-41",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-42",
+          "label": "A system that",
+          "value": "A system that "
+        },
+        {
+          "key": "text-43",
+          "label": "automates",
+          "value": "automates"
+        },
+        {
+          "key": "text-44",
+          "label": "the repetitive stuff",
+          "value": " the repetitive stuff"
+        },
+        {
+          "key": "text-45",
+          "label": "and takes you",
+          "value": " and takes you "
+        },
+        {
+          "key": "text-46",
+          "label": "straight",
+          "value": "straight"
+        },
+        {
+          "key": "text-47",
+          "label": "where you actually want to be.",
+          "value": " where you actually want to be."
+        },
+        {
+          "key": "text-48",
+          "label": "So your team",
+          "value": "So your team "
+        },
+        {
+          "key": "text-49",
+          "label": "doesn’t run out",
+          "value": "doesn’t run out"
+        },
+        {
+          "key": "text-50",
+          "label": "of air before starting,",
+          "value": " of air before starting,"
+        },
+        {
+          "key": "text-51",
+          "label": "and you",
+          "value": " and you "
+        },
+        {
+          "key": "text-52",
+          "label": "stop paying people to climb stairs",
+          "value": "stop paying people to climb stairs"
+        },
+        {
+          "key": "text-53",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-54",
+          "label": "Faster.",
+          "value": "Faster. "
+        },
+        {
+          "key": "text-55",
+          "label": "Effortless.",
+          "value": " Effortless."
+        },
+        {
+          "key": "text-56",
+          "label": "With energy",
+          "value": " With energy"
+        },
+        {
+          "key": "text-57",
+          "label": "left for what",
+          "value": "left for what "
+        },
+        {
+          "key": "text-58",
+          "label": "actually matters...",
+          "value": "actually matters..."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-4",
+      "label": "Want to automate your processes?",
+      "template": "en__audio-development-en-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Want to",
+          "value": "Want to "
+        },
+        {
+          "key": "text-1",
+          "label": "automate",
+          "value": "automate"
+        },
+        {
+          "key": "text-2",
+          "label": "your processes?",
+          "value": " your processes?"
+        },
+        {
+          "key": "text-3",
+          "label": "Leave your email and get more info:",
+          "value": "Leave your email and get more info:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "en__audio-development-en-AudioDevelpoment_en_01",
+          "form": "en__audio-development-en-AudioDevelpoment_en_01"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-5",
+      "label": "A real example withnumbers...",
+      "template": "en__audio-development-en-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "A real example with",
+          "value": "A real example with"
+        },
+        {
+          "key": "text-1",
+          "label": "numbers",
+          "value": "numbers"
+        },
+        {
+          "key": "text-2",
+          "label": "...",
+          "value": "... "
+        },
+        {
+          "key": "text-3",
+          "label": "To review a",
+          "value": "To review a "
+        },
+        {
+          "key": "text-4",
+          "label": "10-hour audiobook",
+          "value": "10-hour audiobook"
+        },
+        {
+          "key": "text-5",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-6",
+          "label": "a reviewer usually spends",
+          "value": " a reviewer usually spends "
+        },
+        {
+          "key": "text-7",
+          "label": "25–30 hours",
+          "value": "25–30 hours"
+        },
+        {
+          "key": "text-8",
+          "label": "comparing the",
+          "value": " comparing the "
+        },
+        {
+          "key": "text-9",
+          "label": "script",
+          "value": "script"
+        },
+        {
+          "key": "text-10",
+          "label": "with the",
+          "value": " with the "
+        },
+        {
+          "key": "text-11",
+          "label": "audio",
+          "value": "audio"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-13",
+          "label": "Marking",
+          "value": "Marking "
+        },
+        {
+          "key": "text-14",
+          "label": "differences",
+          "value": "differences"
+        },
+        {
+          "key": "text-15",
+          "label": ". Catching",
+          "value": ". Catching "
+        },
+        {
+          "key": "text-16",
+          "label": "errors",
+          "value": "errors"
+        },
+        {
+          "key": "text-17",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-18",
+          "label": "And the",
+          "value": " And the "
+        },
+        {
+          "key": "text-19",
+          "label": "bill easily goes",
+          "value": "bill easily goes"
+        },
+        {
+          "key": "text-20",
+          "label": "over",
+          "value": " over "
+        },
+        {
+          "key": "text-21",
+          "label": "$400 per audiobook",
+          "value": "$400 per audiobook"
+        },
+        {
+          "key": "text-22",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-23",
+          "label": "Now",
+          "value": "Now "
+        },
+        {
+          "key": "text-24",
+          "label": "change the scene",
+          "value": "change the scene"
+        },
+        {
+          "key": "text-25",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-26",
+          "label": "Imagine a tool built specifically for this task:",
+          "value": "Imagine a tool built specifically for this task:"
+        },
+        {
+          "key": "text-27",
+          "label": "it",
+          "value": " it "
+        },
+        {
+          "key": "text-28",
+          "label": "listens to the audio",
+          "value": "listens to the audio"
+        },
+        {
+          "key": "text-29",
+          "label": "and",
+          "value": " and "
+        },
+        {
+          "key": "text-30",
+          "label": "compares it with the PDF",
+          "value": "compares it with the PDF"
+        },
+        {
+          "key": "text-31",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-32",
+          "label": "In",
+          "value": "In "
+        },
+        {
+          "key": "text-33",
+          "label": "one working day",
+          "value": "one working day"
+        },
+        {
+          "key": "text-34",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-35",
+          "label": "the",
+          "value": " the "
+        },
+        {
+          "key": "text-36",
+          "label": "entire book is reviewed",
+          "value": "entire book is reviewed"
+        },
+        {
+          "key": "text-37",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-38",
+          "label": "The",
+          "value": "The "
+        },
+        {
+          "key": "text-39",
+          "label": "result?",
+          "value": "result?"
+        },
+        {
+          "key": "text-40",
+          "label": "Savings of",
+          "value": "Savings of "
+        },
+        {
+          "key": "text-41",
+          "label": "~€330–400 per audiobook",
+          "value": "~€330–400 per audiobook"
+        },
+        {
+          "key": "text-42",
+          "label": "(and your team freed from mechanical, soul-draining work)",
+          "value": " (and your team freed from mechanical, soul-draining work)"
+        },
+        {
+          "key": "text-43",
+          "label": "Not bad, right?",
+          "value": "Not bad, right?"
+        },
+        {
+          "key": "text-44",
+          "label": "And yes, we can",
+          "value": "And yes, we can "
+        },
+        {
+          "key": "text-45",
+          "label": "apply this to your case too",
+          "value": "apply this to your case too"
+        },
+        {
+          "key": "text-46",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-6",
+      "label": "Think automation is expensive?",
+      "template": "en__audio-development-en-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Think",
+          "value": "Think "
+        },
+        {
+          "key": "text-1",
+          "label": "automation",
+          "value": "automation"
+        },
+        {
+          "key": "text-2",
+          "label": "is expensive?",
+          "value": " is expensive?"
+        },
+        {
+          "key": "text-3",
+          "label": "If you want to know the price, leave your email:",
+          "value": "If you want to know the price, leave your email:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "en__audio-development-en-AudioDevelpoment_en_02",
+          "form": "en__audio-development-en-AudioDevelpoment_en_02"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-7",
+      "label": "This is how we do it...",
+      "template": "en__audio-development-en-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "This is how",
+          "value": "This is how"
+        },
+        {
+          "key": "text-1",
+          "label": "we do it...",
+          "value": "we do it..."
+        },
+        {
+          "key": "text-2",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-3",
+          "label": "1.",
+          "value": " 1."
+        },
+        {
+          "key": "text-4",
+          "label": "Leave your email and explain your problem",
+          "value": "\n\t\t\t\t\t\t\tLeave your email and explain your problem\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-5",
+          "label": "The clearer, the better… though we can also read hieroglyphs.",
+          "value": "\n\t\t\t\t\t\tThe clearer, the better… though we can also read hieroglyphs.\t\t\t\t\t"
+        },
+        {
+          "key": "text-6",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-7",
+          "label": "2.",
+          "value": " 2."
+        },
+        {
+          "key": "text-8",
+          "label": "We meet (face to face, or screen to screen)",
+          "value": "\n\t\t\t\t\t\t\tWe meet (face to face, or screen to screen)\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-9",
+          "label": "You explain, we ask questions.\nIf you want to talk about your weekend, fine,\nbut",
+          "value": "\n\t\t\t\t\t\tYou explain, we ask questions.\nIf you want to talk about your weekend, fine,\nbut the goal is understanding your idea\nand making sure you understand how we work.\t\t\t\t\t"
+        },
+        {
+          "key": "text-10",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-11",
+          "label": "3.",
+          "value": " 3."
+        },
+        {
+          "key": "text-12",
+          "label": "We send you a tailored proposal",
+          "value": "\n\t\t\t\t\t\t\tWe send you a tailored proposal\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-13",
+          "label": "No smoke-filled PDF. Just what you actually need (prices included).",
+          "value": "\n\t\t\t\t\t\tNo smoke-filled PDF. Just what you actually need (prices included).\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-14",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-15",
+          "label": "4.",
+          "value": " 4."
+        },
+        {
+          "key": "text-16",
+          "label": "You accept it",
+          "value": "\n\t\t\t\t\t\t\tYou accept it\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-17",
+          "label": "Or not. (You will.)\nAnd yes, this is where you pay.",
+          "value": "\n\t\t\t\t\t\tOr not. (You will.)\nAnd yes, this is where you pay.\t\t\t\t\t"
+        },
+        {
+          "key": "text-18",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-19",
+          "label": "5.",
+          "value": " 5."
+        },
+        {
+          "key": "text-20",
+          "label": "Let the fun begin",
+          "value": "\n\t\t\t\t\t\t\tLet the fun begin\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-21",
+          "label": "We start producing. Every 2 weeks to 1 month you get a delivery to review and te",
+          "value": "\n\t\t\t\t\t\tWe start producing. Every 2 weeks to 1 month you get a delivery to review and test (and pay — we’re not an NGO).\t\t\t\t\t"
+        },
+        {
+          "key": "text-22",
+          "label": "STEP",
+          "value": "STEP"
+        },
+        {
+          "key": "text-23",
+          "label": "6.",
+          "value": " 6."
+        },
+        {
+          "key": "text-24",
+          "label": "Project completed",
+          "value": "\n\t\t\t\t\t\t\tProject completed\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-25",
+          "label": "You’re happy. We’re proud.\nAnd from there…\nYou can keep working with us for supp",
+          "value": "\n\t\t\t\t\t\tYou’re happy. We’re proud.\nAnd from there…\nYou can keep working with us for support,\nor keep being awesome on your own.\nYour call.\t\t\t\t\t"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-8",
+      "label": "Want to stop being an audiosaurus?",
+      "template": "en__audio-development-en-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Want to stop being",
+          "value": "Want to stop being "
+        },
+        {
+          "key": "text-1",
+          "label": "an",
+          "value": "an "
+        },
+        {
+          "key": "text-2",
+          "label": "audiosaurus",
+          "value": "audiosaurus"
+        },
+        {
+          "key": "text-3",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-4",
+          "label": "Here are some examples of what we’ve built\n for our former",
+          "value": "Here are some examples of what we’ve built\n for our former "
+        },
+        {
+          "key": "text-5",
+          "label": "audiosauruses",
+          "value": "audiosauruses"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-7",
+          "label": "Multi-format conversion",
+          "value": "Multi-format conversion "
+        },
+        {
+          "key": "text-8",
+          "label": "for",
+          "value": " for "
+        },
+        {
+          "key": "text-9",
+          "label": "+50k files",
+          "value": "+50k files"
+        },
+        {
+          "key": "text-10",
+          "label": "[bash + python]",
+          "value": "[bash + python]"
+        },
+        {
+          "key": "text-11",
+          "label": "Batch",
+          "value": "Batch "
+        },
+        {
+          "key": "text-12",
+          "label": "renaming",
+          "value": "renaming"
+        },
+        {
+          "key": "text-13",
+          "label": "[bash + python]",
+          "value": "[bash + python]"
+        },
+        {
+          "key": "text-14",
+          "label": "LUFS",
+          "value": "LUFS"
+        },
+        {
+          "key": "text-15",
+          "label": "automation",
+          "value": " automation "
+        },
+        {
+          "key": "text-16",
+          "label": "[lua + python]",
+          "value": "[lua + python]"
+        },
+        {
+          "key": "text-17",
+          "label": "Automated audio",
+          "value": "Automated audio "
+        },
+        {
+          "key": "text-18",
+          "label": "multiprocess workflows",
+          "value": "multiprocess workflows"
+        },
+        {
+          "key": "text-19",
+          "label": "[lua + python]",
+          "value": "[lua + python]"
+        },
+        {
+          "key": "text-20",
+          "label": "Automated",
+          "value": "Automated "
+        },
+        {
+          "key": "text-21",
+          "label": "Audio QA",
+          "value": " Audio QA"
+        },
+        {
+          "key": "text-22",
+          "label": "check",
+          "value": " check "
+        },
+        {
+          "key": "text-23",
+          "label": "[web app]",
+          "value": "[web app]"
+        },
+        {
+          "key": "text-24",
+          "label": "Leave your email, it’s free.",
+          "value": "Leave your email, it’s free."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/d3189c8ae9fe-Gemini_Generated_Image_9rz5so9rz5so9rz5-Photoroom-282x300.png",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [
+        {
+          "slot": "en__audio-development-en-AudioDevelpoment_en_03",
+          "form": "en__audio-development-en-AudioDevelpoment_en_03"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-9",
+      "label": "Where can you applythese automations?",
+      "template": "en__audio-development-en-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Where can you apply",
+          "value": "Where can you apply"
+        },
+        {
+          "key": "text-1",
+          "label": "these",
+          "value": "these "
+        },
+        {
+          "key": "text-2",
+          "label": "automations",
+          "value": "automations"
+        },
+        {
+          "key": "text-3",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-4",
+          "label": "In",
+          "value": "In "
+        },
+        {
+          "key": "text-5",
+          "label": "videogames",
+          "value": "videogames"
+        },
+        {
+          "key": "text-6",
+          "label": "Audio file management (naming",
+          "value": " Audio file management (naming "
+        },
+        {
+          "key": "text-7",
+          "label": "&",
+          "value": "&"
+        },
+        {
+          "key": "text-8",
+          "label": "organization)",
+          "value": " organization) "
+        },
+        {
+          "key": "text-9",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-10",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-11",
+          "label": "An AE takes 30 seconds to rename and place each file.",
+          "value": "An AE takes 30 seconds to rename and place each file."
+        },
+        {
+          "key": "text-12",
+          "label": "With 10,000 dialogue lines → ~83 h = ~€1,250.",
+          "value": "With 10,000 dialogue lines → ~83 h = ~€1,250."
+        },
+        {
+          "key": "text-13",
+          "label": "Automated",
+          "value": "Automated"
+        },
+        {
+          "key": "text-14",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-15",
+          "label": "Script renames and organizes files into folders. Time: 2 h.",
+          "value": "Script renames and organizes files into folders. Time: 2 h."
+        },
+        {
+          "key": "text-16",
+          "label": "Savings:",
+          "value": "\n\t\t\t\t\t\t\t\t\tSavings: "
+        },
+        {
+          "key": "text-17",
+          "label": "~€1,200",
+          "value": "~€1,200"
+        },
+        {
+          "key": "text-18",
+          "label": "per project.",
+          "value": " per project.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-19",
+          "label": "In",
+          "value": "In "
+        },
+        {
+          "key": "text-20",
+          "label": "audiobooks",
+          "value": "audiobooks"
+        },
+        {
+          "key": "text-21",
+          "label": "Timing and script review (text–audio QC)",
+          "value": " Timing and script review (text–audio QC) "
+        },
+        {
+          "key": "text-22",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-23",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-24",
+          "label": "Manual review of a 10-hour audiobook.",
+          "value": "Manual review of a 10-hour audiobook."
+        },
+        {
+          "key": "text-25",
+          "label": "Cost ~€450.",
+          "value": "Cost ~€450."
+        },
+        {
+          "key": "text-26",
+          "label": "Automated",
+          "value": "Automated"
+        },
+        {
+          "key": "text-27",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-28",
+          "label": "Tool that compares narration and text.",
+          "value": "Tool that compares narration and text."
+        },
+        {
+          "key": "text-29",
+          "label": "Time: 8 h.",
+          "value": "Time: 8 h."
+        },
+        {
+          "key": "text-30",
+          "label": "Savings:",
+          "value": "\n\t\t\t\t\t\t\t\t\tSavings: "
+        },
+        {
+          "key": "text-31",
+          "label": "~€400",
+          "value": "~€400"
+        },
+        {
+          "key": "text-32",
+          "label": "per book.",
+          "value": " per book.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-33",
+          "label": "In",
+          "value": "In "
+        },
+        {
+          "key": "text-34",
+          "label": "dubbing",
+          "value": "dubbing"
+        },
+        {
+          "key": "text-35",
+          "label": "Creation of “cues” or sync markers",
+          "value": " Creation of “cues” or sync markers "
+        },
+        {
+          "key": "text-36",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-37",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-38",
+          "label": "1 h for every 10 min of footage to cue.",
+          "value": "1 h for every 10 min of footage to cue."
+        },
+        {
+          "key": "text-39",
+          "label": "90 min = ~9 h = €135.",
+          "value": "90 min = ~9 h = €135."
+        },
+        {
+          "key": "text-40",
+          "label": "Automated",
+          "value": "Automated"
+        },
+        {
+          "key": "text-41",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-42",
+          "label": "Software generates AI pre-cues.",
+          "value": "Software generates AI pre-cues."
+        },
+        {
+          "key": "text-43",
+          "label": "The director only fine-tunes.",
+          "value": "The director only fine-tunes."
+        },
+        {
+          "key": "text-44",
+          "label": "Time: 2 h.",
+          "value": "Time: 2 h."
+        },
+        {
+          "key": "text-45",
+          "label": "Savings:",
+          "value": "\n\t\t\t\t\t\t\t\t\tSavings: "
+        },
+        {
+          "key": "text-46",
+          "label": "~€1,200",
+          "value": "~€1,200"
+        },
+        {
+          "key": "text-47",
+          "label": "per project.",
+          "value": " per project.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-48",
+          "label": "In any",
+          "value": "In any "
+        },
+        {
+          "key": "text-49",
+          "label": "studio",
+          "value": "studio"
+        },
+        {
+          "key": "text-50",
+          "label": "Delivery of materials to the client (naming, compression, export)",
+          "value": " Delivery of materials to the client (naming, compression, export) "
+        },
+        {
+          "key": "text-51",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-52",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-53",
+          "label": "Preparing final deliveries takes 4 h per project = ~€60.",
+          "value": "Preparing final deliveries takes 4 h per project = ~€60."
+        },
+        {
+          "key": "text-54",
+          "label": "Automated",
+          "value": "Automated"
+        },
+        {
+          "key": "text-55",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-56",
+          "label": "Tool exports, renames, and packages files.",
+          "value": "Tool exports, renames, and packages files."
+        },
+        {
+          "key": "text-57",
+          "label": "Automatic tech-spec analysis.",
+          "value": "Automatic tech-spec analysis."
+        },
+        {
+          "key": "text-58",
+          "label": "Time: 30 min.",
+          "value": "Time: 30 min."
+        },
+        {
+          "key": "text-59",
+          "label": "Savings:",
+          "value": "\n\t\t\t\t\t\t\t\t\tSavings: "
+        },
+        {
+          "key": "text-60",
+          "label": "~€45",
+          "value": "~€45"
+        },
+        {
+          "key": "text-61",
+          "label": "per delivery.",
+          "value": " per delivery.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-62",
+          "label": "In",
+          "value": "In "
+        },
+        {
+          "key": "text-63",
+          "label": "podcasts",
+          "value": "podcasts"
+        },
+        {
+          "key": "text-64",
+          "label": "Basic post-production (noise cleanup and LUFS normalization)",
+          "value": " Basic post-production (noise cleanup and LUFS normalization) "
+        },
+        {
+          "key": "text-65",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-66",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-67",
+          "label": "Basic post-production takes 1 h per episode.",
+          "value": "Basic post-production takes 1 h per episode."
+        },
+        {
+          "key": "text-68",
+          "label": "20 episodes/month = 20 h → €300.",
+          "value": "20 episodes/month = 20 h → €300."
+        },
+        {
+          "key": "text-69",
+          "label": "Automated",
+          "value": "Automated"
+        },
+        {
+          "key": "text-70",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-71",
+          "label": "Basic preset/script for noise cleanup and LUFS normalization.",
+          "value": "Basic preset/script for noise cleanup and LUFS normalization."
+        },
+        {
+          "key": "text-72",
+          "label": "Time: 2 h/month.",
+          "value": "Time: 2 h/month."
+        },
+        {
+          "key": "text-73",
+          "label": "Savings:",
+          "value": "\n\t\t\t\t\t\t\t\t\tSavings: "
+        },
+        {
+          "key": "text-74",
+          "label": "~€270",
+          "value": "~€270"
+        },
+        {
+          "key": "text-75",
+          "label": "/month.",
+          "value": "/month.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-76",
+          "label": "Everything you hate doing",
+          "value": "Everything you hate doing"
+        },
+        {
+          "key": "text-77",
+          "label": "reduced to just a few clicks...",
+          "value": "reduced to just a few clicks..."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/6714be03e52c-phantom-150x150.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/a1ebc82f08f5.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-development-en-10",
+      "label": "Questions? Doubts? Skepticism?",
+      "template": "en__audio-development-en-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Questions? Doubts? Skepticism?",
+          "value": "Questions? Doubts? Skepticism?"
+        },
+        {
+          "key": "text-1",
+          "label": "We answer them here.",
+          "value": "We answer them here."
+        },
+        {
+          "key": "text-2",
+          "label": "If after reading all this you still have questions, they’re probably really",
+          "value": "\nIf after reading all this you still have questions, they’re probably really "
+        },
+        {
+          "key": "text-3",
+          "label": "good ones",
+          "value": "good ones"
+        },
+        {
+          "key": "text-4",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-5",
+          "label": "Contact us and we’ll answer them.",
+          "value": "\nContact us and we’ll answer them."
+        },
+        {
+          "key": "text-6",
+          "label": "What exactly do you do?",
+          "value": "What exactly do you do?"
+        },
+        {
+          "key": "text-7",
+          "label": "“We build custom software and workflows to automate the stuff you hate doing in ",
+          "value": " “We build custom software and workflows to automate the stuff you hate doing in your company. The things that steal your time and patience.”"
+        },
+        {
+          "key": "text-8",
+          "label": "Are you expensive?",
+          "value": "Are you expensive?"
+        },
+        {
+          "key": "text-9",
+          "label": "“We’re not cheap. But paying endless hours for replaceable tasks isn’t cheap eit",
+          "value": "“We’re not cheap. But paying endless hours for replaceable tasks isn’t cheap either (remember the elevator and the stairs). What we offer is an investment, not an expense.”"
+        },
+        {
+          "key": "text-10",
+          "label": "Do you only work with audio?",
+          "value": "Do you only work with audio?"
+        },
+        {
+          "key": "text-11",
+          "label": "“We specialize in audio, but we can build any tool that makes your life easier.”",
+          "value": "“We specialize in audio, but we can build any tool that makes your life easier.”"
+        },
+        {
+          "key": "text-12",
+          "label": "Can I request a demo?",
+          "value": "Can I request a demo?"
+        },
+        {
+          "key": "text-13",
+          "label": "“Yes. We have a portfolio with real-world cases: from listening tools to the mas",
+          "value": "“Yes. We have a portfolio with real-world cases: from listening tools to the mass renaming and conversion of 50,000 files.”"
+        },
+        {
+          "key": "text-14",
+          "label": "How do payments work?",
+          "value": "How do payments work?"
+        },
+        {
+          "key": "text-15",
+          "label": "“By sprints or partial deliveries. You see progress every 2 weeks (or whatever t",
+          "value": "“By sprints or partial deliveries. You see progress every 2 weeks (or whatever timeframe we agree on) and you pay based on what you receive. Transparent and fully under control.”"
+        },
+        {
+          "key": "text-16",
+          "label": "Do you replace employees?",
+          "value": "Do you replace employees?"
+        },
+        {
+          "key": "text-17",
+          "label": "“What we replace are pointless tasks. If you’re paying someone just to rename fi",
+          "value": "“What we replace are pointless tasks. If you’re paying someone just to rename files, it’s time to change the system. Would you stop cleaning your house if you bought a Roomba? No, right? Exactly.”"
+        },
+        {
+          "key": "text-18",
+          "label": "Who are you?",
+          "value": "Who are you?"
+        },
+        {
+          "key": "text-19",
+          "label": "“Over 10 years in audio for video games, dubbing, and more. We’ve dealt with tho",
+          "value": "“Over 10 years in audio for video games, dubbing, and more. We’ve dealt with thousands of files, impossible scripts, and chaotic workflows. That’s where the tools we now put at your service were born.”"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "What exactly do you do?",
+          "href": "#Collapse-75906826afed7847ce86"
+        },
+        {
+          "key": "link-1",
+          "label": "Are you expensive?",
+          "href": "#Collapse-b5f06116afed7847ce86"
+        },
+        {
+          "key": "link-2",
+          "label": "Do you only work with audio?",
+          "href": "#Collapse-3dd4c606afed7847ce86"
+        },
+        {
+          "key": "link-3",
+          "label": "Can I request a demo?",
+          "href": "#Collapse-6707cbd6afed7847ce86"
+        },
+        {
+          "key": "link-4",
+          "label": "How do payments work?",
+          "href": "#Collapse-23b92ef6afed7847ce86"
+        },
+        {
+          "key": "link-5",
+          "label": "Do you replace employees?",
+          "href": "#Collapse-333b9ae6afed7847ce86"
+        },
+        {
+          "key": "link-6",
+          "label": "Who are you?",
+          "href": "#Collapse-7b5f48d6afed7847ce86"
+        }
+      ],
+      "forms": [
+        {
+          "slot": "en__audio-development-en-AudioDevelpoment_en_04",
+          "form": "en__audio-development-en-AudioDevelpoment_en_04"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

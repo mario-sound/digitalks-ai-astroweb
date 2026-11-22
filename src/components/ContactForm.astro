@@ -1,0 +1,6 @@
+---
+import { formMarkup } from '../lib/render';
+import type { Form } from '../lib/content';
+interface Props {form:Form}
+---
+<Fragment set:html={formMarkup(Astro.props.form)} />

@@ -1,0 +1,17 @@
+{
+  "id": "home",
+  "title": "Doblaje, Localización y Voces IA | Home ES - Digitalks AI",
+  "description": "Doblaje, localización y voces IA para videojuegos y animación. Producción multilingüe con actores profesionales e IA para reducir costes y tiempos, con calidad profesional.",
+  "canonical": "/",
+  "alternates": [
+    {
+      "lang": "en",
+      "path": "/en/start/"
+    },
+    {
+      "lang": "es",
+      "path": "/"
+    }
+  ],
+  "image": "/media/03616d41884b.webp"
+}

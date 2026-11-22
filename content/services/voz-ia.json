@@ -1,0 +1,2057 @@
+{
+  "id": "voz-ia",
+  "title": "Locuciones profesionales y voces con IA en español | Digitalks AI",
+  "path": "/voz-ia/",
+  "lang": "es",
+  "seo": "voz-ia",
+  "source": "https://digitalks-ai.com/voz-ia/",
+  "bodyClass": "wp-singular page-template-default page page-id-22 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-kit-46024 dt-page dt-page-22",
+  "rootClass": "dt dt-22",
+  "styles": [],
+  "css": "voz-ia.css",
+  "sections": [
+    {
+      "id": "voz-ia-1",
+      "label": "Doblaje & voiceover IA para empresas que necesitan VOCES REALES",
+      "template": "voz-ia-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Doblaje",
+          "value": "Doblaje"
+        },
+        {
+          "key": "text-1",
+          "label": "&",
+          "value": "&"
+        },
+        {
+          "key": "text-2",
+          "label": "voiceover",
+          "value": "voiceover"
+        },
+        {
+          "key": "text-3",
+          "label": "IA",
+          "value": " IA"
+        },
+        {
+          "key": "text-4",
+          "label": "para empresas",
+          "value": "\n  para empresas"
+        },
+        {
+          "key": "text-5",
+          "label": "que necesitan",
+          "value": "\n  que necesitan"
+        },
+        {
+          "key": "text-6",
+          "label": "VOCES REALES",
+          "value": "\n  VOCES REALES\n"
+        },
+        {
+          "key": "text-7",
+          "label": "Quiero saber más",
+          "value": "Quiero saber más"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/fc78a346d097.webp",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Quiero saber más",
+          "href": "#sectiondejatuemailform"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-2",
+      "label": "Deja de usar locutores amateur que suenan a teletienda",
+      "template": "voz-ia-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Deja de usar",
+          "value": "Deja de usar "
+        },
+        {
+          "key": "text-1",
+          "label": "locutores",
+          "value": "locutores"
+        },
+        {
+          "key": "text-2",
+          "label": "amateur",
+          "value": " amateur"
+        },
+        {
+          "key": "text-3",
+          "label": "que suenan a",
+          "value": "\nque suenan a "
+        },
+        {
+          "key": "text-4",
+          "label": "teletienda",
+          "value": "teletienda"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-3",
+      "label": "No es mágIA",
+      "template": "voz-ia-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "No es mág",
+          "value": "No es mág"
+        },
+        {
+          "key": "text-1",
+          "label": "IA",
+          "value": "IA"
+        },
+        {
+          "key": "text-2",
+          "label": "es tecnolog",
+          "value": "es tecnolog"
+        },
+        {
+          "key": "text-3",
+          "label": "IA",
+          "value": "IA"
+        },
+        {
+          "key": "text-4",
+          "label": "Esto no va de",
+          "value": "Esto no va de "
+        },
+        {
+          "key": "text-5",
+          "label": "voces genéricas",
+          "value": "voces genéricas "
+        },
+        {
+          "key": "text-6",
+          "label": "y sin personalidad.",
+          "value": "y sin personalidad. "
+        },
+        {
+          "key": "text-7",
+          "label": "Va de",
+          "value": "Va de "
+        },
+        {
+          "key": "text-8",
+          "label": "voces de actores",
+          "value": "voces de actores "
+        },
+        {
+          "key": "text-9",
+          "label": "y",
+          "value": "y "
+        },
+        {
+          "key": "text-10",
+          "label": "locutores profesionales",
+          "value": "locutores profesionales"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": ". "
+        },
+        {
+          "key": "text-12",
+          "label": "Como las que llevas",
+          "value": "Como las que llevas "
+        },
+        {
+          "key": "text-13",
+          "label": "años",
+          "value": "años"
+        },
+        {
+          "key": "text-14",
+          "label": "escuchando en peliculas, series o audiolibros.",
+          "value": " escuchando en peliculas, series o audiolibros."
+        },
+        {
+          "key": "text-15",
+          "label": "Hasta ahora, solo estaban al",
+          "value": "Hasta ahora, solo estaban al "
+        },
+        {
+          "key": "text-16",
+          "label": "alcance de",
+          "value": "alcance de "
+        },
+        {
+          "key": "text-17",
+          "label": "algunas",
+          "value": "algunas"
+        },
+        {
+          "key": "text-18",
+          "label": "productoras",
+          "value": " productoras"
+        },
+        {
+          "key": "text-19",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-20",
+          "label": "Pues déjame decirte que…",
+          "value": "Pues déjame decirte que…"
+        },
+        {
+          "key": "text-21",
+          "label": "¡EL MUNDO",
+          "value": "¡EL MUNDO "
+        },
+        {
+          "key": "text-22",
+          "label": "HA CAMBIADO!",
+          "value": "HA CAMBIADO!"
+        },
+        {
+          "key": "text-23",
+          "label": "Y si no te has dado cuenta,",
+          "value": "Y si no te has dado cuenta,"
+        },
+        {
+          "key": "text-24",
+          "label": "probablemente el camión de la IA",
+          "value": "probablemente el camión de la IA "
+        },
+        {
+          "key": "text-25",
+          "label": "te haya pasado por encima.",
+          "value": "te haya pasado por encima."
+        },
+        {
+          "key": "text-26",
+          "label": "¿Sabías que puedes tener estas voces en",
+          "value": "¿Sabías que puedes tener estas voces en"
+        },
+        {
+          "key": "text-27",
+          "label": "tu",
+          "value": "tu "
+        },
+        {
+          "key": "text-28",
+          "label": "podcast",
+          "value": "podcast"
+        },
+        {
+          "key": "text-29",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-30",
+          "label": "tu",
+          "value": "tu "
+        },
+        {
+          "key": "text-31",
+          "label": "curso online",
+          "value": "curso online"
+        },
+        {
+          "key": "text-32",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-33",
+          "label": "tu",
+          "value": "tu "
+        },
+        {
+          "key": "text-34",
+          "label": "audiolibro",
+          "value": "audiolibro"
+        },
+        {
+          "key": "text-35",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-36",
+          "label": "o incluso",
+          "value": "o incluso "
+        },
+        {
+          "key": "text-37",
+          "label": "tu",
+          "value": "tu "
+        },
+        {
+          "key": "text-38",
+          "label": "vídeo de gatitos",
+          "value": "vídeo de gatitos"
+        },
+        {
+          "key": "text-39",
+          "label": "…?",
+          "value": "…?"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/bd730dd307d9-lmao-lmao-meme.gif",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-4",
+      "label": "Ahora todo suena aIA barata",
+      "template": "voz-ia-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Ahora todo suena a",
+          "value": "Ahora todo suena a"
+        },
+        {
+          "key": "text-1",
+          "label": "IA barata",
+          "value": "IA barata"
+        },
+        {
+          "key": "text-2",
+          "label": "M",
+          "value": "M"
+        },
+        {
+          "key": "text-3",
+          "label": "uchos anuncios",
+          "value": "uchos anuncios "
+        },
+        {
+          "key": "text-4",
+          "label": "en",
+          "value": "en "
+        },
+        {
+          "key": "text-5",
+          "label": "YouTube",
+          "value": "YouTube"
+        },
+        {
+          "key": "text-6",
+          "label": "están usando voces IA.",
+          "value": "están usando voces IA."
+        },
+        {
+          "key": "text-7",
+          "label": "Y se están",
+          "value": "Y se están "
+        },
+        {
+          "key": "text-8",
+          "label": "ahorrando",
+          "value": "ahorrando "
+        },
+        {
+          "key": "text-9",
+          "label": "una pasta gansa en grabaciones.",
+          "value": "una pasta gansa en grabaciones."
+        },
+        {
+          "key": "text-10",
+          "label": "Pero...",
+          "value": "Pero..."
+        },
+        {
+          "key": "text-11",
+          "label": "No todas suenan igual",
+          "value": "No todas suenan igual"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": ". "
+        },
+        {
+          "key": "text-13",
+          "label": "Algunas parecen un robot con resaca, y otras…",
+          "value": "Algunas parecen un robot con resaca, y otras… "
+        },
+        {
+          "key": "text-14",
+          "label": "¡SUENAN A",
+          "value": "¡SUENAN A "
+        },
+        {
+          "key": "text-15",
+          "label": "CINE!",
+          "value": "CINE!"
+        },
+        {
+          "key": "text-16",
+          "label": "Tú decides",
+          "value": "Tú decides"
+        },
+        {
+          "key": "text-17",
+          "label": "cual quieres",
+          "value": " cual quieres "
+        },
+        {
+          "key": "text-18",
+          "label": "usar en tu proyecto",
+          "value": "usar en tu proyecto"
+        },
+        {
+          "key": "text-19",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-5",
+      "label": "Por cierto...",
+      "template": "voz-ia-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Por cierto...",
+          "value": "Por cierto..."
+        },
+        {
+          "key": "text-1",
+          "label": "¡El “doblaje automático”",
+          "value": "¡El “doblaje automático”"
+        },
+        {
+          "key": "text-2",
+          "label": "de",
+          "value": "\nde "
+        },
+        {
+          "key": "text-3",
+          "label": "YouTube",
+          "value": "YouTube"
+        },
+        {
+          "key": "text-4",
+          "label": "suena a",
+          "value": " suena a"
+        },
+        {
+          "key": "text-5",
+          "label": "mierda",
+          "value": "mierda"
+        },
+        {
+          "key": "text-6",
+          "label": "!",
+          "value": "!"
+        },
+        {
+          "key": "text-7",
+          "label": "Y está matando el contenido de tu canal.",
+          "value": "Y está matando el contenido de tu canal."
+        },
+        {
+          "key": "text-8",
+          "label": "Si este eres tú cuando escuchas tu video en otro idioma...",
+          "value": "Si este eres tú cuando escuchas tu video en otro idioma..."
+        },
+        {
+          "key": "text-9",
+          "label": "entra aquí",
+          "value": "entra aquí"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "entra aquí",
+          "href": "/doblaje-youtube/"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": [
+        {
+          "key": "video-0",
+          "url": "https://youtu.be/TzjCClOJwq4?si=IkuEHskH1yayNndo",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        }
+      ]
+    },
+    {
+      "id": "voz-ia-6",
+      "label": "Las voces IA genéricas son como el",
+      "template": "voz-ia-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Las voces IA genéricas son como el",
+          "value": "Las voces IA genéricas son como el"
+        },
+        {
+          "key": "text-1",
+          "label": "pan de gasolinera",
+          "value": " pan de gasolinera"
+        },
+        {
+          "key": "text-2",
+          "label": "Cumplen su función",
+          "value": "Cumplen su función"
+        },
+        {
+          "key": "text-3",
+          "label": "pero",
+          "value": " pero "
+        },
+        {
+          "key": "text-4",
+          "label": "no emocionan a nadie",
+          "value": "no emocionan a nadie"
+        },
+        {
+          "key": "text-5",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-6",
+          "label": "Si tu proyecto",
+          "value": "Si tu proyecto"
+        },
+        {
+          "key": "text-7",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-8",
+          "label": "va mas allá de solo hacerlo barato,",
+          "value": "va mas allá de solo hacerlo barato,"
+        },
+        {
+          "key": "text-9",
+          "label": "desluce por culpa de una IA robótica,",
+          "value": "desluce por culpa de una IA robótica,"
+        },
+        {
+          "key": "text-10",
+          "label": "se aleja del fast-food",
+          "value": "se aleja del fast-food"
+        },
+        {
+          "key": "text-11",
+          "label": "Entonces, y solo entonces,",
+          "value": "Entonces, y solo entonces,"
+        },
+        {
+          "key": "text-12",
+          "label": "Tenemos que hablar",
+          "value": "Tenemos que hablar"
+        },
+        {
+          "key": "text-13",
+          "label": "No te conformes solo con",
+          "value": "No te conformes solo con"
+        },
+        {
+          "key": "text-14",
+          "label": "pan de gasolinera",
+          "value": "pan de gasolinera"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-7",
+      "label": "Deja tu email y escucha cómo suena una voz IA profesional",
+      "template": "voz-ia-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Deja tu",
+          "value": "Deja tu"
+        },
+        {
+          "key": "text-1",
+          "label": "email",
+          "value": " email"
+        },
+        {
+          "key": "text-2",
+          "label": "y escucha cómo suena una",
+          "value": " y escucha cómo suena una "
+        },
+        {
+          "key": "text-3",
+          "label": "voz IA profesional",
+          "value": "voz IA profesional"
+        },
+        {
+          "key": "text-4",
+          "label": "Atención:",
+          "value": "Atención: "
+        },
+        {
+          "key": "text-5",
+          "label": "\"Escuchando nuestras demos corres el riesgo de soltar la gallina.”",
+          "value": "\"Escuchando nuestras demos corres el riesgo de soltar la gallina.”"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "voz-ia-VozIA_01",
+          "form": "voz-ia-VozIA_01"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-8",
+      "label": "Así lo hacemos...",
+      "template": "voz-ia-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Así",
+          "value": "Así"
+        },
+        {
+          "key": "text-1",
+          "label": "lo hacemos...",
+          "value": " lo hacemos..."
+        },
+        {
+          "key": "text-2",
+          "label": "Una",
+          "value": "Una "
+        },
+        {
+          "key": "text-3",
+          "label": "locución profesional",
+          "value": "locución profesional"
+        },
+        {
+          "key": "text-4",
+          "label": "no surge de la nada.",
+          "value": " no surge de la nada."
+        },
+        {
+          "key": "text-5",
+          "label": "Por eso seguimos un proceso de",
+          "value": "Por eso seguimos un proceso de "
+        },
+        {
+          "key": "text-6",
+          "label": "5",
+          "value": "5 "
+        },
+        {
+          "key": "text-7",
+          "label": "pasos igual que un",
+          "value": "pasos igual que un "
+        },
+        {
+          "key": "text-8",
+          "label": "estudio de sonido profesional",
+          "value": "estudio de sonido profesional"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-9",
+      "label": "Paso 1. Preparamos el guión Le damos un repaso a tu guión para que no suene como las instrucciones d",
+      "template": "voz-ia-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Paso 1.",
+          "value": "Paso 1."
+        },
+        {
+          "key": "text-1",
+          "label": "Preparamos el guión",
+          "value": " Preparamos el guión "
+        },
+        {
+          "key": "text-2",
+          "label": "Le damos un",
+          "value": "\n\t\t\t\t\t\tLe damos un "
+        },
+        {
+          "key": "text-3",
+          "label": "repaso a tu guión",
+          "value": "repaso a tu guión "
+        },
+        {
+          "key": "text-4",
+          "label": "para que no suene como las",
+          "value": "para que no suene como las"
+        },
+        {
+          "key": "text-5",
+          "label": "instrucciones del champú",
+          "value": "instrucciones del champú"
+        },
+        {
+          "key": "text-6",
+          "label": ". Frases claras, naturales y, si hace falta, con truquitos para que la IA pronun",
+          "value": ". Frases claras, naturales y, si hace falta, con truquitos para que la IA pronuncie como toca.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-7",
+          "label": "Paso 2.",
+          "value": "Paso 2."
+        },
+        {
+          "key": "text-8",
+          "label": "Elegimos la voz adecuada",
+          "value": " Elegimos la voz adecuada "
+        },
+        {
+          "key": "text-9",
+          "label": "Según el",
+          "value": "\n\t\t\t\t\t\tSegún el "
+        },
+        {
+          "key": "text-10",
+          "label": "tipo de proyecto",
+          "value": "tipo de proyecto "
+        },
+        {
+          "key": "text-11",
+          "label": "(audiolibro, anuncio, curso online…) seleccionamos juntos la voz que mejor trans",
+          "value": "(audiolibro, anuncio, curso online…) seleccionamos juntos la voz que mejor transmite tu mensaje. \nPorque "
+        },
+        {
+          "key": "text-12",
+          "label": "no es lo mismo",
+          "value": "no es lo mismo"
+        },
+        {
+          "key": "text-13",
+          "label": "un audiolibro de meditación que un",
+          "value": " un audiolibro de meditación que un \n"
+        },
+        {
+          "key": "text-14",
+          "label": "anuncio de hamburguesas",
+          "value": "anuncio de hamburguesas"
+        },
+        {
+          "key": "text-15",
+          "label": "...",
+          "value": "..."
+        },
+        {
+          "key": "text-16",
+          "label": "Descubre tu voz ideal",
+          "value": "\n  Descubre tu voz ideal\n"
+        },
+        {
+          "key": "text-17",
+          "label": "Paso 3.",
+          "value": "Paso 3."
+        },
+        {
+          "key": "text-18",
+          "label": "Gestionamos los derechos",
+          "value": " Gestionamos los derechos "
+        },
+        {
+          "key": "text-19",
+          "label": "Nos encargamos también del tostón del",
+          "value": "\n\t\t\t\t\t\tNos encargamos también del tostón del "
+        },
+        {
+          "key": "text-20",
+          "label": "papeleo",
+          "value": "papeleo"
+        },
+        {
+          "key": "text-21",
+          "label": "para que todo quede",
+          "value": "para que todo quede "
+        },
+        {
+          "key": "text-22",
+          "label": "cubierto legalmente",
+          "value": "cubierto legalmente"
+        },
+        {
+          "key": "text-23",
+          "label": ". Contratos con los actores, acuerdos de licencias...",
+          "value": ". Contratos con los actores, acuerdos de licencias... "
+        },
+        {
+          "key": "text-24",
+          "label": "Lo que necesites para dormir tranquilo por las noches.",
+          "value": "Lo que necesites para dormir tranquilo por las noches.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-25",
+          "label": "Paso 4.",
+          "value": "Paso 4."
+        },
+        {
+          "key": "text-26",
+          "label": "Generamos la locución",
+          "value": " Generamos la locución "
+        },
+        {
+          "key": "text-27",
+          "label": "Ajustamos",
+          "value": "\n\t\t\t\t\t\tAjustamos "
+        },
+        {
+          "key": "text-28",
+          "label": "entonación, ritmo y estilo",
+          "value": "entonación, ritmo y estilo"
+        },
+        {
+          "key": "text-29",
+          "label": "hasta lograr una",
+          "value": "hasta lograr una "
+        },
+        {
+          "key": "text-30",
+          "label": "locución de verdad",
+          "value": "locución de verdad"
+        },
+        {
+          "key": "text-31",
+          "label": ".\nLimpiamos clics, clacs y clocs; damos coherencia al tono de la narración y niv",
+          "value": ".\nLimpiamos clics, clacs y clocs; damos coherencia al tono de la narración y nivelamos el volumen según los estándares de donde lo quieras publicar.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-32",
+          "label": "Paso 5.",
+          "value": "Paso 5."
+        },
+        {
+          "key": "text-33",
+          "label": "Revisamos el proyecto y entregamos",
+          "value": " Revisamos el proyecto y entregamos "
+        },
+        {
+          "key": "text-34",
+          "label": "Lo escuchamos con",
+          "value": "\n\t\t\t\t\t\tLo escuchamos con "
+        },
+        {
+          "key": "text-35",
+          "label": "oído crítico",
+          "value": "oído crítico"
+        },
+        {
+          "key": "text-36",
+          "label": ": si algo chirría, se arregla. Y cuando está perfecto, lo empaquetamos bonito y ",
+          "value": ": si algo chirría, se arregla. Y cuando está perfecto, lo empaquetamos bonito y le damos formato ("
+        },
+        {
+          "key": "text-37",
+          "label": "WAV, MP3 o FLAC",
+          "value": "WAV, MP3 o FLAC"
+        },
+        {
+          "key": "text-38",
+          "label": ").",
+          "value": "). "
+        },
+        {
+          "key": "text-39",
+          "label": "¡Listo! Un lacito y a seguir molando.",
+          "value": "¡Listo! Un lacito y a seguir molando.\n\t\t\t\t\t"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Descubre tu voz ideal",
+          "href": "https://tally.so/r/mZpJGe"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-10",
+      "label": "Acelera x4 los tiempos de producción y reduce los costes hasta x10 veces.",
+      "template": "voz-ia-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Acelera x4",
+          "value": "Acelera x4"
+        },
+        {
+          "key": "text-1",
+          "label": "los",
+          "value": " los "
+        },
+        {
+          "key": "text-2",
+          "label": "tiempos de producción",
+          "value": "tiempos de producción"
+        },
+        {
+          "key": "text-3",
+          "label": "y\nreduce los",
+          "value": " y\nreduce los "
+        },
+        {
+          "key": "text-4",
+          "label": "costes",
+          "value": "costes"
+        },
+        {
+          "key": "text-5",
+          "label": "hasta",
+          "value": " hasta "
+        },
+        {
+          "key": "text-6",
+          "label": "x10 veces",
+          "value": "x10 veces"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-11",
+      "label": "Pero antes de que contrates a nadie",
+      "template": "voz-ia-11",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Pero antes de que contrates a nadie",
+          "value": "Pero antes de que contrates a nadie"
+        },
+        {
+          "key": "text-1",
+          "label": "queremos regalarte esto...",
+          "value": "queremos regalarte esto..."
+        },
+        {
+          "key": "text-2",
+          "label": "Sabemos que elegir la voz correcta",
+          "value": "Sabemos que elegir la voz correcta "
+        },
+        {
+          "key": "text-3",
+          "label": "no es un capricho",
+          "value": "no es un capricho"
+        },
+        {
+          "key": "text-4",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-5",
+          "label": "Es lo que puede hacer que tu marca",
+          "value": "Es lo que puede hacer que tu marca "
+        },
+        {
+          "key": "text-6",
+          "label": "suene épica",
+          "value": "suene épica"
+        },
+        {
+          "key": "text-7",
+          "label": "… o que dé más pena que un",
+          "value": "… o que dé más pena que un "
+        },
+        {
+          "key": "text-8",
+          "label": "karaoke de los 80",
+          "value": "karaoke de los 80"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "La voz es tu carta de presentación.",
+          "value": "La voz es tu carta de presentación."
+        },
+        {
+          "key": "text-11",
+          "label": "Define tu",
+          "value": "Define tu "
+        },
+        {
+          "key": "text-12",
+          "label": "marca.",
+          "value": "marca."
+        },
+        {
+          "key": "text-13",
+          "label": "Tu",
+          "value": "Tu "
+        },
+        {
+          "key": "text-14",
+          "label": "mensaje.",
+          "value": "mensaje."
+        },
+        {
+          "key": "text-15",
+          "label": "Y hasta los",
+          "value": "Y hasta los "
+        },
+        {
+          "key": "text-16",
+          "label": "clientes",
+          "value": "clientes "
+        },
+        {
+          "key": "text-17",
+          "label": "a los que llegas.",
+          "value": "a los que llegas."
+        },
+        {
+          "key": "text-18",
+          "label": "Porque",
+          "value": "Porque "
+        },
+        {
+          "key": "text-19",
+          "label": "no es lo mismo",
+          "value": "no es lo mismo"
+        },
+        {
+          "key": "text-20",
+          "label": "hablarle a una señora mayor en un geriátrico",
+          "value": " hablarle a una señora mayor en un geriátrico"
+        },
+        {
+          "key": "text-21",
+          "label": "que a tu sobrina de 15 años en plena pubertad.",
+          "value": "que a tu sobrina de 15 años en plena pubertad."
+        },
+        {
+          "key": "text-22",
+          "label": "Y como no queremos que vayas a ciegas",
+          "value": "Y como no queremos que vayas a ciegas "
+        },
+        {
+          "key": "text-23",
+          "label": "hemos creado un",
+          "value": "hemos creado un "
+        },
+        {
+          "key": "text-24",
+          "label": "test",
+          "value": "test"
+        },
+        {
+          "key": "text-25",
+          "label": "para ayudarte a",
+          "value": " para ayudarte a"
+        },
+        {
+          "key": "text-26",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-27",
+          "label": "Encontrar la",
+          "value": "Encontrar la "
+        },
+        {
+          "key": "text-28",
+          "label": "voz",
+          "value": "voz"
+        },
+        {
+          "key": "text-29",
+          "label": "que encaja con tu público",
+          "value": " que encaja con tu público"
+        },
+        {
+          "key": "text-30",
+          "label": "Empieza el Test",
+          "value": "Empieza el Test"
+        },
+        {
+          "key": "text-31",
+          "label": "Con este test",
+          "value": "Con este test "
+        },
+        {
+          "key": "text-32",
+          "label": "de",
+          "value": "de "
+        },
+        {
+          "key": "text-33",
+          "label": "2 minutos...",
+          "value": "2 minutos..."
+        },
+        {
+          "key": "text-34",
+          "label": "Harás que tu audiencia diga",
+          "value": "Harás que tu audiencia diga"
+        },
+        {
+          "key": "text-35",
+          "label": "“",
+          "value": " “"
+        },
+        {
+          "key": "text-36",
+          "label": "estos sí que hablan mi idioma",
+          "value": "estos sí que hablan mi idioma"
+        },
+        {
+          "key": "text-37",
+          "label": "”.",
+          "value": "”."
+        },
+        {
+          "key": "text-38",
+          "label": "Tu mensaje no solo sonará mejor",
+          "value": "Tu mensaje no solo sonará mejor"
+        },
+        {
+          "key": "text-39",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-40",
+          "label": "también se entenderá mejor.",
+          "value": "también se entenderá mejor."
+        },
+        {
+          "key": "text-41",
+          "label": "La voz que elijas será el espejo de tu marca o de tu libro,",
+          "value": "La voz que elijas será el espejo de tu marca o de tu libro,"
+        },
+        {
+          "key": "text-42",
+          "label": "en lugar de solo un disfraz barato de Amazon.",
+          "value": "en lugar de solo un disfraz barato de Amazon."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Empieza el Test",
+          "href": "https://tally.so/r/mZpJGe"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-12",
+      "label": "Si aún te lo estás pensando quizás esto de la IA...",
+      "template": "voz-ia-12",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Si aún te lo estás pensando",
+          "value": "Si aún te lo estás pensando"
+        },
+        {
+          "key": "text-1",
+          "label": "quizás esto de la IA...",
+          "value": "\nquizás esto de la IA...\n"
+        },
+        {
+          "key": "text-2",
+          "label": "NO SEA PARA TÍ",
+          "value": "NO SEA PARA TÍ"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/ef50675d5d1f-image11.gif",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-13",
+      "label": "Siempre habrá unos que adopten la tecnología más tarde que otros.Y para ellos…",
+      "template": "voz-ia-13",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Siempre habrá unos que adopten la tecnología más tarde que otros.",
+          "value": "Siempre habrá unos que adopten la tecnología más tarde que otros."
+        },
+        {
+          "key": "text-1",
+          "label": "Y para ellos",
+          "value": "Y para ellos"
+        },
+        {
+          "key": "text-2",
+          "label": "…",
+          "value": "…"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-14",
+      "label": "También tenemos el Pack Vintage",
+      "template": "voz-ia-14",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "También tenemos el",
+          "value": "También tenemos el "
+        },
+        {
+          "key": "text-1",
+          "label": "Pack Vintage",
+          "value": "Pack Vintage"
+        },
+        {
+          "key": "text-2",
+          "label": "Con",
+          "value": "Con "
+        },
+        {
+          "key": "text-3",
+          "label": "actores",
+          "value": "actores"
+        },
+        {
+          "key": "text-4",
+          "label": "y",
+          "value": " y "
+        },
+        {
+          "key": "text-5",
+          "label": "locutores",
+          "value": "locutores"
+        },
+        {
+          "key": "text-6",
+          "label": "de carne y hueso.",
+          "value": " de carne y hueso."
+        },
+        {
+          "key": "text-7",
+          "label": "Estudio con su",
+          "value": "Estudio con su "
+        },
+        {
+          "key": "text-8",
+          "label": "cabina de grabación",
+          "value": "cabina de grabación "
+        },
+        {
+          "key": "text-9",
+          "label": "y hasta",
+          "value": "y hasta "
+        },
+        {
+          "key": "text-10",
+          "label": "café de máquina",
+          "value": "café de máquina"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-12",
+          "label": "Incluso puedes",
+          "value": "Incluso puedes "
+        },
+        {
+          "key": "text-13",
+          "label": "asistir a la sesión",
+          "value": "asistir a la sesión"
+        },
+        {
+          "key": "text-14",
+          "label": "o",
+          "value": "o "
+        },
+        {
+          "key": "text-15",
+          "label": "conectarte desde casa",
+          "value": "conectarte desde casa"
+        },
+        {
+          "key": "text-16",
+          "label": "para sentir la magia del momento.",
+          "value": " para sentir la magia del momento."
+        },
+        {
+          "key": "text-17",
+          "label": "Tú eliges:",
+          "value": "Tú eliges:"
+        },
+        {
+          "key": "text-18",
+          "label": "¿Te tomas la pastilla",
+          "value": "¿Te tomas la pastilla "
+        },
+        {
+          "key": "text-19",
+          "label": "roja",
+          "value": "roja"
+        },
+        {
+          "key": "text-20",
+          "label": "y entras al mundo de las",
+          "value": " y entras al mundo de las "
+        },
+        {
+          "key": "text-21",
+          "label": "voces IA",
+          "value": "voces IA"
+        },
+        {
+          "key": "text-22",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-23",
+          "label": "O tomas la pastilla",
+          "value": "O tomas la pastilla "
+        },
+        {
+          "key": "text-24",
+          "label": "azul",
+          "value": "azul"
+        },
+        {
+          "key": "text-25",
+          "label": "y vuelves al",
+          "value": "y vuelves al "
+        },
+        {
+          "key": "text-26",
+          "label": "método tradicional",
+          "value": "método tradicional "
+        },
+        {
+          "key": "text-27",
+          "label": "de estudio de toda la vida?",
+          "value": "de estudio de toda la vida?"
+        },
+        {
+          "key": "text-28",
+          "label": "Quiero la roja",
+          "value": "Quiero la roja "
+        },
+        {
+          "key": "text-29",
+          "label": "(Voz IA)",
+          "value": "(Voz IA)"
+        },
+        {
+          "key": "text-30",
+          "label": "Quiero la azul",
+          "value": "Quiero la azul"
+        },
+        {
+          "key": "text-31",
+          "label": "(Tradicional)",
+          "value": "(Tradicional)"
+        },
+        {
+          "key": "text-32",
+          "label": "Spoiler",
+          "value": "Spoiler"
+        },
+        {
+          "key": "text-33",
+          "label": "1",
+          "value": " 1"
+        },
+        {
+          "key": "text-34",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-35",
+          "label": "En cualquiera de las dos realidades, recibes una",
+          "value": " En cualquiera de las dos realidades, recibes una "
+        },
+        {
+          "key": "text-36",
+          "label": "locución profesional",
+          "value": "locución profesional"
+        },
+        {
+          "key": "text-37",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-38",
+          "label": "No la de un «conocido» que ha terminado un «cursillo» de doblaje.",
+          "value": "No la de un «conocido» que ha terminado un «cursillo» de doblaje."
+        },
+        {
+          "key": "text-39",
+          "label": "Spoiler",
+          "value": "Spoiler "
+        },
+        {
+          "key": "text-40",
+          "label": "2:",
+          "value": "2:"
+        },
+        {
+          "key": "text-41",
+          "label": "Él piensa que sí, pero",
+          "value": " Él piensa que sí, pero "
+        },
+        {
+          "key": "text-42",
+          "label": "NO lo hace tan bien",
+          "value": "NO lo hace tan bien"
+        },
+        {
+          "key": "text-43",
+          "label": "como cree.",
+          "value": " como cree."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/c1207a864965-pastilla_roja-1-e1761826787961.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/12d8c8410fab.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-2",
+          "src": "/media/100f685668a7.webp",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "",
+          "href": "#"
+        },
+        {
+          "key": "link-1",
+          "label": "",
+          "href": "#"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-15",
+      "label": "Comparativa real:",
+      "template": "voz-ia-15",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Comparativa real",
+          "value": "Comparativa real"
+        },
+        {
+          "key": "text-1",
+          "label": ":",
+          "value": ": "
+        },
+        {
+          "key": "text-2",
+          "label": "\"Lo que nadie te cuenta\"",
+          "value": "\"Lo que nadie te cuenta\""
+        },
+        {
+          "key": "text-3",
+          "label": "Método tradicional",
+          "value": "Método tradicional"
+        },
+        {
+          "key": "text-4",
+          "label": "Estudio de sonido",
+          "value": "Estudio de sonido"
+        },
+        {
+          "key": "text-5",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-6",
+          "label": "Si. Incluye café de máquina.",
+          "value": "Si. Incluye café de máquina."
+        },
+        {
+          "key": "text-7",
+          "label": "Tiempo",
+          "value": "Tiempo"
+        },
+        {
+          "key": "text-8",
+          "label": ":",
+          "value": ": "
+        },
+        {
+          "key": "text-9",
+          "label": "Lento. (días o semanas)",
+          "value": "Lento. (días o semanas)"
+        },
+        {
+          "key": "text-10",
+          "label": "Coste",
+          "value": "Coste"
+        },
+        {
+          "key": "text-11",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-12",
+          "label": "Alto",
+          "value": "Alto"
+        },
+        {
+          "key": "text-13",
+          "label": "Resultados",
+          "value": "Resultados"
+        },
+        {
+          "key": "text-14",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-15",
+          "label": "Si eliges bien, deberían ser buenos, pero hemos visto de todo…",
+          "value": "Si eliges bien, deberían ser buenos, pero hemos visto de todo…"
+        },
+        {
+          "key": "text-16",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-17",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-18",
+          "label": "|ai",
+          "value": "|ai"
+        },
+        {
+          "key": "text-19",
+          "label": "Estudio de sonido",
+          "value": "Estudio de sonido"
+        },
+        {
+          "key": "text-20",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-21",
+          "label": "No",
+          "value": "No"
+        },
+        {
+          "key": "text-22",
+          "label": "Tiempo",
+          "value": "Tiempo"
+        },
+        {
+          "key": "text-23",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-24",
+          "label": "4x veces más rápido",
+          "value": "4x veces más rápido"
+        },
+        {
+          "key": "text-25",
+          "label": "Coste",
+          "value": "Coste"
+        },
+        {
+          "key": "text-26",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-27",
+          "label": "3x veces más barato",
+          "value": "3x veces más barato"
+        },
+        {
+          "key": "text-28",
+          "label": "Resultados",
+          "value": "Resultados"
+        },
+        {
+          "key": "text-29",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-30",
+          "label": "Juzga por ti mismo.",
+          "value": "Juzga por ti mismo."
+        },
+        {
+          "key": "text-31",
+          "label": "Escuchalo aquí",
+          "value": "Escuchalo aquí"
+        },
+        {
+          "key": "text-32",
+          "label": "Hazlo tú mismo/a",
+          "value": "Hazlo tú mismo/a"
+        },
+        {
+          "key": "text-33",
+          "label": "Estudio de sonido",
+          "value": "Estudio de sonido"
+        },
+        {
+          "key": "text-34",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-35",
+          "label": "Tu casa.",
+          "value": "Tu casa."
+        },
+        {
+          "key": "text-36",
+          "label": "Tiempo",
+          "value": "Tiempo"
+        },
+        {
+          "key": "text-37",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-38",
+          "label": "Depende lo que tardes en aprender.",
+          "value": "Depende lo que tardes en aprender."
+        },
+        {
+          "key": "text-39",
+          "label": "Coste",
+          "value": "Coste"
+        },
+        {
+          "key": "text-40",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-41",
+          "label": "Ninguno.",
+          "value": "Ninguno."
+        },
+        {
+          "key": "text-42",
+          "label": "Resultados",
+          "value": "Resultados"
+        },
+        {
+          "key": "text-43",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-44",
+          "label": "El mismo que los costes.",
+          "value": "El mismo que los costes."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Escuchalo aquí",
+          "href": "#test-de-voz-ideal"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-16",
+      "label": "Es como... FAQ",
+      "template": "voz-ia-16",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Es como...",
+          "value": "Es como... "
+        },
+        {
+          "key": "text-1",
+          "label": "FAQ",
+          "value": "FAQ"
+        },
+        {
+          "key": "text-2",
+          "label": "\"Respondiendo algunas preguntas que nadie nos ha hecho nunca\"",
+          "value": "\"Respondiendo algunas preguntas que nadie nos ha hecho nunca\""
+        },
+        {
+          "key": "text-3",
+          "label": "¿Cómo funciona DigiTalks?",
+          "value": "¿Cómo funciona DigiTalks?"
+        },
+        {
+          "key": "text-4",
+          "label": "Magia negra con un poco de IA. Ajustamos el texto, tocamos los botones que hay q",
+          "value": "Magia negra con un poco de IA. Ajustamos el texto, tocamos los botones que hay que tocar y te damos una locución profesional lista para usar. Si necesitas más detalles, preguntanos."
+        },
+        {
+          "key": "text-5",
+          "label": "¿Seguro que no suena a robot con resaca?",
+          "value": "¿Seguro que no suena a robot con resaca?"
+        },
+        {
+          "key": "text-6",
+          "label": "Nosotros estamos seguros. Y nuestros clientes también. Pero no deberías confiar ",
+          "value": "Nosotros estamos seguros. Y nuestros clientes también. Pero no deberías confiar en nosotros ni ellos, porque no nos conoces. Así que compruébalo por ti mismo dejando el email y escuchando ejemplos reales."
+        },
+        {
+          "key": "text-7",
+          "label": "¿Todas las voces que usáis son exclusivas de DigiTalks?",
+          "value": "¿Todas las voces que usáis son exclusivas de DigiTalks?"
+        },
+        {
+          "key": "text-8",
+          "label": "Depende. Y depende de lo que estés dispuesto a pagar. Las voces exclusivas tiene",
+          "value": "Depende. Y depende de lo que estés dispuesto a pagar. Las voces exclusivas tienen un coste añadido destinado al propietario de la voz. Nosotros ganamos lo mismo. Pero si tu presupuesto es muy ajustado podemos usar voces de catálogo pero añadiendo nuestra experiencia para que suene mucho mejor de lo que conseguirías en tu casa."
+        },
+        {
+          "key": "text-9",
+          "label": "¿Qué idiomas están disponibles?",
+          "value": "¿Qué idiomas están disponibles?"
+        },
+        {
+          "key": "text-10",
+          "label": "Unos cuantos. Desde español neutro, pasando por catalan o Español Latino, hasta ",
+          "value": "Unos cuantos. Desde español neutro, pasando por catalan o Español Latino, hasta inglés de “Wisconsin”. Tú dinos dónde quieres que llegue tu mensaje y nosotros le ponemos la voz adecuada."
+        },
+        {
+          "key": "text-11",
+          "label": "¿Tenéis permiso para usar esas voces?",
+          "value": "¿Tenéis permiso para usar esas voces?"
+        },
+        {
+          "key": "text-12",
+          "label": "Sí, mamá, tenemos permiso. Colaboramos con actores y actrices de verdad, con con",
+          "value": "Sí, mamá, tenemos permiso. Colaboramos con actores y actrices de verdad, con contratos claros y todo en regla. Ellos aprueban cada proyecto en el que aparecen. Nada de pirateo raro ni voces robadas de TikTok."
+        },
+        {
+          "key": "text-13",
+          "label": "¿No es injusto que la IA quite trabajo a los locutores humanos?",
+          "value": "¿No es injusto que la IA quite trabajo a los locutores humanos?"
+        },
+        {
+          "key": "text-14",
+          "label": "Entendemos la crítica, aunque nosotros lo enfocamos como algo complementario. No",
+          "value": "Entendemos la crítica, aunque nosotros lo enfocamos como algo complementario. No les quitamos el trabajo, trabajamos con ellos. De todas maneras, puedes mandar tus quejas sobre la IA directamente a Elon Musk. Nosotros preferimos enfocarnos en ofrecer soluciones rápidas, asequibles y de calidad a quienes las necesitan."
+        },
+        {
+          "key": "text-15",
+          "label": "¿Por qué os critican?",
+          "value": "¿Por qué os critican?"
+        },
+        {
+          "key": "text-16",
+          "label": "Porque lo nuevo siempre escuece. Ya pasó con internet y…  porque hay quien cree ",
+          "value": "Porque lo nuevo siempre escuece. Ya pasó con internet y…  porque hay quien cree que la IA viene con una guadaña a quitarle el trabajo. Nada más lejos de la realidad. Todos los involucrados en el proceso son justamente compensados."
+        },
+        {
+          "key": "text-17",
+          "label": "¿Quiénes sois?",
+          "value": "¿Quiénes sois?"
+        },
+        {
+          "key": "text-18",
+          "label": "Gente que lleva años escuchando, grabando y editando voces hasta en sueños. Más ",
+          "value": "Gente que lleva años escuchando, grabando y editando voces hasta en sueños. Más de 10 años en audio, en doblaje del de verdad, del bueno bueno, no de pelis de esas raras. Doblaje AAA, no ZZZ. …y postproducción. Vamos, que si fuera un currículum sería largo… pero mejor escucha lo que hacemos."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/0b53ce0910f2.webp",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "¿Cómo funciona DigiTalks?",
+          "href": "#Collapse-75906826affd755b9914"
+        },
+        {
+          "key": "link-1",
+          "label": "¿Seguro que no suena a robot con resaca?",
+          "href": "#Collapse-67a71d96affd755b9914"
+        },
+        {
+          "key": "link-2",
+          "label": "¿Todas las voces que usáis son exclusivas de DigiTalks?",
+          "href": "#Collapse-0e35ce36affd755b9914"
+        },
+        {
+          "key": "link-3",
+          "label": "¿Qué idiomas están disponibles?",
+          "href": "#Collapse-836038a6affd755b9914"
+        },
+        {
+          "key": "link-4",
+          "label": "¿Tenéis permiso para usar esas voces?",
+          "href": "#Collapse-dd445b96affd755b9914"
+        },
+        {
+          "key": "link-5",
+          "label": "¿No es injusto que la IA quite trabajo a los locutores humanos?",
+          "href": "#Collapse-697b9666affd755b9914"
+        },
+        {
+          "key": "link-6",
+          "label": "¿Por qué os critican?",
+          "href": "#Collapse-24960886affd755b9914"
+        },
+        {
+          "key": "link-7",
+          "label": "¿Quiénes sois?",
+          "href": "#Collapse-0a798a36affd755b9914"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "voz-ia-17",
+      "label": "- Última oportunidad -",
+      "template": "voz-ia-17",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "-",
+          "value": "- "
+        },
+        {
+          "key": "text-1",
+          "label": "Última",
+          "value": "Última"
+        },
+        {
+          "key": "text-2",
+          "label": "oportunidad",
+          "value": " oportunidad"
+        },
+        {
+          "key": "text-3",
+          "label": "-",
+          "value": " -"
+        },
+        {
+          "key": "text-4",
+          "label": "Si no has dejado tu",
+          "value": "Si no has dejado tu "
+        },
+        {
+          "key": "text-5",
+          "label": "email",
+          "value": "email"
+        },
+        {
+          "key": "text-6",
+          "label": ", probablemente",
+          "value": ", probablemente "
+        },
+        {
+          "key": "text-7",
+          "label": "ya estés anticuado",
+          "value": "ya estés anticuado"
+        },
+        {
+          "key": "text-8",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-9",
+          "label": "Y si ya lo has dejado",
+          "value": "Y si ya lo has dejado"
+        },
+        {
+          "key": "text-10",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-11",
+          "label": "Recibirás información que",
+          "value": "Recibirás información que "
+        },
+        {
+          "key": "text-12",
+          "label": "ninguna otra empresa",
+          "value": "ninguna otra empresa"
+        },
+        {
+          "key": "text-13",
+          "label": "de locución querría darte.",
+          "value": " de locución querría darte."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "voz-ia-VozIA_02",
+          "form": "voz-ia-VozIA_02"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

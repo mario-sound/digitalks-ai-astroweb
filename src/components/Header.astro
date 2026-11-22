@@ -1,0 +1,17 @@
+---
+import {general,ui,nav,languages,type Page,type Seo} from '../lib/content';
+interface Props {page:Page;seo:Seo}
+const {page,seo}=Astro.props;
+const equivalents=seo.alternates.filter(x=>x.lang!==page.lang&&x.lang!=='x-default');
+const languageLinks=equivalents.length?equivalents:languages.filter(x=>x.id!==page.lang).map(x=>({lang:x.id,path:x.home}));
+---
+<header class="site-header">
+  <div class="header-inner">
+    <a class="brand" href={languages.find(x=>x.id===page.lang)?.home||'/'} aria-label={general.title}><img src={general.logo} alt={general.title} width="205" height="44" fetchpriority="high"/></a>
+    <button class="menu-toggle" aria-controls="site-navigation" aria-expanded="false" aria-label={ui[page.lang].menu}><span></span><span></span><span></span></button>
+    <nav id="site-navigation" aria-label={ui[page.lang].navigation}>
+      {nav[page.lang].map(link=><a href={link.href} aria-current={link.href===page.path?'page':undefined}>{link.label}</a>)}
+      <details class="language-menu"><summary>{page.lang.toUpperCase()}</summary><div>{languageLinks.map(alt=><a href={alt.path} hreflang={alt.lang} lang={alt.lang}>{languages.find(x=>x.id===alt.lang)?.title||alt.lang}</a>)}</div></details>
+    </nav>
+  </div>
+</header>

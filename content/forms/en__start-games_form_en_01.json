@@ -1,0 +1,22 @@
+{
+  "id": "en__start-games_form_en_01",
+  "title": "games_form_en_01",
+  "lang": "en",
+  "source": "https://digitalks-ai.com/en/start/",
+  "fields": [
+    {
+      "name": "form_fields[games_form_en_01]",
+      "label": "Email address",
+      "type": "email",
+      "required": true,
+      "placeholder": " Email address",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Send",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "This form is not connected yet. No data will be sent."
+}

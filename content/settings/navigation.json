@@ -1,0 +1,42 @@
+{
+  "es": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Voz IA",
+      "href": "/voz-ia/"
+    },
+    {
+      "label": "Audio Data Collection",
+      "href": "/audio-data-collection/"
+    },
+    {
+      "label": "Audio development",
+      "href": "/audio-development/"
+    }
+  ],
+  "en": [
+    {
+      "label": "Home",
+      "href": "/en/start/"
+    },
+    {
+      "label": "AI Voice",
+      "href": "/en/ia-voice/"
+    },
+    {
+      "label": "Audio Data Collection",
+      "href": "/en/audio-data-collection-en/"
+    },
+    {
+      "label": "Audio Development",
+      "href": "/en/audio-development-en/"
+    },
+    {
+      "label": "Privacy Policy",
+      "href": "/en/privacy-policy/"
+    }
+  ]
+}

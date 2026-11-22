@@ -1,0 +1,5 @@
+import fs from'node:fs';import{parseHTML}from'linkedom';const audit=JSON.parse(fs.readFileSync('docs/original/audit.json'));
+let count=0;
+for(const p of audit.pages){const{document:original}=parseHTML(fs.readFileSync('docs/original/'+p.key+'.html','utf8'));const animations=new Map();for(const el of original.querySelectorAll('[data-settings]')){const s=JSON.parse(el.getAttribute('data-settings'));const animation=s.animation||s._animation;if(animation&&animation!=='none')animations.set(el.getAttribute('data-id'),{animation,delay:s.animation_delay||s._animation_delay||0});}
+ for(const file of fs.readdirSync('src/templates').filter(f=>f.startsWith(p.key+'-')&&f.endsWith('.html'))){const filePath='src/templates/'+file;const{document:d}=parseHTML('<html><body>'+fs.readFileSync(filePath,'utf8')+'</body></html>');for(const[id,setting]of animations){const el=d.querySelector('.dt-element-'+id);if(el){el.setAttribute('data-entrance',setting.animation);el.setAttribute('data-entrance-delay',String(setting.delay));count++;}}fs.writeFileSync(filePath,d.body.innerHTML);}
+}console.log('Restored',count,'public entrance animation settings');

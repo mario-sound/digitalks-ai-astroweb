@@ -1,0 +1,7 @@
+---
+import { audioMarkup } from '../lib/render';
+import type { Demo } from '../lib/content';
+interface Props {demo:Demo;lang:string}
+const {demo,lang}=Astro.props;
+---
+<Fragment set:html={audioMarkup(demo,lang)} />

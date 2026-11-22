@@ -1,0 +1,19 @@
+---
+import {renderSection} from '../lib/render';
+import {demos,forms,type Section} from '../lib/content';
+import AudioPlayer from './AudioPlayer.astro';
+import ContactForm from './ContactForm.astro';
+interface Props {section:Section;lang:string}
+const {section,lang}=Astro.props;
+const demo=demos.find(x=>x.id===section.demo);
+const gallery=demos.filter(d=>!section.language||d.language===section.language).sort((a,b)=>a.order-b.order);
+const form=forms.find(x=>x.id===section.form);
+---
+{section.enabled!==false && (section.template ? <Fragment set:html={renderSection(section,lang)} /> : <section class="custom-section">
+  {section.heading&&<h2>{section.heading}</h2>}
+  {section.body&&<p class="preserve-lines">{section.body}</p>}
+  {section.image&&<img src={section.image} alt={section.alt||''} loading="lazy" />}
+  {demo&&<AudioPlayer demo={demo} lang={lang}/>}
+  {section.type==='audio-gallery'&&<div class="demo-gallery">{gallery.map(d=><article><img src={d.image} alt={d.title} loading="lazy"/><h3>{d.title}</h3><p>{d.language}</p><AudioPlayer demo={d} lang={lang}/></article>)}</div>}
+  {form&&<ContactForm form={form}/>}
+</section>)}

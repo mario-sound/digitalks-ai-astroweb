@@ -1,0 +1,32 @@
+{
+  "id": "ots-audio-data-collection-ADC_OTS_01",
+  "title": "ADC_OTS_01",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/ots-audio-data-collection/",
+  "fields": [
+    {
+      "name": "form_fields[ADC_OTS_01]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": "Correo electrónico",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_72870e1]",
+      "label": "Información usuario",
+      "type": "text",
+      "required": false,
+      "placeholder": "Busco un dataset con...",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    }
+  ],
+  "submit": "Contactar",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "voz-ia-VozIA_02",
+  "title": "VozIA_02",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/voz-ia/",
+  "fields": [
+    {
+      "name": "form_fields[VozIA_02]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": "Correo electrónico",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Enviar",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

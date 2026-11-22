@@ -1,0 +1,222 @@
+{
+  "id": "locucionesia-Contacto",
+  "title": "Contacto",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/locucionesia/",
+  "fields": [
+    {
+      "name": "heading-0",
+      "label": "¿Quién eres?",
+      "type": "heading",
+      "required": false,
+      "placeholder": "",
+      "options": []
+    },
+    {
+      "name": "form_fields[email]",
+      "label": "Nombre",
+      "type": "text",
+      "required": true,
+      "placeholder": "Nombre",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_bcbb2c6]",
+      "label": "Mail",
+      "type": "email",
+      "required": true,
+      "placeholder": "Mail",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "heading-3",
+      "label": "¿Qué quieres?",
+      "type": "heading",
+      "required": false,
+      "placeholder": "",
+      "options": []
+    },
+    {
+      "name": "form_fields[field_446d2c6]",
+      "label": "Tipo de servicio",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Tipo de servicio",
+          "value": "Tipo de servicio"
+        },
+        {
+          "label": "Videojuego",
+          "value": "Videojuego"
+        },
+        {
+          "label": "E-Learning",
+          "value": "E-Learning"
+        },
+        {
+          "label": "Animación",
+          "value": "Animación"
+        },
+        {
+          "label": "Audiodescripción",
+          "value": "Audiodescripción"
+        },
+        {
+          "label": "Audiolibro",
+          "value": "Audiolibro"
+        },
+        {
+          "label": "Publicidad",
+          "value": "Publicidad"
+        },
+        {
+          "label": "Otros",
+          "value": "Otros"
+        }
+      ],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_6a67513]",
+      "label": "Tipo de voz",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Tipo de voz",
+          "value": "Tipo de voz"
+        },
+        {
+          "label": "Masculino",
+          "value": "Masculino"
+        },
+        {
+          "label": "Femenino",
+          "value": "Femenino"
+        }
+      ],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_10f6c6c]",
+      "label": "Nº Palabras (aprox)",
+      "type": "number",
+      "required": false,
+      "placeholder": "Nº Palabras (aprox)",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_3e7f248]",
+      "label": "Idioma",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Idioma",
+          "value": "Idioma"
+        },
+        {
+          "label": "Español (España)",
+          "value": "Español (España)"
+        },
+        {
+          "label": "Catalán",
+          "value": "Catalán"
+        },
+        {
+          "label": "Español LATAM",
+          "value": "Español LATAM"
+        },
+        {
+          "label": "Alemán",
+          "value": "Alemán"
+        },
+        {
+          "label": "Inglés",
+          "value": "Inglés"
+        },
+        {
+          "label": "Francés",
+          "value": "Francés"
+        },
+        {
+          "label": "Portugués (Brasil)",
+          "value": "Portugués (Brasil)"
+        },
+        {
+          "label": "Multi-idioma",
+          "value": "Multi-idioma"
+        }
+      ],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_78b6e0a]",
+      "label": "Destino del contenido",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Destino del contenido",
+          "value": "Destino del contenido"
+        },
+        {
+          "label": "Comercial (Youtube, Televisión, etc)",
+          "value": "Comercial (Youtube, Televisión, etc)"
+        },
+        {
+          "label": "Uso interno (empresas)",
+          "value": "Uso interno (empresas)"
+        },
+        {
+          "label": "Uso individual (rrss)",
+          "value": "Uso individual (rrss)"
+        },
+        {
+          "label": "",
+          "value": ""
+        }
+      ],
+      "showLabel": false,
+      "width": "full"
+    },
+    {
+      "name": "form_fields[field_c680b70]",
+      "label": "Fecha",
+      "type": "date",
+      "required": false,
+      "placeholder": "¿Cuándo lo quieres?",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    },
+    {
+      "name": "form_fields[field_bfdfba0]",
+      "label": "Comentario",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "¿Tienes algo más que decir? (RELLENA)",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Quiero mi presupuesto",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

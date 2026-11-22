@@ -1,0 +1,1171 @@
+{
+  "id": "doblaje-youtube",
+  "title": "Doblaje de vídeos de YouTube con IA | Digitalks AI",
+  "path": "/doblaje-youtube/",
+  "lang": "es",
+  "seo": "doblaje-youtube",
+  "source": "https://digitalks-ai.com/doblaje-youtube/",
+  "bodyClass": "wp-singular page-template-default page page-id-48180 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-plain-container ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-kit-46024 dt-page dt-page-48180",
+  "rootClass": "dt dt-48180",
+  "styles": [],
+  "css": "doblaje-youtube.css",
+  "sections": [
+    {
+      "id": "doblaje-youtube-1",
+      "label": "¡El “doblaje automático” de YouTube suena a",
+      "template": "doblaje-youtube-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¡El “doblaje automático",
+          "value": "¡El “doblaje automático"
+        },
+        {
+          "key": "text-1",
+          "label": "”",
+          "value": "”"
+        },
+        {
+          "key": "text-2",
+          "label": "de",
+          "value": "\nde "
+        },
+        {
+          "key": "text-3",
+          "label": "YouTube",
+          "value": "YouTube"
+        },
+        {
+          "key": "text-4",
+          "label": "suena a",
+          "value": "\nsuena a"
+        },
+        {
+          "key": "text-5",
+          "label": "mierda",
+          "value": "mierda"
+        },
+        {
+          "key": "text-6",
+          "label": "!",
+          "value": "!"
+        },
+        {
+          "key": "text-7",
+          "label": "Dobla je  Profesional para YouTube",
+          "value": "Dobla je  Profesional para YouTube \n"
+        },
+        {
+          "key": "text-8",
+          "label": "con la réplica de tu voz.",
+          "value": "con la réplica de tu voz."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/8ae7044da5e3-Perro_glovo2_bg-e1764246957720-300x286.png",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-2",
+      "label": "Youtube ha lanzado Multi language audio (mla)",
+      "template": "doblaje-youtube-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Youtube",
+          "value": "Youtube "
+        },
+        {
+          "key": "text-1",
+          "label": "ha lanzado",
+          "value": "ha lanzado  "
+        },
+        {
+          "key": "text-2",
+          "label": "Multi language audio",
+          "value": "Multi language audio "
+        },
+        {
+          "key": "text-3",
+          "label": "(mla)",
+          "value": "(mla)"
+        },
+        {
+          "key": "text-4",
+          "label": "Quiero saber más...",
+          "value": "Quiero saber más..."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Quiero saber más...",
+          "href": "https://calendly.com/audio-digitalks-ai/llamada-de-15-minutos"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": [
+        {
+          "key": "video-0",
+          "url": "https://www.youtube.com/watch?v=TzjCClOJwq4",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        }
+      ]
+    },
+    {
+      "id": "doblaje-youtube-3",
+      "label": "da un salto de CALIDAD usando pistas de audio multi-idioma para youtube",
+      "template": "doblaje-youtube-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "da un",
+          "value": "da un  "
+        },
+        {
+          "key": "text-1",
+          "label": "salto de CALIDAD",
+          "value": "salto de CALIDAD"
+        },
+        {
+          "key": "text-2",
+          "label": "usando pistas de audio",
+          "value": "usando pistas de audio "
+        },
+        {
+          "key": "text-3",
+          "label": "multi-idioma",
+          "value": "multi-idioma"
+        },
+        {
+          "key": "text-4",
+          "label": "para",
+          "value": " para "
+        },
+        {
+          "key": "text-5",
+          "label": "youtube",
+          "value": "youtube"
+        },
+        {
+          "key": "text-6",
+          "label": "El doblaje no es solo traducir.",
+          "value": "El doblaje no es solo traducir."
+        },
+        {
+          "key": "text-7",
+          "label": "Es",
+          "value": "Es "
+        },
+        {
+          "key": "text-8",
+          "label": "mantener tu voz, tu identidad y tu mismo nivel de calidad",
+          "value": "mantener tu voz, tu identidad y tu mismo nivel de calidad"
+        },
+        {
+          "key": "text-9",
+          "label": "en cualquier idioma.",
+          "value": " en cualquier idioma."
+        },
+        {
+          "key": "text-10",
+          "label": "Cuando el audio suena natural, el espectador no piensa que está doblado.",
+          "value": "Cuando el audio suena natural, el espectador no piensa que está doblado."
+        },
+        {
+          "key": "text-11",
+          "label": "Piensa que está viendo",
+          "value": "Piensa que está viendo "
+        },
+        {
+          "key": "text-12",
+          "label": "un canal profesional",
+          "value": "un canal profesional"
+        },
+        {
+          "key": "text-13",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-14",
+          "label": "Cuando el doblaje",
+          "value": "Cuando el doblaje "
+        },
+        {
+          "key": "text-15",
+          "label": "está bien hecho",
+          "value": "está bien hecho"
+        },
+        {
+          "key": "text-16",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-17",
+          "label": "La voz suena natural",
+          "value": "La voz suena natural"
+        },
+        {
+          "key": "text-18",
+          "label": "El mensaje y la intención se mantienen",
+          "value": "El mensaje y la intención se mantienen"
+        },
+        {
+          "key": "text-19",
+          "label": "El audio encaja con el ritmo del vídeo",
+          "value": "El audio encaja con el ritmo del vídeo"
+        },
+        {
+          "key": "text-20",
+          "label": "La experiencia se siente",
+          "value": "La experiencia se siente "
+        },
+        {
+          "key": "text-21",
+          "label": "real",
+          "value": "real"
+        },
+        {
+          "key": "text-22",
+          "label": ", no adaptada",
+          "value": ", no adaptada"
+        },
+        {
+          "key": "text-23",
+          "label": "No es solo",
+          "value": "No es solo "
+        },
+        {
+          "key": "text-24",
+          "label": "entender el contenido",
+          "value": "entender el contenido\n"
+        },
+        {
+          "key": "text-25",
+          "label": "Es que se perciba como",
+          "value": "Es que se perciba como "
+        },
+        {
+          "key": "text-26",
+          "label": "contenido de calidad",
+          "value": "contenido de calidad\n\n"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-4",
+      "label": "¿Quieres saber cuanto costaria doblar tus videos a otros idiomas?",
+      "template": "doblaje-youtube-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Quieres saber cuanto costaria doblar tus videos a otros idiomas?",
+          "value": "¿Quieres saber cuanto costaria doblar tus videos a otros idiomas?"
+        },
+        {
+          "key": "text-1",
+          "label": "Mucho menos de lo que imaginas...",
+          "value": "Mucho menos de lo que imaginas...\n"
+        },
+        {
+          "key": "text-2",
+          "label": "Consultanos el precio aqui:",
+          "value": "Consultanos el precio aqui:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "doblaje-youtube-doblarvideosyoutubeprecio",
+          "form": "doblaje-youtube-doblarvideosyoutubeprecio"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-5",
+      "label": "Ellos ya lo están haciendo...",
+      "template": "doblaje-youtube-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Ellos",
+          "value": "Ellos"
+        },
+        {
+          "key": "text-1",
+          "label": "ya lo están",
+          "value": " ya lo están "
+        },
+        {
+          "key": "text-2",
+          "label": "haciendo",
+          "value": "haciendo"
+        },
+        {
+          "key": "text-3",
+          "label": "...",
+          "value": "..."
+        },
+        {
+          "key": "text-4",
+          "label": "...Y LES FUNCIONA DE",
+          "value": "...Y LES FUNCIONA DE  "
+        },
+        {
+          "key": "text-5",
+          "label": "MARAVILLA",
+          "value": "MARAVILLA"
+        },
+        {
+          "key": "text-6",
+          "label": "Zazza el Italiano",
+          "value": "Zazza el Italiano"
+        },
+        {
+          "key": "text-7",
+          "label": "Pistas de audio Multilingüe",
+          "value": "Pistas de audio Multilingüe"
+        },
+        {
+          "key": "text-8",
+          "label": "Inglés",
+          "value": "Inglés"
+        },
+        {
+          "key": "text-9",
+          "label": "Itialiano",
+          "value": "Itialiano"
+        },
+        {
+          "key": "text-10",
+          "label": "Portugués",
+          "value": "Portugués"
+        },
+        {
+          "key": "text-11",
+          "label": "Interlingua",
+          "value": "Interlingua"
+        },
+        {
+          "key": "text-12",
+          "label": "Pista de audio VO Español",
+          "value": "Pista de audio VO Español"
+        },
+        {
+          "key": "text-13",
+          "label": "Voces",
+          "value": "Voces"
+        },
+        {
+          "key": "text-14",
+          "label": "completamente en Español",
+          "value": " completamente en Español"
+        },
+        {
+          "key": "text-15",
+          "label": "Royki",
+          "value": "Royki"
+        },
+        {
+          "key": "text-16",
+          "label": "Pistas de audio Multilingüe",
+          "value": "Pistas de audio Multilingüe"
+        },
+        {
+          "key": "text-17",
+          "label": "Inglés",
+          "value": "Inglés"
+        },
+        {
+          "key": "text-18",
+          "label": "Interlingua",
+          "value": "Interlingua"
+        },
+        {
+          "key": "text-19",
+          "label": "Pista de audio VO Español",
+          "value": "Pista de audio VO Español"
+        },
+        {
+          "key": "text-20",
+          "label": "Voces",
+          "value": "Voces"
+        },
+        {
+          "key": "text-21",
+          "label": "completamente en Español",
+          "value": " completamente en Español"
+        },
+        {
+          "key": "text-22",
+          "label": "Luisito Comunica",
+          "value": "Luisito Comunica"
+        },
+        {
+          "key": "text-23",
+          "label": "Pistas de audio Multilingüe",
+          "value": "Pistas de audio Multilingüe"
+        },
+        {
+          "key": "text-24",
+          "label": "Inglés",
+          "value": "Inglés"
+        },
+        {
+          "key": "text-25",
+          "label": "Francés",
+          "value": "Francés"
+        },
+        {
+          "key": "text-26",
+          "label": "Portugués",
+          "value": "Portugués"
+        },
+        {
+          "key": "text-27",
+          "label": "Ruso",
+          "value": "Ruso"
+        },
+        {
+          "key": "text-28",
+          "label": "Japonés",
+          "value": "Japonés"
+        },
+        {
+          "key": "text-29",
+          "label": "+ 7 idiomas",
+          "value": "+ 7 idiomas"
+        },
+        {
+          "key": "text-30",
+          "label": "The Diary of  a CEO",
+          "value": "The Diary of  a CEO"
+        },
+        {
+          "key": "text-31",
+          "label": "Pistas de audio Multilingüe",
+          "value": "Pistas de audio Multilingüe"
+        },
+        {
+          "key": "text-32",
+          "label": "Inglés",
+          "value": "Inglés"
+        },
+        {
+          "key": "text-33",
+          "label": "Francés",
+          "value": "Francés"
+        },
+        {
+          "key": "text-34",
+          "label": "Portugués",
+          "value": "Portugués"
+        },
+        {
+          "key": "text-35",
+          "label": "Ruso",
+          "value": "Ruso"
+        },
+        {
+          "key": "text-36",
+          "label": "Japonés",
+          "value": "Japonés"
+        },
+        {
+          "key": "text-37",
+          "label": "+ 13 idiomas",
+          "value": "+ 13 idiomas"
+        },
+        {
+          "key": "text-38",
+          "label": "Hafu Go",
+          "value": "Hafu Go"
+        },
+        {
+          "key": "text-39",
+          "label": "Pistas de audio Multilingüe",
+          "value": "Pistas de audio Multilingüe"
+        },
+        {
+          "key": "text-40",
+          "label": "Español",
+          "value": "Español"
+        },
+        {
+          "key": "text-41",
+          "label": "Francés",
+          "value": "Francés"
+        },
+        {
+          "key": "text-42",
+          "label": "Alemán",
+          "value": "Alemán"
+        },
+        {
+          "key": "text-43",
+          "label": "Coreano",
+          "value": "Coreano"
+        },
+        {
+          "key": "text-44",
+          "label": "Hindi",
+          "value": "Hindi"
+        },
+        {
+          "key": "text-45",
+          "label": "+ 16 idiomas",
+          "value": "+ 16 idiomas"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": [
+        {
+          "key": "video-0",
+          "url": "https://www.youtube.com/watch?v=oki9OlOdwPg",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-1",
+          "url": "https://www.youtube.com/watch?v=B_Q2qJxZt4A",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-2",
+          "url": "https://www.youtube.com/watch?v=gSCglYuoTCs",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-3",
+          "url": "https://www.youtube.com/watch?v=w3dTmyZq4Qk",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-4",
+          "url": "https://www.youtube.com/watch?v=NTFcXY3SJYg",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        }
+      ]
+    },
+    {
+      "id": "doblaje-youtube-6",
+      "label": "ATENCIÓN",
+      "template": "doblaje-youtube-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "ATENCIÓN",
+          "value": "ATENCIÓN"
+        },
+        {
+          "key": "text-1",
+          "label": "Trabajamos con canales de más de +500k subs",
+          "value": "Trabajamos con canales de más de +500k subs"
+        },
+        {
+          "key": "text-2",
+          "label": "No queremos hacerte",
+          "value": "No queremos hacerte "
+        },
+        {
+          "key": "text-3",
+          "label": "perder el tiempo",
+          "value": "perder el tiempo"
+        },
+        {
+          "key": "text-4",
+          "label": "...",
+          "value": "...\n"
+        },
+        {
+          "key": "text-5",
+          "label": "Si quieres saber más, completa este formulario:",
+          "value": "Si quieres saber más, completa este formulario:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "doblaje-youtube-doblarvideosyoutubeprecio02",
+          "form": "doblaje-youtube-doblarvideosyoutubeprecio02"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-7",
+      "label": "Tu Voz en más de +20 Idiomas",
+      "template": "doblaje-youtube-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Tu Voz",
+          "value": "Tu Voz"
+        },
+        {
+          "key": "text-1",
+          "label": "en más de",
+          "value": " en más de "
+        },
+        {
+          "key": "text-2",
+          "label": "+20 Idiomas",
+          "value": "            +20 Idiomas"
+        },
+        {
+          "key": "text-3",
+          "label": "¿Quieres saber cuanto",
+          "value": "¿Quieres saber cuanto "
+        },
+        {
+          "key": "text-4",
+          "label": "costaría doblar tus",
+          "value": "costaría doblar tus "
+        },
+        {
+          "key": "text-5",
+          "label": "videos a otros idiomas?",
+          "value": "videos a otros idiomas?"
+        },
+        {
+          "key": "text-6",
+          "label": "Te lo digo...",
+          "value": "Te lo digo..."
+        },
+        {
+          "key": "text-7",
+          "label": "Mucho menos de lo que imaginas...",
+          "value": "Mucho menos de lo que imaginas...\n"
+        },
+        {
+          "key": "text-8",
+          "label": "Consulta el precio aqui:",
+          "value": "Consulta el precio aqui:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "doblaje-youtube-doblarvideosyoutubeprecio03",
+          "form": "doblaje-youtube-doblarvideosyoutubeprecio03"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-8",
+      "label": "Llega a millones de espectadores nuevos",
+      "template": "doblaje-youtube-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Llega a",
+          "value": "Llega a "
+        },
+        {
+          "key": "text-1",
+          "label": "millones",
+          "value": "millones"
+        },
+        {
+          "key": "text-2",
+          "label": "de espectadores",
+          "value": " de espectadores "
+        },
+        {
+          "key": "text-3",
+          "label": "nuevos",
+          "value": "nuevos"
+        },
+        {
+          "key": "text-4",
+          "label": "Hay creadores de contenido que solo existen en habla hispana que son la leche,",
+          "value": "Hay creadores de contenido que solo existen en habla hispana que son la leche, "
+        },
+        {
+          "key": "text-5",
+          "label": "pero la peña se los está perdiendo porque no entienden el idioma.",
+          "value": "pero la peña se los está perdiendo porque no entienden el idioma."
+        },
+        {
+          "key": "text-6",
+          "label": "Más de 1.500 millones hablan inglés.",
+          "value": "Más de 1.500 millones hablan inglés."
+        },
+        {
+          "key": "text-7",
+          "label": "Cientos de millones hablan francés, portugués, alemán o italiano.",
+          "value": "Cientos de millones hablan francés, portugués, alemán o italiano."
+        },
+        {
+          "key": "text-8",
+          "label": "Y luego está Asia, donde ya no hablamos de millones:",
+          "value": "Y luego está Asia, donde ya no hablamos de millones: "
+        },
+        {
+          "key": "text-9",
+          "label": "hablamos de miles de millones de personas que consumen YouTube cada día",
+          "value": "hablamos de miles de millones de personas que consumen YouTube cada día "
+        },
+        {
+          "key": "text-10",
+          "label": "en hindú, bengalí, chino, japonés, coreano, indonesio…",
+          "value": "en hindú, bengalí, chino, japonés, coreano, indonesio…"
+        },
+        {
+          "key": "text-11",
+          "label": "O lo que es lo mismo…",
+          "value": "O lo que es lo mismo…"
+        },
+        {
+          "key": "text-12",
+          "label": "Más de la mitad del planeta",
+          "value": "Más de la mitad del planeta"
+        },
+        {
+          "key": "text-13",
+          "label": "nunca verá tu contenido",
+          "value": " nunca verá tu contenido "
+        },
+        {
+          "key": "text-14",
+          "label": "si no lo entiende.",
+          "value": "si no lo entiende."
+        },
+        {
+          "key": "text-15",
+          "label": "(Sí, estas cifras nos las ha dicho ChatGPT, no nos flipemos).",
+          "value": "(Sí, estas cifras nos las ha dicho ChatGPT, no nos flipemos). "
+        },
+        {
+          "key": "text-16",
+          "label": "Somos expertos en doblaje, no en demografía planetaria.",
+          "value": "Somos expertos en doblaje, no en demografía planetaria."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-9",
+      "label": "Haz crecer tu canal a lo bestia sin grabar nada nuevo",
+      "template": "doblaje-youtube-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Haz",
+          "value": "Haz "
+        },
+        {
+          "key": "text-1",
+          "label": "crecer tu canal",
+          "value": "crecer tu canal"
+        },
+        {
+          "key": "text-2",
+          "label": "a lo bestia",
+          "value": " a lo bestia"
+        },
+        {
+          "key": "text-3",
+          "label": "sin grabar",
+          "value": "sin grabar"
+        },
+        {
+          "key": "text-4",
+          "label": "nada nuevo",
+          "value": " nada nuevo\n"
+        },
+        {
+          "key": "text-5",
+          "label": "Tú no grabas",
+          "value": "Tú no grabas "
+        },
+        {
+          "key": "text-6",
+          "label": "nada",
+          "value": "nada"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-8",
+          "label": "No repites",
+          "value": "No repites "
+        },
+        {
+          "key": "text-9",
+          "label": "nada",
+          "value": "nada"
+        },
+        {
+          "key": "text-10",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-11",
+          "label": "No haces",
+          "value": "No haces "
+        },
+        {
+          "key": "text-12",
+          "label": "nada",
+          "value": "nada"
+        },
+        {
+          "key": "text-13",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-14",
+          "label": "Nosotros",
+          "value": "Nosotros "
+        },
+        {
+          "key": "text-15",
+          "label": "doblamos tu voz a varios idiomas",
+          "value": "doblamos tu voz a varios idiomas"
+        },
+        {
+          "key": "text-16",
+          "label": "(sin que suenes a «alienígena»)",
+          "value": " (sin que suenes a «alienígena»)"
+        },
+        {
+          "key": "text-17",
+          "label": "Y de repente YouTube empieza a empujar tu contenido",
+          "value": "Y de repente YouTube empieza a empujar tu contenido"
+        },
+        {
+          "key": "text-18",
+          "label": "como si fueras el primo perdido de MrBeast.",
+          "value": "como si fueras el primo perdido de MrBeast."
+        },
+        {
+          "key": "text-19",
+          "label": "Los grandes ya lo están haciendo:",
+          "value": "Los grandes ya lo están haciendo:"
+        },
+        {
+          "key": "text-20",
+          "label": "Zazza el Italiano",
+          "value": "Zazza el Italiano"
+        },
+        {
+          "key": "text-21",
+          "label": ", doblando todo y reventando visitas.",
+          "value": ", doblando todo y reventando visitas."
+        },
+        {
+          "key": "text-22",
+          "label": "Diary of a CEO",
+          "value": "Diary of a CEO"
+        },
+        {
+          "key": "text-23",
+          "label": ", igual: un contenido, varios idiomas y resultados obscenos.",
+          "value": ", igual: un contenido, varios idiomas y resultados obscenos."
+        },
+        {
+          "key": "text-24",
+          "label": "Esto no es teoría.",
+          "value": "Esto no es teoría."
+        },
+        {
+          "key": "text-25",
+          "label": "Es lo que ya funciona.",
+          "value": "Es lo que ya funciona."
+        },
+        {
+          "key": "text-26",
+          "label": "Y lo mejor:",
+          "value": "Y lo mejor: "
+        },
+        {
+          "key": "text-27",
+          "label": "es algo nuevo",
+          "value": "es algo nuevo"
+        },
+        {
+          "key": "text-28",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-29",
+          "label": "Cuando Ibai empiece a hacerlo, habrá tortas para conseguir un",
+          "value": "Cuando Ibai empiece a hacerlo, habrá tortas para conseguir un "
+        },
+        {
+          "key": "text-30",
+          "label": "buen doblaje",
+          "value": "buen doblaje"
+        },
+        {
+          "key": "text-31",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-32",
+          "label": "Lo bueno es que la mayoría de creadores",
+          "value": "Lo bueno es que la mayoría de creadores "
+        },
+        {
+          "key": "text-33",
+          "label": "no se han enterado",
+          "value": "no se han enterado"
+        },
+        {
+          "key": "text-34",
+          "label": "todavía",
+          "value": "todavía"
+        },
+        {
+          "key": "text-35",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-36",
+          "label": "Pero los que lo están probando ahora, se están llevando",
+          "value": "Pero los que lo están probando ahora, se están llevando "
+        },
+        {
+          "key": "text-37",
+          "label": "unos números de la leche",
+          "value": "unos números de la leche"
+        },
+        {
+          "key": "text-38",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-10",
+      "label": "Los datos de YouTube son muy claros:",
+      "template": "doblaje-youtube-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Los datos de",
+          "value": "Los datos de "
+        },
+        {
+          "key": "text-1",
+          "label": "YouTube",
+          "value": "YouTube"
+        },
+        {
+          "key": "text-2",
+          "label": "son muy claros:",
+          "value": "son muy claros:"
+        },
+        {
+          "key": "text-3",
+          "label": "+25% de watch time extra",
+          "value": "+25% de watch time extra"
+        },
+        {
+          "key": "text-4",
+          "label": "solo por añadir otros idiomas.",
+          "value": " solo por añadir otros idiomas."
+        },
+        {
+          "key": "text-5",
+          "label": "Según el CEO de YouTube, en algunos vídeos,",
+          "value": "Según el CEO de YouTube, en algunos vídeos, "
+        },
+        {
+          "key": "text-6",
+          "label": "más del 40%",
+          "value": "más del 40%"
+        },
+        {
+          "key": "text-7",
+          "label": "del tiempo de visualización viene de gente que ni habla tu idioma.",
+          "value": " del tiempo de visualización viene de gente que ni habla tu idioma."
+        },
+        {
+          "key": "text-8",
+          "label": "Jamie Oliver:",
+          "value": "Jamie Oliver: "
+        },
+        {
+          "key": "text-9",
+          "label": "triplicó visitas",
+          "value": "triplicó visitas"
+        },
+        {
+          "key": "text-10",
+          "label": "sin grabar nada nuevo.",
+          "value": " sin grabar nada nuevo."
+        },
+        {
+          "key": "text-11",
+          "label": "SV2:",
+          "value": "SV2: "
+        },
+        {
+          "key": "text-12",
+          "label": "+180% de watch time",
+          "value": "+180% de watch time"
+        },
+        {
+          "key": "text-13",
+          "label": "solo por activar multi-idioma.",
+          "value": " solo por activar multi-idioma."
+        },
+        {
+          "key": "text-14",
+          "label": "Así de",
+          "value": "Así de "
+        },
+        {
+          "key": "text-15",
+          "label": "fácil",
+          "value": "fácil"
+        },
+        {
+          "key": "text-16",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-17",
+          "label": "Así de",
+          "value": "Así de "
+        },
+        {
+          "key": "text-18",
+          "label": "bruto",
+          "value": "bruto"
+        },
+        {
+          "key": "text-19",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-20",
+          "label": "Y ahora mismo es una ventaja injusta.",
+          "value": "Y ahora mismo es una ventaja injusta."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "doblaje-youtube-11",
+      "label": "Contactanos para llevar tu canal a todo el mundo como un jefazo",
+      "template": "doblaje-youtube-11",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Contactanos para llevar tu canal a todo el mundo como un jefazo",
+          "value": "Contactanos para llevar tu canal a todo el mundo como un jefazo"
+        },
+        {
+          "key": "text-1",
+          "label": "Agenda una llamada",
+          "value": "Agenda una llamada"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Agenda una llamada",
+          "href": "https://calendly.com/audio-digitalks-ai/llamada-de-15-minutos"
+        }
+      ],
+      "forms": [
+        {
+          "slot": "doblaje-youtube-doblarvideosyoutubeprecio04",
+          "form": "doblaje-youtube-doblarvideosyoutubeprecio04"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

@@ -1,0 +1,1482 @@
+{
+  "id": "custom-audio-data-collection",
+  "title": "Custom Audio Data Collection & Voice Datasets Premium | Digitalks AI",
+  "path": "/custom-audio-data-collection/",
+  "lang": "es",
+  "seo": "custom-audio-data-collection",
+  "source": "https://digitalks-ai.com/custom-audio-data-collection/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-46489 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-header-break-point ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-46489",
+  "rootClass": "dt dt-46489",
+  "styles": [],
+  "css": "custom-audio-data-collection.css",
+  "sections": [
+    {
+      "id": "custom-audio-data-collection-1",
+      "label": "BETTER DATA, BETTER VOICES",
+      "template": "custom-audio-data-collection-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "BETTER DATA, BETTER VOICES",
+          "value": "BETTER DATA, BETTER VOICES"
+        },
+        {
+          "key": "text-1",
+          "label": "THE MOST EFFICIENT WAY TO BUILD",
+          "value": "THE MOST EFFICIENT WAY TO BUILD"
+        },
+        {
+          "key": "text-2",
+          "label": "HYPER-REALISTIC VOICE MODELS",
+          "value": "HYPER-REALISTIC VOICE MODELS"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/327a08c71242.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-2",
+      "label": "Creamos interpretaciones reales para entrenar modelos hiper-expresivos.",
+      "template": "custom-audio-data-collection-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Creamos",
+          "value": "Creamos "
+        },
+        {
+          "key": "text-1",
+          "label": "interpretaciones reales",
+          "value": "interpretaciones reales "
+        },
+        {
+          "key": "text-2",
+          "label": "para entrenar",
+          "value": "para entrenar "
+        },
+        {
+          "key": "text-3",
+          "label": "modelos hiper-expresivos.",
+          "value": "modelos hiper-expresivos."
+        },
+        {
+          "key": "text-4",
+          "label": "\"",
+          "value": "\""
+        },
+        {
+          "key": "text-5",
+          "label": "Un dataset",
+          "value": "Un dataset "
+        },
+        {
+          "key": "text-6",
+          "label": "que convierte",
+          "value": "que convierte "
+        },
+        {
+          "key": "text-7",
+          "label": "cualquier TTS",
+          "value": "cualquier TTS"
+        },
+        {
+          "key": "text-8",
+          "label": "en una voz capaz de",
+          "value": " en una voz capaz de "
+        },
+        {
+          "key": "text-9",
+          "label": "transmitir emoción",
+          "value": "transmitir emoción"
+        },
+        {
+          "key": "text-10",
+          "label": ".\"",
+          "value": ".\""
+        },
+        {
+          "key": "text-11",
+          "label": "Actores",
+          "value": "Actores"
+        },
+        {
+          "key": "text-12",
+          "label": "y locutores profesionales",
+          "value": " y locutores profesionales"
+        },
+        {
+          "key": "text-13",
+          "label": "(no crowdsourcing).",
+          "value": " (no crowdsourcing)."
+        },
+        {
+          "key": "text-14",
+          "label": "Emociones",
+          "value": "Emociones"
+        },
+        {
+          "key": "text-15",
+          "label": "reales",
+          "value": " reales"
+        },
+        {
+          "key": "text-16",
+          "label": ", sin “efectos forzados”.",
+          "value": ", sin “efectos forzados”."
+        },
+        {
+          "key": "text-17",
+          "label": "Audio de estudio",
+          "value": "Audio de estudio"
+        },
+        {
+          "key": "text-18",
+          "label": "profesional",
+          "value": "profesional "
+        },
+        {
+          "key": "text-19",
+          "label": "(24bit / 48kHz).",
+          "value": "(24bit / 48kHz)."
+        },
+        {
+          "key": "text-20",
+          "label": "Metadatos",
+          "value": "Metadatos"
+        },
+        {
+          "key": "text-21",
+          "label": "emocionales",
+          "value": " emocionales "
+        },
+        {
+          "key": "text-22",
+          "label": "y de intención",
+          "value": "y de intención"
+        },
+        {
+          "key": "text-23",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-24",
+          "label": "Estilos",
+          "value": "Estilos"
+        },
+        {
+          "key": "text-25",
+          "label": "preparados",
+          "value": " preparados "
+        },
+        {
+          "key": "text-26",
+          "label": "para entrenar GenAI",
+          "value": "para entrenar GenAI"
+        },
+        {
+          "key": "text-27",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-28",
+          "label": "¿Por qué es más caro que un",
+          "value": "¿Por qué es más caro que un "
+        },
+        {
+          "key": "text-29",
+          "label": "dataset OTS?",
+          "value": "dataset OTS?"
+        },
+        {
+          "key": "text-30",
+          "label": "E",
+          "value": "E"
+        },
+        {
+          "key": "text-31",
+          "label": "s cierto.",
+          "value": "s cierto."
+        },
+        {
+          "key": "text-32",
+          "label": "Tiene un coste considerable si lo comparas con",
+          "value": "Tiene un coste considerable si lo comparas con "
+        },
+        {
+          "key": "text-33",
+          "label": "datasets de librería",
+          "value": "datasets de librería"
+        },
+        {
+          "key": "text-34",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-35",
+          "label": "Ya no basta",
+          "value": "Ya no basta"
+        },
+        {
+          "key": "text-36",
+          "label": "con entrenar tus modelos TTS con",
+          "value": " con entrenar tus modelos TTS con "
+        },
+        {
+          "key": "text-37",
+          "label": "datos genéricos",
+          "value": "datos genéricos"
+        },
+        {
+          "key": "text-38",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-39",
+          "label": "Los",
+          "value": "Los "
+        },
+        {
+          "key": "text-40",
+          "label": "modelos actuales",
+          "value": "modelos actuales"
+        },
+        {
+          "key": "text-41",
+          "label": "no se entrenan solo para “",
+          "value": " no se entrenan solo para “"
+        },
+        {
+          "key": "text-42",
+          "label": "hablar bien",
+          "value": "hablar bien"
+        },
+        {
+          "key": "text-43",
+          "label": "”,",
+          "value": "”,"
+        },
+        {
+          "key": "text-44",
+          "label": "sino para ajustar",
+          "value": "sino para ajustar "
+        },
+        {
+          "key": "text-45",
+          "label": "emociones",
+          "value": "emociones"
+        },
+        {
+          "key": "text-46",
+          "label": ", modular",
+          "value": ", modular "
+        },
+        {
+          "key": "text-47",
+          "label": "matices",
+          "value": "matices "
+        },
+        {
+          "key": "text-48",
+          "label": "y adaptar",
+          "value": "y adaptar "
+        },
+        {
+          "key": "text-49",
+          "label": "estilos",
+          "value": "estilos "
+        },
+        {
+          "key": "text-50",
+          "label": "según el contexto.",
+          "value": "según el contexto."
+        },
+        {
+          "key": "text-51",
+          "label": "Si quieres que un modelo sea capaz de",
+          "value": "Si quieres que un modelo sea capaz de "
+        },
+        {
+          "key": "text-52",
+          "label": "expresar",
+          "value": "expresar"
+        },
+        {
+          "key": "text-53",
+          "label": "alegría sin sonar forzado",
+          "value": "alegría sin sonar forzado"
+        },
+        {
+          "key": "text-54",
+          "label": ", cambiar a un",
+          "value": ", cambiar a un "
+        },
+        {
+          "key": "text-55",
+          "label": "tono calmado",
+          "value": "tono calmado"
+        },
+        {
+          "key": "text-56",
+          "label": "sin romper el timbre",
+          "value": "sin romper el timbre"
+        },
+        {
+          "key": "text-57",
+          "label": ", o",
+          "value": ", o "
+        },
+        {
+          "key": "text-58",
+          "label": "interpretar instrucciones",
+          "value": "interpretar instrucciones"
+        },
+        {
+          "key": "text-59",
+          "label": "con naturalidad,",
+          "value": " con naturalidad,"
+        },
+        {
+          "key": "text-60",
+          "label": "necesitas datos",
+          "value": "necesitas datos"
+        },
+        {
+          "key": "text-61",
+          "label": "que recojan exactamente esas variaciones.",
+          "value": " que recojan exactamente esas variaciones."
+        },
+        {
+          "key": "text-62",
+          "label": "Este es un",
+          "value": "Este es un "
+        },
+        {
+          "key": "text-63",
+          "label": "producto premium",
+          "value": "producto premium"
+        },
+        {
+          "key": "text-64",
+          "label": "para obtener",
+          "value": " para obtener "
+        },
+        {
+          "key": "text-65",
+          "label": "resultados premium",
+          "value": "resultados premium"
+        },
+        {
+          "key": "text-66",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-67",
+          "label": "Es audio",
+          "value": "Es audio "
+        },
+        {
+          "key": "text-68",
+          "label": "y",
+          "value": "y"
+        },
+        {
+          "key": "text-69",
+          "label": "metadata",
+          "value": " metadata"
+        },
+        {
+          "key": "text-70",
+          "label": "diseñados para que tu TTS pueda hacer cosas que un dataset neutro jamás permitir",
+          "value": " diseñados para que tu TTS pueda hacer cosas que un dataset neutro jamás permitirá."
+        },
+        {
+          "key": "text-71",
+          "label": "Pero también debes",
+          "value": "Pero también debes "
+        },
+        {
+          "key": "text-72",
+          "label": "saber",
+          "value": "saber"
+        },
+        {
+          "key": "text-73",
+          "label": "que…",
+          "value": " que…\n\n"
+        },
+        {
+          "key": "text-74",
+          "label": "Salen más caras",
+          "value": "Salen más caras"
+        },
+        {
+          "key": "text-75",
+          "label": "varias",
+          "value": " varias "
+        },
+        {
+          "key": "text-76",
+          "label": "sesiones de estudio",
+          "value": "sesiones de estudio"
+        },
+        {
+          "key": "text-77",
+          "label": "para poder usar esa grabación una sola vez.",
+          "value": " para poder usar esa grabación una sola vez. "
+        },
+        {
+          "key": "text-78",
+          "label": "Es más barato",
+          "value": "Es más barato"
+        },
+        {
+          "key": "text-79",
+          "label": "de lo que cuesta mantener a",
+          "value": " de lo que cuesta mantener a "
+        },
+        {
+          "key": "text-80",
+          "label": "3 agentes humanos",
+          "value": "3 agentes humanos"
+        },
+        {
+          "key": "text-81",
+          "label": "en un call center.",
+          "value": " en un call center."
+        },
+        {
+          "key": "text-82",
+          "label": "Lo mismo para videojuegos",
+          "value": "Lo mismo para videojuegos"
+        },
+        {
+          "key": "text-83",
+          "label": ": \nEn lugar de",
+          "value": ": \nEn lugar de "
+        },
+        {
+          "key": "text-84",
+          "label": "pagar",
+          "value": "pagar"
+        },
+        {
+          "key": "text-85",
+          "label": "y",
+          "value": " y "
+        },
+        {
+          "key": "text-86",
+          "label": "forzar",
+          "value": "forzar "
+        },
+        {
+          "key": "text-87",
+          "label": "a un actor",
+          "value": "a un actor "
+        },
+        {
+          "key": "text-88",
+          "label": "sesión tras sesión",
+          "value": "sesión tras sesión"
+        },
+        {
+          "key": "text-89",
+          "label": ", con nuestro dataset",
+          "value": ", con nuestro dataset "
+        },
+        {
+          "key": "text-90",
+          "label": "generas audios ilimitados",
+          "value": "generas audios ilimitados"
+        },
+        {
+          "key": "text-91",
+          "label": "tras un solo día de grabación.",
+          "value": " tras un solo día de grabación."
+        },
+        {
+          "key": "text-92",
+          "label": "Obviamente,",
+          "value": "Obviamente, "
+        },
+        {
+          "key": "text-93",
+          "label": "tú decides",
+          "value": "tú decides"
+        },
+        {
+          "key": "text-94",
+          "label": "y tú sabes lo que necesitas.",
+          "value": " y tú sabes lo que necesitas."
+        },
+        {
+          "key": "text-95",
+          "label": "Además:",
+          "value": "Además:"
+        },
+        {
+          "key": "text-96",
+          "label": "Otras empresas",
+          "value": "Otras empresas"
+        },
+        {
+          "key": "text-97",
+          "label": "te darán malas grabaciones",
+          "value": " te darán malas grabaciones"
+        },
+        {
+          "key": "text-98",
+          "label": "hechas con el",
+          "value": "hechas con el "
+        },
+        {
+          "key": "text-99",
+          "label": "micrófono del móvil",
+          "value": "micrófono del móvil"
+        },
+        {
+          "key": "text-100",
+          "label": "(O ni eso)",
+          "value": "(O ni eso)"
+        },
+        {
+          "key": "text-101",
+          "label": "Nosotros:",
+          "value": "Nosotros:"
+        },
+        {
+          "key": "text-102",
+          "label": "No grabamos solo frases. Creamos",
+          "value": " No grabamos solo frases. Creamos "
+        },
+        {
+          "key": "text-103",
+          "label": "interpretaciones reales",
+          "value": "interpretaciones reales"
+        },
+        {
+          "key": "text-104",
+          "label": ", anotadas por",
+          "value": ", anotadas por "
+        },
+        {
+          "key": "text-105",
+          "label": "lingüistas expertos",
+          "value": "lingüistas expertos"
+        },
+        {
+          "key": "text-106",
+          "label": "y preparadas para entrenar",
+          "value": " y preparadas para entrenar "
+        },
+        {
+          "key": "text-107",
+          "label": "modelos hiper-expresivos",
+          "value": "modelos hiper-expresivos"
+        },
+        {
+          "key": "text-108",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-109",
+          "label": "Pide tu presupuesto",
+          "value": "Pide tu presupuesto"
+        },
+        {
+          "key": "text-110",
+          "label": "Tú sólo dinos cómo necesitas que suene, nosotros",
+          "value": "Tú sólo dinos cómo necesitas que suene, nosotros "
+        },
+        {
+          "key": "text-111",
+          "label": "hacemos la magia.",
+          "value": "hacemos la magia."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Pide tu presupuesto",
+          "href": "https://calendly.com/audio-digitalks-ai/llamada-de-15-minutos"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-3",
+      "label": "¿Que puedo hacer con un audio dataset de los vuestros?",
+      "template": "custom-audio-data-collection-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Que puedo hacer con un",
+          "value": "¿Que puedo hacer con un "
+        },
+        {
+          "key": "text-1",
+          "label": "audio dataset",
+          "value": "audio dataset"
+        },
+        {
+          "key": "text-2",
+          "label": "de los vuestros?",
+          "value": " de los vuestros?"
+        },
+        {
+          "key": "text-3",
+          "label": "Crear agentes virtuales y centralitas que no suenen a HAL9000.",
+          "value": " Crear agentes virtuales y centralitas que no suenen a HAL9000.  "
+        },
+        {
+          "key": "text-4",
+          "label": "Desarrolla voces naturales, con la entonación correcta, para conversaciones que ",
+          "value": "Desarrolla voces naturales, con la entonación correcta, para conversaciones que de verdad fluyen y que tus clientes no quieran colgar a los tres segundos."
+        },
+        {
+          "key": "text-5",
+          "label": "Dejar de gastar miles de € en locuciones recurrentes.",
+          "value": " Dejar de gastar miles de € en locuciones recurrentes.  "
+        },
+        {
+          "key": "text-6",
+          "label": "Genera todo el audio que necesites para tus cursos de e-learning, tutoriales o a",
+          "value": "Genera todo el audio que necesites para tus cursos de e-learning, tutoriales o anuncios con una única inversión inicial, en lugar de volver a contratar y grabar cada vez."
+        },
+        {
+          "key": "text-7",
+          "label": "Dar vida a personajes de videojuegos con voces consistentes y realistas.",
+          "value": " Dar vida a personajes de videojuegos con voces consistentes y realistas.  "
+        },
+        {
+          "key": "text-8",
+          "label": "Crea diálogos para personajes recurrentes sin tener que hipotecar el estudio par",
+          "value": "Crea diálogos para personajes recurrentes sin tener que hipotecar el estudio para grabar cada nueva línea."
+        },
+        {
+          "key": "text-9",
+          "label": "Licencias flexibles",
+          "value": "Licencias flexibles"
+        },
+        {
+          "key": "text-10",
+          "label": ": menos exclusividad = menor precio.",
+          "value": ": menos exclusividad = menor precio."
+        },
+        {
+          "key": "text-11",
+          "label": "Guiones a medida",
+          "value": "Guiones a medida"
+        },
+        {
+          "key": "text-12",
+          "label": ": adaptados a tu caso (TTS, ASR, voice bots, videojuegos).",
+          "value": ": adaptados a tu caso (TTS, ASR, voice bots, videojuegos)."
+        },
+        {
+          "key": "text-13",
+          "label": "Casting exacto",
+          "value": "Casting exacto"
+        },
+        {
+          "key": "text-14",
+          "label": ": edad, acento, género, emoción… ¡lo que quieras!",
+          "value": ": edad, acento, género, emoción… ¡lo que quieras!"
+        },
+        {
+          "key": "text-15",
+          "label": "Entrega rápida",
+          "value": "Entrega rápida"
+        },
+        {
+          "key": "text-16",
+          "label": ": desde 7 días de arranque, 2–6 semanas de entrega.",
+          "value": ": desde 7 días de arranque, 2–6 semanas de entrega."
+        },
+        {
+          "key": "text-17",
+          "label": "Metadata custom",
+          "value": "Metadata custom"
+        },
+        {
+          "key": "text-18",
+          "label": ": JSON, TSV o lo que tu pipeline devore.",
+          "value": ": JSON, TSV o lo que tu pipeline devore."
+        },
+        {
+          "key": "text-19",
+          "label": "Ahora ya sabes perfectamente",
+          "value": "Ahora ya sabes perfectamente "
+        },
+        {
+          "key": "text-20",
+          "label": "para qué necesitas un audio dataset",
+          "value": "para qué necesitas un audio dataset"
+        },
+        {
+          "key": "text-21",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-22",
+          "label": "Lo que quizás no tienes tan claro es el",
+          "value": "Lo que quizás no tienes tan claro es el "
+        },
+        {
+          "key": "text-23",
+          "label": "tiempo",
+          "value": "tiempo "
+        },
+        {
+          "key": "text-24",
+          "label": "y los",
+          "value": "y los "
+        },
+        {
+          "key": "text-25",
+          "label": "recursos",
+          "value": "recursos "
+        },
+        {
+          "key": "text-26",
+          "label": "que vas a",
+          "value": "que vas a "
+        },
+        {
+          "key": "text-27",
+          "label": "ahorrar",
+          "value": "ahorrar"
+        },
+        {
+          "key": "text-28",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-4",
+      "label": "¿Que gano yo comprando un dataset?",
+      "template": "custom-audio-data-collection-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Que gano yo comprando un",
+          "value": "¿Que gano yo comprando un "
+        },
+        {
+          "key": "text-1",
+          "label": "dataset",
+          "value": "dataset"
+        },
+        {
+          "key": "text-2",
+          "label": "?",
+          "value": "?"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-5",
+      "label": "Dejar de perder horas de ingeniería en limpieza de datos Nos encargamos del pre-procesamiento, la no",
+      "template": "custom-audio-data-collection-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Dejar de",
+          "value": " Dejar de "
+        },
+        {
+          "key": "text-1",
+          "label": "perder horas",
+          "value": "perder horas"
+        },
+        {
+          "key": "text-2",
+          "label": "de ingeniería en limpieza de datos",
+          "value": " de ingeniería en limpieza de datos  "
+        },
+        {
+          "key": "text-3",
+          "label": "Nos encargamos del pre-procesamiento, la normalización de volumen, la segmentaci",
+          "value": "\n\t\t\t\t\t\tNos encargamos del pre-procesamiento, la normalización de volumen, la segmentación y la validación de formatos para que tu equipo se dedique a entrenar modelos, no a hacer trabajo de ETL (Extract, Transform, Load) de audio.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-4",
+          "label": "Construir modelos",
+          "value": "Construir modelos"
+        },
+        {
+          "key": "text-5",
+          "label": "que sobreviven al mundo real",
+          "value": " que sobreviven al mundo real "
+        },
+        {
+          "key": "text-6",
+          "label": "Te proporcionamos datasets con la diversidad acústica que necesitas: grabaciones",
+          "value": "\n\t\t\t\t\t\tTe proporcionamos datasets con la diversidad acústica que necesitas: grabaciones en entornos específicos (coche, espacios públicos), con distintos niveles de ruido de fondo etiquetados y una amplia representación de acentos para que tu ASR o asistente de voz no se desmorone ante el primer caso no ideal.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-7",
+          "label": "Mitigar sesgos y testear edge cases con",
+          "value": " Mitigar sesgos y testear edge cases con "
+        },
+        {
+          "key": "text-8",
+          "label": "precisión quirúrgica",
+          "value": "precisión quirúrgica"
+        },
+        {
+          "key": "text-9",
+          "label": "No te damos solo \"datos de mujeres de 40 años\". Te damos un sistema de informaci",
+          "value": "\n\t\t\t\t\t\tNo te damos solo \"datos de mujeres de 40 años\". Te damos un sistema de información consultable. Gracias a nuestro esquema de metadatos, puedes filtrar y construir subconjuntos de datos ultra-específicos para testear la equidad de tu modelo, evaluar su rendimiento en nichos demográficos concretos y atacar directamente los puntos ciegos de tu algoritmo.\t\t\t\t\t"
+        },
+        {
+          "key": "text-10",
+          "label": "Despreocuparte",
+          "value": "Despreocuparte"
+        },
+        {
+          "key": "text-11",
+          "label": "del riesgo legal y ético",
+          "value": " del riesgo legal y ético "
+        },
+        {
+          "key": "text-12",
+          "label": "Un comprador técnico senior sabe que el origen de los datos es un posible campo ",
+          "value": "\n\t\t\t\t\t\tUn comprador técnico senior sabe que el origen de los datos es un posible campo de minas legal y reputacional. Te entregamos un activo libre de riesgos: garantizamos el cumplimiento de GDPR/CCPA, documentamos el consentimiento informado de cada participante y defendemos una compensación justa.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-13",
+          "label": "*Y si además,",
+          "value": "*Y si además, "
+        },
+        {
+          "key": "text-14",
+          "label": "quieres que produzcamos el contenido",
+          "value": "quieres que produzcamos el contenido"
+        },
+        {
+          "key": "text-15",
+          "label": "con la",
+          "value": " con la "
+        },
+        {
+          "key": "text-16",
+          "label": "voz",
+          "value": "voz "
+        },
+        {
+          "key": "text-17",
+          "label": "que hemos",
+          "value": "que hemos "
+        },
+        {
+          "key": "text-18",
+          "label": "creado",
+          "value": "creado "
+        },
+        {
+          "key": "text-19",
+          "label": "para tí, también lo hacemos",
+          "value": "para tí, también lo hacemos "
+        },
+        {
+          "key": "text-20",
+          "label": "aquí",
+          "value": "aquí"
+        },
+        {
+          "key": "text-21",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "aquí",
+          "href": "/"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-6",
+      "label": "Descarga una muestra de un audio dataset de alta calidad:",
+      "template": "custom-audio-data-collection-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Descarga una muestra",
+          "value": "Descarga una muestra "
+        },
+        {
+          "key": "text-1",
+          "label": "de un",
+          "value": "de un "
+        },
+        {
+          "key": "text-2",
+          "label": "audio dataset",
+          "value": "audio dataset"
+        },
+        {
+          "key": "text-3",
+          "label": "de alta calidad:",
+          "value": " de alta calidad:"
+        },
+        {
+          "key": "text-4",
+          "label": "Deja el email y te lo mandamos al correo:",
+          "value": "Deja el email y te lo mandamos al correo:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "custom-audio-data-collection-custom_datasets_01",
+          "form": "custom-audio-data-collection-custom_datasets_01"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "custom-audio-data-collection-7",
+      "label": "FAQ",
+      "template": "custom-audio-data-collection-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "FAQ",
+          "value": "FAQ"
+        },
+        {
+          "key": "text-1",
+          "label": "Preguntas Frecuentes",
+          "value": "Preguntas Frecuentes"
+        },
+        {
+          "key": "text-2",
+          "label": "Aquí resolvemos",
+          "value": "\n\t\t\t\t\t\t\t\t\tAquí resolvemos"
+        },
+        {
+          "key": "text-3",
+          "label": "tus dudas",
+          "value": " tus dudas"
+        },
+        {
+          "key": "text-4",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-5",
+          "label": "Si después de leer esto todavía te queda alguna, es que es",
+          "value": "\n\nSi después de leer esto todavía te queda alguna, es que es "
+        },
+        {
+          "key": "text-6",
+          "label": "realmente buena",
+          "value": "realmente buena"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-8",
+          "label": "Contáctanos y la responderemos.",
+          "value": "\n\nContáctanos y la responderemos.\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-9",
+          "label": "Sobre el Dataset",
+          "value": "Sobre el Dataset\n"
+        },
+        {
+          "key": "text-10",
+          "label": "Para empezar, ¿qué es exactamente un audio dataset y por qué lo necesito?",
+          "value": "Para empezar, ¿qué es exactamente un audio dataset y por qué lo necesito?"
+        },
+        {
+          "key": "text-11",
+          "label": "Un audio dataset es una colección de archivos de voz, meticulosamente organizado",
+          "value": "Un audio dataset es una colección de archivos de voz, meticulosamente organizados y etiquetados, diseñados para entrenar modelos de Inteligencia Artificial. Piénsalo así: en lugar de contratar a un locutor una y otra vez para cada anuncio, tutorial o agente de voz (y cruzar los dedos para que siempre suene igual), nos das una única instrucción. Nosotros creamos un dataset con el que puedes generar una voz de altísima calidad, infinita y consistente, ahorrándote una enorme cantidad de tiempo y dinero a largo plazo."
+        },
+        {
+          "key": "text-12",
+          "label": "¿Puedo pedir un dataset a medida o solo tenéis paquetes estándar?",
+          "value": "¿Puedo pedir un dataset a medida o solo tenéis paquetes estándar?"
+        },
+        {
+          "key": "text-13",
+          "label": "Sí. Rotundamente sí. Ofrecemos datasets 100% a medida, aunque también tenemos al",
+          "value": "Sí. Rotundamente sí. Ofrecemos datasets 100% a medida, aunque también tenemos algunos listos para usar, por si tienes prisa. La personalización es nuestro fuerte. Podemos ajustar:"
+        },
+        {
+          "key": "text-14",
+          "label": "La selección de voces",
+          "value": "La selección de voces"
+        },
+        {
+          "key": "text-15",
+          "label": ": Por edad, acento, género, ubicación geográfica y más. Ideal para que tu modelo",
+          "value": ": Por edad, acento, género, ubicación geográfica y más. Ideal para que tu modelo funcione con todos tus usuarios y no solo con un grupo, ayudándote a combatir el sesgo algorítmico."
+        },
+        {
+          "key": "text-16",
+          "label": "El guión",
+          "value": "El guión"
+        },
+        {
+          "key": "text-17",
+          "label": ": Lo adaptamos a tus necesidades, ya sea para un modelo de Texto a Voz (TTS), Re",
+          "value": ": Lo adaptamos a tus necesidades, ya sea para un modelo de Texto a Voz (TTS), Reconocimiento de Voz (ASR), voice bots conversacionales o los diálogos de un videojuego."
+        },
+        {
+          "key": "text-18",
+          "label": "El entorno de grabación",
+          "value": "El entorno de grabación"
+        },
+        {
+          "key": "text-19",
+          "label": ": ¿Necesitas audio cristalino de estudio o grabado dentro de un coche con la rad",
+          "value": ": ¿Necesitas audio cristalino de estudio o grabado dentro de un coche con la radio de fondo? Lo conseguimos. Entrenar con datos del entorno real es clave para que tu aplicación no se venga abajo fuera del laboratorio."
+        },
+        {
+          "key": "text-20",
+          "label": "¿Qué información (metadatos) acompaña a los archivos de audio?",
+          "value": "¿Qué información (metadatos) acompaña a los archivos de audio? "
+        },
+        {
+          "key": "text-21",
+          "label": "Aquí es donde separamos a los profesionales de los aficionados. No te entregamos",
+          "value": "Aquí es donde separamos a los profesionales de los aficionados. No te entregamos solo una carpeta con audios. Te damos un sistema de información estructurado y consultable. Cada set de audio viene acompañado de un esquema de metadatos tan rico que te permitirá hacer filtros increíblemente granulares."
+        },
+        {
+          "key": "text-22",
+          "label": "Imagina poder decirle a tu sistema: \"Para este test, dame solo las grabaciones d",
+          "value": "Imagina poder decirle a tu sistema: \"Para este test, dame solo las grabaciones de mujeres de 60 a 70 años, con acento del norte de España, grabadas en un coche con ruido de radio de fondo\". Esa capacidad para crear subconjuntos de datos específicos es crucial para mitigar sesgos y testear la robustez de tu modelo. Te entregamos los metadatos en el formato que necesites (JSON, TSV, etc.)."
+        },
+        {
+          "key": "text-23",
+          "label": "¿Qué idiomas, dialectos y acentos cubrís?",
+          "value": "¿Qué idiomas, dialectos y acentos cubrís?"
+        },
+        {
+          "key": "text-24",
+          "label": "Disponemos de una amplia gama, pero vamos más allá de una simple lista. No nos l",
+          "value": "Disponemos de una amplia gama, pero vamos más allá de una simple lista. No nos limitamos a decir \"español\", especificamos la cobertura regional (ej. español de Madrid vs. español de Andalucía). Además, si lo necesitas, te detallamos la metodología que usamos para verificar la autenticidad de los dialectos y acentos, porque sabemos que un ingeniero de Machine Learning valora el rigor lingüístico."
+        },
+        {
+          "key": "text-25",
+          "label": "Calidad, Procesamiento y Validación",
+          "value": "Calidad, Procesamiento y Validación\n"
+        },
+        {
+          "key": "text-26",
+          "label": "Afirmáis que ofrecéis",
+          "value": "Afirmáis que ofrecéis "
+        },
+        {
+          "key": "text-27",
+          "label": "\"",
+          "value": "\""
+        },
+        {
+          "key": "text-28",
+          "label": "alta calidad",
+          "value": "alta calidad"
+        },
+        {
+          "key": "text-29",
+          "label": "\"",
+          "value": "\""
+        },
+        {
+          "key": "text-30",
+          "label": ". En este mercado, todo el mundo dice lo mismo. ¿Cómo lo demostráis vosotros?",
+          "value": ". En este mercado, todo el mundo dice lo mismo. ¿Cómo lo demostráis vosotros?"
+        },
+        {
+          "key": "text-31",
+          "label": "Porque si no fuera de la más alta calidad, nos dedicaríamos a vender cucuruchos ",
+          "value": "Porque si no fuera de la más alta calidad, nos dedicaríamos a vender cucuruchos de patatas fritas. \"Alta calidad\" no es un eslogan de marketing para nosotros, es un marco de trabajo demostrable que abarca múltiples facetas:"
+        },
+        {
+          "key": "text-32",
+          "label": "Calidad Acústica",
+          "value": "Calidad Acústica"
+        },
+        {
+          "key": "text-33",
+          "label": ": Te damos las especificaciones técnicas claras (formato, 16kHz, 16 bits, etc.) ",
+          "value": ": Te damos las especificaciones técnicas claras (formato, 16kHz, 16 bits, etc.) y controlamos hasta el último detalle del entorno de grabación."
+        },
+        {
+          "key": "text-34",
+          "label": "Precisión de la Transcripción",
+          "value": "Precisión de la Transcripción"
+        },
+        {
+          "key": "text-35",
+          "label": ": Medimos nuestro trabajo con métricas estándar de la industria como la Tasa de ",
+          "value": ": Medimos nuestro trabajo con métricas estándar de la industria como la Tasa de Error de Palabra (WER) y de Carácter (CER). No hay opiniones, solo datos."
+        },
+        {
+          "key": "text-36",
+          "label": "Riqueza de los Metadatos",
+          "value": "Riqueza de los Metadatos"
+        },
+        {
+          "key": "text-37",
+          "label": ": La profundidad y exactitud de nuestros metadatos es una característica princip",
+          "value": ": La profundidad y exactitud de nuestros metadatos es una característica principal del producto, no un extra."
+        },
+        {
+          "key": "text-38",
+          "label": "Diversidad y Representatividad",
+          "value": "Diversidad y Representatividad"
+        },
+        {
+          "key": "text-39",
+          "label": ": Nos aseguramos de que los datasets representen a una amplia variedad de grupos",
+          "value": ": Nos aseguramos de que los datasets representen a una amplia variedad de grupos demográficos y condiciones acústicas del mundo real."
+        },
+        {
+          "key": "text-40",
+          "label": "Integridad del Proceso",
+          "value": "Integridad del Proceso"
+        },
+        {
+          "key": "text-41",
+          "label": ": Somos transparentes sobre nuestro riguroso proceso de validación, limpieza y c",
+          "value": ": Somos transparentes sobre nuestro riguroso proceso de validación, limpieza y control de calidad. Te lo explicamos a continuación."
+        },
+        {
+          "key": "text-42",
+          "label": "¿Cuál es vuestro proceso de validación de datos? ¿Cómo sé que no hay errores?",
+          "value": "¿Cuál es vuestro proceso de validación de datos? ¿Cómo sé que no hay errores?"
+        },
+        {
+          "key": "text-43",
+          "label": "No nos limitamos a decir \"sí, validamos\". Nuestro proceso es una cadena de monta",
+          "value": "No nos limitamos a decir \"sí, validamos\". Nuestro proceso es una cadena de montaje de rigor para asegurar la máxima calidad:"
+        },
+        {
+          "key": "text-44",
+          "label": "Validación automática inicial",
+          "value": "Validación automática inicial"
+        },
+        {
+          "key": "text-45",
+          "label": "para filtrar errores obvios.",
+          "value": " para filtrar errores obvios."
+        },
+        {
+          "key": "text-46",
+          "label": "Revisión humana",
+          "value": "Revisión humana"
+        },
+        {
+          "key": "text-47",
+          "label": "por transcriptores profesionales.",
+          "value": " por transcriptores profesionales."
+        },
+        {
+          "key": "text-48",
+          "label": "Segunda ronda de Aseguramiento de Calidad (QA)",
+          "value": "Segunda ronda de Aseguramiento de Calidad (QA)"
+        },
+        {
+          "key": "text-49",
+          "label": "realizada por lingüistas senior.",
+          "value": " realizada por lingüistas senior."
+        },
+        {
+          "key": "text-50",
+          "label": "Validación final de metadatos",
+          "value": "Validación final de metadatos"
+        },
+        {
+          "key": "text-51",
+          "label": "para garantizar que todo esté perfectamente etiquetado y sea consistente.",
+          "value": " para garantizar que todo esté perfectamente etiquetado y sea consistente."
+        },
+        {
+          "key": "text-52",
+          "label": "En cada etapa intervienen roles específicos con criterios de aceptación definido",
+          "value": "En cada etapa intervienen roles específicos con criterios de aceptación definidos. La transparencia en el proceso genera confianza."
+        },
+        {
+          "key": "text-53",
+          "label": "¿Puedo ver una muestra de los datos antes de comprar?",
+          "value": "¿Puedo ver una muestra de los datos antes de comprar?"
+        },
+        {
+          "key": "text-54",
+          "label": "Por supuesto. Es un \"sí\" rotundo. Creemos en nuestro producto y queremos que tú ",
+          "value": "Por supuesto. Es un \"sí\" rotundo. Creemos en nuestro producto y queremos que tú también lo hagas. Contacta con nosotros y te prepararemos una muestra que incluirá los archivos de audio, las transcripciones y el esquema completo de metadatos para que puedas evaluar la calidad de primera mano."
+        },
+        {
+          "key": "text-55",
+          "label": "Licenciamiento, Cumplimiento y Ética",
+          "value": "Licenciamiento, Cumplimiento y Ética\n"
+        },
+        {
+          "key": "text-56",
+          "label": "Si compro un dataset, ¿puedo usarlo para entrenar un producto comercial?",
+          "value": "Si compro un dataset, ¿puedo usarlo para entrenar un producto comercial?"
+        },
+        {
+          "key": "text-57",
+          "label": "Sí, claro. Para eso está hecho. Nuestros datasets están licenciados para el desa",
+          "value": "Sí, claro. Para eso está hecho. Nuestros datasets están licenciados para el desarrollo y despliegue de productos comerciales. Te especificaremos claramente el tipo de tu licencia para que no haya sorpresas. Eres dueño de los modelos que entrenes con nuestros datos."
+        },
+        {
+          "key": "text-58",
+          "label": "El tema legal me preocupa. ¿Cómo garantizáis el cumplimiento de normativas como ",
+          "value": "El tema legal me preocupa. ¿Cómo garantizáis el cumplimiento de normativas como el GDPR?"
+        },
+        {
+          "key": "text-59",
+          "label": "Tu preocupación es la nuestra. No estás comprando solo datos, estás heredando su",
+          "value": "Tu preocupación es la nuestra. No estás comprando solo datos, estás heredando su historia legal y ética. Un simple \"cumplimos\" no es suficiente para clientes serios. Por eso, te detallamos nuestros procesos:"
+        },
+        {
+          "key": "text-60",
+          "label": "Consentimiento Informado",
+          "value": "Consentimiento Informado"
+        },
+        {
+          "key": "text-61",
+          "label": ": Todos los participantes reciben información clara y explícita sobre cómo se us",
+          "value": ": Todos los participantes reciben información clara y explícita sobre cómo se usarán sus datos (incluyendo el entrenamiento de IA comercial) y firman un acuerdo."
+        },
+        {
+          "key": "text-62",
+          "label": "Anonimización (PII)",
+          "value": "Anonimización (PII)"
+        },
+        {
+          "key": "text-63",
+          "label": ": Tenemos un proceso estricto para eliminar cualquier Información de Identificac",
+          "value": ": Tenemos un proceso estricto para eliminar cualquier Información de Identificación Personal. No solo no la recopilamos, sino que revisamos las transcripciones para enmascarar cualquier dato personal que se haya podido mencionar accidentalmente."
+        },
+        {
+          "key": "text-64",
+          "label": "Seguridad y Gestión",
+          "value": "Seguridad y Gestión"
+        },
+        {
+          "key": "text-65",
+          "label": ": Implementamos todas las medidas de seguridad y gestión de datos necesarias par",
+          "value": ": Implementamos todas las medidas de seguridad y gestión de datos necesarias para garantizar el cumplimiento de GDPR, CCPA y otras regulaciones. Te protegemos de riesgos legales, financieros y de marca."
+        },
+        {
+          "key": "text-66",
+          "label": "Esto me lleva a otra pregunta: ¿cómo reclutáis y pagáis a los participantes?",
+          "value": "Esto me lleva a otra pregunta: ¿cómo reclutáis y pagáis a los participantes?"
+        },
+        {
+          "key": "text-67",
+          "label": "Esta pregunta es clave y nos encanta que la hagas. A diferencia de competidores ",
+          "value": "Esta pregunta es clave y nos encanta que la hagas. A diferencia de competidores que son opacos en esta área , nosotros lideramos con transparencia ética."
+        },
+        {
+          "key": "text-68",
+          "label": "Compensación Justa",
+          "value": "Compensación Justa"
+        },
+        {
+          "key": "text-69",
+          "label": ": Creemos firmemente que los participantes deben ser compensados de manera justa",
+          "value": ": Creemos firmemente que los participantes deben ser compensados de manera justa y adecuada por su tiempo y su contribución."
+        },
+        {
+          "key": "text-70",
+          "label": "Reclutamiento Ético",
+          "value": "Reclutamiento Ético"
+        },
+        {
+          "key": "text-71",
+          "label": ": Nuestro proceso de reclutamiento está diseñado para asegurar la diversidad y g",
+          "value": ": Nuestro proceso de reclutamiento está diseñado para asegurar la diversidad y garantizar un trato ético y respetuoso para todas las personas que colaboran con nosotros."
+        },
+        {
+          "key": "text-72",
+          "label": "Al trabajar con nosotros, no solo obtienes datos de calidad, sino que te asocias",
+          "value": "Al trabajar con nosotros, no solo obtienes datos de calidad, sino que te asocias con una empresa que promueve el desarrollo responsable de la IA."
+        },
+        {
+          "key": "text-73",
+          "label": "Proceso, Precios y Soporte",
+          "value": "Proceso, Precios y Soporte"
+        },
+        {
+          "key": "text-74",
+          "label": "¿Por qué es una inversión que vale la pena?",
+          "value": "¿Por qué es una inversión que vale la pena?"
+        },
+        {
+          "key": "text-75",
+          "label": "Sí, es un gasto, pero también es una inversión en eficiencia. Compara el precio ",
+          "value": "Sí, es un gasto, pero también es una inversión en eficiencia. Compara el precio de un dataset con el gasto recurrente y los dolores de cabeza de gestionar locutores o el salario de varios agentes de call center. Un dataset de alta calidad es un activo que compras una vez y que te permite generar un modelo de voz que trabaja para ti 24/7, sin descanso y siempre consistente. Es pasar de un coste operativo recurrente a un activo estratégico de tu empresa."
+        },
+        {
+          "key": "text-76",
+          "label": "¿Qué pasa si más adelante necesito más horas de grabación o nuevas voces?",
+          "value": "¿Qué pasa si más adelante necesito más horas de grabación o nuevas voces?"
+        },
+        {
+          "key": "text-77",
+          "label": "No hay ningún problema. Consideramos nuestra relación como una asociación a larg",
+          "value": "No hay ningún problema. Consideramos nuestra relación como una asociación a largo plazo. Ofrecemos soporte continuo y podemos encontrar, grabar y procesar el contenido adicional que necesites. De hecho, si ya hemos trabajado contigo, el proceso será aún más rápido y sencillo."
+        },
+        {
+          "key": "text-78",
+          "label": "No soy un experto técnico. ¿Necesito un equipo de ingenieros para hablar con vos",
+          "value": "No soy un experto técnico. ¿Necesito un equipo de ingenieros para hablar con vosotros?"
+        },
+        {
+          "key": "text-79",
+          "label": "No. Solo necesitas tener claro tu objetivo. Nuestro trabajo es traducir tus nece",
+          "value": "No. Solo necesitas tener claro tu objetivo. Nuestro trabajo es traducir tus necesidades de negocio en especificaciones técnicas. Te guiaremos en la definición de tu dataset ideal y nos aseguraremos de que se alinee con tu proyecto. Recibirás un producto listo para usar. No te compliques, que para eso ya estamos nosotros."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Para empezar, ¿qué es exactamente un audio dataset y por qué lo necesito?",
+          "href": "#Collapse-75906826aff8f693045a"
+        },
+        {
+          "key": "link-1",
+          "label": "¿Puedo pedir un dataset a medida o solo tenéis paquetes estándar?",
+          "href": "#Collapse-de215566aff8f693045a"
+        },
+        {
+          "key": "link-2",
+          "label": "¿Qué información (metadatos) acompaña a los archivos de audio?",
+          "href": "#Collapse-546b1266aff8f693045a"
+        },
+        {
+          "key": "link-3",
+          "label": "¿Qué idiomas, dialectos y acentos cubrís?",
+          "href": "#Collapse-1040c066aff8f693045a"
+        },
+        {
+          "key": "link-4",
+          "label": "Afirmáis que ofrecéis \"alta calidad\". En este mercado, todo el mundo dice lo mis",
+          "href": "#Collapse-75906826aff8f6931038"
+        },
+        {
+          "key": "link-5",
+          "label": "¿Cuál es vuestro proceso de validación de datos? ¿Cómo sé que no hay errores?",
+          "href": "#Collapse-f6cd2cf6aff8f6931038"
+        },
+        {
+          "key": "link-6",
+          "label": "¿Puedo ver una muestra de los datos antes de comprar?",
+          "href": "#Collapse-cf87a6f6aff8f6931038"
+        },
+        {
+          "key": "link-7",
+          "label": "Si compro un dataset, ¿puedo usarlo para entrenar un producto comercial?",
+          "href": "#Collapse-75906826aff8f6931e29"
+        },
+        {
+          "key": "link-8",
+          "label": "El tema legal me preocupa. ¿Cómo garantizáis el cumplimiento de normativas como ",
+          "href": "#Collapse-f6cd2cf6aff8f6931e29"
+        },
+        {
+          "key": "link-9",
+          "label": "Esto me lleva a otra pregunta: ¿cómo reclutáis y pagáis a los participantes?",
+          "href": "#Collapse-cf87a6f6aff8f6931e29"
+        },
+        {
+          "key": "link-10",
+          "label": "¿Por qué es una inversión que vale la pena?",
+          "href": "#Collapse-75906826aff8f6932b6a"
+        },
+        {
+          "key": "link-11",
+          "label": "¿Qué pasa si más adelante necesito más horas de grabación o nuevas voces?",
+          "href": "#Collapse-f6cd2cf6aff8f6932b6a"
+        },
+        {
+          "key": "link-12",
+          "label": "No soy un experto técnico. ¿Necesito un equipo de ingenieros para hablar con vos",
+          "href": "#Collapse-cf87a6f6aff8f6932b6a"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

@@ -1,0 +1,1538 @@
+{
+  "id": "en__voiceoverai",
+  "title": "AI Voiceovers That Sound Human & Expressive | Digitalks AI",
+  "path": "/en/voiceoverai/",
+  "lang": "en",
+  "seo": "en__voiceoverai",
+  "source": "https://digitalks-ai.com/en/voiceoverai/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-48863 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-plain-container ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-48863",
+  "rootClass": "dt dt-48863",
+  "styles": [],
+  "css": "en__voiceoverai.css",
+  "sections": [
+    {
+      "id": "en__voiceoverai-1",
+      "label": "now that you know what we can do",
+      "template": "en__voiceoverai-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "now that you know",
+          "value": "now that you know"
+        },
+        {
+          "key": "text-1",
+          "label": "what we can do",
+          "value": "\nwhat we can do\n\n"
+        },
+        {
+          "key": "text-2",
+          "label": "with",
+          "value": "with "
+        },
+        {
+          "key": "text-3",
+          "label": "AI",
+          "value": "AI"
+        },
+        {
+          "key": "text-4",
+          "label": "...",
+          "value": "..."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/327a08c71242.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-2",
+      "label": "This is the form you were looking for...",
+      "template": "en__voiceoverai-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "This is the",
+          "value": "This is the "
+        },
+        {
+          "key": "text-1",
+          "label": "form",
+          "value": "form"
+        },
+        {
+          "key": "text-2",
+          "label": "you were looking for...",
+          "value": "you were looking for..."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "en__voiceoverai-Contacto",
+          "form": "en__voiceoverai-Contacto"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-3",
+      "label": "How we can make our deal work?",
+      "template": "en__voiceoverai-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "How we can make",
+          "value": "How we can make"
+        },
+        {
+          "key": "text-1",
+          "label": "our deal",
+          "value": "our deal "
+        },
+        {
+          "key": "text-2",
+          "label": "work?",
+          "value": "work?"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-4",
+      "label": "Step 1. Complete the form Yes, this pretty form you can see up there You tell us what do you need: p",
+      "template": "en__voiceoverai-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Step 1.",
+          "value": "Step 1."
+        },
+        {
+          "key": "text-1",
+          "label": "Complete the form",
+          "value": "Complete the form"
+        },
+        {
+          "key": "text-2",
+          "label": "Yes, this pretty form you can see up there",
+          "value": "Yes, this pretty form you can see up there"
+        },
+        {
+          "key": "text-3",
+          "label": "You tell us what do you need: project type, language, voice… as more details, be",
+          "value": " You tell us what do you need: project type, language, voice… as more details, better we can adjust your budget."
+        },
+        {
+          "key": "text-4",
+          "label": "Step 2.",
+          "value": "Step 2."
+        },
+        {
+          "key": "text-5",
+          "label": "We will send you a budget",
+          "value": "We will send you a budget"
+        },
+        {
+          "key": "text-6",
+          "label": "Take your time to review it.",
+          "value": "Take your time to review it."
+        },
+        {
+          "key": "text-7",
+          "label": "If you have any questions, just write to us.",
+          "value": "If you have any questions, just write to us."
+        },
+        {
+          "key": "text-8",
+          "label": "To be easy, we can jump on a call and go through everything together.",
+          "value": "To be easy, we can jump on a call and go through everything together."
+        },
+        {
+          "key": "text-9",
+          "label": "(Don’t worry, you haven’t spent a single euro yet.)",
+          "value": "(Don’t worry, you haven’t spent a single euro yet.)"
+        },
+        {
+          "key": "text-10",
+          "label": "Step 3.",
+          "value": "Step 3."
+        },
+        {
+          "key": "text-11",
+          "label": "You send us your script",
+          "value": "You send us your script"
+        },
+        {
+          "key": "text-12",
+          "label": "And together, we’ll choose a voice that fits you.",
+          "value": "And together, we’ll choose a voice that fits you."
+        },
+        {
+          "key": "text-13",
+          "label": "From there on, your job is to relax… we’ll take care of the rest.",
+          "value": "From there on, your job is to relax… we’ll take care of the rest."
+        },
+        {
+          "key": "text-14",
+          "label": "Step 4.",
+          "value": "Step 4."
+        },
+        {
+          "key": "text-15",
+          "label": "We deliver your audios ready-to-go",
+          "value": "We deliver your audios ready-to-go"
+        },
+        {
+          "key": "text-16",
+          "label": "In whatever format you want: WAV, MP3, FLAC, FLIC, FLOC, FLUP… whatever works.",
+          "value": "In whatever format you want: WAV, MP3, FLAC, FLIC, FLOC, FLUP… whatever works."
+        },
+        {
+          "key": "text-17",
+          "label": "Professional, clean, and free of weird noises.",
+          "value": "Professional, clean, and free of weird noises."
+        },
+        {
+          "key": "text-18",
+          "label": "(And remember: two revisions included — so no need to panic.)",
+          "value": "(And remember: two revisions included — so no need to panic.)"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/9219ffdf98ea-1f446.svg",
+          "alt": "👆"
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-5",
+      "label": "Why I should do it",
+      "template": "en__voiceoverai-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Why I should do it",
+          "value": "Why I should do it"
+        },
+        {
+          "key": "text-1",
+          "label": "with Digi",
+          "value": "with Digi"
+        },
+        {
+          "key": "text-2",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-3",
+          "label": "and not in a traditional",
+          "value": "and not in a traditional "
+        },
+        {
+          "key": "text-4",
+          "label": "sound studio",
+          "value": "sound studio"
+        },
+        {
+          "key": "text-5",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-6",
+          "label": "To be honest, you can do it with",
+          "value": "To be honest, you can do it with "
+        },
+        {
+          "key": "text-7",
+          "label": "whoever you want",
+          "value": "whoever you want"
+        },
+        {
+          "key": "text-8",
+          "label": "but you’d be missing out on all of this.",
+          "value": "but you’d be missing out on all of this."
+        },
+        {
+          "key": "text-9",
+          "label": "We sum it up in",
+          "value": "We sum it up in "
+        },
+        {
+          "key": "text-10",
+          "label": "three words",
+          "value": "three words"
+        },
+        {
+          "key": "text-11",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-12",
+          "label": "FAST",
+          "value": "FAST"
+        },
+        {
+          "key": "text-13",
+          "label": "Because we",
+          "value": " Because we "
+        },
+        {
+          "key": "text-14",
+          "label": "deliver in hours",
+          "value": "deliver in hours"
+        },
+        {
+          "key": "text-15",
+          "label": "or just a few days.",
+          "value": " or just a few days."
+        },
+        {
+          "key": "text-16",
+          "label": "In a traditional studio, that’s basically science fiction.",
+          "value": " In a traditional studio, that’s basically science fiction."
+        },
+        {
+          "key": "text-17",
+          "label": "AFFORDABLE",
+          "value": "AFFORDABLE"
+        },
+        {
+          "key": "text-18",
+          "label": "Because here you’re not paying for studio rental, an engineer, the production ma",
+          "value": " Because here you’re not paying for studio rental, an engineer, the production manager… "
+        },
+        {
+          "key": "text-19",
+          "label": "We cut the price by up to 4×",
+          "value": " We cut the price by up to 4×"
+        },
+        {
+          "key": "text-20",
+          "label": "compared to the traditional method.",
+          "value": " compared to the traditional method."
+        },
+        {
+          "key": "text-21",
+          "label": "(And we know this because we’ve been there.)",
+          "value": "(And we know this because we’ve been there.)"
+        },
+        {
+          "key": "text-22",
+          "label": "FLEXIBLE",
+          "value": "FLEXIBLE"
+        },
+        {
+          "key": "text-23",
+          "label": "Because your script is going to change…",
+          "value": " Because your script is going to change…"
+        },
+        {
+          "key": "text-24",
+          "label": "You get",
+          "value": " You get "
+        },
+        {
+          "key": "text-25",
+          "label": "2 revisions included",
+          "value": "2 revisions included"
+        },
+        {
+          "key": "text-26",
+          "label": ", and",
+          "value": ", and "
+        },
+        {
+          "key": "text-27",
+          "label": "retakes",
+          "value": "retakes"
+        },
+        {
+          "key": "text-28",
+          "label": "are part of the deal too.",
+          "value": " are part of the deal too."
+        },
+        {
+          "key": "text-29",
+          "label": "(A traditional studio would probably charge you for breathing.)",
+          "value": "(A traditional studio would probably charge you for breathing.)"
+        },
+        {
+          "key": "text-30",
+          "label": "“The",
+          "value": "“The "
+        },
+        {
+          "key": "text-31",
+          "label": "only",
+          "value": "only"
+        },
+        {
+          "key": "text-32",
+          "label": "thing we can’t offer is",
+          "value": " thing we can’t offer is "
+        },
+        {
+          "key": "text-33",
+          "label": "machine coffee",
+          "value": "machine coffee"
+        },
+        {
+          "key": "text-34",
+          "label": "”",
+          "value": "”\n"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-6",
+      "label": "And why not do it myself…",
+      "template": "en__voiceoverai-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "And why not",
+          "value": "And why not"
+        },
+        {
+          "key": "text-1",
+          "label": "do it",
+          "value": "\ndo it "
+        },
+        {
+          "key": "text-2",
+          "label": "myself…",
+          "value": "myself…"
+        },
+        {
+          "key": "text-3",
+          "label": "with any TTS tool?",
+          "value": "with any TTS tool?"
+        },
+        {
+          "key": "text-4",
+          "label": "Sure! You can do that.",
+          "value": "Sure! You can do that."
+        },
+        {
+          "key": "text-5",
+          "label": "But there’s",
+          "value": "But there’s "
+        },
+        {
+          "key": "text-6",
+          "label": "something you haven’t taken into account",
+          "value": "something you haven’t taken into account"
+        },
+        {
+          "key": "text-7",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-8",
+          "label": "You can do it",
+          "value": "You can do it "
+        },
+        {
+          "key": "text-9",
+          "label": "fast",
+          "value": "fast"
+        },
+        {
+          "key": "text-10",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-11",
+          "label": "But it",
+          "value": "But it "
+        },
+        {
+          "key": "text-12",
+          "label": "will sound generic and AI-made",
+          "value": "will sound generic and AI-made"
+        },
+        {
+          "key": "text-13",
+          "label": ", with no personality.",
+          "value": ", with no personality."
+        },
+        {
+          "key": "text-14",
+          "label": "If your content doesn’t deserve better, that’s the best option.",
+          "value": "If your content doesn’t deserve better, that’s the best option."
+        },
+        {
+          "key": "text-15",
+          "label": "You can do it",
+          "value": "You can do it "
+        },
+        {
+          "key": "text-16",
+          "label": "cheap",
+          "value": "cheap"
+        },
+        {
+          "key": "text-17",
+          "label": "too",
+          "value": " too"
+        },
+        {
+          "key": "text-18",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-19",
+          "label": "But only if you have a",
+          "value": "But only if you have a "
+        },
+        {
+          "key": "text-20",
+          "label": "looooot of free time",
+          "value": "looooot of free time"
+        },
+        {
+          "key": "text-21",
+          "label": "to learn how to use all the TTS tools available online.",
+          "value": "to learn how to use all the TTS tools available online."
+        },
+        {
+          "key": "text-22",
+          "label": "And it will still sound like a",
+          "value": "And it will still sound like a "
+        },
+        {
+          "key": "text-23",
+          "label": "late night infomercial",
+          "value": "late night infomercial"
+        },
+        {
+          "key": "text-24",
+          "label": "...",
+          "value": "...\n"
+        },
+        {
+          "key": "text-25",
+          "label": "And if on top of that,",
+          "value": "And if on top of that, "
+        },
+        {
+          "key": "text-26",
+          "label": "you have the expertise",
+          "value": "you have the expertise"
+        },
+        {
+          "key": "text-27",
+          "label": "and you know how to identify the",
+          "value": " and you know how to identify the "
+        },
+        {
+          "key": "text-28",
+          "label": "right tone",
+          "value": "right tone"
+        },
+        {
+          "key": "text-29",
+          "label": "in each case, go for it.",
+          "value": " in each case, go for it."
+        },
+        {
+          "key": "text-30",
+          "label": "You should do it yourself",
+          "value": "You should do it yourself"
+        },
+        {
+          "key": "text-31",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-32",
+          "label": "It will be much more",
+          "value": "It will be much more "
+        },
+        {
+          "key": "text-33",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-34",
+          "label": "affordable",
+          "value": "affordable"
+        },
+        {
+          "key": "text-35",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-36",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-37",
+          "label": "Not",
+          "value": "Not "
+        },
+        {
+          "key": "text-38",
+          "label": "faster",
+          "value": "faster"
+        },
+        {
+          "key": "text-39",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-40",
+          "label": "Not",
+          "value": "Not "
+        },
+        {
+          "key": "text-41",
+          "label": "better",
+          "value": "better"
+        },
+        {
+          "key": "text-42",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-43",
+          "label": "But definitely",
+          "value": "But definitely "
+        },
+        {
+          "key": "text-44",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-45",
+          "label": "cheaper",
+          "value": "cheaper"
+        },
+        {
+          "key": "text-46",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-47",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-7",
+      "label": "And the million dollar question…",
+      "template": "en__voiceoverai-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "And the million dollar question…",
+          "value": "And the million dollar question…"
+        },
+        {
+          "key": "text-1",
+          "label": "How much is it going to cost?",
+          "value": "How much is it going to cost?"
+        },
+        {
+          "key": "text-2",
+          "label": "You’ve probably already guessed that giving an",
+          "value": "You’ve probably already guessed that giving an "
+        },
+        {
+          "key": "text-3",
+          "label": "exact price",
+          "value": "exact price"
+        },
+        {
+          "key": "text-4",
+          "label": "for something that’s",
+          "value": "for something that’s "
+        },
+        {
+          "key": "text-5",
+          "label": "fully custom",
+          "value": "fully custom"
+        },
+        {
+          "key": "text-6",
+          "label": "is",
+          "value": "is "
+        },
+        {
+          "key": "text-7",
+          "label": "quite tricky",
+          "value": "quite tricky"
+        },
+        {
+          "key": "text-8",
+          "label": "without having all the details.",
+          "value": " without having all the details."
+        },
+        {
+          "key": "text-9",
+          "label": "If you want a personalized quote, click",
+          "value": "If you want a personalized quote, click "
+        },
+        {
+          "key": "text-10",
+          "label": "here",
+          "value": "here"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-12",
+          "label": "Still, to give you a rough idea, here are some",
+          "value": "Still, to give you a rough idea, here are some "
+        },
+        {
+          "key": "text-13",
+          "label": "indicative prices",
+          "value": "indicative prices"
+        },
+        {
+          "key": "text-14",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-15",
+          "label": "That way, you’ll know whether this fits your project’s",
+          "value": "That way, you’ll know whether this fits your project’s "
+        },
+        {
+          "key": "text-16",
+          "label": "budget",
+          "value": "budget"
+        },
+        {
+          "key": "text-17",
+          "label": "or not.",
+          "value": " or not."
+        },
+        {
+          "key": "text-18",
+          "label": "Ads",
+          "value": "Ads"
+        },
+        {
+          "key": "text-19",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-20",
+          "label": "audiobooks",
+          "value": "audiobooks"
+        },
+        {
+          "key": "text-21",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-22",
+          "label": "online courses",
+          "value": "online courses"
+        },
+        {
+          "key": "text-23",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-24",
+          "label": "YouTube videos",
+          "value": "YouTube videos"
+        },
+        {
+          "key": "text-25",
+          "label": "and",
+          "value": "and "
+        },
+        {
+          "key": "text-26",
+          "label": "anything else you can think of",
+          "value": "anything else you can think of"
+        },
+        {
+          "key": "text-27",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-28",
+          "label": "AD Spot - 30s",
+          "value": "AD Spot - 30s\n"
+        },
+        {
+          "key": "text-29",
+          "label": "Studio → between 400 – 750 €",
+          "value": "Studio → between 400 – 750 €"
+        },
+        {
+          "key": "text-30",
+          "label": "Studio",
+          "value": "Studio"
+        },
+        {
+          "key": "text-31",
+          "label": "rent",
+          "value": " rent"
+        },
+        {
+          "key": "text-32",
+          "label": "Advertising",
+          "value": "Advertising "
+        },
+        {
+          "key": "text-33",
+          "label": "voice talent",
+          "value": "voice talent"
+        },
+        {
+          "key": "text-34",
+          "label": "Recording",
+          "value": "Recording"
+        },
+        {
+          "key": "text-35",
+          "label": "engineer",
+          "value": " engineer"
+        },
+        {
+          "key": "text-36",
+          "label": "Basic",
+          "value": "Basic"
+        },
+        {
+          "key": "text-37",
+          "label": "edition",
+          "value": " edition"
+        },
+        {
+          "key": "text-38",
+          "label": "Extra re-recordings",
+          "value": "Extra re-recordings"
+        },
+        {
+          "key": "text-39",
+          "label": "(retakes)",
+          "value": " (retakes)"
+        },
+        {
+          "key": "text-40",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-41",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-42",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-43",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-44",
+          "label": "→ from",
+          "value": " → from "
+        },
+        {
+          "key": "text-45",
+          "label": "60",
+          "value": "60"
+        },
+        {
+          "key": "text-46",
+          "label": "€",
+          "value": " €"
+        },
+        {
+          "key": "text-47",
+          "label": "AI profesional",
+          "value": "AI profesional"
+        },
+        {
+          "key": "text-48",
+          "label": "recording",
+          "value": " recording"
+        },
+        {
+          "key": "text-49",
+          "label": "Engineer",
+          "value": "Engineer"
+        },
+        {
+          "key": "text-50",
+          "label": "and",
+          "value": " and "
+        },
+        {
+          "key": "text-51",
+          "label": "postproduction",
+          "value": "postproduction"
+        },
+        {
+          "key": "text-52",
+          "label": "Audio QA",
+          "value": "Audio QA"
+        },
+        {
+          "key": "text-53",
+          "label": "included",
+          "value": " included"
+        },
+        {
+          "key": "text-54",
+          "label": "2 complete reviews",
+          "value": "2 complete reviews"
+        },
+        {
+          "key": "text-55",
+          "label": "included",
+          "value": " included"
+        },
+        {
+          "key": "text-56",
+          "label": "Audiobook - 5h narration",
+          "value": "Audiobook - 5h narration"
+        },
+        {
+          "key": "text-57",
+          "label": "Studio → from 2.5K – 4K €",
+          "value": "Studio → from 2.5K – 4K €"
+        },
+        {
+          "key": "text-58",
+          "label": "Studio",
+          "value": "Studio"
+        },
+        {
+          "key": "text-59",
+          "label": "rent some days",
+          "value": " rent some days"
+        },
+        {
+          "key": "text-60",
+          "label": "Narrator",
+          "value": "Narrator"
+        },
+        {
+          "key": "text-61",
+          "label": "fee",
+          "value": " fee"
+        },
+        {
+          "key": "text-62",
+          "label": "Recording",
+          "value": "Recording"
+        },
+        {
+          "key": "text-63",
+          "label": "engineer",
+          "value": " engineer"
+        },
+        {
+          "key": "text-64",
+          "label": "Extended",
+          "value": "Extended"
+        },
+        {
+          "key": "text-65",
+          "label": "editing",
+          "value": " editing"
+        },
+        {
+          "key": "text-66",
+          "label": "Retakes",
+          "value": "Retakes"
+        },
+        {
+          "key": "text-67",
+          "label": "extra invoiced (high cost)",
+          "value": " extra invoiced (high cost)"
+        },
+        {
+          "key": "text-68",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-69",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-70",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-71",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-72",
+          "label": "→ from",
+          "value": " → from "
+        },
+        {
+          "key": "text-73",
+          "label": "900",
+          "value": "900 "
+        },
+        {
+          "key": "text-74",
+          "label": "€",
+          "value": "€"
+        },
+        {
+          "key": "text-75",
+          "label": "Completed narration",
+          "value": "Completed narration"
+        },
+        {
+          "key": "text-76",
+          "label": "with AI",
+          "value": " with AI"
+        },
+        {
+          "key": "text-77",
+          "label": "Sound engineer",
+          "value": "Sound engineer"
+        },
+        {
+          "key": "text-78",
+          "label": "and",
+          "value": " and "
+        },
+        {
+          "key": "text-79",
+          "label": "postproduction",
+          "value": "postproduction"
+        },
+        {
+          "key": "text-80",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-81",
+          "label": "and adjusting",
+          "value": " and adjusting"
+        },
+        {
+          "key": "text-82",
+          "label": "2 complete reviews",
+          "value": "2 complete reviews"
+        },
+        {
+          "key": "text-83",
+          "label": "included",
+          "value": " included"
+        },
+        {
+          "key": "text-84",
+          "label": "Online course - 1h audio",
+          "value": "Online course - 1h audio"
+        },
+        {
+          "key": "text-85",
+          "label": "Studio → from 800 – 1.200 €",
+          "value": "Studio → from 800 – 1.200 €"
+        },
+        {
+          "key": "text-86",
+          "label": "Studio",
+          "value": "Studio"
+        },
+        {
+          "key": "text-87",
+          "label": "rent 3-4 hours",
+          "value": " rent 3-4 hours"
+        },
+        {
+          "key": "text-88",
+          "label": "Narrator",
+          "value": "Narrator"
+        },
+        {
+          "key": "text-89",
+          "label": "fee",
+          "value": " fee"
+        },
+        {
+          "key": "text-90",
+          "label": "Recording",
+          "value": "Recording "
+        },
+        {
+          "key": "text-91",
+          "label": "engineer",
+          "value": "engineer"
+        },
+        {
+          "key": "text-92",
+          "label": "Editing",
+          "value": "Editing "
+        },
+        {
+          "key": "text-93",
+          "label": "and mastering",
+          "value": "and mastering"
+        },
+        {
+          "key": "text-94",
+          "label": "Extra recordings",
+          "value": "Extra recordings "
+        },
+        {
+          "key": "text-95",
+          "label": "extra invoiced",
+          "value": "extra invoiced"
+        },
+        {
+          "key": "text-96",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-97",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-98",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-99",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-100",
+          "label": "→ from",
+          "value": " → from "
+        },
+        {
+          "key": "text-101",
+          "label": "150",
+          "value": "150 "
+        },
+        {
+          "key": "text-102",
+          "label": "€",
+          "value": "€"
+        },
+        {
+          "key": "text-103",
+          "label": "AI narration",
+          "value": "AI narration"
+        },
+        {
+          "key": "text-104",
+          "label": "clear and neutral",
+          "value": " clear and neutral"
+        },
+        {
+          "key": "text-105",
+          "label": "Engineer",
+          "value": "Engineer"
+        },
+        {
+          "key": "text-106",
+          "label": "and",
+          "value": " and "
+        },
+        {
+          "key": "text-107",
+          "label": "complete editing",
+          "value": "complete editing"
+        },
+        {
+          "key": "text-108",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-109",
+          "label": "included",
+          "value": " included"
+        },
+        {
+          "key": "text-110",
+          "label": "2 complete reviews",
+          "value": "2 complete reviews"
+        },
+        {
+          "key": "text-111",
+          "label": "included",
+          "value": " included"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "here",
+          "href": "#formulario_1"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": [
+        {
+          "key": "video-0",
+          "url": "https://www.youtube.com/watch?v=wPYDA594ZiM",
+          "poster": "",
+          "label": "Play video"
+        },
+        {
+          "key": "video-1",
+          "url": "https://youtu.be/2rA7hoK1Mmo",
+          "poster": "",
+          "label": "Play video"
+        },
+        {
+          "key": "video-2",
+          "url": "https://youtu.be/to4lri_vR2I",
+          "poster": "",
+          "label": "Play video"
+        }
+      ]
+    },
+    {
+      "id": "en__voiceoverai-8",
+      "label": "Want to know how much your project would cost?",
+      "template": "en__voiceoverai-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Want to know how much",
+          "value": "Want to know how much "
+        },
+        {
+          "key": "text-1",
+          "label": "your project",
+          "value": "your project"
+        },
+        {
+          "key": "text-2",
+          "label": "would cost?",
+          "value": " would cost?\n"
+        },
+        {
+          "key": "text-3",
+          "label": "Fill out the form and we’ll get back to you in under 2 days.",
+          "value": "Fill out the form and we’ll get back to you in under 2 days."
+        },
+        {
+          "key": "text-4",
+          "label": "– If it’s Friday, don’t expect a reply before Monday. We have a life too. –",
+          "value": "– If it’s Friday, don’t expect a reply before Monday. We have a life too. –"
+        },
+        {
+          "key": "text-5",
+          "label": "Get a Quote",
+          "value": "Get a Quote"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Get a Quote",
+          "href": "#formulario_1"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-9",
+      "label": "PS: We don’t like testimonials…",
+      "template": "en__voiceoverai-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "PS",
+          "value": "PS"
+        },
+        {
+          "key": "text-1",
+          "label": ": We don’t like",
+          "value": ": We don’t like "
+        },
+        {
+          "key": "text-2",
+          "label": "testimonials…",
+          "value": "testimonials…"
+        },
+        {
+          "key": "text-3",
+          "label": "But just in case they’re",
+          "value": "But just in case they’re "
+        },
+        {
+          "key": "text-4",
+          "label": "important to you",
+          "value": "important to you"
+        },
+        {
+          "key": "text-5",
+          "label": ", here’s this so you can sleep well.",
+          "value": ", here’s this so you can sleep well."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/361e844ed25a-Captura-de-pantalla-2025-11-11-135523.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/a60ce860756c-Captura-de-pantalla-2025-11-11-134905.png",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "",
+          "href": "/media/361e844ed25a-Captura-de-pantalla-2025-11-11-135523.png"
+        },
+        {
+          "key": "link-1",
+          "label": "",
+          "href": "/media/a60ce860756c-Captura-de-pantalla-2025-11-11-134905.png"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__voiceoverai-10",
+      "label": "Frequently Asked Questions",
+      "template": "en__voiceoverai-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Frequently",
+          "value": "Frequently\n "
+        },
+        {
+          "key": "text-1",
+          "label": "Asked Questions",
+          "value": "Asked Questions"
+        },
+        {
+          "key": "text-2",
+          "label": "¿Qué idiomas están disponibles?",
+          "value": "¿Qué idiomas están disponibles?"
+        },
+        {
+          "key": "text-3",
+          "label": "Unos cuantos: español (neutro, castellano, LATAM), catalán, inglés… y seguimos s",
+          "value": "Unos cuantos: español (neutro, castellano, LATAM), catalán, inglés… y seguimos sumando. Tú pide y vemos cómo lo hacemos sonar."
+        },
+        {
+          "key": "text-4",
+          "label": "¿Tengo derechos de uso?",
+          "value": "¿Tengo derechos de uso?"
+        },
+        {
+          "key": "text-5",
+          "label": "Sí. Todas nuestras locuciones incluyen licencias claras y legales en función del",
+          "value": "Sí. Todas nuestras locuciones incluyen licencias claras y legales en función del tipo de contenido. Nada de voces pirateadas de TikTok."
+        },
+        {
+          "key": "text-6",
+          "label": "¿Seguro que no suena a máquina?",
+          "value": "¿Seguro que no suena a máquina?"
+        },
+        {
+          "key": "text-7",
+          "label": "Seguro. A no ser que realmente quieras una voz de robot. Compruébalo en las",
+          "value": "Seguro. A no ser que realmente quieras una voz de robot. Compruébalo en las "
+        },
+        {
+          "key": "text-8",
+          "label": "demos",
+          "value": "demos"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "¿Puedo pedir cambios?",
+          "value": "¿Puedo pedir cambios?"
+        },
+        {
+          "key": "text-11",
+          "label": "Por supuesto. Ajustamos entonación, ritmo o estilo hasta que encaje con tu visió",
+          "value": "Por supuesto. Ajustamos entonación, ritmo o estilo hasta que encaje con tu visión. Tienes dos revisiones incluidas en el precio."
+        },
+        {
+          "key": "text-12",
+          "label": "¿Cuánto tardará mi locución en estar lista?",
+          "value": "¿Cuánto tardará mi locución en estar lista?"
+        },
+        {
+          "key": "text-13",
+          "label": "Pues depende de la duración. Calcula que si es contenido corto como un anuncio p",
+          "value": "Pues depende de la duración. Calcula que si es contenido corto como un anuncio puedes tenerlo listo "
+        },
+        {
+          "key": "text-14",
+          "label": "al día siguiente",
+          "value": "al día siguiente"
+        },
+        {
+          "key": "text-15",
+          "label": "de pasarnos toda la info. Si es un audio libro, en",
+          "value": " de pasarnos toda la info. Si es un audio libro, en "
+        },
+        {
+          "key": "text-16",
+          "label": "1-2 semanas",
+          "value": "1-2 semanas"
+        },
+        {
+          "key": "text-17",
+          "label": "también lo tendrías listo.",
+          "value": " también lo tendrías listo."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "¿Qué idiomas están disponibles?",
+          "href": "#Collapse-75906826b035e992e48c"
+        },
+        {
+          "key": "link-1",
+          "label": "¿Tengo derechos de uso?",
+          "href": "#Collapse-1f3aa8b6b035e992e48c"
+        },
+        {
+          "key": "link-2",
+          "label": "¿Seguro que no suena a máquina?",
+          "href": "#Collapse-a62c2336b035e992e48c"
+        },
+        {
+          "key": "link-3",
+          "label": "demos",
+          "href": "#demos"
+        },
+        {
+          "key": "link-4",
+          "label": "¿Puedo pedir cambios?",
+          "href": "#Collapse-068d8376b035e992e48c"
+        },
+        {
+          "key": "link-5",
+          "label": "¿Cuánto tardará mi locución en estar lista?",
+          "href": "#Collapse-37bae326b035e992e48c"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

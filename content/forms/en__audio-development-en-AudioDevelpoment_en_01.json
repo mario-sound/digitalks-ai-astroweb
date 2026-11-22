@@ -1,0 +1,22 @@
+{
+  "id": "en__audio-development-en-AudioDevelpoment_en_01",
+  "title": "AudioDevelpoment_en_01",
+  "lang": "en",
+  "source": "https://digitalks-ai.com/en/audio-development-en/",
+  "fields": [
+    {
+      "name": "form_fields[AudioDevelpoment_en_01]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": "Email address",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Subscribe",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "This form is not connected yet. No data will be sent."
+}

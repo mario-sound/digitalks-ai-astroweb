@@ -1,0 +1,17 @@
+{
+  "id": "audio-data-collection",
+  "title": "Audio Data Collection y Voice Datasets para IA | Digitalks AI",
+  "description": "Servicios profesionales de Audio Data Collection y datasets de voz para entrenar modelos de IA. Grabación, curación y etiquetado de audio con control de calidad.",
+  "canonical": "/audio-data-collection/",
+  "alternates": [
+    {
+      "lang": "en",
+      "path": "/en/audio-data-collection-en/"
+    },
+    {
+      "lang": "es",
+      "path": "/audio-data-collection/"
+    }
+  ],
+  "image": "/media/d411298da219.webp"
+}

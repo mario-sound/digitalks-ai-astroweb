@@ -1,0 +1,32 @@
+{
+  "id": "doblaje-youtube-doblarvideosyoutubeprecio02",
+  "title": "doblarvideosyoutubeprecio02",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/doblaje-youtube/",
+  "fields": [
+    {
+      "name": "form_fields[doblarvideosyoutubeprecio02]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": "Escribe aquí tu email",
+      "options": [],
+      "showLabel": true,
+      "width": "full"
+    },
+    {
+      "name": "form_fields[field_ea37d18]",
+      "label": "Link de tu canal",
+      "type": "url",
+      "required": true,
+      "placeholder": "Link de tu canal",
+      "options": [],
+      "showLabel": true,
+      "width": "full"
+    }
+  ],
+  "submit": "Enviar",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

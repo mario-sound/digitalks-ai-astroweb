@@ -1,0 +1,39 @@
+name: Deploy verified static files to Hostinger
+on:
+  workflow_run:
+    workflows: ['Validate and build DigiTalks']
+    types: [completed]
+    branches: [main]
+permissions:
+  contents: read
+  actions: read
+concurrency:
+  group: hostinger-deployment
+  cancel-in-progress: false
+jobs:
+  deploy:
+    if: >-
+      github.event.workflow_run.conclusion == 'success' &&
+      github.event.workflow_run.event == 'push' &&
+      vars.HOSTINGER_DEPLOY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    environment: ${{ vars.HOSTINGER_DEPLOY_TARGET == 'production' && 'hostinger-production' || 'hostinger-staging' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.workflow_run.head_sha }}
+      - uses: actions/download-artifact@v4
+        with:
+          name: digitalks-static-${{ github.event.workflow_run.head_sha }}
+          path: dist
+          github-token: ${{ github.token }}
+          run-id: ${{ github.event.workflow_run.id }}
+      - name: Upload via verified explicit FTPS
+        run: python3 scripts/deploy-ftps.py
+        env:
+          HOSTINGER_FTP_HOST: ${{ secrets.HOSTINGER_FTP_HOST }}
+          HOSTINGER_FTP_USER: ${{ secrets.HOSTINGER_FTP_USER }}
+          HOSTINGER_FTP_PASSWORD: ${{ secrets.HOSTINGER_FTP_PASSWORD }}
+          HOSTINGER_FTP_DIR: ${{ secrets.HOSTINGER_FTP_DIR }}
+          HOSTINGER_DEPLOY_TARGET: ${{ vars.HOSTINGER_DEPLOY_TARGET }}
+          HOSTINGER_PRODUCTION_AUTHORIZED: ${{ vars.HOSTINGER_PRODUCTION_AUTHORIZED }}

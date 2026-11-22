@@ -1,0 +1,22 @@
+{
+  "id": "custom-audio-data-collection-custom_datasets_01",
+  "title": "custom_datasets_01",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/custom-audio-data-collection/",
+  "fields": [
+    {
+      "name": "form_fields[custom_datasets_01]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": "Correo electrónico",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Pídelo aquí",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

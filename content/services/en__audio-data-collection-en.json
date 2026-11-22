@@ -1,0 +1,1090 @@
+{
+  "id": "en__audio-data-collection-en",
+  "title": "Audio Data Collection & Voice Datasets for AI | Digitalks AI",
+  "path": "/en/audio-data-collection-en/",
+  "lang": "en",
+  "seo": "en__audio-data-collection-en",
+  "source": "https://digitalks-ai.com/en/audio-data-collection-en/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-48473 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-48473",
+  "rootClass": "dt dt-48473",
+  "styles": [],
+  "css": "en__audio-data-collection-en.css",
+  "sections": [
+    {
+      "id": "en__audio-data-collection-en-1",
+      "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+      "template": "en__audio-data-collection-en-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+          "value": "Automatización de procesos y desarrollo de software para empresas de audio"
+        },
+        {
+          "key": "text-1",
+          "label": "Without good data",
+          "value": "Without good data"
+        },
+        {
+          "key": "text-2",
+          "label": "your model is just",
+          "value": "your model is just"
+        },
+        {
+          "key": "text-3",
+          "label": "\"NOISE\"",
+          "value": "\"NOISE\""
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-2",
+      "label": "Train more efficient voice models with",
+      "template": "en__audio-data-collection-en-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Train more efficient voice models with",
+          "value": "Train more efficient voice models with"
+        },
+        {
+          "key": "text-1",
+          "label": "less and more efficient data",
+          "value": "less and more efficient data"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-3",
+      "label": "Training with bad data is like teaching a parrot to sing opera: lots of effort... very little progre",
+      "template": "en__audio-data-collection-en-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Training with",
+          "value": "Training with "
+        },
+        {
+          "key": "text-1",
+          "label": "bad data",
+          "value": "bad data"
+        },
+        {
+          "key": "text-2",
+          "label": "is like teaching a parrot to sing opera",
+          "value": " is like teaching a parrot to sing opera"
+        },
+        {
+          "key": "text-3",
+          "label": ":",
+          "value": ": "
+        },
+        {
+          "key": "text-4",
+          "label": "lots of effort...",
+          "value": "lots of effort... "
+        },
+        {
+          "key": "text-5",
+          "label": "very little progress",
+          "value": "very little progress"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": ".\n"
+        },
+        {
+          "key": "text-7",
+          "label": "Your model doesn’t fail because of bad code.",
+          "value": "Your model doesn’t fail because of bad code."
+        },
+        {
+          "key": "text-8",
+          "label": "It fails because",
+          "value": "It fails because"
+        },
+        {
+          "key": "text-9",
+          "label": "it learns from garbage",
+          "value": " it learns from garbage"
+        },
+        {
+          "key": "text-10",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-11",
+          "label": "Poorly recorded audio.",
+          "value": "Poorly recorded audio."
+        },
+        {
+          "key": "text-12",
+          "label": "Noise everywhere.",
+          "value": "Noise everywhere."
+        },
+        {
+          "key": "text-13",
+          "label": "Inconsistent labels.",
+          "value": "Inconsistent labels."
+        },
+        {
+          "key": "text-14",
+          "label": "Sketchy licenses.",
+          "value": "Sketchy licenses."
+        },
+        {
+          "key": "text-15",
+          "label": "The result?",
+          "value": "The result?"
+        },
+        {
+          "key": "text-16",
+          "label": "Weeks wasted cleaning data.",
+          "value": "Weeks wasted cleaning data."
+        },
+        {
+          "key": "text-17",
+          "label": "A frustrated team.",
+          "value": "A frustrated team."
+        },
+        {
+          "key": "text-18",
+          "label": "And metrics that refuse to improve.",
+          "value": "And metrics that refuse to improve."
+        },
+        {
+          "key": "text-19",
+          "label": "Or worse:",
+          "value": "Or worse:"
+        },
+        {
+          "key": "text-20",
+          "label": "if the data isn’t legally solid,",
+          "value": "if the data isn’t legally solid,"
+        },
+        {
+          "key": "text-21",
+          "label": "all your work can vanish with a single notice.",
+          "value": "all your work can vanish with a single notice."
+        },
+        {
+          "key": "text-22",
+          "label": "If you",
+          "value": "If you "
+        },
+        {
+          "key": "text-23",
+          "label": "train",
+          "value": "train "
+        },
+        {
+          "key": "text-24",
+          "label": "with garbage",
+          "value": "with garbage"
+        },
+        {
+          "key": "text-25",
+          "label": "you",
+          "value": "you "
+        },
+        {
+          "key": "text-26",
+          "label": "get",
+          "value": "get "
+        },
+        {
+          "key": "text-27",
+          "label": "garbage",
+          "value": "garbage"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-4",
+      "label": "What you need isn’t more data.",
+      "template": "en__audio-data-collection-en-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "What you need isn’t more data.",
+          "value": "What you need isn’t more data. "
+        },
+        {
+          "key": "text-1",
+          "label": "You need\nResults",
+          "value": "You need\nResults"
+        },
+        {
+          "key": "text-2",
+          "label": "Clean, real, varied audio hours.",
+          "value": "Clean, real, varied audio hours."
+        },
+        {
+          "key": "text-3",
+          "label": "Voice AI models",
+          "value": "Voice AI models"
+        },
+        {
+          "key": "text-4",
+          "label": "trained on datasets",
+          "value": " trained on datasets"
+        },
+        {
+          "key": "text-5",
+          "label": "recorded and curated",
+          "value": "recorded and curated "
+        },
+        {
+          "key": "text-6",
+          "label": "by humans",
+          "value": "by humans"
+        },
+        {
+          "key": "text-7",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-8",
+          "label": "No noise.",
+          "value": "No noise."
+        },
+        {
+          "key": "text-9",
+          "label": "No piracy.",
+          "value": "No piracy."
+        },
+        {
+          "key": "text-10",
+          "label": "No surprises.",
+          "value": "No surprises."
+        },
+        {
+          "key": "text-11",
+          "label": "Everything traceable.",
+          "value": "Everything traceable."
+        },
+        {
+          "key": "text-12",
+          "label": "Legal.",
+          "value": "Legal."
+        },
+        {
+          "key": "text-13",
+          "label": "And truly yours.",
+          "value": "And truly yours."
+        },
+        {
+          "key": "text-14",
+          "label": "That’s when your models stop just",
+          "value": "That’s when your models stop just "
+        },
+        {
+          "key": "text-15",
+          "label": "hearing",
+          "value": "hearing"
+        },
+        {
+          "key": "text-16",
+          "label": "and start actually",
+          "value": "and start actually "
+        },
+        {
+          "key": "text-17",
+          "label": "understanding",
+          "value": "understanding"
+        },
+        {
+          "key": "text-18",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-5",
+      "label": "Service Details",
+      "template": "en__audio-data-collection-en-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Service",
+          "value": "Service\n"
+        },
+        {
+          "key": "text-1",
+          "label": "Details",
+          "value": "Details"
+        },
+        {
+          "key": "text-2",
+          "label": "Real audio data:",
+          "value": "Real audio data:"
+        },
+        {
+          "key": "text-3",
+          "label": "Human voices, real environments, languages and accents — tailored to your needs.",
+          "value": "Human voices, real environments, languages and accents — tailored to your needs."
+        },
+        {
+          "key": "text-4",
+          "label": "Precise, consistent labeling:",
+          "value": "Precise, consistent labeling:"
+        },
+        {
+          "key": "text-5",
+          "label": "Every file arrives training-ready. No cleaning. No fixing. No wasted time.",
+          "value": "Every file arrives training-ready. No cleaning. No fixing. No wasted time."
+        },
+        {
+          "key": "text-6",
+          "label": "Volume that fits your project:",
+          "value": "Volume that fits your project:"
+        },
+        {
+          "key": "text-7",
+          "label": "From small pilot batches for fine-tuning to hundreds of hours at scale.",
+          "value": "From small pilot batches for fine-tuning to hundreds of hours at scale."
+        },
+        {
+          "key": "text-8",
+          "label": "Clear, safe licensing:",
+          "value": "Clear, safe licensing:"
+        },
+        {
+          "key": "text-9",
+          "label": "Legal. Documented. Yours.",
+          "value": "Legal. Documented. Yours. "
+        },
+        {
+          "key": "text-10",
+          "label": "With the license model you actually need.",
+          "value": "With the license model you actually need."
+        },
+        {
+          "key": "text-11",
+          "label": "Standard delivery formats:",
+          "value": "Standard delivery formats:"
+        },
+        {
+          "key": "text-12",
+          "label": "WAV, FLAC, JSON (the non–Friday-the-13th kind).  Easy to integrate. Zero headach",
+          "value": "WAV, FLAC, JSON (the non–Friday-the-13th kind).  Easy to integrate. Zero headaches."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/d411298da219.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-6",
+      "label": "Do you know what kind of data performs best in your AI model?",
+      "template": "en__audio-data-collection-en-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Do you know what kind of data performs best in your",
+          "value": " Do you know what kind of data performs best in your "
+        },
+        {
+          "key": "text-1",
+          "label": "AI model",
+          "value": "AI model"
+        },
+        {
+          "key": "text-2",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-3",
+          "label": "Not every project needs the same things.",
+          "value": "Not every project needs the same things."
+        },
+        {
+          "key": "text-4",
+          "label": "Some need",
+          "value": "Some need "
+        },
+        {
+          "key": "text-5",
+          "label": "volume",
+          "value": "volume"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-7",
+          "label": "Others need surgical",
+          "value": "Others need surgical "
+        },
+        {
+          "key": "text-8",
+          "label": "precision",
+          "value": "precision"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "Some need",
+          "value": "Some need "
+        },
+        {
+          "key": "text-11",
+          "label": "voice diversity",
+          "value": "voice diversity"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-13",
+          "label": "Others need absolute",
+          "value": "Others need absolute "
+        },
+        {
+          "key": "text-14",
+          "label": "consistency",
+          "value": "consistency"
+        },
+        {
+          "key": "text-15",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-16",
+          "label": "Maybe you want to:",
+          "value": "Maybe you want to:"
+        },
+        {
+          "key": "text-17",
+          "label": "Train a",
+          "value": "Train a "
+        },
+        {
+          "key": "text-18",
+          "label": "hyper-realistic",
+          "value": "hyper-realistic"
+        },
+        {
+          "key": "text-19",
+          "label": "voice AI model",
+          "value": " voice AI model"
+        },
+        {
+          "key": "text-20",
+          "label": "Improve",
+          "value": "Improve "
+        },
+        {
+          "key": "text-21",
+          "label": "automatic speech recognition",
+          "value": "automatic speech recognition"
+        },
+        {
+          "key": "text-22",
+          "label": "(ASR)",
+          "value": " (ASR)"
+        },
+        {
+          "key": "text-23",
+          "label": "Train a natural",
+          "value": "Train a natural "
+        },
+        {
+          "key": "text-24",
+          "label": "conversational",
+          "value": "conversational"
+        },
+        {
+          "key": "text-25",
+          "label": "system (IVR)",
+          "value": " system (IVR)"
+        },
+        {
+          "key": "text-26",
+          "label": "Or simply",
+          "value": "Or simply "
+        },
+        {
+          "key": "text-27",
+          "label": "fine-tune",
+          "value": "fine-tune"
+        },
+        {
+          "key": "text-28",
+          "label": "your",
+          "value": " your "
+        },
+        {
+          "key": "text-29",
+          "label": "TTS",
+          "value": "TTS"
+        },
+        {
+          "key": "text-30",
+          "label": "or",
+          "value": " or "
+        },
+        {
+          "key": "text-31",
+          "label": "STT",
+          "value": "STT"
+        },
+        {
+          "key": "text-32",
+          "label": "engine",
+          "value": " engine"
+        },
+        {
+          "key": "text-33",
+          "label": "Whatever your goal is,",
+          "value": "Whatever your goal is,"
+        },
+        {
+          "key": "text-34",
+          "label": "all these paths share one thing:",
+          "value": "all these paths share one thing:"
+        },
+        {
+          "key": "text-35",
+          "label": "They require well-built, clean voice data,",
+          "value": "They require well-built, clean voice data,"
+        },
+        {
+          "key": "text-36",
+          "label": "designed to be learned from.",
+          "value": "designed to be learned from."
+        },
+        {
+          "key": "text-37",
+          "label": "That’s why we offer",
+          "value": "That’s why we offer "
+        },
+        {
+          "key": "text-38",
+          "label": "two ways to get it",
+          "value": "two ways to get it"
+        },
+        {
+          "key": "text-39",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-7",
+      "label": "CustomVoice Dataset",
+      "template": "en__audio-data-collection-en-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Custom",
+          "value": "Custom"
+        },
+        {
+          "key": "text-1",
+          "label": "Voice Dataset",
+          "value": "Voice Dataset \n"
+        },
+        {
+          "key": "text-2",
+          "label": "Built specifically for your model.",
+          "value": "Built specifically for your model."
+        },
+        {
+          "key": "text-3",
+          "label": "You choose the languages, environments, voices and formats.",
+          "value": "You choose the languages, environments, voices and formats."
+        },
+        {
+          "key": "text-4",
+          "label": "Unique, non-repeatable data — made only for you.",
+          "value": "Unique, non-repeatable data — made only for you."
+        },
+        {
+          "key": "text-5",
+          "label": "More work.",
+          "value": "More work."
+        },
+        {
+          "key": "text-6",
+          "label": "More value.",
+          "value": "More value."
+        },
+        {
+          "key": "text-7",
+          "label": "Better results.",
+          "value": "Better results."
+        },
+        {
+          "key": "text-8",
+          "label": "Recorded when you need it",
+          "value": "Recorded when you need it"
+        },
+        {
+          "key": "text-9",
+          "label": "and under prior agreement.",
+          "value": "and under prior agreement."
+        },
+        {
+          "key": "text-10",
+          "label": "Each pack is exclusively yours:",
+          "value": "Each pack is exclusively yours:"
+        },
+        {
+          "key": "text-11",
+          "label": "audio, license and usage are 100% yours.",
+          "value": "audio, license and usage are 100% yours."
+        },
+        {
+          "key": "text-12",
+          "label": "Example:",
+          "value": "Example:"
+        },
+        {
+          "key": "text-13",
+          "label": "Multi-voice recording pack",
+          "value": "Multi-voice recording pack"
+        },
+        {
+          "key": "text-14",
+          "label": "(different genders and age ranges) for training high-quality machine learning vo",
+          "value": " (different genders and age ranges) for training high-quality machine learning voice models in European Spanish"
+        },
+        {
+          "key": "text-15",
+          "label": "I want a custom voice dataset",
+          "value": "I want a custom voice dataset"
+        },
+        {
+          "key": "text-16",
+          "label": "OTS",
+          "value": "OTS"
+        },
+        {
+          "key": "text-17",
+          "label": "Voice Dataset",
+          "value": "Voice Dataset "
+        },
+        {
+          "key": "text-18",
+          "label": "Curated audio datasets, labeled and ready to use.",
+          "value": "Curated audio datasets, labeled and ready to use."
+        },
+        {
+          "key": "text-19",
+          "label": "Same quality standards,",
+          "value": "Same quality standards,"
+        },
+        {
+          "key": "text-20",
+          "label": "lighter price,",
+          "value": "lighter price,"
+        },
+        {
+          "key": "text-21",
+          "label": "faster delivery.",
+          "value": "faster delivery."
+        },
+        {
+          "key": "text-22",
+          "label": "These packs are created as other clients request them, and later made available ",
+          "value": "These packs are created as other clients request them, and later made available to new projects."
+        },
+        {
+          "key": "text-23",
+          "label": "That’s why the license is shared:",
+          "value": "That’s why the license is shared:"
+        },
+        {
+          "key": "text-24",
+          "label": "more affordable, but not exclusive.",
+          "value": "more affordable, but not exclusive."
+        },
+        {
+          "key": "text-25",
+          "label": "Example:",
+          "value": "Example:"
+        },
+        {
+          "key": "text-26",
+          "label": "Pack de audio conversacional (podcast multi-speaker)",
+          "value": "Pack de audio conversacional (podcast multi-speaker)"
+        },
+        {
+          "key": "text-27",
+          "label": "Dataset con voces reales, risas, pausas y acentos de carne y hueso.",
+          "value": "Dataset con voces reales, risas, pausas y acentos de carne y hueso. "
+        },
+        {
+          "key": "text-28",
+          "label": "Ideal para entrenar modelos ASR o STT.",
+          "value": "Ideal para entrenar modelos ASR o STT."
+        },
+        {
+          "key": "text-29",
+          "label": "I want OTS voice dataset",
+          "value": "I want OTS voice dataset"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "I want a custom voice dataset",
+          "href": "/custom-audio-data-collection/"
+        },
+        {
+          "key": "link-1",
+          "label": "I want OTS voice dataset",
+          "href": "/ots-audio-data-collection/"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-8",
+      "label": "Feeling more lostthan a GOAT in a garage?",
+      "template": "en__audio-data-collection-en-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Feeling more",
+          "value": "Feeling more "
+        },
+        {
+          "key": "text-1",
+          "label": "lost",
+          "value": "lost"
+        },
+        {
+          "key": "text-2",
+          "label": "than a",
+          "value": "than a "
+        },
+        {
+          "key": "text-3",
+          "label": "GOAT in a garage",
+          "value": "GOAT in a garage"
+        },
+        {
+          "key": "text-4",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-5",
+          "label": "Schedule a call with us and we’ll find the best solution for your case.",
+          "value": "Schedule a call with us and we’ll find the best solution for your case."
+        },
+        {
+          "key": "text-6",
+          "label": "book a meeting",
+          "value": "book a meeting"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "book a meeting",
+          "href": "https://calendly.com/audio-digitalks-ai"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-9",
+      "label": "Why they choose us?",
+      "template": "en__audio-data-collection-en-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Why they",
+          "value": "Why they "
+        },
+        {
+          "key": "text-1",
+          "label": "choose",
+          "value": "choose "
+        },
+        {
+          "key": "text-2",
+          "label": "us?",
+          "value": "us?"
+        },
+        {
+          "key": "text-3",
+          "label": "A",
+          "value": "A "
+        },
+        {
+          "key": "text-4",
+          "label": "global media company",
+          "value": "global media company"
+        },
+        {
+          "key": "text-5",
+          "label": "needed",
+          "value": " needed"
+        },
+        {
+          "key": "text-6",
+          "label": "a multi-voice, multi-gender dataset",
+          "value": "a multi-voice, multi-gender dataset"
+        },
+        {
+          "key": "text-7",
+          "label": "to train a hyper-realistic TTS model.",
+          "value": "to train a hyper-realistic TTS model."
+        },
+        {
+          "key": "text-8",
+          "label": "We recorded eight professional voices",
+          "value": "We recorded eight professional voices"
+        },
+        {
+          "key": "text-9",
+          "label": "(male and female), across multiple styles:",
+          "value": "(male and female), across multiple styles:"
+        },
+        {
+          "key": "text-10",
+          "label": "Voice-over.",
+          "value": "Voice-over."
+        },
+        {
+          "key": "text-11",
+          "label": "Drama.",
+          "value": "Drama."
+        },
+        {
+          "key": "text-12",
+          "label": "Audio description.",
+          "value": "Audio description."
+        },
+        {
+          "key": "text-13",
+          "label": "Dialogue.",
+          "value": "Dialogue."
+        },
+        {
+          "key": "text-14",
+          "label": "In two months, we delivered",
+          "value": "In two months, we delivered"
+        },
+        {
+          "key": "text-15",
+          "label": "100 hours of clean audio:",
+          "value": "100 hours of clean audio:"
+        },
+        {
+          "key": "text-16",
+          "label": "Labeled.",
+          "value": "Labeled."
+        },
+        {
+          "key": "text-17",
+          "label": "Traceable.",
+          "value": "Traceable."
+        },
+        {
+          "key": "text-18",
+          "label": "Training-ready.",
+          "value": "Training-ready."
+        },
+        {
+          "key": "text-19",
+          "label": "The result?",
+          "value": "The result?"
+        },
+        {
+          "key": "text-20",
+          "label": "A stable, hyper-realistic model",
+          "value": "A stable, hyper-realistic model"
+        },
+        {
+          "key": "text-21",
+          "label": "that actually sounds human.",
+          "value": "that actually sounds human."
+        },
+        {
+          "key": "text-22",
+          "label": "We don’t sell theory.",
+          "value": "We don’t sell theory."
+        },
+        {
+          "key": "text-23",
+          "label": "We deliver datasets that sound good — and work.",
+          "value": "We deliver datasets that sound good — and work."
+        },
+        {
+          "key": "text-24",
+          "label": "Happier than a goat on a mountain.",
+          "value": "Happier than a goat on a mountain."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-10",
+      "label": "Not sure which dataset fits your use case best?",
+      "template": "en__audio-data-collection-en-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Not sure which dataset fits your use case best?",
+          "value": "Not sure which dataset fits your use case best?"
+        },
+        {
+          "key": "text-1",
+          "label": "Find out with this",
+          "value": "Find out with this "
+        },
+        {
+          "key": "text-2",
+          "label": "1-minute test",
+          "value": "1-minute test"
+        },
+        {
+          "key": "text-3",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-4",
+          "label": "Start Now",
+          "value": "Start Now"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Start Now",
+          "href": "https://calendly.com/audio-digitalks-ai"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "en__audio-data-collection-en-11",
+      "label": "Or if you prefer talking to humans: Book a call with our team",
+      "template": "en__audio-data-collection-en-11",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Or if you prefer talking to humans:",
+          "value": "Or if you prefer talking to humans: "
+        },
+        {
+          "key": "text-1",
+          "label": "Book a call with our team",
+          "value": "Book a call with our team"
+        },
+        {
+          "key": "text-2",
+          "label": "Book call",
+          "value": "Book call"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Book call",
+          "href": "https://calendly.com/audio-digitalks-ai"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

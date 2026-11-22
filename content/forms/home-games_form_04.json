@@ -1,0 +1,22 @@
+{
+  "id": "home-games_form_04",
+  "title": "games_form_04",
+  "lang": "es",
+  "source": "https://digitalks-ai.com/",
+  "fields": [
+    {
+      "name": "form_fields[games_form_04]",
+      "label": "Correo electrónico",
+      "type": "email",
+      "required": true,
+      "placeholder": " Correo electrónico",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Enviar",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "Formulario pendiente de conexión. No se enviarán datos."
+}

@@ -1,0 +1,1641 @@
+{
+  "id": "audio-development",
+  "title": "Desarrollo en audio y automatización de procesos | Digitalks AI",
+  "path": "/audio-development/",
+  "lang": "es",
+  "seo": "audio-development",
+  "source": "https://digitalks-ai.com/audio-development/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-46566 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-46566",
+  "rootClass": "dt dt-46566",
+  "styles": [],
+  "css": "audio-development.css",
+  "sections": [
+    {
+      "id": "audio-development-1",
+      "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+      "template": "audio-development-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Automatización de procesos y desarrollo de software para empresas de audio",
+          "value": "Automatización de procesos y desarrollo de software para empresas de audio"
+        },
+        {
+          "key": "text-1",
+          "label": "Deja de trabajar",
+          "value": "Deja de trabajar"
+        },
+        {
+          "key": "text-2",
+          "label": "como en",
+          "value": " como en"
+        },
+        {
+          "key": "text-3",
+          "label": "los 90",
+          "value": "los 90"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/1e3d2fa8493a.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-2",
+      "label": "\"Desarrolla herramientas que te hagan\"el trabajo sucio.",
+      "template": "audio-development-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "\"Desarrolla herramientas que te  hagan\"",
+          "value": "\"Desarrolla herramientas que te  hagan\""
+        },
+        {
+          "key": "text-1",
+          "label": "el trabajo sucio",
+          "value": "el trabajo sucio"
+        },
+        {
+          "key": "text-2",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-3",
+          "label": "- No seas un \"dinosaudio\" -",
+          "value": "- No seas un \"dinosaudio\" -"
+        },
+        {
+          "key": "text-4",
+          "label": "Si buscas",
+          "value": "Si buscas "
+        },
+        {
+          "key": "text-5",
+          "label": "automatizar procesos",
+          "value": "automatizar procesos"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-7",
+          "label": "Mejorar tus",
+          "value": "Mejorar tus"
+        },
+        {
+          "key": "text-8",
+          "label": "tiempos de producción",
+          "value": " tiempos de producción"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "O dicho de otra manera, que tus",
+          "value": "O dicho de otra manera, que tus "
+        },
+        {
+          "key": "text-11",
+          "label": "finanzas",
+          "value": "finanzas"
+        },
+        {
+          "key": "text-12",
+          "label": "levanten más kilos que un culturista.",
+          "value": " levanten más kilos que un culturista."
+        },
+        {
+          "key": "text-13",
+          "label": "Estás en el lugar correcto.",
+          "value": "Estás en el lugar correcto."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-3",
+      "label": "Sigues subiendo por las escaleras...",
+      "template": "audio-development-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Sigues subiendo por las",
+          "value": "Sigues subiendo por las "
+        },
+        {
+          "key": "text-1",
+          "label": "escaleras",
+          "value": "escaleras"
+        },
+        {
+          "key": "text-2",
+          "label": "...",
+          "value": "..."
+        },
+        {
+          "key": "text-3",
+          "label": "Imagínate que trabajas en la",
+          "value": "Imagínate que trabajas en la "
+        },
+        {
+          "key": "text-4",
+          "label": "planta 12",
+          "value": "planta 12 "
+        },
+        {
+          "key": "text-5",
+          "label": "de un",
+          "value": "de un "
+        },
+        {
+          "key": "text-6",
+          "label": "edificio de oficinas",
+          "value": "edificio de oficinas"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-8",
+          "label": "Cada mañana, en lugar de",
+          "value": "Cada mañana, en lugar de "
+        },
+        {
+          "key": "text-9",
+          "label": "subir por el ascensor",
+          "value": "subir por el ascensor"
+        },
+        {
+          "key": "text-10",
+          "label": "decides ir",
+          "value": " decides ir "
+        },
+        {
+          "key": "text-11",
+          "label": "por las escaleras",
+          "value": "por las escaleras"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-13",
+          "label": "Llegas",
+          "value": "Llegas "
+        },
+        {
+          "key": "text-14",
+          "label": "sudando",
+          "value": "sudando "
+        },
+        {
+          "key": "text-15",
+          "label": "y",
+          "value": "y "
+        },
+        {
+          "key": "text-16",
+          "label": "cansado",
+          "value": "cansado"
+        },
+        {
+          "key": "text-17",
+          "label": "perdiendo 15 minutos antes de siquiera empezar a trabajar.",
+          "value": "perdiendo 15 minutos antes de siquiera empezar a trabajar."
+        },
+        {
+          "key": "text-18",
+          "label": "¿Podrías hacerlo?",
+          "value": "\n\t\t\t\t\t\t\t\t\t¿Podrías hacerlo?"
+        },
+        {
+          "key": "text-19",
+          "label": "Sí.",
+          "value": "Sí."
+        },
+        {
+          "key": "text-20",
+          "label": "¿Es eficiente?",
+          "value": "\n\n¿Es eficiente?"
+        },
+        {
+          "key": "text-21",
+          "label": "No.",
+          "value": "No."
+        },
+        {
+          "key": "text-22",
+          "label": "(Aunque tendrás piernas de titanio.)",
+          "value": "(Aunque tendrás piernas de titanio.)"
+        },
+        {
+          "key": "text-23",
+          "label": "Tus procesos actuales son",
+          "value": "\n\t\t\t\t\t\t\t\t\tTus procesos actuales son "
+        },
+        {
+          "key": "text-24",
+          "label": "“",
+          "value": "“"
+        },
+        {
+          "key": "text-25",
+          "label": "tus escaleras",
+          "value": "tus escaleras"
+        },
+        {
+          "key": "text-26",
+          "label": "”",
+          "value": "”"
+        },
+        {
+          "key": "text-27",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-28",
+          "label": "Subirlas es",
+          "value": "\nSubirlas es "
+        },
+        {
+          "key": "text-29",
+          "label": "lento.",
+          "value": "lento."
+        },
+        {
+          "key": "text-30",
+          "label": "Desgasta",
+          "value": "Desgasta"
+        },
+        {
+          "key": "text-31",
+          "label": "a tu equipo.",
+          "value": " a tu equipo."
+        },
+        {
+          "key": "text-32",
+          "label": "Y te hace",
+          "value": "\nY te hace "
+        },
+        {
+          "key": "text-33",
+          "label": "perder tiempo en trabajo",
+          "value": "perder tiempo en trabajo"
+        },
+        {
+          "key": "text-34",
+          "label": "que huele a siglo pasado.",
+          "value": " que huele a siglo pasado."
+        },
+        {
+          "key": "text-35",
+          "label": "¿Quién no querría poner",
+          "value": "\n¿Quién no querría poner "
+        },
+        {
+          "key": "text-36",
+          "label": "un ascensor en su empresa",
+          "value": "un ascensor en su empresa"
+        },
+        {
+          "key": "text-37",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-38",
+          "label": "Un sistema que",
+          "value": "\nUn sistema que "
+        },
+        {
+          "key": "text-39",
+          "label": "automatiza",
+          "value": "automatiza"
+        },
+        {
+          "key": "text-40",
+          "label": "lo repetitivo y te lleva",
+          "value": " lo repetitivo y te lleva "
+        },
+        {
+          "key": "text-41",
+          "label": "directo",
+          "value": "directo"
+        },
+        {
+          "key": "text-42",
+          "label": "a donde quieres llegar.",
+          "value": " a donde quieres llegar."
+        },
+        {
+          "key": "text-43",
+          "label": "Así, tu gente no se queda",
+          "value": "\nAsí, tu gente no se queda "
+        },
+        {
+          "key": "text-44",
+          "label": "sin aire",
+          "value": "sin aire"
+        },
+        {
+          "key": "text-45",
+          "label": "antes de empezar,",
+          "value": " antes de empezar,"
+        },
+        {
+          "key": "text-46",
+          "label": "y tú",
+          "value": "\ny tú "
+        },
+        {
+          "key": "text-47",
+          "label": "dejas de",
+          "value": "dejas de "
+        },
+        {
+          "key": "text-48",
+          "label": "pagar a tu equipo",
+          "value": "pagar a tu equipo"
+        },
+        {
+          "key": "text-49",
+          "label": "por subir escaleras.",
+          "value": " por subir escaleras."
+        },
+        {
+          "key": "text-50",
+          "label": "Más",
+          "value": "Más "
+        },
+        {
+          "key": "text-51",
+          "label": "rápido",
+          "value": "rápido"
+        },
+        {
+          "key": "text-52",
+          "label": ", sin",
+          "value": ", sin "
+        },
+        {
+          "key": "text-53",
+          "label": "esfuerzo",
+          "value": "esfuerzo"
+        },
+        {
+          "key": "text-54",
+          "label": "y con energía",
+          "value": " y con energía "
+        },
+        {
+          "key": "text-55",
+          "label": "para lo que",
+          "value": "para lo que "
+        },
+        {
+          "key": "text-56",
+          "label": "realmente importa",
+          "value": "realmente importa"
+        },
+        {
+          "key": "text-57",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-4",
+      "label": "¿Quieres automatizartus procesos?",
+      "template": "audio-development-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Quieres",
+          "value": "¿Quieres "
+        },
+        {
+          "key": "text-1",
+          "label": "automatizar",
+          "value": "automatizar"
+        },
+        {
+          "key": "text-2",
+          "label": "tus procesos?",
+          "value": "tus procesos?"
+        },
+        {
+          "key": "text-3",
+          "label": "Deja tu email y recibe más información:",
+          "value": "Deja tu email y recibe más información:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "audio-development-AudioDevelpoment_es_01",
+          "form": "audio-development-AudioDevelpoment_es_01"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-5",
+      "label": "Un ejemplo condatos...",
+      "template": "audio-development-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Un ejemplo con",
+          "value": "Un ejemplo con"
+        },
+        {
+          "key": "text-1",
+          "label": "datos",
+          "value": "datos"
+        },
+        {
+          "key": "text-2",
+          "label": "...",
+          "value": "... "
+        },
+        {
+          "key": "text-3",
+          "label": "Para revisar un",
+          "value": "Para revisar un "
+        },
+        {
+          "key": "text-4",
+          "label": "audiolibro de 10 horas",
+          "value": "audiolibro de 10 horas"
+        },
+        {
+          "key": "text-5",
+          "label": "un revisor pasa entre",
+          "value": "un revisor pasa entre"
+        },
+        {
+          "key": "text-6",
+          "label": "25-30 horas",
+          "value": " 25-30 horas"
+        },
+        {
+          "key": "text-7",
+          "label": "comparando el",
+          "value": " comparando el "
+        },
+        {
+          "key": "text-8",
+          "label": "guión",
+          "value": "guión "
+        },
+        {
+          "key": "text-9",
+          "label": "con el",
+          "value": "con el "
+        },
+        {
+          "key": "text-10",
+          "label": "audio",
+          "value": "audio"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-12",
+          "label": "Marcando",
+          "value": "Marcando "
+        },
+        {
+          "key": "text-13",
+          "label": "diferencias",
+          "value": "diferencias"
+        },
+        {
+          "key": "text-14",
+          "label": ", detectando",
+          "value": ", detectando "
+        },
+        {
+          "key": "text-15",
+          "label": "errores",
+          "value": "errores"
+        },
+        {
+          "key": "text-16",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-17",
+          "label": "y la",
+          "value": "y la "
+        },
+        {
+          "key": "text-18",
+          "label": "factura sube",
+          "value": "factura sube"
+        },
+        {
+          "key": "text-19",
+          "label": "fácil a más de",
+          "value": " fácil a más de"
+        },
+        {
+          "key": "text-20",
+          "label": "400 € por audiolibro",
+          "value": " 400 € por audiolibro"
+        },
+        {
+          "key": "text-21",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-22",
+          "label": "Ahora",
+          "value": "Ahora "
+        },
+        {
+          "key": "text-23",
+          "label": "cambia de escena",
+          "value": "cambia de escena"
+        },
+        {
+          "key": "text-24",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-25",
+          "label": "Imagina una herramienta dedicada a esta tarea",
+          "value": "Imagina una herramienta dedicada a esta tarea"
+        },
+        {
+          "key": "text-26",
+          "label": "que",
+          "value": "que "
+        },
+        {
+          "key": "text-27",
+          "label": "escucha el audio",
+          "value": "escucha el audio "
+        },
+        {
+          "key": "text-28",
+          "label": "y",
+          "value": "y"
+        },
+        {
+          "key": "text-29",
+          "label": "lo",
+          "value": "lo "
+        },
+        {
+          "key": "text-30",
+          "label": "compara con el PDF",
+          "value": "compara con el PDF"
+        },
+        {
+          "key": "text-31",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-32",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-33",
+          "label": "una jornada de trabajo",
+          "value": "una jornada de trabajo"
+        },
+        {
+          "key": "text-34",
+          "label": "tienes",
+          "value": " tienes "
+        },
+        {
+          "key": "text-35",
+          "label": "todo el libro revisado",
+          "value": "todo el libro revisado"
+        },
+        {
+          "key": "text-36",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-37",
+          "label": "¿el",
+          "value": "¿el "
+        },
+        {
+          "key": "text-38",
+          "label": "resultado?",
+          "value": "resultado?"
+        },
+        {
+          "key": "text-39",
+          "label": "Un",
+          "value": "Un "
+        },
+        {
+          "key": "text-40",
+          "label": "ahorro",
+          "value": "ahorro "
+        },
+        {
+          "key": "text-41",
+          "label": "de",
+          "value": "de "
+        },
+        {
+          "key": "text-42",
+          "label": "~330–400 € por audiolibro",
+          "value": "~330–400 € por audiolibro"
+        },
+        {
+          "key": "text-43",
+          "label": "(y tu equipo liberado de un trabajo mecánico que no suma)",
+          "value": "(y tu equipo liberado de un trabajo mecánico que no suma)"
+        },
+        {
+          "key": "text-44",
+          "label": "No está mal, ¿no?",
+          "value": "No está mal, ¿no?"
+        },
+        {
+          "key": "text-45",
+          "label": "También podemos",
+          "value": "También podemos"
+        },
+        {
+          "key": "text-46",
+          "label": "aplicarlo a tu caso",
+          "value": " aplicarlo a tu caso"
+        },
+        {
+          "key": "text-47",
+          "label": ".",
+          "value": "."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-6",
+      "label": "¿Crees que automatizar tus procesos es caro?",
+      "template": "audio-development-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Crees que",
+          "value": "¿Crees que "
+        },
+        {
+          "key": "text-1",
+          "label": "automatizar",
+          "value": "automatizar"
+        },
+        {
+          "key": "text-2",
+          "label": "tus procesos es caro?",
+          "value": " tus procesos es caro? "
+        },
+        {
+          "key": "text-3",
+          "label": "Si quieres saber el precio, deja tu email:",
+          "value": "Si quieres saber el precio, deja tu email:"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "audio-development-AudioDevelpoment_es_02",
+          "form": "audio-development-AudioDevelpoment_es_02"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-7",
+      "label": "Seguimos este proceso...",
+      "template": "audio-development-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Seguimos",
+          "value": "Seguimos"
+        },
+        {
+          "key": "text-1",
+          "label": "este proceso...",
+          "value": "este proceso..."
+        },
+        {
+          "key": "text-2",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-3",
+          "label": "1.",
+          "value": " 1."
+        },
+        {
+          "key": "text-4",
+          "label": "Nos dejas tu email y sueltas tu problema",
+          "value": "\n\t\t\t\t\t\t\tNos dejas tu email y sueltas tu problema\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-5",
+          "label": "Cuanto más claro, mejor… aunque también entendemos jeroglíficos.",
+          "value": "\n\t\t\t\t\t\tCuanto más claro, mejor… aunque también entendemos jeroglíficos.\t\t\t\t\t"
+        },
+        {
+          "key": "text-6",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-7",
+          "label": "2.",
+          "value": " 2."
+        },
+        {
+          "key": "text-8",
+          "label": "Nos vemos las caras en una reunión",
+          "value": "\n\t\t\t\t\t\t\tNos vemos las caras en una reunión\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-9",
+          "label": "Tú cuentas, nosotros preguntamos. Si quieres contarnos tu finde, genial. \nPero l",
+          "value": "\n\t\t\t\t\t\tTú cuentas, nosotros preguntamos. Si quieres contarnos tu finde, genial. \nPero lo importante es que entendamos tu idea y tú entiendas cómo trabajamos.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-10",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-11",
+          "label": "3.",
+          "value": " 3."
+        },
+        {
+          "key": "text-12",
+          "label": "Te mandamos una propuesta a medida.",
+          "value": "\n\t\t\t\t\t\t\tTe mandamos una propuesta a medida.\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-13",
+          "label": "No, no es un PDF lleno de humo: es lo que de verdad necesitas (incluídos los pre",
+          "value": "\n\t\t\t\t\t\tNo, no es un PDF lleno de humo: es lo que de verdad necesitas (incluídos los precios).\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-14",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-15",
+          "label": "4.",
+          "value": " 4."
+        },
+        {
+          "key": "text-16",
+          "label": "La aceptas",
+          "value": "\n\t\t\t\t\t\t\tLa aceptas\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-17",
+          "label": "O no. (verás que sí). Y ahí sí, pasas por caja.",
+          "value": "\n\t\t\t\t\t\tO no. (verás que sí). Y ahí sí, pasas por caja.\n\t\t\t\t\t"
+        },
+        {
+          "key": "text-18",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-19",
+          "label": "5.",
+          "value": " 5."
+        },
+        {
+          "key": "text-20",
+          "label": "Empieza la fiesta",
+          "value": "\n\t\t\t\t\t\t\tEmpieza la fiesta\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-21",
+          "label": "Nos ponemos a producir. Cada 2 semanas – 1 mes te hacemos una entrega para que r",
+          "value": "\n\t\t\t\t\t\tNos ponemos a producir. Cada 2 semanas – 1 mes te hacemos una entrega para que revises y pruebes (y nos lo pagas, que no somos una ONG).\t\t\t\t\t"
+        },
+        {
+          "key": "text-22",
+          "label": "PASO",
+          "value": "PASO"
+        },
+        {
+          "key": "text-23",
+          "label": "6.",
+          "value": " 6."
+        },
+        {
+          "key": "text-24",
+          "label": "Terminamos el proyecto",
+          "value": "\n\t\t\t\t\t\t\tTerminamos el proyecto\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-25",
+          "label": "Tú quedas feliz, nosotros orgullosos, y a partir de ahí… \nPuedes seguir con noso",
+          "value": "\n\t\t\t\t\t\tTú quedas feliz, nosotros orgullosos, y a partir de ahí… \nPuedes seguir con nosotros para darte soporte.\nO seguir molando por tu cuenta.\nEso es cosa tuya.\t\t\t\t\t"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-8",
+      "label": "¿Quieres saber cómo dejar de ser un dinosaudio?",
+      "template": "audio-development-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Quieres saber cómo dejar de ser",
+          "value": "¿Quieres saber cómo dejar de ser "
+        },
+        {
+          "key": "text-1",
+          "label": "un",
+          "value": "un "
+        },
+        {
+          "key": "text-2",
+          "label": "dinosaudio",
+          "value": "dinosaudio"
+        },
+        {
+          "key": "text-3",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-4",
+          "label": "Algunos ejemplos de lo que hemos hecho para nuestros",
+          "value": "Algunos ejemplos de lo que hemos hecho para nuestros "
+        },
+        {
+          "key": "text-5",
+          "label": "ex-dinosaudios",
+          "value": "ex-dinosaudios"
+        },
+        {
+          "key": "text-6",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-7",
+          "label": "Multi-conversión",
+          "value": "Multi-conversión"
+        },
+        {
+          "key": "text-8",
+          "label": "de formato",
+          "value": " de formato "
+        },
+        {
+          "key": "text-9",
+          "label": "+50k archivos",
+          "value": "+50k archivos"
+        },
+        {
+          "key": "text-10",
+          "label": "[bash + python]",
+          "value": "[bash + python]"
+        },
+        {
+          "key": "text-11",
+          "label": "Batch",
+          "value": "Batch "
+        },
+        {
+          "key": "text-12",
+          "label": "renaming",
+          "value": "renaming"
+        },
+        {
+          "key": "text-13",
+          "label": "[bash + python]",
+          "value": "[bash + python]"
+        },
+        {
+          "key": "text-14",
+          "label": "Automatización de",
+          "value": "Automatización de "
+        },
+        {
+          "key": "text-15",
+          "label": "LUFS",
+          "value": "LUFS"
+        },
+        {
+          "key": "text-16",
+          "label": "[lua + python]",
+          "value": "[lua + python]"
+        },
+        {
+          "key": "text-17",
+          "label": "Multiprocesos",
+          "value": "Multiprocesos"
+        },
+        {
+          "key": "text-18",
+          "label": "de audio automatizados",
+          "value": " de audio automatizados "
+        },
+        {
+          "key": "text-19",
+          "label": "[lua + python]",
+          "value": "[lua + python]"
+        },
+        {
+          "key": "text-20",
+          "label": "Audio",
+          "value": "Audio "
+        },
+        {
+          "key": "text-21",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-22",
+          "label": "check automatizado",
+          "value": " check automatizado "
+        },
+        {
+          "key": "text-23",
+          "label": "[web app]",
+          "value": "[web app]"
+        },
+        {
+          "key": "text-24",
+          "label": "Deja el email, que es gratis.",
+          "value": "Deja el email, que es gratis."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/d3189c8ae9fe-Gemini_Generated_Image_9rz5so9rz5so9rz5-Photoroom-282x300.png",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [
+        {
+          "slot": "audio-development-AudioDevelpoment_es_03",
+          "form": "audio-development-AudioDevelpoment_es_03"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-9",
+      "label": "¿Dónde puedo aplicarestas automatizaciones?",
+      "template": "audio-development-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Dónde puedo aplicar",
+          "value": "¿Dónde puedo aplicar"
+        },
+        {
+          "key": "text-1",
+          "label": "estas",
+          "value": "estas "
+        },
+        {
+          "key": "text-2",
+          "label": "automatizaciones",
+          "value": "automatizaciones"
+        },
+        {
+          "key": "text-3",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-4",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-5",
+          "label": "videojuegos",
+          "value": "videojuegos"
+        },
+        {
+          "key": "text-6",
+          "label": "Gestión de archivos de audio (naming y organización)",
+          "value": " Gestión de archivos de audio (naming y organización) "
+        },
+        {
+          "key": "text-7",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-8",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-9",
+          "label": "Un técnico tarda 30 seg en renombrar y colocar cada archivo.",
+          "value": "Un técnico tarda 30 seg en renombrar y colocar cada archivo."
+        },
+        {
+          "key": "text-10",
+          "label": "Con 10.000 líneas de diálogo → ~83 h = ~1.250 €.",
+          "value": "Con 10.000 líneas de diálogo → ~83 h = ~1.250 €."
+        },
+        {
+          "key": "text-11",
+          "label": "Automatizado",
+          "value": "Automatizado"
+        },
+        {
+          "key": "text-12",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-13",
+          "label": "Script que renombra y organiza en carpetas. Tiempo: 2 h.",
+          "value": "Script que renombra y organiza en carpetas. Tiempo: 2 h."
+        },
+        {
+          "key": "text-14",
+          "label": "Ahorro:",
+          "value": "Ahorro: "
+        },
+        {
+          "key": "text-15",
+          "label": "~1.200 €",
+          "value": "~1.200 €"
+        },
+        {
+          "key": "text-16",
+          "label": "por proyecto.",
+          "value": " por proyecto."
+        },
+        {
+          "key": "text-17",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-18",
+          "label": "audiolibros",
+          "value": "audiolibros"
+        },
+        {
+          "key": "text-19",
+          "label": "Revisión de timings y guión (QC de texto-audio)",
+          "value": " Revisión de timings y guión (QC de texto-audio) "
+        },
+        {
+          "key": "text-20",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-21",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-22",
+          "label": "Revisión manual de un audiolibro de 10 h.",
+          "value": "Revisión manual de un audiolibro de 10 h."
+        },
+        {
+          "key": "text-23",
+          "label": "Coste ~450 €.",
+          "value": "Coste ~450 €."
+        },
+        {
+          "key": "text-24",
+          "label": "Automatizado",
+          "value": "Automatizado"
+        },
+        {
+          "key": "text-25",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-26",
+          "label": "Herramienta que compara narración y texto.",
+          "value": "Herramienta que compara narración y texto."
+        },
+        {
+          "key": "text-27",
+          "label": "Tiempo: 8 h.",
+          "value": "Tiempo: 8 h."
+        },
+        {
+          "key": "text-28",
+          "label": "Ahorro:",
+          "value": "Ahorro: "
+        },
+        {
+          "key": "text-29",
+          "label": "~400 €",
+          "value": "~400 €"
+        },
+        {
+          "key": "text-30",
+          "label": "por libro.",
+          "value": " por libro."
+        },
+        {
+          "key": "text-31",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-32",
+          "label": "doblaje",
+          "value": "doblaje"
+        },
+        {
+          "key": "text-33",
+          "label": "Creación de “cues” o marcas de sincronía",
+          "value": " Creación de “cues” o marcas de sincronía "
+        },
+        {
+          "key": "text-34",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-35",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-36",
+          "label": "1 h por cada 10 min de metraje en pautar.",
+          "value": "1 h por cada 10 min de metraje en pautar."
+        },
+        {
+          "key": "text-37",
+          "label": "90 min = ~9 h = 135 €.",
+          "value": "90 min = ~9 h = 135 €."
+        },
+        {
+          "key": "text-38",
+          "label": "Automatizado",
+          "value": "Automatizado"
+        },
+        {
+          "key": "text-39",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-40",
+          "label": "Software genera pre-cues con IA.",
+          "value": "Software genera pre-cues con IA."
+        },
+        {
+          "key": "text-41",
+          "label": "El director sólo ajusta.",
+          "value": "El director sólo ajusta."
+        },
+        {
+          "key": "text-42",
+          "label": "Tiempo: 2 h.",
+          "value": "Tiempo: 2 h."
+        },
+        {
+          "key": "text-43",
+          "label": "Ahorro:",
+          "value": "Ahorro: "
+        },
+        {
+          "key": "text-44",
+          "label": "~1.200 €",
+          "value": "~1.200 €"
+        },
+        {
+          "key": "text-45",
+          "label": "por proyecto.",
+          "value": " por proyecto."
+        },
+        {
+          "key": "text-46",
+          "label": "En cualquier",
+          "value": "En cualquier "
+        },
+        {
+          "key": "text-47",
+          "label": "estudio",
+          "value": "estudio"
+        },
+        {
+          "key": "text-48",
+          "label": "Entrega de materiales al cliente (naming, compresión, export)",
+          "value": " Entrega de materiales al cliente (naming, compresión, export) "
+        },
+        {
+          "key": "text-49",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-50",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-51",
+          "label": "Preparar entregas finales lleva 4 h por proyecto = ~60 €.",
+          "value": "Preparar entregas finales lleva 4 h por proyecto = ~60 €."
+        },
+        {
+          "key": "text-52",
+          "label": "Automatizado",
+          "value": "Automatizado"
+        },
+        {
+          "key": "text-53",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-54",
+          "label": "Herramienta que exporta, renombra y empaqueta.",
+          "value": "Herramienta que exporta, renombra y empaqueta."
+        },
+        {
+          "key": "text-55",
+          "label": "Análisis automático de tech specs.",
+          "value": "Análisis automático de tech specs."
+        },
+        {
+          "key": "text-56",
+          "label": "Tiempo: 30 min.",
+          "value": "Tiempo: 30 min."
+        },
+        {
+          "key": "text-57",
+          "label": "Ahorro:",
+          "value": "Ahorro: "
+        },
+        {
+          "key": "text-58",
+          "label": "~45 €",
+          "value": "~45 €"
+        },
+        {
+          "key": "text-59",
+          "label": "por entrega.",
+          "value": " por entrega."
+        },
+        {
+          "key": "text-60",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-61",
+          "label": "podcasts",
+          "value": "podcasts"
+        },
+        {
+          "key": "text-62",
+          "label": "Postproducción básica (limpieza de ruido y normalización LUFS)",
+          "value": " Postproducción básica (limpieza de ruido y normalización LUFS) "
+        },
+        {
+          "key": "text-63",
+          "label": "Manual",
+          "value": "Manual"
+        },
+        {
+          "key": "text-64",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-65",
+          "label": "Postpro básica 1 h por episodio.",
+          "value": "Postpro básica 1 h por episodio."
+        },
+        {
+          "key": "text-66",
+          "label": "20 episodios/mes = 20 h → 300 €.",
+          "value": "20 episodios/mes = 20 h → 300 €."
+        },
+        {
+          "key": "text-67",
+          "label": "Automatizado",
+          "value": "Automatizado"
+        },
+        {
+          "key": "text-68",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-69",
+          "label": "Preset/script básico para limpiar y normalizar.",
+          "value": "Preset/script básico para limpiar y normalizar."
+        },
+        {
+          "key": "text-70",
+          "label": "Tiempo: 2 h/mes.",
+          "value": "Tiempo: 2 h/mes."
+        },
+        {
+          "key": "text-71",
+          "label": "Ahorro:",
+          "value": "Ahorro: "
+        },
+        {
+          "key": "text-72",
+          "label": "~270 €",
+          "value": "~270 €"
+        },
+        {
+          "key": "text-73",
+          "label": "/mes.",
+          "value": "/mes."
+        },
+        {
+          "key": "text-74",
+          "label": "Todo lo que odias hacer",
+          "value": "Todo lo que odias hacer"
+        },
+        {
+          "key": "text-75",
+          "label": "reducido a pocos clics...",
+          "value": "reducido a pocos clics..."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/6714be03e52c-phantom-150x150.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/a1ebc82f08f5.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "audio-development-10",
+      "label": "Críticas y preguntas",
+      "template": "audio-development-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Críticas y",
+          "value": "Críticas y "
+        },
+        {
+          "key": "text-1",
+          "label": "preguntas",
+          "value": "preguntas "
+        },
+        {
+          "key": "text-2",
+          "label": "Aquí resolvemos tus dudas.",
+          "value": "Aquí resolvemos tus dudas."
+        },
+        {
+          "key": "text-3",
+          "label": "Si después de leer esto todavía te queda alguna, es que",
+          "value": "\nSi después de leer esto todavía te queda alguna, es que "
+        },
+        {
+          "key": "text-4",
+          "label": "es realmente buena",
+          "value": "es realmente buena"
+        },
+        {
+          "key": "text-5",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-6",
+          "label": "Contáctanos y la responderemos.",
+          "value": "\nContáctanos y la responderemos."
+        },
+        {
+          "key": "text-7",
+          "label": "¿Qué hacéis exactamente?",
+          "value": "¿Qué hacéis exactamente?"
+        },
+        {
+          "key": "text-8",
+          "label": "“Desarrollamos software y procesos a medida para automatizar lo que más odias ha",
+          "value": "“Desarrollamos software y procesos a medida para automatizar lo que más odias hacer en tu empresa. Eso que te roba tiempo y paciencia.”"
+        },
+        {
+          "key": "text-9",
+          "label": "¿Sois caros?",
+          "value": "¿Sois caros?"
+        },
+        {
+          "key": "text-10",
+          "label": "“No somos baratos. Pero tampoco es barato pagar horas infinitas de tareas sustit",
+          "value": "“No somos baratos. Pero tampoco es barato pagar horas infinitas de tareas sustituibles (acuérdate del ascensor y las escaleras). Lo nuestro es inversión, no gasto.”"
+        },
+        {
+          "key": "text-11",
+          "label": "¿Sólo hacéis audio?",
+          "value": "¿Sólo hacéis audio?"
+        },
+        {
+          "key": "text-12",
+          "label": "“Somos especialistas en audio, pero podemos desarrollar cualquier herramienta qu",
+          "value": "“Somos especialistas en audio, pero podemos desarrollar cualquier herramienta que te haga la vida más fácil.”"
+        },
+        {
+          "key": "text-13",
+          "label": "¿Puedo solicitar una demo?",
+          "value": "¿Puedo solicitar una demo?"
+        },
+        {
+          "key": "text-14",
+          "label": "“Sí. Tenemos un portfolio con casos reales: desde herramientas de escucha, hasta",
+          "value": "“Sí. Tenemos un portfolio con casos reales: desde herramientas de escucha, hasta el renombrado y conversión masiva de 50.000 archivos.”"
+        },
+        {
+          "key": "text-15",
+          "label": "¿Cómo funcionan los pagos?",
+          "value": "¿Cómo funcionan los pagos?"
+        },
+        {
+          "key": "text-16",
+          "label": "“Por sprints o entregas parciales. Tú ves avances cada 2 semanas (o el tiempo qu",
+          "value": "“Por sprints o entregas parciales. Tú ves avances cada 2 semanas (o el tiempo que decidamos) y pagas sobre lo que recibes. Transparente y controlado.”"
+        },
+        {
+          "key": "text-17",
+          "label": "¿Sustituís empleados?",
+          "value": "¿Sustituís empleados?"
+        },
+        {
+          "key": "text-18",
+          "label": "“Lo que sustituimos son tareas inútiles. Si pagas a alguien solo para renombrar ",
+          "value": "“Lo que sustituimos son tareas inútiles. Si pagas a alguien solo para renombrar archivos, ya es hora de cambiar el sistema. ¿Dejarías de limpiar tu casa si te comprases una roomba? No, ¿verdad? Pues eso…”"
+        },
+        {
+          "key": "text-19",
+          "label": "¿Quiénes sois?",
+          "value": "¿Quiénes sois?"
+        },
+        {
+          "key": "text-20",
+          "label": "“Más de 10 años en audio para videojuegos y doblaje entre otras cosas. Hemos lid",
+          "value": "“Más de 10 años en audio para videojuegos y doblaje entre otras cosas. Hemos lidiado con miles de archivos, guiones imposibles y procesos caóticos. De ahí salieron las herramientas que ahora ponemos a tu servicio.”"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "¿Qué hacéis exactamente?",
+          "href": "#Collapse-75906826b034ca6f1c11"
+        },
+        {
+          "key": "link-1",
+          "label": "¿Sois caros?",
+          "href": "#Collapse-b5f06116b034ca6f1c11"
+        },
+        {
+          "key": "link-2",
+          "label": "¿Sólo hacéis audio?",
+          "href": "#Collapse-3dd4c606b034ca6f1c11"
+        },
+        {
+          "key": "link-3",
+          "label": "¿Puedo solicitar una demo?",
+          "href": "#Collapse-6707cbd6b034ca6f1c11"
+        },
+        {
+          "key": "link-4",
+          "label": "¿Cómo funcionan los pagos?",
+          "href": "#Collapse-23b92ef6b034ca6f1c11"
+        },
+        {
+          "key": "link-5",
+          "label": "¿Sustituís empleados?",
+          "href": "#Collapse-333b9ae6b034ca6f1c11"
+        },
+        {
+          "key": "link-6",
+          "label": "¿Quiénes sois?",
+          "href": "#Collapse-7b5f48d6b034ca6f1c11"
+        }
+      ],
+      "forms": [
+        {
+          "slot": "audio-development-AudioDevelpoment_es_04",
+          "form": "audio-development-AudioDevelpoment_es_04"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

@@ -1,0 +1,1046 @@
+{
+  "id": "en__privacy-policy",
+  "title": "Privacy Policy - Digitalks AI",
+  "path": "/en/privacy-policy/",
+  "lang": "en",
+  "seo": "en__privacy-policy",
+  "source": "https://digitalks-ai.com/en/privacy-policy/",
+  "bodyClass": "privacy-policy wp-singular page-template page-template-dt_header_footer page page-id-49746 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-49746",
+  "rootClass": "dt dt-49746",
+  "styles": [],
+  "css": "en__privacy-policy.css",
+  "sections": [
+    {
+      "id": "en__privacy-policy-1",
+      "label": "Privacy Policy",
+      "template": "en__privacy-policy-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Privacy Policy",
+          "value": "Privacy Policy"
+        },
+        {
+          "key": "text-1",
+          "label": "At",
+          "value": "At "
+        },
+        {
+          "key": "text-2",
+          "label": "La Cabra Sonora S.L.U., operating under the trade name DigiTalks AI",
+          "value": "La Cabra Sonora S.L.U., operating under the trade name DigiTalks AI"
+        },
+        {
+          "key": "text-3",
+          "label": ", we are committed to protecting the privacy and personal data of the individual",
+          "value": ", we are committed to protecting the privacy and personal data of the individuals with whom we interact."
+        },
+        {
+          "key": "text-4",
+          "label": "This Privacy Policy explains what personal data we may collect, how we use it, t",
+          "value": "This Privacy Policy explains what personal data we may collect, how we use it, the legal basis for each type of processing, how long we retain it, and the rights that data subjects may exercise."
+        },
+        {
+          "key": "text-5",
+          "label": "1. Data Controller",
+          "value": "1. Data Controller"
+        },
+        {
+          "key": "text-6",
+          "label": "Data Controller:",
+          "value": "Data Controller:"
+        },
+        {
+          "key": "text-7",
+          "label": "La Cabra Sonora S.L.U.",
+          "value": " La Cabra Sonora S.L.U."
+        },
+        {
+          "key": "text-8",
+          "label": "Trade Name:",
+          "value": "Trade Name:"
+        },
+        {
+          "key": "text-9",
+          "label": "DigiTalks AI",
+          "value": " DigiTalks AI"
+        },
+        {
+          "key": "text-10",
+          "label": "Tax ID (CIF):",
+          "value": "Tax ID (CIF):"
+        },
+        {
+          "key": "text-11",
+          "label": "B22507933",
+          "value": " B22507933"
+        },
+        {
+          "key": "text-12",
+          "label": "Registered Address:",
+          "value": "Registered Address:"
+        },
+        {
+          "key": "text-13",
+          "label": "C/ Indùstria 95, 5º 3, Barcelona, 08025",
+          "value": " C/ Indùstria 95, 5º 3, Barcelona, 08025"
+        },
+        {
+          "key": "text-14",
+          "label": "Email:",
+          "value": "Email:"
+        },
+        {
+          "key": "text-15",
+          "label": "support@digitalks-ai.com",
+          "value": "support@digitalks-ai.com"
+        },
+        {
+          "key": "text-16",
+          "label": "Website:",
+          "value": "Website:"
+        },
+        {
+          "key": "text-17",
+          "label": "https://digitalks-ai.com",
+          "value": "https://digitalks-ai.com"
+        },
+        {
+          "key": "text-18",
+          "label": "These company and contact details correspond to the information provided in your",
+          "value": "These company and contact details correspond to the information provided in your current Spanish policy. Pasted markdown.mdMD"
+        },
+        {
+          "key": "text-19",
+          "label": "2. What Personal Data Do We Process?",
+          "value": "2. What Personal Data Do We Process?"
+        },
+        {
+          "key": "text-20",
+          "label": "Depending on your relationship with DigiTalks AI, we may process the following c",
+          "value": "Depending on your relationship with DigiTalks AI, we may process the following categories of personal data:"
+        },
+        {
+          "key": "text-21",
+          "label": "Identification data, such as first name and surname.",
+          "value": "Identification data, such as first name and surname."
+        },
+        {
+          "key": "text-22",
+          "label": "Contact details, such as email address, telephone number, city or postal address",
+          "value": "Contact details, such as email address, telephone number, city or postal address."
+        },
+        {
+          "key": "text-23",
+          "label": "Professional information, such as profession, experience, specialisation, portfo",
+          "value": "Professional information, such as profession, experience, specialisation, portfolio, agency or professional links."
+        },
+        {
+          "key": "text-24",
+          "label": "Information relating to languages, accents, acting skills and availability.",
+          "value": "Information relating to languages, accents, acting skills and availability."
+        },
+        {
+          "key": "text-25",
+          "label": "Photographs, audio recordings, videos, demos, voice samples and other profession",
+          "value": "Photographs, audio recordings, videos, demos, voice samples and other professional material voluntarily provided by candidates, actors or collaborators."
+        },
+        {
+          "key": "text-26",
+          "label": "Contractual, administrative, tax and billing information where a professional or",
+          "value": "Contractual, administrative, tax and billing information where a professional or commercial relationship exists."
+        },
+        {
+          "key": "text-27",
+          "label": "Information contained in communications exchanged with DigiTalks AI.",
+          "value": "Information contained in communications exchanged with DigiTalks AI."
+        },
+        {
+          "key": "text-28",
+          "label": "Technical data generated through the use of our website, where applicable, such ",
+          "value": "Technical data generated through the use of our website, where applicable, such as IP address, identifiers and data associated with cookies."
+        },
+        {
+          "key": "text-29",
+          "label": "We do not deliberately request special categories of personal data unless they a",
+          "value": "We do not deliberately request special categories of personal data unless they are strictly necessary for a specific purpose and an appropriate legal basis exists."
+        },
+        {
+          "key": "text-30",
+          "label": "3. For What Purposes Do We Process Your Personal Data?",
+          "value": "3. For What Purposes Do We Process Your Personal Data?"
+        },
+        {
+          "key": "text-31",
+          "label": "Management of Clients, Suppliers and Collaborators",
+          "value": "Management of Clients, Suppliers and Collaborators"
+        },
+        {
+          "key": "text-32",
+          "label": "We process personal data in order to:",
+          "value": "We process personal data in order to:"
+        },
+        {
+          "key": "text-33",
+          "label": "Manage requests for information and quotations.",
+          "value": "Manage requests for information and quotations."
+        },
+        {
+          "key": "text-34",
+          "label": "Provide contracted services.",
+          "value": "Provide contracted services."
+        },
+        {
+          "key": "text-35",
+          "label": "Manage projects and related communications.",
+          "value": "Manage projects and related communications."
+        },
+        {
+          "key": "text-36",
+          "label": "Carry out administrative, accounting, tax and billing management.",
+          "value": "Carry out administrative, accounting, tax and billing management."
+        },
+        {
+          "key": "text-37",
+          "label": "Manage contracts and relationships with suppliers and collaborators.",
+          "value": "Manage contracts and relationships with suppliers and collaborators."
+        },
+        {
+          "key": "text-38",
+          "label": "Legal basis:",
+          "value": "Legal basis:"
+        },
+        {
+          "key": "text-39",
+          "label": "performance of a contract, implementation of pre-contractual measures and, where",
+          "value": " performance of a contract, implementation of pre-contractual measures and, where applicable, compliance with legal obligations."
+        },
+        {
+          "key": "text-40",
+          "label": "Enquiries and Requests for Information",
+          "value": "Enquiries and Requests for Information"
+        },
+        {
+          "key": "text-41",
+          "label": "We process data provided through our website, email or other communication chann",
+          "value": "We process data provided through our website, email or other communication channels in order to respond to enquiries, requests for information and communications addressed to DigiTalks AI."
+        },
+        {
+          "key": "text-42",
+          "label": "Legal basis:",
+          "value": "Legal basis:"
+        },
+        {
+          "key": "text-43",
+          "label": "implementation of pre-contractual measures where the enquiry relates to a potent",
+          "value": " implementation of pre-contractual measures where the enquiry relates to a potential contractual relationship and, in other cases, our legitimate interest in responding to communications received."
+        },
+        {
+          "key": "text-44",
+          "label": "Castings and Professional Selection Processes",
+          "value": "Castings and Professional Selection Processes"
+        },
+        {
+          "key": "text-45",
+          "label": "When an individual applies for a casting or selection process, we process their ",
+          "value": "When an individual applies for a casting or selection process, we process their data in order to:"
+        },
+        {
+          "key": "text-46",
+          "label": "Manage their application.",
+          "value": "Manage their application."
+        },
+        {
+          "key": "text-47",
+          "label": "Assess their suitability for the project.",
+          "value": "Assess their suitability for the project."
+        },
+        {
+          "key": "text-48",
+          "label": "Contact them during the selection process.",
+          "value": "Contact them during the selection process."
+        },
+        {
+          "key": "text-49",
+          "label": "Manage tests, demos and samples.",
+          "value": "Manage tests, demos and samples."
+        },
+        {
+          "key": "text-50",
+          "label": "Organise availability, sessions and participant selection.",
+          "value": "Organise availability, sessions and participant selection."
+        },
+        {
+          "key": "text-51",
+          "label": "Manage their subsequent engagement or contracting if selected.",
+          "value": "Manage their subsequent engagement or contracting if selected."
+        },
+        {
+          "key": "text-52",
+          "label": "The data processed may include name, contact details, city, age or age range whe",
+          "value": "The data processed may include name, contact details, city, age or age range where relevant to the casting, languages, accents, experience, availability, voice samples, recordings, videos, portfolio and other professional information provided by the candidate."
+        },
+        {
+          "key": "text-53",
+          "label": "Legal basis:",
+          "value": "Legal basis:"
+        },
+        {
+          "key": "text-54",
+          "label": "implementation of pre-contractual measures requested by the data subject and, wh",
+          "value": " implementation of pre-contractual measures requested by the data subject and, where applicable, consent for certain additional processing activities."
+        },
+        {
+          "key": "text-55",
+          "label": "Participation in a casting does not imply that the candidate will be hired or en",
+          "value": "Participation in a casting does not imply that the candidate will be hired or engaged."
+        },
+        {
+          "key": "text-56",
+          "label": "Talent Database for Future Projects",
+          "value": "Talent Database for Future Projects"
+        },
+        {
+          "key": "text-57",
+          "label": "Where the data subject expressly authorises it, DigiTalks AI may retain their co",
+          "value": "Where the data subject expressly authorises it, DigiTalks AI may retain their contact details, professional profile, languages, accents, experience, demos, samples and other information provided in order to include them in a talent database."
+        },
+        {
+          "key": "text-58",
+          "label": "This database may be used to:",
+          "value": "This database may be used to:"
+        },
+        {
+          "key": "text-59",
+          "label": "Identify professionals who may be suitable for future projects.",
+          "value": "Identify professionals who may be suitable for future projects."
+        },
+        {
+          "key": "text-60",
+          "label": "Contact them regarding future castings.",
+          "value": "Contact them regarding future castings."
+        },
+        {
+          "key": "text-61",
+          "label": "Offer professional opportunities related to voice recording, dubbing, voice-over",
+          "value": "Offer professional opportunities related to voice recording, dubbing, voice-over, acting, audiovisual production, voice datasets or other projects related to DigiTalks AI"
+        },
+        {
+          "key": "text-62",
+          "label": "’",
+          "value": "’"
+        },
+        {
+          "key": "text-63",
+          "label": "s activities.",
+          "value": "s activities."
+        },
+        {
+          "key": "text-64",
+          "label": "Legal basis:",
+          "value": "Legal basis:"
+        },
+        {
+          "key": "text-65",
+          "label": "consent of the data subject.",
+          "value": " consent of the data subject."
+        },
+        {
+          "key": "text-66",
+          "label": "Joining this database is entirely voluntary and does not affect participation in",
+          "value": "Joining this database is entirely voluntary and does not affect participation in any specific casting."
+        },
+        {
+          "key": "text-67",
+          "label": "Consent may be withdrawn at any time.",
+          "value": "Consent may be withdrawn at any time."
+        },
+        {
+          "key": "text-68",
+          "label": "Voice Recordings, Datasets and Artificial Intelligence",
+          "value": "Voice Recordings, Datasets and Artificial Intelligence"
+        },
+        {
+          "key": "text-69",
+          "label": "Where a project involves recordings intended for datasets, research, training, e",
+          "value": "Where a project involves recordings intended for datasets, research, training, evaluation or the development of artificial intelligence systems, the specific conditions of the project will be communicated to participants before the recording takes place."
+        },
+        {
+          "key": "text-70",
+          "label": "The purpose, usage rights, duration, potential recipients and any specific proce",
+          "value": "The purpose, usage rights, duration, potential recipients and any specific processing of voice data will depend on each project and will be defined through the relevant information, contract or authorisation."
+        },
+        {
+          "key": "text-71",
+          "label": "Inclusion in our talent database",
+          "value": "Inclusion in our talent database "
+        },
+        {
+          "key": "text-72",
+          "label": "does not constitute consent to use a person",
+          "value": "does not constitute consent to use a person"
+        },
+        {
+          "key": "text-73",
+          "label": "’",
+          "value": "’"
+        },
+        {
+          "key": "text-74",
+          "label": "s voice to train artificial intelligence systems, generate synthetic voices or p",
+          "value": "s voice to train artificial intelligence systems, generate synthetic voices or perform voice cloning"
+        },
+        {
+          "key": "text-75",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-76",
+          "label": "Where a project involves any such use, the participant will be specifically info",
+          "value": "Where a project involves any such use, the participant will be specifically informed and the appropriate authorisations or legal bases will be obtained before processing takes place."
+        },
+        {
+          "key": "text-77",
+          "label": "Commercial Communications",
+          "value": "Commercial Communications"
+        },
+        {
+          "key": "text-78",
+          "label": "Where the data subject has provided consent, we may use their contact details to",
+          "value": "Where the data subject has provided consent, we may use their contact details to send commercial information regarding DigiTalks AI services, news or activities."
+        },
+        {
+          "key": "text-79",
+          "label": "Legal basis:",
+          "value": "Legal basis:"
+        },
+        {
+          "key": "text-80",
+          "label": "consent.",
+          "value": " consent."
+        },
+        {
+          "key": "text-81",
+          "label": "The data subject may withdraw this consent at any time.",
+          "value": "The data subject may withdraw this consent at any time."
+        },
+        {
+          "key": "text-82",
+          "label": "4. How Long Do We Retain Your Personal Data?",
+          "value": "4. How Long Do We Retain Your Personal Data?"
+        },
+        {
+          "key": "text-83",
+          "label": "Personal data will only be retained for as long as necessary to fulfil the purpo",
+          "value": "Personal data will only be retained for as long as necessary to fulfil the purposes for which it was collected."
+        },
+        {
+          "key": "text-84",
+          "label": "As a general rule:",
+          "value": "As a general rule:"
+        },
+        {
+          "key": "text-85",
+          "label": "Clients, suppliers and collaborators:",
+          "value": "Clients, suppliers and collaborators:"
+        },
+        {
+          "key": "text-86",
+          "label": "for the duration of the contractual relationship and subsequently for the period",
+          "value": " for the duration of the contractual relationship and subsequently for the periods required to comply with legal obligations and address potential liabilities."
+        },
+        {
+          "key": "text-87",
+          "label": "Enquiries and requests:",
+          "value": "Enquiries and requests:"
+        },
+        {
+          "key": "text-88",
+          "label": "for the time necessary to respond to them and for a reasonable period thereafter",
+          "value": " for the time necessary to respond to them and for a reasonable period thereafter in order to manage potential liabilities."
+        },
+        {
+          "key": "text-89",
+          "label": "Applications for a specific casting:",
+          "value": "Applications for a specific casting:"
+        },
+        {
+          "key": "text-90",
+          "label": "for the duration of the selection process and for the period subsequently requir",
+          "value": " for the duration of the selection process and for the period subsequently required to manage possible incidents, obligations or liabilities related to that process."
+        },
+        {
+          "key": "text-91",
+          "label": "Talent database:",
+          "value": "Talent database:"
+        },
+        {
+          "key": "text-92",
+          "label": "while the data subject",
+          "value": " while the data subject"
+        },
+        {
+          "key": "text-93",
+          "label": "’",
+          "value": "’"
+        },
+        {
+          "key": "text-94",
+          "label": "s consent remains valid and while the data remains adequate, relevant and up to ",
+          "value": "s consent remains valid and while the data remains adequate, relevant and up to date for this purpose. DigiTalks AI will periodically review whether it remains necessary to retain these profiles."
+        },
+        {
+          "key": "text-95",
+          "label": "Commercial communications:",
+          "value": "Commercial communications:"
+        },
+        {
+          "key": "text-96",
+          "label": "until the data subject withdraws their consent.",
+          "value": " until the data subject withdraws their consent."
+        },
+        {
+          "key": "text-97",
+          "label": "Contractual, accounting, tax or administrative documentation:",
+          "value": "Contractual, accounting, tax or administrative documentation:"
+        },
+        {
+          "key": "text-98",
+          "label": "for the periods required under applicable law.",
+          "value": " for the periods required under applicable law."
+        },
+        {
+          "key": "text-99",
+          "label": "When personal data is no longer required, it will be deleted or, where applicabl",
+          "value": "When personal data is no longer required, it will be deleted or, where applicable, restricted or blocked for the legally required periods during which liabilities may arise."
+        },
+        {
+          "key": "text-100",
+          "label": "5. What Is the Legal Basis for Processing Your Data?",
+          "value": "5. What Is the Legal Basis for Processing Your Data?"
+        },
+        {
+          "key": "text-101",
+          "label": "Depending on the purpose, processing may be based on:",
+          "value": "Depending on the purpose, processing may be based on:"
+        },
+        {
+          "key": "text-102",
+          "label": "Performance of a contract or implementation of pre-contractual measures:",
+          "value": "Performance of a contract or implementation of pre-contractual measures:"
+        },
+        {
+          "key": "text-103",
+          "label": "for the management of clients, suppliers, collaborators and applications linked ",
+          "value": " for the management of clients, suppliers, collaborators and applications linked to professional projects."
+        },
+        {
+          "key": "text-104",
+          "label": "Compliance with legal obligations:",
+          "value": "Compliance with legal obligations:"
+        },
+        {
+          "key": "text-105",
+          "label": "to comply with tax, accounting, administrative or other legal obligations.",
+          "value": " to comply with tax, accounting, administrative or other legal obligations."
+        },
+        {
+          "key": "text-106",
+          "label": "Consent:",
+          "value": "Consent:"
+        },
+        {
+          "key": "text-107",
+          "label": "for inclusion in our talent database, certain commercial communications and othe",
+          "value": " for inclusion in our talent database, certain commercial communications and other processing activities for which consent is expressly requested."
+        },
+        {
+          "key": "text-108",
+          "label": "Legitimate interests:",
+          "value": "Legitimate interests:"
+        },
+        {
+          "key": "text-109",
+          "label": "for the ordinary management of certain communications and for the protection and",
+          "value": " for the ordinary management of certain communications and for the protection and defence of DigiTalks AI"
+        },
+        {
+          "key": "text-110",
+          "label": "’",
+          "value": "’"
+        },
+        {
+          "key": "text-111",
+          "label": "s rights and interests, provided that the rights and freedoms of the data subjec",
+          "value": "s rights and interests, provided that the rights and freedoms of the data subject do not override those interests."
+        },
+        {
+          "key": "text-112",
+          "label": "Where processing is based on consent, consent may be withdrawn at any time witho",
+          "value": "Where processing is based on consent, consent may be withdrawn at any time without affecting the lawfulness of processing carried out before its withdrawal."
+        },
+        {
+          "key": "text-113",
+          "label": "6. Is It Mandatory to Provide Personal Data?",
+          "value": "6. Is It Mandatory to Provide Personal Data?"
+        },
+        {
+          "key": "text-114",
+          "label": "Fields marked as mandatory in our forms are required in order to manage the rele",
+          "value": "Fields marked as mandatory in our forms are required in order to manage the relevant request, application or relationship."
+        },
+        {
+          "key": "text-115",
+          "label": "The data subject is not required to consent to additional processing activities ",
+          "value": "The data subject is not required to consent to additional processing activities such as:"
+        },
+        {
+          "key": "text-116",
+          "label": "Inclusion in our talent database.",
+          "value": "Inclusion in our talent database."
+        },
+        {
+          "key": "text-117",
+          "label": "Receipt of commercial communications.",
+          "value": "Receipt of commercial communications."
+        },
+        {
+          "key": "text-118",
+          "label": "Refusing these optional processing activities will not prevent participation in ",
+          "value": "Refusing these optional processing activities will not prevent participation in a specific casting or the ability to request our services."
+        },
+        {
+          "key": "text-119",
+          "label": "7. To Whom May Personal Data Be Disclosed?",
+          "value": "7. To Whom May Personal Data Be Disclosed?"
+        },
+        {
+          "key": "text-120",
+          "label": "DigiTalks AI does not sell personal data to third parties.",
+          "value": "DigiTalks AI does not sell personal data to third parties."
+        },
+        {
+          "key": "text-121",
+          "label": "Personal data may be disclosed where necessary to:",
+          "value": "Personal data may be disclosed where necessary to:"
+        },
+        {
+          "key": "text-122",
+          "label": "Public administrations, tax authorities, courts, tribunals and other authorities",
+          "value": "Public administrations, tax authorities, courts, tribunals and other authorities where required by law."
+        },
+        {
+          "key": "text-123",
+          "label": "Professional advisers, financial institutions and other providers necessary for ",
+          "value": "Professional advisers, financial institutions and other providers necessary for the management of our business."
+        },
+        {
+          "key": "text-124",
+          "label": "Clients, producers or collaborators involved in a project where this is necessar",
+          "value": "Clients, producers or collaborators involved in a project where this is necessary to assess an application, organise a casting or carry out the project and an appropriate legal basis exists."
+        },
+        {
+          "key": "text-125",
+          "label": "Where a casting requires certain personal data, demos or samples to be shared wi",
+          "value": "Where a casting requires certain personal data, demos or samples to be shared with an end client for selection purposes, the data subject will be informed where necessary."
+        },
+        {
+          "key": "text-126",
+          "label": "Certain technology providers may also have access to personal data as",
+          "value": "Certain technology providers may also have access to personal data as "
+        },
+        {
+          "key": "text-127",
+          "label": "data processors",
+          "value": "data processors"
+        },
+        {
+          "key": "text-128",
+          "label": ", including providers of:",
+          "value": ", including providers of:"
+        },
+        {
+          "key": "text-129",
+          "label": "Web hosting.",
+          "value": "Web hosting."
+        },
+        {
+          "key": "text-130",
+          "label": "Email services.",
+          "value": "Email services."
+        },
+        {
+          "key": "text-131",
+          "label": "Cloud storage.",
+          "value": "Cloud storage."
+        },
+        {
+          "key": "text-132",
+          "label": "Forms.",
+          "value": "Forms."
+        },
+        {
+          "key": "text-133",
+          "label": "Productivity tools.",
+          "value": "Productivity tools."
+        },
+        {
+          "key": "text-134",
+          "label": "Business management tools.",
+          "value": "Business management tools."
+        },
+        {
+          "key": "text-135",
+          "label": "Technology infrastructure.",
+          "value": "Technology infrastructure."
+        },
+        {
+          "key": "text-136",
+          "label": "These providers will process personal data in accordance with our instructions a",
+          "value": "These providers will process personal data in accordance with our instructions and the safeguards required by applicable data protection legislation."
+        },
+        {
+          "key": "text-137",
+          "label": "8. International Data Transfers",
+          "value": "8. International Data Transfers"
+        },
+        {
+          "key": "text-138",
+          "label": "DigiTalks AI may use technology services provided by companies located outside t",
+          "value": "DigiTalks AI may use technology services provided by companies located outside the European Economic Area or by companies belonging to corporate groups established outside the European Economic Area."
+        },
+        {
+          "key": "text-139",
+          "label": "This may occur, for example, through email services, cloud storage, forms, hosti",
+          "value": "This may occur, for example, through email services, cloud storage, forms, hosting, analytics, productivity tools or other technology services."
+        },
+        {
+          "key": "text-140",
+          "label": "Where an international transfer of personal data takes place, DigiTalks AI will ",
+          "value": "Where an international transfer of personal data takes place, DigiTalks AI will implement the safeguards required under applicable data protection legislation, including, where appropriate:"
+        },
+        {
+          "key": "text-141",
+          "label": "Adequacy decisions adopted by the European Commission.",
+          "value": "Adequacy decisions adopted by the European Commission."
+        },
+        {
+          "key": "text-142",
+          "label": "Standard Contractual Clauses approved by the European Commission.",
+          "value": "Standard Contractual Clauses approved by the European Commission."
+        },
+        {
+          "key": "text-143",
+          "label": "Other legally recognised transfer mechanisms.",
+          "value": "Other legally recognised transfer mechanisms."
+        },
+        {
+          "key": "text-144",
+          "label": "9. Automated Decision-Making and Profiling",
+          "value": "9. Automated Decision-Making and Profiling"
+        },
+        {
+          "key": "text-145",
+          "label": "As a general rule, DigiTalks AI does not make decisions based solely on automate",
+          "value": "As a general rule, DigiTalks AI does not make decisions based solely on automated processing that produce legal effects or similarly significantly affect individuals."
+        },
+        {
+          "key": "text-146",
+          "label": "We may use software or artificial intelligence tools to organise, classify, extr",
+          "value": "We may use software or artificial intelligence tools to organise, classify, extract information or facilitate the management of applications and other internal processes, but relevant professional decisions are subject to human oversight."
+        },
+        {
+          "key": "text-147",
+          "label": "If systems involving solely automated decision-making with legal or similarly si",
+          "value": "If systems involving solely automated decision-making with legal or similarly significant effects are used in the future, affected individuals will be informed in advance in accordance with applicable legislation."
+        },
+        {
+          "key": "text-148",
+          "label": "10. Rights of Data Subjects",
+          "value": "10. Rights of Data Subjects"
+        },
+        {
+          "key": "text-149",
+          "label": "Any person has the right to obtain confirmation as to whether DigiTalks AI is pr",
+          "value": "Any person has the right to obtain confirmation as to whether DigiTalks AI is processing personal data concerning them."
+        },
+        {
+          "key": "text-150",
+          "label": "Data subjects may exercise the following rights:",
+          "value": "Data subjects may exercise the following rights:"
+        },
+        {
+          "key": "text-151",
+          "label": "Access:",
+          "value": "Access:"
+        },
+        {
+          "key": "text-152",
+          "label": "to obtain information about the personal data we process concerning them.",
+          "value": " to obtain information about the personal data we process concerning them."
+        },
+        {
+          "key": "text-153",
+          "label": "Rectification:",
+          "value": "Rectification:"
+        },
+        {
+          "key": "text-154",
+          "label": "to request correction of inaccurate or incomplete personal data.",
+          "value": " to request correction of inaccurate or incomplete personal data."
+        },
+        {
+          "key": "text-155",
+          "label": "Erasure:",
+          "value": "Erasure:"
+        },
+        {
+          "key": "text-156",
+          "label": "to request deletion of personal data where applicable.",
+          "value": " to request deletion of personal data where applicable."
+        },
+        {
+          "key": "text-157",
+          "label": "Objection:",
+          "value": "Objection:"
+        },
+        {
+          "key": "text-158",
+          "label": "to object to processing in certain circumstances.",
+          "value": " to object to processing in certain circumstances."
+        },
+        {
+          "key": "text-159",
+          "label": "Restriction of processing:",
+          "value": "Restriction of processing:"
+        },
+        {
+          "key": "text-160",
+          "label": "to request that processing be restricted in the circumstances provided by law.",
+          "value": " to request that processing be restricted in the circumstances provided by law."
+        },
+        {
+          "key": "text-161",
+          "label": "Data portability:",
+          "value": "Data portability:"
+        },
+        {
+          "key": "text-162",
+          "label": "to receive certain personal data in a structured, commonly used and machine-read",
+          "value": " to receive certain personal data in a structured, commonly used and machine-readable format and, where technically feasible, have that data transmitted to another controller."
+        },
+        {
+          "key": "text-163",
+          "label": "Withdrawal of consent:",
+          "value": "Withdrawal of consent:"
+        },
+        {
+          "key": "text-164",
+          "label": "to withdraw any consent previously provided at any time.",
+          "value": " to withdraw any consent previously provided at any time."
+        },
+        {
+          "key": "text-165",
+          "label": "To exercise these rights, please contact:",
+          "value": "To exercise these rights, please contact:"
+        },
+        {
+          "key": "text-166",
+          "label": "support@digitalks-ai.com",
+          "value": "support@digitalks-ai.com"
+        },
+        {
+          "key": "text-167",
+          "label": "The request should specify the right the individual wishes to exercise and inclu",
+          "value": "The request should specify the right the individual wishes to exercise and include sufficient information to identify the applicant."
+        },
+        {
+          "key": "text-168",
+          "label": "DigiTalks AI may request additional information or documentation where necessary",
+          "value": "DigiTalks AI may request additional information or documentation where necessary to verify the identity of the data subject and prevent unauthorised access or changes."
+        },
+        {
+          "key": "text-169",
+          "label": "Withdrawal of consent will not affect the lawfulness of processing carried out b",
+          "value": "Withdrawal of consent will not affect the lawfulness of processing carried out before consent was withdrawn."
+        },
+        {
+          "key": "text-170",
+          "label": "11. Right to Lodge a Complaint",
+          "value": "11. Right to Lodge a Complaint"
+        },
+        {
+          "key": "text-171",
+          "label": "If you believe that the processing of your personal data infringes applicable da",
+          "value": "If you believe that the processing of your personal data infringes applicable data protection legislation, you have the right to lodge a complaint with the competent supervisory authority."
+        },
+        {
+          "key": "text-172",
+          "label": "In Spain:",
+          "value": "In Spain:"
+        },
+        {
+          "key": "text-173",
+          "label": "Spanish Data Protection Agency (Agencia Española de Protección de Datos — AEPD)",
+          "value": "Spanish Data Protection Agency (Agencia Española de Protección de Datos — AEPD)"
+        },
+        {
+          "key": "text-174",
+          "label": "https://www.aepd.es",
+          "value": "https://www.aepd.es"
+        },
+        {
+          "key": "text-175",
+          "label": "12. How Do We Obtain Your Personal Data?",
+          "value": "12. How Do We Obtain Your Personal Data?"
+        },
+        {
+          "key": "text-176",
+          "label": "As a general rule, we obtain personal data:",
+          "value": "As a general rule, we obtain personal data:"
+        },
+        {
+          "key": "text-177",
+          "label": "Directly from the data subject.",
+          "value": "Directly from the data subject."
+        },
+        {
+          "key": "text-178",
+          "label": "Through forms available on our website.",
+          "value": "Through forms available on our website."
+        },
+        {
+          "key": "text-179",
+          "label": "Through forms used for castings and selection processes.",
+          "value": "Through forms used for castings and selection processes."
+        },
+        {
+          "key": "text-180",
+          "label": "Via email or other communication channels.",
+          "value": "Via email or other communication channels."
+        },
+        {
+          "key": "text-181",
+          "label": "Through agencies, representatives or collaborators where an appropriate legal ba",
+          "value": "Through agencies, representatives or collaborators where an appropriate legal basis exists."
+        },
+        {
+          "key": "text-182",
+          "label": "Through clients or collaborators who recommend or propose professionals for spec",
+          "value": "Through clients or collaborators who recommend or propose professionals for specific projects."
+        },
+        {
+          "key": "text-183",
+          "label": "Where personal data has not been obtained directly from the data subject, the in",
+          "value": "Where personal data has not been obtained directly from the data subject, the information required under applicable data protection legislation will be provided where appropriate."
+        },
+        {
+          "key": "text-184",
+          "label": "13. Data Security",
+          "value": "13. Data Security"
+        },
+        {
+          "key": "text-185",
+          "label": "DigiTalks AI implements appropriate technical and organisational measures design",
+          "value": "DigiTalks AI implements appropriate technical and organisational measures designed to protect personal data against destruction, loss, alteration, unauthorised access, disclosure or misuse."
+        },
+        {
+          "key": "text-186",
+          "label": "These measures are determined taking into account the nature of the data process",
+          "value": "These measures are determined taking into account the nature of the data processed, the context of the processing, the state of the art and the risks to the rights and freedoms of individuals."
+        },
+        {
+          "key": "text-187",
+          "label": "14. Minors",
+          "value": "14. Minors"
+        },
+        {
+          "key": "text-188",
+          "label": "As a general rule, DigiTalks AI",
+          "value": "As a general rule, DigiTalks AI"
+        },
+        {
+          "key": "text-189",
+          "label": "’",
+          "value": "’"
+        },
+        {
+          "key": "text-190",
+          "label": "s forms, castings and services are not intended for minors unless expressly stat",
+          "value": "s forms, castings and services are not intended for minors unless expressly stated otherwise for a specific project."
+        },
+        {
+          "key": "text-191",
+          "label": "Where a project allows minors to participate, the appropriate measures and autho",
+          "value": "Where a project allows minors to participate, the appropriate measures and authorisations will be implemented in accordance with applicable legislation."
+        },
+        {
+          "key": "text-192",
+          "label": "15. Changes to This Privacy Policy",
+          "value": "15. Changes to This Privacy Policy"
+        },
+        {
+          "key": "text-193",
+          "label": "DigiTalks AI may update this Privacy Policy where necessary to reflect legislati",
+          "value": "DigiTalks AI may update this Privacy Policy where necessary to reflect legislative changes, guidance from data protection authorities, changes to our services or changes in the way we process personal data."
+        },
+        {
+          "key": "text-194",
+          "label": "The current version of this Privacy Policy will always be the version published ",
+          "value": "The current version of this Privacy Policy will always be the version published on this website."
+        },
+        {
+          "key": "text-195",
+          "label": "Last updated: October 2026.",
+          "value": "Last updated: October 2026."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "support@digitalks-ai.com",
+          "href": "mailto:support@digitalks-ai.com"
+        },
+        {
+          "key": "link-1",
+          "label": "https://digitalks-ai.com",
+          "href": "/"
+        },
+        {
+          "key": "link-2",
+          "label": "support@digitalks-ai.com",
+          "href": "mailto:support@digitalks-ai.com"
+        },
+        {
+          "key": "link-3",
+          "label": "https://www.aepd.es",
+          "href": "https://www.aepd.es/"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

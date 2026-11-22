@@ -1,0 +1,24 @@
+{
+  "es": {
+    "skip": "Ir al contenido",
+    "menu": "Alternar menú",
+    "navigation": "Menú principal",
+    "legal": "Información legal",
+    "consentTitle": "Gestionar consentimiento",
+    "consentText": "Sólo se almacena tu elección en este navegador. Los servicios externos opcionales permanecen bloqueados hasta que los aceptes.",
+    "necessary": "Sólo necesarias",
+    "optional": "Aceptar opcionales",
+    "privacy": "Política de privacidad"
+  },
+  "en": {
+    "skip": "Skip to content",
+    "menu": "Toggle menu",
+    "navigation": "Main menu",
+    "legal": "Legal information",
+    "consentTitle": "Manage consent",
+    "consentText": "Only your choice is stored in this browser. Optional external services remain blocked until you accept them.",
+    "necessary": "Necessary only",
+    "optional": "Accept optional",
+    "privacy": "Privacy policy"
+  }
+}

@@ -1,0 +1,1236 @@
+{
+  "id": "home",
+  "title": "Doblaje, Localización y Voces IA | Home ES - Digitalks AI",
+  "path": "/",
+  "lang": "es",
+  "seo": "home",
+  "source": "https://digitalks-ai.com/",
+  "bodyClass": "home wp-singular page-template page-template-dt_header_footer page page-id-49038 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-plain-container ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-49038",
+  "rootClass": "dt dt-49038",
+  "styles": [],
+  "css": "home.css",
+  "sections": [
+    {
+      "id": "home-1",
+      "label": "Doblaje y Traducción deVideojuegos y Animación",
+      "template": "home-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Del texto a la pantalla",
+          "value": "Del texto a la pantalla"
+        },
+        {
+          "key": "text-1",
+          "label": "Localización 2.0",
+          "value": "Localización 2.0"
+        },
+        {
+          "key": "text-2",
+          "label": "Doblaje y Traducción de",
+          "value": "Doblaje y Traducción de"
+        },
+        {
+          "key": "text-3",
+          "label": "Videojuegos y Animación",
+          "value": "Videojuegos y Animación"
+        },
+        {
+          "key": "text-4",
+          "label": "Localiza y dobla en múltiples idiomas en semanas(no meses),",
+          "value": "Localiza y dobla en múltiples idiomas en semanas(no meses), "
+        },
+        {
+          "key": "text-5",
+          "label": "a una fracción del coste, con calidad AAA.",
+          "value": "a una fracción del coste, con calidad AAA."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-2",
+      "label": "¡Da vida",
+      "template": "home-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¡Da vida",
+          "value": "¡Da vida"
+        },
+        {
+          "key": "text-1",
+          "label": "a tus",
+          "value": "a tus  "
+        },
+        {
+          "key": "text-2",
+          "label": "personajes",
+          "value": "personajes"
+        },
+        {
+          "key": "text-3",
+          "label": "con IA",
+          "value": " con IA"
+        },
+        {
+          "key": "text-4",
+          "label": "!",
+          "value": "!"
+        },
+        {
+          "key": "text-5",
+          "label": "Character Voice",
+          "value": "Character Voice "
+        },
+        {
+          "key": "text-6",
+          "label": "Creation",
+          "value": "Creation"
+        },
+        {
+          "key": "text-7",
+          "label": "Un",
+          "value": "Un "
+        },
+        {
+          "key": "text-8",
+          "label": "método",
+          "value": "método "
+        },
+        {
+          "key": "text-9",
+          "label": "de",
+          "value": "de "
+        },
+        {
+          "key": "text-10",
+          "label": "creación de voces",
+          "value": "creación de voces"
+        },
+        {
+          "key": "text-11",
+          "label": "capaz de dotar a tus personajes, de un",
+          "value": "capaz de dotar a tus personajes, de un "
+        },
+        {
+          "key": "text-12",
+          "label": "carácter",
+          "value": "carácter "
+        },
+        {
+          "key": "text-13",
+          "label": "y una",
+          "value": "y una "
+        },
+        {
+          "key": "text-14",
+          "label": "expresividad nunca vistas.",
+          "value": "expresividad nunca vistas."
+        },
+        {
+          "key": "text-15",
+          "label": "Este sistema, permite",
+          "value": "Este sistema, permite "
+        },
+        {
+          "key": "text-16",
+          "label": "crear voces para personajes de fantasía",
+          "value": "crear voces para personajes de fantasía"
+        },
+        {
+          "key": "text-17",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-18",
+          "label": "reduciendo x10 los",
+          "value": "reduciendo x10 los "
+        },
+        {
+          "key": "text-19",
+          "label": "costes",
+          "value": "costes "
+        },
+        {
+          "key": "text-20",
+          "label": "y tiempos de producción,",
+          "value": "y tiempos de producción,"
+        },
+        {
+          "key": "text-21",
+          "label": "con una calidad de triple AAA",
+          "value": "con una calidad de triple AAA"
+        },
+        {
+          "key": "text-22",
+          "label": "Escucha cómo suenan, más abajo.",
+          "value": "Escucha cómo suenan, más abajo."
+        },
+        {
+          "key": "text-23",
+          "label": "Character Voice",
+          "value": "Character Voice "
+        },
+        {
+          "key": "text-24",
+          "label": "Generation",
+          "value": "Generation"
+        },
+        {
+          "key": "text-25",
+          "label": "Tenemos la voz de tu personaje,",
+          "value": "Tenemos la voz de tu personaje,"
+        },
+        {
+          "key": "text-26",
+          "label": "pero quieres generar su contenido.",
+          "value": "pero quieres generar su contenido."
+        },
+        {
+          "key": "text-27",
+          "label": "Nosotros nos encargamos de todos los diálogos en más de",
+          "value": "Nosotros nos encargamos de todos los diálogos en más de "
+        },
+        {
+          "key": "text-28",
+          "label": "+10 idiomas",
+          "value": "+10 idiomas"
+        },
+        {
+          "key": "text-29",
+          "label": "Sólo pagas",
+          "value": "Sólo pagas"
+        },
+        {
+          "key": "text-30",
+          "label": "por el",
+          "value": " por el "
+        },
+        {
+          "key": "text-31",
+          "label": "número de palabras",
+          "value": "número de palabras"
+        },
+        {
+          "key": "text-32",
+          "label": "generadas.",
+          "value": " generadas."
+        },
+        {
+          "key": "text-33",
+          "label": "Sin costes ocultos.",
+          "value": "Sin costes ocultos."
+        },
+        {
+          "key": "text-34",
+          "label": "Consulta",
+          "value": "Consulta "
+        },
+        {
+          "key": "text-35",
+          "label": "nuestras tarifas",
+          "value": "nuestras tarifas"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "home-games_form_01",
+          "form": "home-games_form_01"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-3",
+      "label": "doblaje de videojuegos y animación",
+      "template": "home-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "doblaje de videojuegos y animación",
+          "value": "doblaje de videojuegos y animación"
+        },
+        {
+          "key": "text-1",
+          "label": "En",
+          "value": "En "
+        },
+        {
+          "key": "text-2",
+          "label": "ESTUDIO DE SONIDO",
+          "value": "ESTUDIO DE SONIDO "
+        },
+        {
+          "key": "text-3",
+          "label": "profesional",
+          "value": " profesional"
+        },
+        {
+          "key": "text-4",
+          "label": "Actores reales",
+          "value": "Actores reales"
+        },
+        {
+          "key": "text-5",
+          "label": "para tus personajes principales:",
+          "value": " para tus personajes principales:"
+        },
+        {
+          "key": "text-6",
+          "label": "Hay cosas en las que puedes recortar...\ny luego están tus personajes principales",
+          "value": "\n\t\t\t\tHay cosas en las que puedes recortar...\ny luego están tus personajes principales.\nAhí no.\t\t\t"
+        },
+        {
+          "key": "text-7",
+          "label": "¿Porqué esto es",
+          "value": "¿Porqué esto es "
+        },
+        {
+          "key": "text-8",
+          "label": "importante",
+          "value": "importante"
+        },
+        {
+          "key": "text-9",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-10",
+          "label": "Porque son los que sostienen tu historia.",
+          "value": "Porque son los que sostienen tu historia."
+        },
+        {
+          "key": "text-11",
+          "label": "Los que hacen que el espectador entienda su esencia.",
+          "value": "Los que hacen que el espectador entienda su esencia."
+        },
+        {
+          "key": "text-12",
+          "label": "Los que convierten tu proyecto en una experiencia memorable.",
+          "value": "Los que convierten tu proyecto en una experiencia memorable."
+        },
+        {
+          "key": "text-13",
+          "label": "Y eso no se puede hacer “a medias”.",
+          "value": "Y eso no se puede hacer “a medias”."
+        },
+        {
+          "key": "text-14",
+          "label": "Por eso aquí no usamos IA.",
+          "value": "Por eso aquí no usamos IA."
+        },
+        {
+          "key": "text-15",
+          "label": "Usamos actores de carne y hueso.",
+          "value": "Usamos actores de carne y hueso."
+        },
+        {
+          "key": "text-16",
+          "label": "Para darle todos esos matices y emoción",
+          "value": "Para darle todos esos matices y emoción "
+        },
+        {
+          "key": "text-17",
+          "label": "donde la tecnología aún no llega.",
+          "value": "donde la tecnología aún no llega."
+        },
+        {
+          "key": "text-18",
+          "label": "¿cómo",
+          "value": "¿cómo "
+        },
+        {
+          "key": "text-19",
+          "label": "lo hacemos",
+          "value": "lo hacemos"
+        },
+        {
+          "key": "text-20",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-21",
+          "label": "Seleccionamos las voces que encajan con cada personaje.",
+          "value": "Seleccionamos las voces que encajan con cada personaje."
+        },
+        {
+          "key": "text-22",
+          "label": "Dirigimos cada sesión para que la emoción esté donde tiene que estar.",
+          "value": "Dirigimos cada sesión para que la emoción esté donde tiene que estar."
+        },
+        {
+          "key": "text-23",
+          "label": "Grabamos en estudio, con el método se siempre:",
+          "value": "Grabamos en estudio, con el método se siempre:"
+        },
+        {
+          "key": "text-24",
+          "label": "Salas acusticamente insonorizadas",
+          "value": "Salas acusticamente insonorizadas"
+        },
+        {
+          "key": "text-25",
+          "label": "Microfonos y equipo de alta gama",
+          "value": "Microfonos y equipo de alta gama"
+        },
+        {
+          "key": "text-26",
+          "label": "y mucho café de máquina.",
+          "value": "y mucho café de máquina."
+        },
+        {
+          "key": "text-27",
+          "label": "Sin atajos.",
+          "value": "Sin atajos."
+        },
+        {
+          "key": "text-28",
+          "label": "y luego",
+          "value": "y luego "
+        },
+        {
+          "key": "text-29",
+          "label": "lo combinamos",
+          "value": "lo combinamos"
+        },
+        {
+          "key": "text-30",
+          "label": "...",
+          "value": "..."
+        },
+        {
+          "key": "text-31",
+          "label": "Todo esto se integra con el sistema",
+          "value": "Todo esto se integra con el sistema "
+        },
+        {
+          "key": "text-32",
+          "label": "Hybird AI-Voice Model​",
+          "value": "Hybird AI-Voice Model​"
+        },
+        {
+          "key": "text-33",
+          "label": "que escala el resto del proyecto.",
+          "value": "que escala el resto del proyecto."
+        },
+        {
+          "key": "text-34",
+          "label": "NPCs, diálogos secundarios. volumen",
+          "value": "NPCs, diálogos secundarios. volumen"
+        },
+        {
+          "key": "text-35",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-36",
+          "label": "Ahí sí usamos IA.",
+          "value": "Ahí sí usamos IA."
+        },
+        {
+          "key": "text-37",
+          "label": "¿el",
+          "value": "¿el "
+        },
+        {
+          "key": "text-38",
+          "label": "resultado",
+          "value": "resultado"
+        },
+        {
+          "key": "text-39",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-40",
+          "label": "Calidad AAA donde más impacta.",
+          "value": "Calidad AAA donde más impacta."
+        },
+        {
+          "key": "text-41",
+          "label": "Ampliable sin disparar los costes y tiempos.",
+          "value": "Ampliable sin disparar los costes y tiempos."
+        },
+        {
+          "key": "text-42",
+          "label": "Un juego o animación completamente doblado",
+          "value": "Un juego o animación completamente doblado"
+        },
+        {
+          "key": "text-43",
+          "label": "Consulta",
+          "value": "Consulta "
+        },
+        {
+          "key": "text-44",
+          "label": "nuestras tarifas",
+          "value": "nuestras tarifas"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "home-games_form_02",
+          "form": "home-games_form_02"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-4",
+      "label": "Nuestros personajes en español",
+      "template": "home-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Nuestros personajes",
+          "value": "Nuestros personajes "
+        },
+        {
+          "key": "text-1",
+          "label": "en español",
+          "value": "en español"
+        },
+        {
+          "key": "text-2",
+          "label": "Barbarian Male",
+          "value": "Barbarian Male"
+        },
+        {
+          "key": "text-3",
+          "label": "Ogre Male",
+          "value": "Ogre Male"
+        },
+        {
+          "key": "text-4",
+          "label": "NPC Male",
+          "value": "NPC Male"
+        },
+        {
+          "key": "text-5",
+          "label": "Pirate Male",
+          "value": "Pirate Male"
+        },
+        {
+          "key": "text-6",
+          "label": "Soldier Female",
+          "value": "Soldier Female"
+        },
+        {
+          "key": "text-7",
+          "label": "Child",
+          "value": "Child"
+        },
+        {
+          "key": "text-8",
+          "label": "Y en",
+          "value": "Y en "
+        },
+        {
+          "key": "text-9",
+          "label": "multi",
+          "value": "multi"
+        },
+        {
+          "key": "text-10",
+          "label": "-idioma...",
+          "value": "-idioma..."
+        },
+        {
+          "key": "text-11",
+          "label": "Old Man",
+          "value": "Old Man"
+        },
+        {
+          "key": "text-12",
+          "label": "Girl child",
+          "value": "Girl child"
+        },
+        {
+          "key": "text-13",
+          "label": "Agenda",
+          "value": "Agenda"
+        },
+        {
+          "key": "text-14",
+          "label": "una llamada:",
+          "value": " una llamada:"
+        },
+        {
+          "key": "text-15",
+          "label": "Abrir calendario",
+          "value": "Abrir calendario"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/03616d41884b.webp",
+          "alt": "Personaje bárbaro para demo de voz IA"
+        },
+        {
+          "key": "image-1",
+          "src": "/media/13acb6f128a7.webp",
+          "alt": "Personaje ogro para demo de voz IA"
+        },
+        {
+          "key": "image-2",
+          "src": "/media/ca3addc945d7.webp",
+          "alt": "Personaje NPC masculino - demo de voz"
+        },
+        {
+          "key": "image-3",
+          "src": "/media/f051e94840fd.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-4",
+          "src": "/media/2ec966edce2d.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-5",
+          "src": "/media/74dafb60751d.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-6",
+          "src": "/media/9ac147e686de.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-7",
+          "src": "/media/40af1f608b84-spain-flag.png",
+          "alt": "Spanish"
+        },
+        {
+          "key": "image-8",
+          "src": "/media/58f9b1cfdf87-usa-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-9",
+          "src": "/media/4da39724c779-italy-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-10",
+          "src": "/media/538c84442dce-france-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-11",
+          "src": "/media/09cf0df1bd61-germany-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-12",
+          "src": "/media/6fa8b87f9bcd.webp",
+          "alt": ""
+        },
+        {
+          "key": "image-13",
+          "src": "/media/40af1f608b84-spain-flag.png",
+          "alt": "Spanish"
+        },
+        {
+          "key": "image-14",
+          "src": "/media/7ff3a608d8db-england-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-15",
+          "src": "/media/dc722e1ec294-poland-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-16",
+          "src": "/media/c3bb2d64ffdc-brazil-flag.png",
+          "alt": "Idioma"
+        },
+        {
+          "key": "image-17",
+          "src": "/media/4da39724c779-italy-flag.png",
+          "alt": "Idioma"
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Abrir calendario",
+          "href": "https://calendly.com/audio-digitalks-ai/llamada-de-15-minutos"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-5",
+      "label": "Hybrid AI-Voice Model",
+      "template": "home-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Explora nuestro modelo de trabajo:",
+          "value": "Explora nuestro modelo de trabajo: "
+        },
+        {
+          "key": "text-1",
+          "label": "Hybrid",
+          "value": "Hybrid "
+        },
+        {
+          "key": "text-2",
+          "label": "AI-Voice Model",
+          "value": "AI-Voice Model"
+        },
+        {
+          "key": "text-3",
+          "label": "Utilizamos la IA para reducir x10 los tiempos y los costes,",
+          "value": "Utilizamos la IA para reducir x10 los tiempos y los costes, "
+        },
+        {
+          "key": "text-4",
+          "label": "pero la IA es solo la herramienta,",
+          "value": "pero la IA es solo la herramienta, "
+        },
+        {
+          "key": "text-5",
+          "label": "que no sustituye al criterio.",
+          "value": "que no sustituye al criterio."
+        },
+        {
+          "key": "text-6",
+          "label": "Por eso seguimos grabando voces en estudio",
+          "value": "Por eso seguimos grabando voces en estudio "
+        },
+        {
+          "key": "text-7",
+          "label": "con actores profesionales",
+          "value": "con actores profesionales"
+        },
+        {
+          "key": "text-8",
+          "label": "con ingenieros de sonido",
+          "value": "con ingenieros de sonido"
+        },
+        {
+          "key": "text-9",
+          "label": "con lingüistas expertos",
+          "value": "con lingüistas expertos"
+        },
+        {
+          "key": "text-10",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-11",
+          "label": "Y combinamos todo eso con nuestro sistema de",
+          "value": "Y combinamos todo eso con nuestro sistema de"
+        },
+        {
+          "key": "text-12",
+          "label": "“Character Voice Creation”",
+          "value": "“Character Voice Creation”"
+        },
+        {
+          "key": "text-13",
+          "label": "Automatizamos donde tiene sentido y controlamos lo que importa.",
+          "value": "Automatizamos donde tiene sentido y controlamos lo que importa."
+        },
+        {
+          "key": "text-14",
+          "label": "Con interpretaciones más reales que nunca.",
+          "value": "Con interpretaciones más reales que nunca."
+        },
+        {
+          "key": "text-15",
+          "label": "¿Notarías la diferencia?",
+          "value": "¿Notarías la diferencia?"
+        },
+        {
+          "key": "text-16",
+          "label": "Demos",
+          "value": "Demos"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/d037a67d99a5-bug.svg",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Demos",
+          "href": "#demos-games"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-6",
+      "label": "LOCALIZAMOS",
+      "template": "home-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "No solo traducimos…",
+          "value": "No solo traducimos… \n"
+        },
+        {
+          "key": "text-1",
+          "label": "LOCALIZAMOS",
+          "value": "LOCALIZAMOS"
+        },
+        {
+          "key": "text-2",
+          "label": "Localizar no es solo traducir o grabar voces en otros idiomas.",
+          "value": "Localizar no es solo traducir o grabar voces en otros idiomas."
+        },
+        {
+          "key": "text-3",
+          "label": "Es hacer que el contenido original se entienda igual, en cualquier parte del mun",
+          "value": "Es hacer que el contenido original se entienda igual, en cualquier parte del mundo."
+        },
+        {
+          "key": "text-4",
+          "label": "O dicho de otra manera",
+          "value": "O dicho de otra manera"
+        },
+        {
+          "key": "text-5",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-6",
+          "label": "Que el espectador no sólo entienda el significado del guión original,",
+          "value": "Que el espectador no sólo entienda el significado del guión original, "
+        },
+        {
+          "key": "text-7",
+          "label": "sino que incluso bromas,",
+          "value": "sino que incluso bromas,"
+        },
+        {
+          "key": "text-8",
+          "label": "juegos de palabras",
+          "value": "juegos de palabras"
+        },
+        {
+          "key": "text-9",
+          "label": "o términos específicos",
+          "value": "o términos específicos"
+        },
+        {
+          "key": "text-10",
+          "label": "se perciban como propios.",
+          "value": "se perciban como propios."
+        },
+        {
+          "key": "text-11",
+          "label": "¿Quieres ver",
+          "value": "¿Quieres ver "
+        },
+        {
+          "key": "text-12",
+          "label": "cómo lo hacemos",
+          "value": "cómo lo hacemos"
+        },
+        {
+          "key": "text-13",
+          "label": "?",
+          "value": "?"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "home-games_form_03",
+          "form": "home-games_form_03"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-7",
+      "label": "No BUGS No BULLS**T Sería una lástima sudar sangre, sudor y lágrimas para desarrollar tu proyectoy r",
+      "template": "home-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "No",
+          "value": "No  "
+        },
+        {
+          "key": "text-1",
+          "label": "BUGS",
+          "value": "BUGS"
+        },
+        {
+          "key": "text-2",
+          "label": "No",
+          "value": "No  "
+        },
+        {
+          "key": "text-3",
+          "label": "BULLS**T",
+          "value": " BULLS**T"
+        },
+        {
+          "key": "text-4",
+          "label": "Sería una lástima sudar sangre, sudor y lágrimas para desarrollar tu proyecto",
+          "value": "Sería una lástima sudar sangre, sudor y lágrimas para desarrollar tu proyecto"
+        },
+        {
+          "key": "text-5",
+          "label": "y romper la inmersión por un simple",
+          "value": "y romper la inmersión por un simple "
+        },
+        {
+          "key": "text-6",
+          "label": "BUG lingüístico",
+          "value": "BUG lingüístico"
+        },
+        {
+          "key": "text-7",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-8",
+          "label": "Y Grace Hopper lo aprendió por las malas,",
+          "value": "Y Grace Hopper lo aprendió por las malas, "
+        },
+        {
+          "key": "text-9",
+          "label": "Una simple polilla se coló en su ordenador,",
+          "value": "Una simple polilla se coló en su ordenador, "
+        },
+        {
+          "key": "text-10",
+          "label": "e hizo caer su sistema.",
+          "value": "e hizo caer su sistema."
+        },
+        {
+          "key": "text-11",
+          "label": "Eso es lo que dió el nombre a lo que hoy llamamos bugs.",
+          "value": "Eso es lo que dió el nombre a lo que hoy llamamos bugs."
+        },
+        {
+          "key": "text-12",
+          "label": "Un fallo técnico que provoca un error fatal en la experiencia de usuario.",
+          "value": "Un fallo técnico que provoca un error fatal en la experiencia de usuario."
+        },
+        {
+          "key": "text-13",
+          "label": "Pero la IA no elimina estos bugs,",
+          "value": "Pero la IA no elimina estos bugs,"
+        },
+        {
+          "key": "text-14",
+          "label": "la experiencia de un buen doblaje, si lo hace.",
+          "value": "la experiencia de un buen doblaje, si lo hace."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-8",
+      "label": "Más de +10 años",
+      "template": "home-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Más de +10 años",
+          "value": "Más de +10 años"
+        },
+        {
+          "key": "text-1",
+          "label": "en la industria:",
+          "value": " en la industria:"
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/aadbadc7c362-bethesda-300x143_white.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/e03dd0f01ba6-warner-150x150.png",
+          "alt": ""
+        },
+        {
+          "key": "image-2",
+          "src": "/media/2107e4c33ca2-blizzard-300x158_white.png",
+          "alt": ""
+        },
+        {
+          "key": "image-3",
+          "src": "/media/4a98b6b715a2-amazon-games_white.png",
+          "alt": ""
+        },
+        {
+          "key": "image-4",
+          "src": "/media/7e19c8424f51-activision-300x75_white.png",
+          "alt": ""
+        },
+        {
+          "key": "image-5",
+          "src": "/media/7c86bad42123-ea-150x150_white.png",
+          "alt": ""
+        },
+        {
+          "key": "image-6",
+          "src": "/media/d70eb38c9c1c-Microsoft_white-300x110.png",
+          "alt": ""
+        },
+        {
+          "key": "image-7",
+          "src": "/media/ddd5fc6b3cca-Lionbridge-KG-removebg-preview-300x56.png",
+          "alt": ""
+        },
+        {
+          "key": "image-8",
+          "src": "/media/f678be52c57b-ubisoft-logo_white-removebg-preview-150x150.png",
+          "alt": ""
+        },
+        {
+          "key": "image-9",
+          "src": "/media/527093b531a6-Keywords-300x130.png",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "home-9",
+      "label": "Si quieres escuchar la diferencia...",
+      "template": "home-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "El videojuego es arte, \nla animación también...",
+          "value": "El videojuego es arte, \nla animación también..."
+        },
+        {
+          "key": "text-1",
+          "label": "La IA es solo la",
+          "value": "La IA es solo la"
+        },
+        {
+          "key": "text-2",
+          "label": "HERRAMIENTA",
+          "value": "HERRAMIENTA "
+        },
+        {
+          "key": "text-3",
+          "label": "Una IA mal usada",
+          "value": "Una IA mal usada "
+        },
+        {
+          "key": "text-4",
+          "label": "genera voces que no encajan en pantalla.",
+          "value": "genera voces que no encajan en pantalla."
+        },
+        {
+          "key": "text-5",
+          "label": "Un mal doblaje tradicional, también falla.",
+          "value": "Un mal doblaje tradicional, también falla."
+        },
+        {
+          "key": "text-6",
+          "label": "El problema no es la tecnología, sino cómo se usa.",
+          "value": "El problema no es la tecnología, sino cómo se usa."
+        },
+        {
+          "key": "text-7",
+          "label": "Bien utilizada, la IA optimiza el proceso.",
+          "value": "Bien utilizada, la IA optimiza el proceso."
+        },
+        {
+          "key": "text-8",
+          "label": "Permite producir",
+          "value": "Permite producir "
+        },
+        {
+          "key": "text-9",
+          "label": "más rápido",
+          "value": "más rápido"
+        },
+        {
+          "key": "text-10",
+          "label": "y a",
+          "value": " y a "
+        },
+        {
+          "key": "text-11",
+          "label": "menos coste",
+          "value": "menos coste"
+        },
+        {
+          "key": "text-12",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-13",
+          "label": "Trabajar en",
+          "value": "Trabajar en "
+        },
+        {
+          "key": "text-14",
+          "label": "más idiomas",
+          "value": "más idiomas"
+        },
+        {
+          "key": "text-15",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-16",
+          "label": "más personajes",
+          "value": "más personajes"
+        },
+        {
+          "key": "text-17",
+          "label": "y",
+          "value": "y "
+        },
+        {
+          "key": "text-18",
+          "label": "más contenido",
+          "value": "más contenido"
+        },
+        {
+          "key": "text-19",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-20",
+          "label": "Hace viables proyectos que de otra forma no lo serían.",
+          "value": "Hace viables proyectos que de otra forma no lo serían."
+        },
+        {
+          "key": "text-21",
+          "label": "Doblar un videojuego o una serie aumenta su alcance",
+          "value": "Doblar un videojuego o una serie aumenta su alcance"
+        },
+        {
+          "key": "text-22",
+          "label": "…",
+          "value": "…"
+        },
+        {
+          "key": "text-23",
+          "label": "Pero si el coste del doblaje supera el beneficio,",
+          "value": "Pero si el coste del doblaje supera el beneficio, "
+        },
+        {
+          "key": "text-24",
+          "label": "deja de tener sentido.",
+          "value": "deja de tener sentido."
+        },
+        {
+          "key": "text-25",
+          "label": "La diferencia no está solo en el método, sino en cómo se aplica.",
+          "value": "La diferencia no está solo en el método, sino en cómo se aplica."
+        },
+        {
+          "key": "text-26",
+          "label": "Si quieres escuchar la diferencia...",
+          "value": "Si quieres escuchar la diferencia..."
+        },
+        {
+          "key": "text-27",
+          "label": "te lo mandamos por email.",
+          "value": "te lo mandamos por email."
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "home-games_form_04",
+          "form": "home-games_form_04"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/74e3b446b282-patern-e1776428838308-768x737.png",
+      "src": "/media/74e3b446b282-patern-e1776428838308-768x737.png"
+    },
+    {
+      "original": "/media/574ab244bb18-patern-e1776428838308.png",
+      "src": "/media/574ab244bb18-patern-e1776428838308.png"
+    },
+    {
+      "original": "/media/8adb301399da.webp",
+      "src": "/media/8adb301399da.webp"
+    },
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}

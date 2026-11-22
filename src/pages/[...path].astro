@@ -1,0 +1,9 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Section from '../components/Section.astro';
+import {pages,type Page} from '../lib/content';
+export function getStaticPaths(){return pages.map(page=>({params:{path:page.path==='/'?undefined:page.path.replace(/^\/|\/$/g,'')},props:{page}}))}
+interface Props {page:Page}
+const {page}=Astro.props;
+---
+<PageLayout page={page}>{page.sections.map(section=><Section section={section} lang={page.lang}/>)}</PageLayout>

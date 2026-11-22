@@ -1,0 +1,189 @@
+{
+  "id": "en__voiceoverai-Contacto",
+  "title": "Contacto",
+  "lang": "en",
+  "source": "https://digitalks-ai.com/en/voiceoverai/",
+  "fields": [
+    {
+      "name": "heading-0",
+      "label": "Who are you?",
+      "type": "heading",
+      "required": false,
+      "placeholder": "",
+      "options": []
+    },
+    {
+      "name": "form_fields[email]",
+      "label": "Name",
+      "type": "text",
+      "required": true,
+      "placeholder": "Name",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_bcbb2c6]",
+      "label": "Mail",
+      "type": "email",
+      "required": true,
+      "placeholder": "Email",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "heading-3",
+      "label": "What do you want?",
+      "type": "heading",
+      "required": false,
+      "placeholder": "",
+      "options": []
+    },
+    {
+      "name": "form_fields[field_446d2c6]",
+      "label": "Service Type",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Service type",
+          "value": "Service type"
+        },
+        {
+          "label": "Video Games",
+          "value": "Video Games"
+        },
+        {
+          "label": "E-Learning",
+          "value": "E-Learning"
+        },
+        {
+          "label": "Animation",
+          "value": "Animation"
+        },
+        {
+          "label": "Audio Description",
+          "value": "Audio Description"
+        },
+        {
+          "label": "AI Voice",
+          "value": "AI Voice"
+        },
+        {
+          "label": "Studio Recording",
+          "value": "Studio Recording"
+        },
+        {
+          "label": "Audio Postproduction",
+          "value": "Audio Postproduction"
+        },
+        {
+          "label": "Other",
+          "value": "Other"
+        }
+      ],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_6a67513]",
+      "label": "Voice Gender",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Voice Gender",
+          "value": "Voice Gender"
+        },
+        {
+          "label": "Masculine",
+          "value": "Masculine"
+        },
+        {
+          "label": "Femenine",
+          "value": "Femenine"
+        },
+        {
+          "label": "Multiple genders",
+          "value": "Multiple genders"
+        }
+      ],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_10f6c6c]",
+      "label": "Wordcount (aprox)",
+      "type": "number",
+      "required": false,
+      "placeholder": "Wordcount (aprox)",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_3e7f248]",
+      "label": "Language",
+      "type": "text",
+      "required": false,
+      "placeholder": "Language",
+      "options": [],
+      "showLabel": false,
+      "width": "half"
+    },
+    {
+      "name": "form_fields[field_78b6e0a]",
+      "label": "Destination of Content",
+      "type": "select",
+      "required": false,
+      "placeholder": "",
+      "options": [
+        {
+          "label": "Destination of Content",
+          "value": "Destination of Content"
+        },
+        {
+          "label": "Commercial (YouTube, TV...)",
+          "value": "Commercial (YouTube, TV...)"
+        },
+        {
+          "label": "Internal use (Companies)",
+          "value": "Internal use (Companies)"
+        },
+        {
+          "label": "Individual use (Socials)",
+          "value": "Individual use (Socials)"
+        }
+      ],
+      "showLabel": false,
+      "width": "full"
+    },
+    {
+      "name": "form_fields[field_c680b70]",
+      "label": "When do you need it?",
+      "type": "date",
+      "required": false,
+      "placeholder": "When do you need it?",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    },
+    {
+      "name": "form_fields[field_bfdfba0]",
+      "label": "Give us some context...",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Give us some context...",
+      "options": [],
+      "showLabel": false,
+      "width": "full"
+    }
+  ],
+  "submit": "Get a Quote",
+  "status": "unconfigured",
+  "senderFormId": "",
+  "notice": "This form is not connected yet. No data will be sent."
+}

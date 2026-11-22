@@ -1,0 +1,1523 @@
+{
+  "id": "locucionesia",
+  "title": "Locuciones con IA profesional en español | Digitalks AI",
+  "path": "/locucionesia/",
+  "lang": "es",
+  "seo": "locucionesia",
+  "source": "https://digitalks-ai.com/locucionesia/",
+  "bodyClass": "wp-singular page-template page-template-dt_header_footer page page-id-47007 wp-embed-responsive wp-theme-astra eio-default ehf-template-astra ehf-stylesheet-astra esm-default ast-desktop ast-page-builder-template ast-no-sidebar astra-4.14.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header ast-normal-title-enabled dt-default dt-template-full-width dt-kit-46024 dt-page dt-page-47007",
+  "rootClass": "dt dt-47007",
+  "styles": [],
+  "css": "locucionesia.css",
+  "sections": [
+    {
+      "id": "locucionesia-1",
+      "label": "Ahora que ya sabes lo que podemos hacer",
+      "template": "locucionesia-1",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Ahora que ya sabes",
+          "value": "Ahora que ya sabes"
+        },
+        {
+          "key": "text-1",
+          "label": "lo que podemos hacer",
+          "value": "\nlo que podemos hacer\n\n"
+        },
+        {
+          "key": "text-2",
+          "label": "con",
+          "value": "con "
+        },
+        {
+          "key": "text-3",
+          "label": "IA",
+          "value": "IA"
+        },
+        {
+          "key": "text-4",
+          "label": "...",
+          "value": "..."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/327a08c71242.webp",
+          "alt": ""
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-2",
+      "label": "Este es el formulario que estaba buscando",
+      "template": "locucionesia-2",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Este es el",
+          "value": "Este es el "
+        },
+        {
+          "key": "text-1",
+          "label": "formulario",
+          "value": "formulario"
+        },
+        {
+          "key": "text-2",
+          "label": "que estaba buscando",
+          "value": "que estaba buscando"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [
+        {
+          "slot": "locucionesia-Contacto",
+          "form": "locucionesia-Contacto"
+        }
+      ],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-3",
+      "label": "¿Cómo hacemos para que nuestra relación funcione?",
+      "template": "locucionesia-3",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Cómo hacemos para",
+          "value": "¿Cómo hacemos para"
+        },
+        {
+          "key": "text-1",
+          "label": "que",
+          "value": " que "
+        },
+        {
+          "key": "text-2",
+          "label": "nuestra relación",
+          "value": "nuestra relación"
+        },
+        {
+          "key": "text-3",
+          "label": "funcione?",
+          "value": " funcione?"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-4",
+      "label": "Paso 1. Rellenas el formulario Sí, ese tan bonito que tienes arriba Nos cuentas qué necesitas: tipo ",
+      "template": "locucionesia-4",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Paso 1.",
+          "value": "Paso 1."
+        },
+        {
+          "key": "text-1",
+          "label": "Rellenas el formulario",
+          "value": "Rellenas el formulario"
+        },
+        {
+          "key": "text-2",
+          "label": "Sí, ese tan bonito que tienes arriba",
+          "value": "Sí, ese tan bonito que tienes arriba"
+        },
+        {
+          "key": "text-3",
+          "label": "Nos cuentas qué necesitas: tipo de proyecto, idioma, voz… cuanto más detallado, ",
+          "value": " Nos cuentas qué necesitas: tipo de proyecto, idioma, voz… cuanto más detallado, mejor podremos ajustar el precio."
+        },
+        {
+          "key": "text-4",
+          "label": "Paso 2.",
+          "value": "Paso 2."
+        },
+        {
+          "key": "text-5",
+          "label": "Te mandamos un presupuesto",
+          "value": "Te mandamos un presupuesto"
+        },
+        {
+          "key": "text-6",
+          "label": "Lo revisas tranquilamente. Si tienes dudas, nos escribes. Y si es muy complejo, ",
+          "value": "Lo revisas tranquilamente. Si tienes dudas, nos escribes. Y si es muy complejo, nos reunimos para aclarar todas las dudas. (No sufras, aquí todavía no has soltado un euro)."
+        },
+        {
+          "key": "text-7",
+          "label": "Paso 3.",
+          "value": "Paso 3."
+        },
+        {
+          "key": "text-8",
+          "label": "Nos mandas el guión",
+          "value": "Nos mandas el guión"
+        },
+        {
+          "key": "text-9",
+          "label": "Y juntos seleccionamos una voz que te encaje. A partir de aquí, tu trabajo es re",
+          "value": "Y juntos seleccionamos una voz que te encaje. A partir de aquí, tu trabajo es relajarte… nosotros nos encargamos del resto."
+        },
+        {
+          "key": "text-10",
+          "label": "Paso 4.",
+          "value": "Paso 4."
+        },
+        {
+          "key": "text-11",
+          "label": "Entregamos los audios listos para usar",
+          "value": "Entregamos los audios listos para usar"
+        },
+        {
+          "key": "text-12",
+          "label": "En el formato que quieras: WAV, MP3, FLAC, FLIC, FLOC, FLUP… Lo que quieras. Pro",
+          "value": "En el formato que quieras: WAV, MP3, FLAC, FLIC, FLOC, FLUP… Lo que quieras. Profesional, limpio y sin ruidos raros. (Recuerda: con dos revisiones incluidas, para que no cunda el pánico)."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/9219ffdf98ea-1f446.svg",
+          "alt": "👆"
+        }
+      ],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-5",
+      "label": "¿Por qué debería hacerlo",
+      "template": "locucionesia-5",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Por qué debería hacerlo",
+          "value": "¿Por qué debería hacerlo"
+        },
+        {
+          "key": "text-1",
+          "label": "con Digi",
+          "value": "con Digi"
+        },
+        {
+          "key": "text-2",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-3",
+          "label": "y no en un estudio de",
+          "value": "y no en un estudio de "
+        },
+        {
+          "key": "text-4",
+          "label": "toda la vida",
+          "value": "toda la vida"
+        },
+        {
+          "key": "text-5",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-6",
+          "label": "La verdad es que",
+          "value": "La verdad es que "
+        },
+        {
+          "key": "text-7",
+          "label": "puedes hacerlo con quien quieras",
+          "value": "puedes hacerlo con quien quieras"
+        },
+        {
+          "key": "text-8",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-9",
+          "label": "pero te estarías perdiendo",
+          "value": "pero te estarías perdiendo "
+        },
+        {
+          "key": "text-10",
+          "label": "todo esto",
+          "value": "todo esto"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-12",
+          "label": "Nosotros lo resumimos en",
+          "value": "Nosotros lo resumimos en "
+        },
+        {
+          "key": "text-13",
+          "label": "tres",
+          "value": "tres"
+        },
+        {
+          "key": "text-14",
+          "label": "palabras:",
+          "value": " palabras: "
+        },
+        {
+          "key": "text-15",
+          "label": "RÁPIDO",
+          "value": "RÁPIDO"
+        },
+        {
+          "key": "text-16",
+          "label": "Porque te lo",
+          "value": " Porque te lo "
+        },
+        {
+          "key": "text-17",
+          "label": "entregamos en horas",
+          "value": "entregamos en horas"
+        },
+        {
+          "key": "text-18",
+          "label": "o pocos días.",
+          "value": " o pocos días."
+        },
+        {
+          "key": "text-19",
+          "label": "Eso en un estudio tradicional es ciencia-ficción.",
+          "value": "Eso en un estudio tradicional es ciencia-ficción."
+        },
+        {
+          "key": "text-20",
+          "label": "ASEQUIBLE",
+          "value": "ASEQUIBLE"
+        },
+        {
+          "key": "text-21",
+          "label": "Porque aquí no pagas alquiler de sala, técnico, la chica de producción…",
+          "value": "Porque aquí no pagas alquiler de sala, técnico, la chica de producción… "
+        },
+        {
+          "key": "text-22",
+          "label": "Reducimos el precio hasta 4 veces",
+          "value": "Reducimos el precio hasta 4 veces"
+        },
+        {
+          "key": "text-23",
+          "label": "respecto al método tradicional.",
+          "value": " respecto al método tradicional."
+        },
+        {
+          "key": "text-24",
+          "label": "(Y lo sabemos porque hemos estado ahí)",
+          "value": "(Y lo sabemos porque hemos estado ahí)"
+        },
+        {
+          "key": "text-25",
+          "label": "FLEXIBLE",
+          "value": "FLEXIBLE"
+        },
+        {
+          "key": "text-26",
+          "label": "Porque tu guion va a cambiar...",
+          "value": "Porque tu guion va a cambiar..."
+        },
+        {
+          "key": "text-27",
+          "label": "Tienes",
+          "value": "Tienes"
+        },
+        {
+          "key": "text-28",
+          "label": "2 revisiones incluidas",
+          "value": " 2 revisiones incluidas"
+        },
+        {
+          "key": "text-29",
+          "label": "y los",
+          "value": " y los "
+        },
+        {
+          "key": "text-30",
+          "label": "retakes",
+          "value": "retakes "
+        },
+        {
+          "key": "text-31",
+          "label": "también entran en el pack.",
+          "value": "también entran en el pack."
+        },
+        {
+          "key": "text-32",
+          "label": "(Un estudio tradicional te cobraría por respirar)",
+          "value": "(Un estudio tradicional te cobraría por respirar)"
+        },
+        {
+          "key": "text-33",
+          "label": "“Lo",
+          "value": "“Lo "
+        },
+        {
+          "key": "text-34",
+          "label": "único",
+          "value": "único"
+        },
+        {
+          "key": "text-35",
+          "label": "que no podemos darte es",
+          "value": " que no podemos darte es "
+        },
+        {
+          "key": "text-36",
+          "label": "café de máquina",
+          "value": "café de máquina"
+        },
+        {
+          "key": "text-37",
+          "label": "\"",
+          "value": "\""
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-6",
+      "label": "Y ¿por qué no hacerlo yo mismo...",
+      "template": "locucionesia-6",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Y ¿por qué no",
+          "value": "Y ¿por qué no"
+        },
+        {
+          "key": "text-1",
+          "label": "hacerlo",
+          "value": " hacerlo "
+        },
+        {
+          "key": "text-2",
+          "label": "yo mismo...",
+          "value": "yo mismo..."
+        },
+        {
+          "key": "text-3",
+          "label": "con cualquier herramienta TTS?",
+          "value": "con cualquier herramienta TTS?"
+        },
+        {
+          "key": "text-4",
+          "label": "¡Claro! Puedes hacerlo.",
+          "value": "¡Claro! Puedes hacerlo."
+        },
+        {
+          "key": "text-5",
+          "label": "Pero hay algo que",
+          "value": "Pero hay algo que "
+        },
+        {
+          "key": "text-6",
+          "label": "no has tenido en cuenta",
+          "value": "no has tenido en cuenta"
+        },
+        {
+          "key": "text-7",
+          "label": ":",
+          "value": ":"
+        },
+        {
+          "key": "text-8",
+          "label": "Puedes hacerlo",
+          "value": "Puedes hacerlo "
+        },
+        {
+          "key": "text-9",
+          "label": "rápido",
+          "value": "rápido"
+        },
+        {
+          "key": "text-10",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-11",
+          "label": "pero",
+          "value": "pero "
+        },
+        {
+          "key": "text-12",
+          "label": "sonará a IA genérica y sin personalidad",
+          "value": "sonará a IA genérica y sin personalidad"
+        },
+        {
+          "key": "text-13",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-14",
+          "label": "Si tu contenido no lo vale, es la mejor opción.",
+          "value": "Si tu contenido no lo vale, es la mejor opción."
+        },
+        {
+          "key": "text-15",
+          "label": "También puedes hacerlo",
+          "value": "También puedes hacerlo"
+        },
+        {
+          "key": "text-16",
+          "label": "barato",
+          "value": "barato"
+        },
+        {
+          "key": "text-17",
+          "label": ",",
+          "value": ","
+        },
+        {
+          "key": "text-18",
+          "label": "pero solo si tienes",
+          "value": "pero solo si tienes"
+        },
+        {
+          "key": "text-19",
+          "label": "muuucho tiempo libre",
+          "value": "muuucho tiempo libre"
+        },
+        {
+          "key": "text-20",
+          "label": "para aprender a usar las herramientas de TTS disponibles online.",
+          "value": "para aprender a usar las herramientas de TTS disponibles online."
+        },
+        {
+          "key": "text-21",
+          "label": "Aunque seguirá sonando a",
+          "value": "Aunque seguirá sonando a "
+        },
+        {
+          "key": "text-22",
+          "label": "teletienda",
+          "value": "teletienda"
+        },
+        {
+          "key": "text-23",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-24",
+          "label": "Y si encima,",
+          "value": "\n\t\t\t\t\t\t\t\t\tY si encima, "
+        },
+        {
+          "key": "text-25",
+          "label": "tienes los conocimientos",
+          "value": "tienes los conocimientos"
+        },
+        {
+          "key": "text-26",
+          "label": "y sabes identificar cual es el",
+          "value": " y sabes identificar cual es el "
+        },
+        {
+          "key": "text-27",
+          "label": "tono correcto",
+          "value": "tono correcto"
+        },
+        {
+          "key": "text-28",
+          "label": "en cada caso, adelante.",
+          "value": " en cada caso, adelante."
+        },
+        {
+          "key": "text-29",
+          "label": "Deberías hacerlo tú",
+          "value": "Deberías hacerlo tú"
+        },
+        {
+          "key": "text-30",
+          "label": "por tu cuenta.",
+          "value": " por tu cuenta."
+        },
+        {
+          "key": "text-31",
+          "label": "Te saldrá mucho más «",
+          "value": "\nTe saldrá mucho más «"
+        },
+        {
+          "key": "text-32",
+          "label": "barato",
+          "value": "barato"
+        },
+        {
+          "key": "text-33",
+          "label": "«.",
+          "value": "«."
+        },
+        {
+          "key": "text-34",
+          "label": "Ni más",
+          "value": "\nNi más "
+        },
+        {
+          "key": "text-35",
+          "label": "rápido",
+          "value": "rápido"
+        },
+        {
+          "key": "text-36",
+          "label": ", ni",
+          "value": ", ni "
+        },
+        {
+          "key": "text-37",
+          "label": "mejor",
+          "value": "mejor"
+        },
+        {
+          "key": "text-38",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-39",
+          "label": "Pero sí más «",
+          "value": "\nPero sí más «"
+        },
+        {
+          "key": "text-40",
+          "label": "barato",
+          "value": "barato"
+        },
+        {
+          "key": "text-41",
+          "label": "«.",
+          "value": "«.\n\t\t\t\t\t\t\t\t"
+        }
+      ],
+      "images": [],
+      "links": [],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-7",
+      "label": "Y la pregunta del millón…",
+      "template": "locucionesia-7",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Y la pregunta del millón…",
+          "value": "Y la pregunta del millón…"
+        },
+        {
+          "key": "text-1",
+          "label": "¿Cuánto me va a costar?",
+          "value": "¿Cuánto me va a costar?"
+        },
+        {
+          "key": "text-2",
+          "label": "Ya te habrás imaginado que dar un",
+          "value": "Ya te habrás imaginado que dar un "
+        },
+        {
+          "key": "text-3",
+          "label": "precio exacto",
+          "value": "precio exacto"
+        },
+        {
+          "key": "text-4",
+          "label": "para algo que es a",
+          "value": "para algo que es a "
+        },
+        {
+          "key": "text-5",
+          "label": "medida",
+          "value": "medida"
+        },
+        {
+          "key": "text-6",
+          "label": "es",
+          "value": "es "
+        },
+        {
+          "key": "text-7",
+          "label": "bastante complicado",
+          "value": "bastante complicado"
+        },
+        {
+          "key": "text-8",
+          "label": "sin tener todos los datos.",
+          "value": " sin tener todos los datos."
+        },
+        {
+          "key": "text-9",
+          "label": "Si quieres una oferta personalizada, haz clic",
+          "value": "Si quieres una oferta personalizada, haz clic "
+        },
+        {
+          "key": "text-10",
+          "label": "aquí",
+          "value": "aquí"
+        },
+        {
+          "key": "text-11",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-12",
+          "label": "Pero para que te hagas una idea,",
+          "value": "Pero para que te hagas una idea,"
+        },
+        {
+          "key": "text-13",
+          "label": "más abajo te damos unos",
+          "value": "más abajo te damos unos "
+        },
+        {
+          "key": "text-14",
+          "label": "precios orientativos",
+          "value": "precios orientativos"
+        },
+        {
+          "key": "text-15",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-16",
+          "label": "Así sabrás si esto se ajusta al",
+          "value": "Así sabrás si esto se ajusta al "
+        },
+        {
+          "key": "text-17",
+          "label": "presupuesto",
+          "value": "presupuesto"
+        },
+        {
+          "key": "text-18",
+          "label": "de tu proyecto.",
+          "value": " de tu proyecto."
+        },
+        {
+          "key": "text-19",
+          "label": "Anuncios",
+          "value": "Anuncios"
+        },
+        {
+          "key": "text-20",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-21",
+          "label": "audiolibros",
+          "value": "audiolibros"
+        },
+        {
+          "key": "text-22",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-23",
+          "label": "cursos online",
+          "value": "cursos online"
+        },
+        {
+          "key": "text-24",
+          "label": ",",
+          "value": ", "
+        },
+        {
+          "key": "text-25",
+          "label": "vídeos",
+          "value": "vídeos"
+        },
+        {
+          "key": "text-26",
+          "label": "de",
+          "value": " de "
+        },
+        {
+          "key": "text-27",
+          "label": "YouTube",
+          "value": "YouTube"
+        },
+        {
+          "key": "text-28",
+          "label": "y todo",
+          "value": "y todo "
+        },
+        {
+          "key": "text-29",
+          "label": "lo que se te ocurra",
+          "value": "lo que se te ocurra"
+        },
+        {
+          "key": "text-30",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-31",
+          "label": "Spot publicitario - 30s",
+          "value": "Spot publicitario - 30s\n"
+        },
+        {
+          "key": "text-32",
+          "label": "Estudio → entre 400 – 750 €",
+          "value": "Estudio → entre 400 – 750 €"
+        },
+        {
+          "key": "text-33",
+          "label": "Alquiler",
+          "value": "Alquiler"
+        },
+        {
+          "key": "text-34",
+          "label": "de sala",
+          "value": " de sala"
+        },
+        {
+          "key": "text-35",
+          "label": "Fee de",
+          "value": "Fee de "
+        },
+        {
+          "key": "text-36",
+          "label": "locutor publicitario",
+          "value": "locutor publicitario"
+        },
+        {
+          "key": "text-37",
+          "label": "Técnico",
+          "value": "Técnico"
+        },
+        {
+          "key": "text-38",
+          "label": "de grabación",
+          "value": " de grabación"
+        },
+        {
+          "key": "text-39",
+          "label": "Edición",
+          "value": "Edición"
+        },
+        {
+          "key": "text-40",
+          "label": "básica",
+          "value": " básica"
+        },
+        {
+          "key": "text-41",
+          "label": "Regrabaciones no incluidas",
+          "value": "Regrabaciones no incluidas"
+        },
+        {
+          "key": "text-42",
+          "label": "(cada cambio cuesta extra)",
+          "value": " (cada cambio cuesta extra)"
+        },
+        {
+          "key": "text-43",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-44",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-45",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-46",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-47",
+          "label": "→ desde",
+          "value": " → desde "
+        },
+        {
+          "key": "text-48",
+          "label": "60",
+          "value": "60"
+        },
+        {
+          "key": "text-49",
+          "label": "€",
+          "value": " €\t\t\t\t\t\t\t\t"
+        },
+        {
+          "key": "text-50",
+          "label": "Locución profesional",
+          "value": "Locución profesional"
+        },
+        {
+          "key": "text-51",
+          "label": "con IA",
+          "value": " con IA"
+        },
+        {
+          "key": "text-52",
+          "label": "Técnico",
+          "value": "Técnico"
+        },
+        {
+          "key": "text-53",
+          "label": "y",
+          "value": " y "
+        },
+        {
+          "key": "text-54",
+          "label": "postproducción",
+          "value": "postproducción"
+        },
+        {
+          "key": "text-55",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-56",
+          "label": "de audio incluido",
+          "value": " de audio incluido"
+        },
+        {
+          "key": "text-57",
+          "label": "2 revisiones completas",
+          "value": "2 revisiones completas"
+        },
+        {
+          "key": "text-58",
+          "label": "incluidas",
+          "value": " incluidas"
+        },
+        {
+          "key": "text-59",
+          "label": "Audiolibro - 5h de narración",
+          "value": "Audiolibro - 5h de narración"
+        },
+        {
+          "key": "text-60",
+          "label": "Estudio → entre 2.500 – 4.000 €",
+          "value": "Estudio → entre 2.500 – 4.000 €"
+        },
+        {
+          "key": "text-61",
+          "label": "Alquiler",
+          "value": "Alquiler"
+        },
+        {
+          "key": "text-62",
+          "label": "de estudio varios días",
+          "value": " de estudio varios días"
+        },
+        {
+          "key": "text-63",
+          "label": "Fee",
+          "value": "Fee"
+        },
+        {
+          "key": "text-64",
+          "label": "del narrador",
+          "value": " del narrador"
+        },
+        {
+          "key": "text-65",
+          "label": "Técnico",
+          "value": "Técnico"
+        },
+        {
+          "key": "text-66",
+          "label": "de grabación",
+          "value": " de grabación"
+        },
+        {
+          "key": "text-67",
+          "label": "Edición",
+          "value": "Edición"
+        },
+        {
+          "key": "text-68",
+          "label": "extensa",
+          "value": " extensa"
+        },
+        {
+          "key": "text-69",
+          "label": "Correcciones/retakes",
+          "value": "Correcciones/retakes"
+        },
+        {
+          "key": "text-70",
+          "label": "facturados aparte (caros)",
+          "value": " facturados aparte (caros)"
+        },
+        {
+          "key": "text-71",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-72",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-73",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-74",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-75",
+          "label": "→ desde",
+          "value": " → desde "
+        },
+        {
+          "key": "text-76",
+          "label": "900",
+          "value": "900 "
+        },
+        {
+          "key": "text-77",
+          "label": "€",
+          "value": "€"
+        },
+        {
+          "key": "text-78",
+          "label": "Narración completa",
+          "value": "Narración completa"
+        },
+        {
+          "key": "text-79",
+          "label": "en IA",
+          "value": " en IA"
+        },
+        {
+          "key": "text-80",
+          "label": "Técnico",
+          "value": "Técnico"
+        },
+        {
+          "key": "text-81",
+          "label": "y",
+          "value": " y "
+        },
+        {
+          "key": "text-82",
+          "label": "postproducción",
+          "value": "postproducción"
+        },
+        {
+          "key": "text-83",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-84",
+          "label": "y ajustes incluidos",
+          "value": " y ajustes incluidos"
+        },
+        {
+          "key": "text-85",
+          "label": "2 revisiones completas",
+          "value": "2 revisiones completas"
+        },
+        {
+          "key": "text-86",
+          "label": "incluidas",
+          "value": " incluidas"
+        },
+        {
+          "key": "text-87",
+          "label": "Curso online - 1h de audio",
+          "value": "Curso online - 1h de audio"
+        },
+        {
+          "key": "text-88",
+          "label": "Estudio → entre 800 – 1.200 €",
+          "value": "Estudio → entre 800 – 1.200 €"
+        },
+        {
+          "key": "text-89",
+          "label": "Alquiler",
+          "value": "Alquiler"
+        },
+        {
+          "key": "text-90",
+          "label": "de estudio 3 - 4 horas",
+          "value": " de estudio 3 - 4 horas"
+        },
+        {
+          "key": "text-91",
+          "label": "Fee",
+          "value": "Fee"
+        },
+        {
+          "key": "text-92",
+          "label": "del locutor/a",
+          "value": " del locutor/a"
+        },
+        {
+          "key": "text-93",
+          "label": "Técnico",
+          "value": "Técnico "
+        },
+        {
+          "key": "text-94",
+          "label": "de grabación",
+          "value": "de grabación"
+        },
+        {
+          "key": "text-95",
+          "label": "Edición",
+          "value": "Edición "
+        },
+        {
+          "key": "text-96",
+          "label": "y masterizado",
+          "value": "y masterizado"
+        },
+        {
+          "key": "text-97",
+          "label": "Regrabaciones",
+          "value": "Regrabaciones "
+        },
+        {
+          "key": "text-98",
+          "label": "facturadas aparte",
+          "value": "facturadas aparte"
+        },
+        {
+          "key": "text-99",
+          "label": "Digi",
+          "value": "Digi"
+        },
+        {
+          "key": "text-100",
+          "label": "Talks",
+          "value": "Talks"
+        },
+        {
+          "key": "text-101",
+          "label": "|",
+          "value": "|"
+        },
+        {
+          "key": "text-102",
+          "label": "ai",
+          "value": "ai"
+        },
+        {
+          "key": "text-103",
+          "label": "→ desde",
+          "value": " → desde "
+        },
+        {
+          "key": "text-104",
+          "label": "150",
+          "value": "150 "
+        },
+        {
+          "key": "text-105",
+          "label": "€",
+          "value": "€"
+        },
+        {
+          "key": "text-106",
+          "label": "Locución en IA",
+          "value": "Locución en IA"
+        },
+        {
+          "key": "text-107",
+          "label": "clara y neutra",
+          "value": " clara y neutra"
+        },
+        {
+          "key": "text-108",
+          "label": "Técnico",
+          "value": "Técnico"
+        },
+        {
+          "key": "text-109",
+          "label": "y",
+          "value": " y "
+        },
+        {
+          "key": "text-110",
+          "label": "edición completa",
+          "value": "edición completa"
+        },
+        {
+          "key": "text-111",
+          "label": "QA",
+          "value": "QA"
+        },
+        {
+          "key": "text-112",
+          "label": "incluido",
+          "value": " incluido"
+        },
+        {
+          "key": "text-113",
+          "label": "2 revisiones completas",
+          "value": "2 revisiones completas"
+        },
+        {
+          "key": "text-114",
+          "label": "incluidas",
+          "value": " incluidas"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "aquí",
+          "href": "#formulario_1"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": [
+        {
+          "key": "video-0",
+          "url": "https://www.youtube.com/watch?v=wPYDA594ZiM",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-1",
+          "url": "https://youtu.be/RnMLhJFZONc",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        },
+        {
+          "key": "video-2",
+          "url": "https://youtu.be/to4lri_vR2I",
+          "poster": "",
+          "label": "Reproducir vídeo"
+        }
+      ]
+    },
+    {
+      "id": "locucionesia-8",
+      "label": "¿Quieres saber cuánto costaría tu proyecto?",
+      "template": "locucionesia-8",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "¿Quieres saber cuánto costaría",
+          "value": "¿Quieres saber cuánto costaría "
+        },
+        {
+          "key": "text-1",
+          "label": "tu proyecto",
+          "value": "tu proyecto"
+        },
+        {
+          "key": "text-2",
+          "label": "?",
+          "value": "?"
+        },
+        {
+          "key": "text-3",
+          "label": "Rellena el formulario y te responderemos en menos de 2 días.",
+          "value": "Rellena el formulario y te responderemos en menos de 2 días."
+        },
+        {
+          "key": "text-4",
+          "label": "–",
+          "value": "–"
+        },
+        {
+          "key": "text-5",
+          "label": "Si es viernes no nos esperes hasta el lunes. También tenemos vida.",
+          "value": " Si es viernes no nos esperes hasta el lunes. También tenemos vida. "
+        },
+        {
+          "key": "text-6",
+          "label": "–",
+          "value": "–"
+        },
+        {
+          "key": "text-7",
+          "label": "Quiero saber precios",
+          "value": "Quiero saber precios"
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "Quiero saber precios",
+          "href": "#formulario_1"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-9",
+      "label": "Pd: No nos gustan los testimonios...",
+      "template": "locucionesia-9",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Pd",
+          "value": "Pd"
+        },
+        {
+          "key": "text-1",
+          "label": ": No nos gustan los",
+          "value": ": No nos gustan los "
+        },
+        {
+          "key": "text-2",
+          "label": "testimonios...",
+          "value": "testimonios..."
+        },
+        {
+          "key": "text-3",
+          "label": "Pero por si fueran",
+          "value": "Pero por si fueran "
+        },
+        {
+          "key": "text-4",
+          "label": "importantes para ti",
+          "value": "importantes para ti"
+        },
+        {
+          "key": "text-5",
+          "label": ", entonces te dejamos esto para que duermas tranquilo.",
+          "value": ", entonces te dejamos esto para que duermas tranquilo."
+        }
+      ],
+      "images": [
+        {
+          "key": "image-0",
+          "src": "/media/361e844ed25a-Captura-de-pantalla-2025-11-11-135523.png",
+          "alt": ""
+        },
+        {
+          "key": "image-1",
+          "src": "/media/a60ce860756c-Captura-de-pantalla-2025-11-11-134905.png",
+          "alt": ""
+        }
+      ],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "",
+          "href": "/media/361e844ed25a-Captura-de-pantalla-2025-11-11-135523.png"
+        },
+        {
+          "key": "link-1",
+          "label": "",
+          "href": "/media/a60ce860756c-Captura-de-pantalla-2025-11-11-134905.png"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    },
+    {
+      "id": "locucionesia-10",
+      "label": "Preguntas frecuentes",
+      "template": "locucionesia-10",
+      "enabled": true,
+      "texts": [
+        {
+          "key": "text-0",
+          "label": "Preguntas",
+          "value": "Preguntas "
+        },
+        {
+          "key": "text-1",
+          "label": "frecuentes",
+          "value": "frecuentes"
+        },
+        {
+          "key": "text-2",
+          "label": "¿Qué idiomas están disponibles?",
+          "value": "¿Qué idiomas están disponibles?"
+        },
+        {
+          "key": "text-3",
+          "label": "Unos cuantos: español (neutro, castellano, LATAM), catalán, inglés… y seguimos s",
+          "value": "Unos cuantos: español (neutro, castellano, LATAM), catalán, inglés… y seguimos sumando. Tú pide y vemos cómo lo hacemos sonar."
+        },
+        {
+          "key": "text-4",
+          "label": "¿Tengo derechos de uso?",
+          "value": "¿Tengo derechos de uso?"
+        },
+        {
+          "key": "text-5",
+          "label": "Sí. Todas nuestras locuciones incluyen licencias claras y legales en función del",
+          "value": "Sí. Todas nuestras locuciones incluyen licencias claras y legales en función del tipo de contenido. Nada de voces pirateadas de TikTok."
+        },
+        {
+          "key": "text-6",
+          "label": "¿Seguro que no suena a máquina?",
+          "value": "¿Seguro que no suena a máquina?"
+        },
+        {
+          "key": "text-7",
+          "label": "Seguro. A no ser que realmente quieras una voz de robot. Compruébalo en las",
+          "value": "Seguro. A no ser que realmente quieras una voz de robot. Compruébalo en las "
+        },
+        {
+          "key": "text-8",
+          "label": "demos",
+          "value": "demos"
+        },
+        {
+          "key": "text-9",
+          "label": ".",
+          "value": "."
+        },
+        {
+          "key": "text-10",
+          "label": "¿Puedo pedir cambios?",
+          "value": "¿Puedo pedir cambios?"
+        },
+        {
+          "key": "text-11",
+          "label": "Por supuesto. Ajustamos entonación, ritmo o estilo hasta que encaje con tu visió",
+          "value": "Por supuesto. Ajustamos entonación, ritmo o estilo hasta que encaje con tu visión. Tienes dos revisiones incluidas en el precio."
+        },
+        {
+          "key": "text-12",
+          "label": "¿Cuánto tardará mi locución en estar lista?",
+          "value": "¿Cuánto tardará mi locución en estar lista?"
+        },
+        {
+          "key": "text-13",
+          "label": "Pues depende de la duración. Calcula que si es contenido corto como un anuncio p",
+          "value": "Pues depende de la duración. Calcula que si es contenido corto como un anuncio puedes tenerlo listo "
+        },
+        {
+          "key": "text-14",
+          "label": "al día siguiente",
+          "value": "al día siguiente"
+        },
+        {
+          "key": "text-15",
+          "label": "de pasarnos toda la info. Si es un audio libro, en",
+          "value": " de pasarnos toda la info. Si es un audio libro, en "
+        },
+        {
+          "key": "text-16",
+          "label": "1-2 semanas",
+          "value": "1-2 semanas"
+        },
+        {
+          "key": "text-17",
+          "label": "también lo tendrías listo.",
+          "value": " también lo tendrías listo."
+        }
+      ],
+      "images": [],
+      "links": [
+        {
+          "key": "link-0",
+          "label": "¿Qué idiomas están disponibles?",
+          "href": "#Collapse-75906826b01c6fd77c7a"
+        },
+        {
+          "key": "link-1",
+          "label": "¿Tengo derechos de uso?",
+          "href": "#Collapse-1f3aa8b6b01c6fd77c7a"
+        },
+        {
+          "key": "link-2",
+          "label": "¿Seguro que no suena a máquina?",
+          "href": "#Collapse-a62c2336b01c6fd77c7a"
+        },
+        {
+          "key": "link-3",
+          "label": "demos",
+          "href": "#demos"
+        },
+        {
+          "key": "link-4",
+          "label": "¿Puedo pedir cambios?",
+          "href": "#Collapse-068d8376b01c6fd77c7a"
+        },
+        {
+          "key": "link-5",
+          "label": "¿Cuánto tardará mi locución en estar lista?",
+          "href": "#Collapse-37bae326b01c6fd77c7a"
+        }
+      ],
+      "forms": [],
+      "type": "migrated",
+      "videos": []
+    }
+  ],
+  "backgrounds": [
+    {
+      "original": "/media/b90eb3d42d91.webp",
+      "src": "/media/b90eb3d42d91.webp"
+    },
+    {
+      "original": "/media/8832d2cc6140-eicons.svg",
+      "src": "/media/8832d2cc6140-eicons.svg"
+    },
+    {
+      "original": "/media/3ac7de974603-fa-brands-400.svg",
+      "src": "/media/3ac7de974603-fa-brands-400.svg"
+    },
+    {
+      "original": "/media/eb8399cba787-fa-solid-900.svg",
+      "src": "/media/eb8399cba787-fa-solid-900.svg"
+    }
+  ]
+}
