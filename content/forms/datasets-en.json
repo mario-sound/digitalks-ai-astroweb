@@ -5,101 +5,21 @@
   "source": "B2B brief",
   "fields": [
     {
-      "name": "name",
-      "label": "Name",
-      "type": "text",
-      "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "company",
-      "label": "Company",
-      "type": "text",
-      "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
       "name": "email",
       "label": "Work email",
       "type": "email",
       "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "languages",
-      "label": "Languages",
-      "type": "text",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "speakers",
-      "label": "Speaker count and profiles",
-      "type": "text",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "hours",
-      "label": "Approximate finished hours",
-      "type": "number",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "use",
-      "label": "Intended use",
-      "type": "text",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "date",
-      "label": "Target date",
-      "type": "date",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "message",
-      "label": "Technical requirements and comments",
-      "type": "textarea",
-      "required": false,
-      "placeholder": "",
+      "placeholder": "nombre@empresa.com",
       "width": "full",
       "showLabel": true,
       "options": []
     },
     {
-      "name": "privacy",
-      "label": "I have read the privacy policy and consent to processing for this enquiry.",
-      "type": "checkbox",
-      "required": true,
-      "placeholder": "",
+      "name": "message",
+      "label": "Project description (optional)",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Tell us what you need.",
       "width": "full",
       "showLabel": true,
       "options": []
@@ -108,5 +28,10 @@
   "submit": "Request a dataset quote",
   "status": "unconfigured",
   "senderFormId": "",
-  "notice": "Website submission is awaiting configuration. Please email audio@digitalks-ai.com."
+  "notice": "Website submission is awaiting activation. Please email us directly.",
+  "compact": true,
+  "optionalLabel": "Tell us more about your project (optional)",
+  "privacyText": "La Cabra Sonora S.L.U. will process your details to respond to this enquiry. Basis: pre-contractual steps for service requests or legitimate interest for other communications. See recipients, retention and your rights in our",
+  "privacyLabel": "privacy policy",
+  "emailError": "Enter a valid email so we can reply."
 }

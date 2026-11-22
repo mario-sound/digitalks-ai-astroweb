@@ -47,3 +47,9 @@ OTS usa `ErrorDocument 410 /ots-audio-data-collection/index.html`, con `noindex`
 Canonicals absolutos, hreflang recíproco ES/EN y x-default en las seis páginas. Un solo H1. Open Graph con recursos locales. JSON-LD WebPage/Service y organización sin reseñas ni acreditaciones inventadas. Sitemap únicamente de páginas activas. Robots y meta noindex preservan modo preview. No publicar la rama ni desactivar preview durante revisión.
 
 Antes del lanzamiento: revisar Search Console e indexación real; confirmar no existen rutas históricas adicionales; probar cada Location/301 y 410 en staging Apache, verificar HTTPS, canonical, recursos, sitemap y ausencia de cadenas. Después: enviar sitemap, monitorizar 404, indexación y rendimiento. Sin publicación en esta tarea.
+
+## Navegación premium — 23/11/2026
+
+Se elimina la entrada Contacto de escritorio/móvil. No había una página comercial de contacto en las 16 rutas importadas: era un enlace a `/#contacto`. Se mantiene el ancla local en cada una de las seis páginas y todos los CTAs de conversión apuntan a ella. El footer no ofrecía una página independiente; ahora muestra el email corporativo además de los legales.
+
+Se revisaron inventario original, contenido activo y mapa de redirecciones; no se encontró una ruta de contacto que deba retirarse. No se inventan rutas `/contact/` o `/contacto/` ni se les asigna un 301 sin evidencia. No hay acceso a Search Console para verificar backlinks históricos externos; revisar esa evidencia antes del lanzamiento. Las seis redirecciones 301 existentes y la retirada OTS 410 conservan sus reglas; Hostinger sigue pendiente de validación real.

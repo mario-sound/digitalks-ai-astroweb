@@ -63,7 +63,8 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "services"
+      "kind": "services",
+      "headingAccent": "Nosotros reforzamos la entrega."
     },
     {
       "type": "commercial",
@@ -83,7 +84,26 @@
       "enabled": true,
       "surface": "soft",
       "kind": "workflow",
-      "note": "Flujo ilustrativo; calendario y revisiones se acuerdan por proyecto."
+      "note": "Flujo ilustrativo; calendario y revisiones se acuerdan por proyecto.",
+      "timeline": [
+        {
+          "title": "Grabación",
+          "body": "Estudios del cliente"
+        },
+        {
+          "title": "Postproducción",
+          "body": "DigiTalks"
+        },
+        {
+          "title": "QA",
+          "body": "Revisión del lote"
+        },
+        {
+          "title": "Entrega",
+          "body": "Archivos finales"
+        }
+      ],
+      "headingAccent": "La postproducción también."
     },
     {
       "type": "commercial",
@@ -103,10 +123,40 @@
       "enabled": true,
       "surface": "dark",
       "kind": "suiteqa",
-      "image": "/media/suiteqa-production.webp",
+      "image": "",
       "alt": "Captura real de SuiteQA: líneas de guion, referencias y decisiones de revisión",
       "caption": "SuiteQA · Vista interna de revisión de audio y guion.",
-      "note": "Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión."
+      "note": "Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión.",
+      "screenshots": [
+        {
+          "id": "qa-review",
+          "src": "/images/suiteqa/qa-review.webp",
+          "title": "Revisión de audio y guion",
+          "alt": "Vista real de SuiteQA con guion, referencias de audio y decisiones de QA",
+          "caption": "Vista interna de QA · Captura original de la presentación.",
+          "status": "internal",
+          "review": "pending",
+          "enabled": true
+        },
+        {
+          "id": "production-report",
+          "src": "/images/suiteqa/production-report.webp",
+          "title": "Informes de producción",
+          "alt": "Informe real de SuiteQA con fases REC, POST y QA",
+          "caption": "Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo.",
+          "status": "development",
+          "review": "pending",
+          "enabled": true
+        }
+      ],
+      "galleryLabel": "Vistas de SuiteQA",
+      "zoomLabel": "Ampliar captura",
+      "closeLabel": "Cerrar captura",
+      "previewLabel": "Vista previa local · Imágenes pendientes de aprobación de publicación",
+      "developmentLabel": "En desarrollo",
+      "originalSizeLabel": "Tamaño original",
+      "fitLabel": "Ajustar a pantalla",
+      "headingAccent": "El contexto del diálogo, conectado."
     },
     {
       "type": "commercial",
@@ -128,7 +178,8 @@
         }
       ],
       "enabled": true,
-      "surface": "light"
+      "surface": "light",
+      "headingAccent": "tu producción."
     },
     {
       "type": "commercial",
@@ -150,19 +201,21 @@
         }
       ],
       "enabled": true,
-      "surface": "soft"
+      "surface": "soft",
+      "headingAccent": "alcance propio."
     },
     {
       "type": "commercial",
       "id": "contacto",
       "heading": "¿Tienes un lote en camino?",
-      "body": "Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.",
+      "body": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación.",
       "items": [],
       "enabled": true,
       "surface": "brand",
       "kind": "contact",
       "form": "post-es",
-      "email": "audio@digitalks-ai.com"
+      "email": "audio@digitalks-ai.com",
+      "headingAccent": "en camino?"
     }
   ]
 }

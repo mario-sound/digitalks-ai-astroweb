@@ -1,0 +1,57 @@
+[
+  {
+    "image": "image13",
+    "name": "qa-review",
+    "localPreview": true,
+    "width": 1915,
+    "height": 912,
+    "sourceBytes": 228182,
+    "webBytes": 67232,
+    "webWidth": 1915,
+    "webHeight": 912
+  },
+  {
+    "image": "image3",
+    "name": "production-report",
+    "localPreview": true,
+    "width": 966,
+    "height": 761,
+    "sourceBytes": 65587,
+    "webBytes": 21048,
+    "webWidth": 966,
+    "webHeight": 761
+  },
+  {
+    "image": "image8",
+    "name": "recording-workspace",
+    "localPreview": false,
+    "width": 1919,
+    "height": 898,
+    "sourceBytes": 191571,
+    "webBytes": 72250,
+    "webWidth": 1919,
+    "webHeight": 898
+  },
+  {
+    "image": "image2",
+    "name": "client-dashboard",
+    "localPreview": false,
+    "width": 1916,
+    "height": 910,
+    "sourceBytes": 208717,
+    "webBytes": 119006,
+    "webWidth": 1916,
+    "webHeight": 910
+  },
+  {
+    "image": "image1",
+    "name": "user-administration",
+    "localPreview": false,
+    "width": 931,
+    "height": 812,
+    "sourceBytes": 107902,
+    "webBytes": 28964,
+    "webWidth": 931,
+    "webHeight": 812
+  }
+]

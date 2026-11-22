@@ -11,10 +11,6 @@
     {
       "label": "Voice Datasets",
       "href": "/audio-data-collection/"
-    },
-    {
-      "label": "Contacto",
-      "href": "/#contacto"
     }
   ],
   "en": [
@@ -29,10 +25,6 @@
     {
       "label": "Voice Datasets",
       "href": "/en/audio-data-collection-en/"
-    },
-    {
-      "label": "Contact",
-      "href": "/en/start/#contacto"
     }
   ]
 }

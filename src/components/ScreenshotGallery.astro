@@ -1,0 +1,28 @@
+---
+import sharp from 'sharp';
+import {general,type Section} from '../lib/content';
+interface Props{section:Section}
+const {section:s}=Astro.props;
+const screenshots=await Promise.all((s.screenshots||[]).filter(image=>image.enabled!==false&&image.src&&(general.preview||image.review==='approved')).map(async image=>{
+ if(!/^\/(images\/suiteqa|media)\/[a-zA-Z0-9_-][a-zA-Z0-9._-]*$/.test(image.src))throw Error('SuiteQA screenshots must use local media paths');
+ const size=await sharp('public'+image.src).metadata();
+ return {...image,width:size.width,height:size.height};
+}));
+const galleryId=`screens-${s.id}`;
+---
+{screenshots.length>0&&<div class="suiteqa-showcase" data-screen-gallery>
+ {general.preview&&screenshots.some(i=>i.review!=='approved')&&<p class="screenshot-preview-note">{s.previewLabel}</p>}
+ <div class="screens-stack" aria-label={s.galleryLabel}>
+  {screenshots.map((image,index)=><figure class:list={['tool-screen',{'screen-primary':index===0,'screen-secondary':index===1}]} data-reveal>
+   <a href={image.src} target="_blank" rel="noopener" data-screen-link data-caption={image.caption} data-alt={image.alt} aria-label={`${s.zoomLabel} · ${image.title}`} aria-haspopup="dialog" aria-controls={galleryId}>
+    <img src={image.src} alt={image.alt} width={image.width} height={image.height} loading="eager"/>
+    <span class="screen-zoom">{s.zoomLabel}<span aria-hidden="true">＋</span></span>
+   </a>
+   <figcaption><strong>{image.title}</strong>{image.status==='development'&&<span class="screen-development">{s.developmentLabel}</span>}<p>{image.caption}</p></figcaption>
+  </figure>)}
+ </div>
+ <dialog id={galleryId} class="screenshot-lightbox" aria-labelledby={`${galleryId}-title`}>
+  <div class="lightbox-toolbar"><h3 id={`${galleryId}-title`}>{s.galleryLabel}</h3><div class="lightbox-actions"><button type="button" data-scale-screen data-original-label={s.originalSizeLabel} data-fit-label={s.fitLabel} aria-pressed="false">{s.originalSizeLabel}</button><button type="button" data-close-screen>{s.closeLabel}<span aria-hidden="true"> ×</span></button></div></div>
+  <div class="lightbox-scroll" tabindex="0" aria-label={s.galleryLabel}><img data-lightbox-image alt=""/></div><p data-lightbox-caption></p>
+ </dialog>
+</div>}

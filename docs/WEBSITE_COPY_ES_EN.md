@@ -14,6 +14,8 @@ CTA: Request a dubbing quote → #contacto
 
 CTA: Listen to demos → #demos
 
+ORIGINAL CHARACTERS · MULTILINGUAL VOICES
+
 ### Two sectors. Different production needs.
 
 
@@ -122,25 +124,29 @@ Voice rights, consent, permitted uses and any exclusivity are agreed per project
 
 A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.
 
+10+
+
+years of team experience in professional audio production
+
+Game Audio,Localization,Dubbing,Multilingual Production,Post-production,Voice Recording,Technical QA
+
 ### Which content would you like to take to new markets?
 
 
 
-Tell us about the content, languages and approximate volume. We will review the materials and scope with you.
+Leave your email. Add a few lines about your project if you like, and we can take it from there.
 
 Formulario:
-- Name *
-- Company *
 - Work email *
-- Content type * [Select / Animation / Games / Other]
-- Source and target languages
-- Approximate volume (minutes or words)
-- Project and comments
-- I have read the privacy policy and consent to processing for this enquiry. *
+- Project description (optional)
 
 Request a dubbing quote
 
-Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
+Website submission is awaiting activation. Please email us directly.
+
+Tell us more about your project (optional)
+
+La Cabra Sonora S.L.U. will process your details to respond to this enquiry. Basis: pre-contractual steps for service requests or legitimate interest for other communications. See recipients, retention and your rights in our privacy policy
 
 audio@digitalks-ai.com
 
@@ -159,6 +165,8 @@ Lleva tu contenido a nuevos mercados con una producción de doblaje profesional 
 CTA: Solicitar presupuesto → #contacto
 
 CTA: Escuchar demos → #demos
+
+PERSONAJES PROPIOS · VOCES MULTILINGÜES
 
 ### Dos sectores. Distintas necesidades.
 
@@ -268,25 +276,29 @@ Derechos de voz, consentimiento, usos y cualquier exclusividad se acuerdan por p
 
 Un equipo con experiencia profesional en audio, localización y videojuegos. Acordamos referencias, criterios de revisión y entregables para mantener coherencia entre idiomas y fases. Las demos muestran el resultado que puedes evaluar.
 
+10+
+
+años de experiencia del equipo en producción de audio profesional
+
+Game Audio,Localization,Dubbing,Multilingual Production,Post-production,Voice Recording,Technical QA
+
 ### ¿Qué contenido quieres llevar a nuevos mercados?
 
 
 
-Cuéntanos el tipo de contenido, los idiomas y el volumen aproximado. Revisaremos los materiales y el alcance contigo.
+Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación.
 
 Formulario:
-- Nombre *
-- Empresa *
 - Email profesional *
-- Tipo de contenido * [Selecciona / Animación / Videojuegos / Otro]
-- Idiomas de origen y destino
-- Volumen aproximado (minutos o palabras)
-- Proyecto y comentarios
-- He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
+- Descripción del proyecto (opcional)
 
 Solicitar presupuesto de doblaje
 
-El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
+Envío web pendiente de activación. Escríbenos directamente por email.
+
+Contarnos más sobre tu proyecto (opcional)
+
+La Cabra Sonora S.L.U. tratará tus datos para responder a esta consulta. Base: medidas precontractuales para solicitudes de servicio o interés legítimo en otras comunicaciones. Consulta destinatarios, conservación y derechos en la política de privacidad
 
 audio@digitalks-ai.com
 
@@ -354,6 +366,8 @@ We agree the parameters before recording. There is no single format for every pr
 
 - **Usage and rights**: Consent, voice rights and permitted uses expressly agreed for each project.
 
+AGREED SPECIFICATION / PRODUCTION CONTROL
+
 ### A new corpus. A defined process.
 
 
@@ -372,23 +386,19 @@ We agree the parameters before recording. There is no single format for every pr
 
 
 
-Share the languages, speaker profiles, finished hours, intended use and requirements. We will confirm feasibility and scope before quoting.
+Leave your email. Add a few lines about your project if you like, and we can take it from there.
 
 Formulario:
-- Name *
-- Company *
 - Work email *
-- Languages
-- Speaker count and profiles
-- Approximate finished hours
-- Intended use
-- Target date
-- Technical requirements and comments
-- I have read the privacy policy and consent to processing for this enquiry. *
+- Project description (optional)
 
 Request a dataset quote
 
-Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
+Website submission is awaiting activation. Please email us directly.
+
+Tell us more about your project (optional)
+
+La Cabra Sonora S.L.U. will process your details to respond to this enquiry. Basis: pre-contractual steps for service requests or legitimate interest for other communications. See recipients, retention and your rights in our privacy policy
 
 audio@digitalks-ai.com
 
@@ -456,6 +466,8 @@ Acordamos los parámetros antes de grabar. No hay un único formato válido para
 
 - **Uso y derechos**: Consentimiento, derechos de voz y usos permitidos establecidos expresamente para cada proyecto.
 
+ESPECIFICACIÓN ACORDADA / CONTROL DE PRODUCCIÓN
+
 ### Un corpus nuevo. Un proceso definido.
 
 
@@ -474,23 +486,19 @@ Acordamos los parámetros antes de grabar. No hay un único formato válido para
 
 
 
-Comparte idiomas, perfiles, horas finales, uso previsto y requisitos. Confirmaremos viabilidad y alcance antes de presupuestar.
+Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación.
 
 Formulario:
-- Nombre *
-- Empresa *
 - Email profesional *
-- Idiomas
-- Número y perfil de locutores
-- Horas finales aproximadas
-- Uso previsto
-- Fecha estimada
-- Requisitos técnicos y comentarios
-- He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
+- Descripción del proyecto (opcional)
 
 Consultar dataset de voz
 
-El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
+Envío web pendiente de activación. Escríbenos directamente por email.
+
+Contarnos más sobre tu proyecto (opcional)
+
+La Cabra Sonora S.L.U. tratará tus datos para responder a esta consulta. Base: medidas precontractuales para solicitudes de servicio o interés legítimo en otras comunicaciones. Consulta destinatarios, conservación y derechos en la política de privacidad
 
 audio@digitalks-ai.com
 
@@ -540,6 +548,14 @@ Send completed sessions as they become available. We begin post-production in ba
 
 Illustrative workflow; schedule and reviews are agreed per project.
 
+Recording: Client studios
+
+Post-production: DigiTalks
+
+QA: Batch review
+
+Delivery: Final assets
+
 ### SuiteQA. Dialogue context, connected.
 
 
@@ -553,6 +569,10 @@ Our internal system connects script lines, recording IDs, audio references and Q
 SuiteQA · Internal audio and script review view.
 
 An internal production tool that keeps each line’s context available throughout review.
+
+Captura: Audio and script review · Internal QA view · Original image from the presentation. · internal
+
+Captura: Production reports · Report presentation example. The client dashboard is in development. · development
 
 ### Support that fits your production.
 
@@ -582,22 +602,19 @@ Add-ons are scoped around the project’s needs and are not automatically includ
 
 
 
-Send the file count, languages, specifications and target date. We will review the scope and capacity required.
+Leave your email. Add a few lines about your project if you like, and we can take it from there.
 
 Formulario:
-- Name *
-- Company *
 - Work email *
-- Approximate file count
-- Languages
-- Services required
-- Target date
-- Technical requirements and comments
-- I have read the privacy policy and consent to processing for this enquiry. *
+- Project description (optional)
 
 Request post-production capacity
 
-Website submission is awaiting configuration. Please email audio@digitalks-ai.com.
+Website submission is awaiting activation. Please email us directly.
+
+Tell us more about your project (optional)
+
+La Cabra Sonora S.L.U. will process your details to respond to this enquiry. Basis: pre-contractual steps for service requests or legitimate interest for other communications. See recipients, retention and your rights in our privacy policy
 
 audio@digitalks-ai.com
 
@@ -647,6 +664,14 @@ Envía las sesiones conforme estén listas. Iniciamos la postproducción por lot
 
 Flujo ilustrativo; calendario y revisiones se acuerdan por proyecto.
 
+Grabación: Estudios del cliente
+
+Postproducción: DigiTalks
+
+QA: Revisión del lote
+
+Entrega: Archivos finales
+
 ### SuiteQA. El contexto del diálogo, conectado.
 
 
@@ -660,6 +685,10 @@ Nuestro sistema interno conecta líneas de guion, recording IDs, referencias de 
 SuiteQA · Vista interna de revisión de audio y guion.
 
 Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión.
+
+Captura: Revisión de audio y guion · Vista interna de QA · Captura original de la presentación. · internal
+
+Captura: Informes de producción · Ejemplo de presentación de un informe. El dashboard de cliente está en desarrollo. · development
 
 ### El refuerzo que encaja con tu producción.
 
@@ -689,22 +718,19 @@ Los complementos se presupuestan según lo que necesita el proyecto; no están i
 
 
 
-Indica archivos, idiomas, especificaciones y fecha prevista. Revisaremos el alcance y la capacidad necesaria.
+Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación.
 
 Formulario:
-- Nombre *
-- Empresa *
 - Email profesional *
-- Número aproximado de archivos
-- Idiomas
-- Servicios requeridos
-- Fecha estimada
-- Requisitos técnicos y comentarios
-- He leído la política de privacidad y consiento el tratamiento para atender mi consulta. *
+- Descripción del proyecto (opcional)
 
 Consultar postproducción
 
-El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com.
+Envío web pendiente de activación. Escríbenos directamente por email.
+
+Contarnos más sobre tu proyecto (opcional)
+
+La Cabra Sonora S.L.U. tratará tus datos para responder a esta consulta. Base: medidas precontractuales para solicitudes de servicio o interés legítimo en otras comunicaciones. Consulta destinatarios, conservación y derechos en la política de privacidad
 
 audio@digitalks-ai.com
 
@@ -728,10 +754,6 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
     {
       "label": "Voice Datasets",
       "href": "/audio-data-collection/"
-    },
-    {
-      "label": "Contacto",
-      "href": "/#contacto"
     }
   ],
   "en": [
@@ -746,10 +768,6 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
     {
       "label": "Voice Datasets",
       "href": "/en/audio-data-collection-en/"
-    },
-    {
-      "label": "Contact",
-      "href": "/en/start/#contacto"
     }
   ]
 }
@@ -772,7 +790,8 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
         "href": "/politica-de-cookies-ue/"
       }
     ],
-    "unlinked": ""
+    "unlinked": "",
+    "email": "audio@digitalks-ai.com"
   },
   "en": {
     "copyright": "Copyright © DigiTalks-AI. All rights reserved.",
@@ -787,7 +806,8 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
         "href": "/politica-de-cookies-ue/"
       }
     ],
-    "unlinked": ""
+    "unlinked": "",
+    "email": "audio@digitalks-ai.com"
   }
 }
 ```
@@ -805,7 +825,11 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
     "consentText": "Sólo se almacena tu elección en este navegador. Los servicios externos opcionales permanecen bloqueados hasta que los aceptes.",
     "necessary": "Sólo necesarias",
     "optional": "Aceptar opcionales",
-    "privacy": "Política de privacidad"
+    "privacy": "Política de privacidad",
+    "audioPlay": "Reproducir",
+    "audioPause": "Pausar",
+    "audioSeek": "Posición de audio",
+    "audioMute": "Silenciar"
   },
   "en": {
     "skip": "Skip to content",
@@ -816,7 +840,11 @@ Description: Equipo externo de postproducción de voz para videojuegos y localiz
     "consentText": "Only your choice is stored in this browser. Optional external services remain blocked until you accept them.",
     "necessary": "Necessary only",
     "optional": "Accept optional",
-    "privacy": "Privacy policy"
+    "privacy": "Privacy policy",
+    "audioPlay": "Play",
+    "audioPause": "Pause",
+    "audioSeek": "Audio position",
+    "audioMute": "Mute"
   }
 }
 ```

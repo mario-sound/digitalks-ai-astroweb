@@ -27,3 +27,9 @@ Para ver cambios localmente: `npm run dev`, abrir http://localhost:4321/. Los JS
 El nombre de archivo usa `{fields.id}.json` para mantener IDs estables aunque cambie el título. Referencias de configuración verificadas: [Filename](https://pagescms.org/docs/configuration/content/filename/), [Block](https://pagescms.org/docs/configuration/fields/block/), [List](https://pagescms.org/docs/configuration/content/list/).
 
 La selección de demos, personajes y formularios usa [referencias nativas a colecciones](https://pagescms.org/docs/configuration/fields/reference/), con etiquetas legibles e IDs estables. Las demos son una lista reordenable de referencias; no es necesario escribir identificadores para añadir una demo existente. El registro de prueba local con campos vacíos está en `docs/strategy/cms-local-check.json`.
+
+## Dirección artística y SuiteQA
+
+Los bloques incluyen `headingAccent`, un fragmento exacto del título que recibe el acento de marca. Si el título cambia y el fragmento deja de coincidir, se muestra el texto completo sin error. Cifras, atribución y especialidades del banner son editables; nunca se calculan como antigüedad de la sociedad. Los formularios ahora contienen email obligatorio y descripción opcional, con nota de privacidad editable.
+
+SuiteQA tiene lista de capturas con imagen, alt, título, pie, estado, visibilidad y revisión. La fuente de medios `suiteqa` se limita a `public/images/suiteqa`. Las dimensiones se leen de los archivos al compilar para reservar correctamente el espacio incluso al sustituir una captura. No se exige escribir medidas en el CMS. Ver `docs/suiteqa/EXTRACTION_AND_REVIEW.md` para procedencia y exclusiones.

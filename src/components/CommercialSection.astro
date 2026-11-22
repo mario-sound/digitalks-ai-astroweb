@@ -1,5 +1,8 @@
 ---
 import {demos,characters,forms,type Section} from '../lib/content';
+import {headlineMarkup} from '../lib/headline';
+import ScreenshotGallery from './ScreenshotGallery.astro';
+import ExperienceBanner from './ExperienceBanner.astro';
 import AudioPlayer from './AudioPlayer.astro';
 import ContactForm from './ContactForm.astro';
 interface Props {section:Section;lang:string}
@@ -11,16 +14,19 @@ const form=forms.find(f=>f.id===s.form);
 ---
 {s.enabled!==false&&<section id={s.id} class:list={['design-section','b2b-section',`tone-${s.surface||'light'}`,`b2b-${s.kind||'content'}`]}>
  <div class="section-shell">
-  <div class="b2b-heading">
+  {s.kind==='experience'?<ExperienceBanner section={s}/>:<div class="b2b-heading" data-reveal>
    {s.eyebrow&&<p class="b2b-eyebrow">{s.eyebrow}</p>}
-   {s.kind==='hero'?<h1>{s.heading}</h1>:<h2>{s.heading}</h2>}
+   {s.kind==='hero'?<h1>{s.heading}</h1>:<h2 set:html={headlineMarkup(s.heading||'',s.headingAccent)}/>}
    {s.body&&<p class="b2b-intro">{s.body}</p>}
    {!!s.actions?.length&&<div class="hero-actions">{(s.actions||[]).map((a,i)=><a class:list={['design-button',{'button-secondary':i>0}]} href={a.href}>{a.label}</a>)}</div>}
-  </div>
-  {s.kind==='hero'&&s.image&&<div class="b2b-hero-art"><span aria-hidden="true" class="voice-orbit"></span><img src={s.image} alt={s.alt||''} width="520" height="520" fetchpriority="high"/></div>}
+  </div>}
+  {s.kind==='hero'&&s.image&&<div class="b2b-hero-art" data-reveal><div class="hero-geometry" aria-hidden="true"><span></span><span></span><span></span><span></span></div><div class="hero-portrait"><img src={s.image} alt={s.alt||''} width="520" height="285" fetchpriority="high"/></div>{s.artworkImages?.map((image,i)=><div class:list={['hero-support',`hero-support-${i}`]}><img src={image.src} alt={image.alt} width="280" height="154" loading="eager"/></div>)}<p class="hero-art-caption">{s.caption}</p><div class="hero-bars" aria-hidden="true">{Array.from({length:15},(_,i)=><span style={`--bar:${(i*7)%11+3}`}></span>)}</div></div>}
   {!!s.heroMetrics?.length&&<div class="production-stack" aria-label={s.eyebrow}>{(s.heroMetrics||[]).map(m=><div><span>{m.title}</span><p>{m.body}</p></div>)}</div>}
-  {!!s.items?.length&&<div class="b2b-items">{(s.items||[]).map((item,i)=><article><span class="item-index" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><h3>{item.title}</h3><p>{item.body}</p></article>)}</div>}
-  {s.kind==='suiteqa'&&s.image&&<figure class="suiteqa-figure"><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
+  {s.kind!=='experience'&&!!s.items?.length&&<div class="b2b-items">{(s.items||[]).map((item,i)=><article data-reveal><span class="item-index" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><h3>{item.title}</h3><p>{item.body}</p></article>)}</div>}
+  {s.kind==='workflow'&&!!s.timeline?.length&&<div class="production-timeline" data-reveal>{s.timeline?.map((step,i)=><div class="timeline-phase" style={`--phase:${i}`}><h3>{step.title}</h3><p>{step.body}</p><span class="timeline-bar" aria-hidden="true"></span></div>)}</div>}
+  {s.kind==='specs'&&s.caption&&<p class="spec-caption">{s.caption}</p>}
+  {s.kind==='suiteqa'&&!!s.screenshots?.length&&<ScreenshotGallery section={s}/>}
+  {s.kind==='suiteqa'&&!s.screenshots?.length&&s.image&&<figure class="suiteqa-figure" data-reveal><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
   {s.kind==='demos'&&<div class="b2b-demos">
    <h3 class="demo-category">{s.characterLabel}</h3><div class="character-grid">{singles.map(d=><article><img src={d.image} alt={d.title} width="260" height="260" loading="lazy"/><div class="demo-card-copy"><h4>{d.title}</h4><p>{d.language}</p><AudioPlayer demo={d} lang={lang}/></div></article>)}</div>
    <h3 class="demo-category">{s.multilingualLabel}</h3><div class="multilingual-grid">{groups.map(group=><article class="multilingual-character"><img src={group[0].image} alt={group[0].title} width="300" height="300" loading="lazy"/><div><h4>{group[0].title}</h4>{group.map(d=><div class="language-demo"><span lang={d.language.slice(0,2)}>{d.language}</span><AudioPlayer demo={d} lang={lang}/></div>)}</div></article>)}</div>

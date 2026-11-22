@@ -33,3 +33,9 @@ Los PDF permanecen locales e ignorados por Git. No se copian a `public` ni a `di
 ## Pendientes de lanzamiento
 
 Aprobar la difusión de la captura de SuiteQA y los textos de ejemplo; obtener fuentes originales de captura si existen. Confirmar derechos de medios nuevos antes de incorporarlos. Validar política legal y consentimientos con los responsables. Configurar Sender y comprobar recepción mediante envío autorizado. Estas condiciones no bloquean la revisión local.
+
+## Actualización premium y originales SuiteQA
+
+La cifra 10+ está autorizada explícitamente por el nuevo encargo y se atribuye al equipo, no a la fecha de constitución de DigiTalks. No se añaden logotipos.
+
+El PowerPoint local permite extraer los PNG originales. La galería sustituye la anterior conversión del PDF por WebP lossless derivados directamente de imágenes incrustadas. No se muestran pantallas de usuarios ni dashboard operativo: contienen nombres/emails o información de trabajo pendiente de verificar. Los dos recursos de QA/informe son exclusivamente preview local pendiente de aprobación. Informe y dashboard no se presentan como portal de cliente disponible. Un build fuera de preview queda bloqueado mientras haya capturas pendientes con recurso asignado. Los originales privados y el PPTX están ignorados y fuera de `public`.

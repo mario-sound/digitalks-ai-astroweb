@@ -5,98 +5,21 @@
   "source": "B2B brief",
   "fields": [
     {
-      "name": "name",
-      "label": "Nombre",
-      "type": "text",
-      "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "company",
-      "label": "Empresa",
-      "type": "text",
-      "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
       "name": "email",
       "label": "Email profesional",
       "type": "email",
       "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "content",
-      "label": "Tipo de contenido",
-      "type": "select",
-      "required": true,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": [
-        {
-          "label": "Selecciona",
-          "value": ""
-        },
-        {
-          "label": "Animación",
-          "value": "animation"
-        },
-        {
-          "label": "Videojuegos",
-          "value": "games"
-        },
-        {
-          "label": "Otro",
-          "value": "other"
-        }
-      ]
-    },
-    {
-      "name": "languages",
-      "label": "Idiomas de origen y destino",
-      "type": "text",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "volume",
-      "label": "Volumen aproximado (minutos o palabras)",
-      "type": "text",
-      "required": false,
-      "placeholder": "",
-      "width": "half",
-      "showLabel": true,
-      "options": []
-    },
-    {
-      "name": "message",
-      "label": "Proyecto y comentarios",
-      "type": "textarea",
-      "required": false,
-      "placeholder": "",
+      "placeholder": "nombre@empresa.com",
       "width": "full",
       "showLabel": true,
       "options": []
     },
     {
-      "name": "privacy",
-      "label": "He leído la política de privacidad y consiento el tratamiento para atender mi consulta.",
-      "type": "checkbox",
-      "required": true,
-      "placeholder": "",
+      "name": "message",
+      "label": "Descripción del proyecto (opcional)",
+      "type": "textarea",
+      "required": false,
+      "placeholder": "Cuéntanos lo que necesitas.",
       "width": "full",
       "showLabel": true,
       "options": []
@@ -105,5 +28,10 @@
   "submit": "Solicitar presupuesto de doblaje",
   "status": "unconfigured",
   "senderFormId": "",
-  "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."
+  "notice": "Envío web pendiente de activación. Escríbenos directamente por email.",
+  "compact": true,
+  "optionalLabel": "Contarnos más sobre tu proyecto (opcional)",
+  "privacyText": "La Cabra Sonora S.L.U. tratará tus datos para responder a esta consulta. Base: medidas precontractuales para solicitudes de servicio o interés legítimo en otras comunicaciones. Consulta destinatarios, conservación y derechos en la",
+  "privacyLabel": "política de privacidad",
+  "emailError": "Introduce un email válido para poder responderte."
 }

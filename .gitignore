@@ -10,3 +10,6 @@ __pycache__/
 .comparison/
 # Private source presentations: never publish or commit.
 refs/*.pdf
+refs/*.pptx
+refs/suiteqa-extracted-originals/
+refs/suiteqa-web-review/

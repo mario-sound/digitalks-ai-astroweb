@@ -1,6 +1,6 @@
 import {readFileSync} from 'node:fs';
 import {join} from 'node:path';
-import { demos, forms, general, languages, type Section, type Demo, type Form } from './content';
+import { demos, forms, general, languages, ui, type Section, type Demo, type Form } from './content';
 export const escape=(s:unknown)=>String(s??'').replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('>','&gt;').replaceAll('"','&quot;').replaceAll("'",'&#39;');
 export function safeUrl(s:string):string {
  if(s.startsWith('//')||/[\u0000-\u0020]/.test(s))throw Error('Invalid URL');
@@ -8,14 +8,27 @@ export function safeUrl(s:string):string {
  throw Error('Unsafe or non-HTTPS URL: '+s);
 }
 export function audioMarkup(demo:Demo,lang:string,preload:'none'|'metadata'='none'){
+ const labels=ui[lang];
+ const custom=`<div class="audio-controls" hidden><button type="button" class="audio-play" aria-label="${escape(labels.audioPlay+' · '+demo.title+' · '+demo.language)}" data-play-label="${escape(labels.audioPlay+' · '+demo.title+' · '+demo.language)}" data-pause-label="${escape(labels.audioPause+' · '+demo.title+' · '+demo.language)}"><span aria-hidden="true"></span></button><div class="audio-transport"><input class="audio-seek" type="range" min="0" max="100" step="0.1" value="0" disabled aria-label="${escape(labels.audioSeek+' · '+demo.title+' · '+demo.language)}"><span class="audio-time">0:00 / —</span></div><button type="button" class="audio-mute" aria-label="${escape(labels.audioMute)}" aria-pressed="false"><span aria-hidden="true">♪</span></button></div>`;
  const error=languages.find(x=>x.id===lang)?.formError||'Audio unavailable';
- return `<div class="audio-player"><audio class="dt-player__audio" controls preload="${preload}" aria-label="${escape(demo.title+' · '+demo.language)}" data-demo="${escape(demo.id)}"><source src="${safeUrl(demo.audio)}" type="audio/mpeg"><a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></audio><p class="audio-error" role="status" hidden>${escape(error)} <a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></p></div>`;
+ return `<div class="audio-player"><audio class="dt-player__audio" controls preload="${preload}" aria-label="${escape(demo.title+' · '+demo.language)}" data-demo="${escape(demo.id)}"><source src="${safeUrl(demo.audio)}" type="audio/mpeg"><a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></audio>${custom}<p class="audio-error" role="status" hidden>${escape(error)} <a href="${safeUrl(demo.audio)}">${escape(demo.title)}</a></p></div>`;
 }
 export function formMarkup(form:Form){
  if(general.senderEnabled&&general.senderAccountId&&form.status==='configured'&&form.senderFormId){
   return `<div class="sender-form-field" data-sender-form-id="${escape(form.senderFormId)}"></div>`;
  }
  const id=escape(form.id);
+ if(form.compact){
+  const email=form.fields.find(f=>f.type==='email');const message=form.fields.find(f=>f.type==='textarea');
+  if(!email)throw Error('Compact form requires email');
+  return `<form class="dt-form migration-form compact-form" data-unconfigured aria-describedby="${id}-notice ${id}-privacy">
+   <div class="compact-email"><label for="${id}-email">${escape(email.label)}</label><input id="${id}-email" name="${escape(email.name)}" type="email" required autocomplete="email" inputmode="email" placeholder="${escape(email.placeholder)}" aria-describedby="${id}-error"><p id="${id}-error" class="field-error" role="status" hidden>${escape(form.emailError)}</p></div>
+   ${message?`<details class="project-details"><summary>${escape(form.optionalLabel)}</summary><div><label class="screen-reader-label" for="${id}-message">${escape(message.label)}</label><textarea id="${id}-message" name="${escape(message.name)}" rows="3" maxlength="3000" placeholder="${escape(message.placeholder)}"></textarea></div></details>`:''}
+   <button type="submit" disabled aria-describedby="${id}-notice">${escape(form.submit)}</button>
+   <p class="compact-privacy" id="${id}-privacy">${escape(form.privacyText)} <a href="${form.lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}">${escape(form.privacyLabel)}</a>.</p>
+   <p class="form-notice" id="${id}-notice">${escape(form.notice)}</p></form>`;
+ }
+
  return `<form class="dt-form migration-form" data-unconfigured aria-describedby="${id}-notice">${form.fields.map((f,i)=>{
  if(f.type==='heading')return `<p class="form-heading">${escape(f.label)}</p>`;
  const fid=id+'-'+i;

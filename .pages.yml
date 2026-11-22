@@ -1,7 +1,19 @@
 # Pages CMS official file/collection/block schema. No private credentials.
 media:
-  input: public/media
-  output: /media
+  - name: assets
+    label: Medios DigiTalks
+    input: public/media
+    output: /media
+  - name: suiteqa
+    label: Capturas SuiteQA revisadas
+    input: public/images/suiteqa
+    output: /images/suiteqa
+    extensions:
+      - webp
+      - avif
+      - png
+      - jpg
+    rename: safe
 content:
   - name: pages
     label: Páginas
@@ -63,6 +75,7 @@ content:
                     - suiteqa
                     - languages
                     - specs
+                    - experience
               - name: enabled
                 type: boolean
               - name: surface
@@ -77,6 +90,9 @@ content:
                 type: string
               - name: heading
                 type: string
+              - name: headingAccent
+                type: string
+                label: Fragmento destacado del título (texto exacto)
               - name: body
                 type: text
               - name: items
@@ -103,10 +119,95 @@ content:
                     type: string
               - name: image
                 type: image
+                options:
+                  media: assets
               - name: alt
                 type: string
               - name: caption
                 type: string
+              - name: screenshots
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: id
+                    type: string
+                  - name: src
+                    type: image
+                    options:
+                      media: suiteqa
+                  - name: title
+                    type: string
+                  - name: alt
+                    type: string
+                  - name: caption
+                    type: text
+                  - name: status
+                    type: select
+                    options:
+                      values:
+                        - internal
+                        - development
+                  - name: review
+                    type: select
+                    options:
+                      values:
+                        - pending
+                        - approved
+                  - name: enabled
+                    type: boolean
+                label: Capturas originales SuiteQA
+              - name: galleryLabel
+                type: string
+              - name: originalSizeLabel
+                type: string
+              - name: fitLabel
+                type: string
+              - name: zoomLabel
+                type: string
+              - name: closeLabel
+                type: string
+              - name: previewLabel
+                type: string
+              - name: developmentLabel
+                type: string
+              - name: artworkImages
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: src
+                    type: image
+                    options:
+                      media: assets
+                  - name: alt
+                    type: string
+              - name: stat
+                type: string
+              - name: statLabel
+                type: string
+              - name: specialties
+                type: string
+                list: true
+              - name: pauseLabel
+                type: string
+              - name: resumeLabel
+                type: string
+              - name: timeline
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: title
+                    type: string
+                  - name: body
+                    type: string
               - name: note
                 type: text
               - name: actions
@@ -175,12 +276,18 @@ content:
         type: string
       - name: audio
         type: file
+        options:
+          media: assets
       - name: image
         type: image
         readonly: true
         label: Retrato heredado; editar en Personajes
+        options:
+          media: assets
       - name: flag
         type: image
+        options:
+          media: assets
       - name: source
         type: string
         readonly: true
@@ -201,6 +308,8 @@ content:
         type: string
       - name: image
         type: image
+        options:
+          media: assets
   - name: languages
     label: Idiomas
     type: collection
@@ -258,6 +367,8 @@ content:
         type: string
       - name: logo
         type: image
+        options:
+          media: assets
       - name: preview
         type: boolean
         label: "Vista previa: bloquea indexación"
@@ -284,6 +395,8 @@ content:
           - name: copyright
             type: string
           - name: credit
+            type: string
+          - name: email
             type: string
           - name: links
             type: object
@@ -328,6 +441,14 @@ content:
           - name: optional
             type: text
           - name: privacy
+            type: text
+          - name: audioPlay
+            type: text
+          - name: audioPause
+            type: text
+          - name: audioSeek
+            type: text
+          - name: audioMute
             type: text
       - name: en
         type: object
@@ -416,6 +537,16 @@ content:
         label: ID público real del formulario Sender
       - name: notice
         type: text
+      - name: compact
+        type: boolean
+      - name: optionalLabel
+        type: string
+      - name: privacyText
+        type: text
+      - name: privacyLabel
+        type: string
+      - name: emailError
+        type: string
   - name: seo
     label: SEO
     type: collection
@@ -446,6 +577,8 @@ content:
             type: string
       - name: image
         type: image
+        options:
+          media: assets
   - name: legal
     label: Contenido legal
     type: collection
@@ -509,6 +642,8 @@ content:
             readonly: true
           - name: src
             type: image
+            options:
+              media: assets
         label: Imágenes de fondo
       - name: sections
         type: block
@@ -543,6 +678,8 @@ content:
                 name: artwork
                 type: image
                 label: Imagen o fondo de la composición
+                options:
+                  media: assets
               - &a6
                 name: actions
                 type: object
@@ -574,6 +711,8 @@ content:
                     type: string
                   - name: poster
                     type: image
+                    options:
+                      media: assets
                   - name: label
                     type: string
               - name: id
@@ -614,6 +753,8 @@ content:
                     readonly: true
                   - name: src
                     type: image
+                    options:
+                      media: assets
                   - name: alt
                     type: string
                 label: Fotografías e imágenes
@@ -677,6 +818,8 @@ content:
                 type: string
               - name: image
                 type: image
+                options:
+                  media: assets
               - name: alt
                 type: string
           - name: audio

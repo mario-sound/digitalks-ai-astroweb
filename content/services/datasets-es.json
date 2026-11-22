@@ -67,7 +67,8 @@
       ],
       "enabled": true,
       "surface": "soft",
-      "kind": "languages"
+      "kind": "languages",
+      "headingAccent": "Producción bajo demanda."
     },
     {
       "type": "commercial",
@@ -94,7 +95,8 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "services"
+      "kind": "services",
+      "headingAccent": "el archivo."
     },
     {
       "type": "commercial",
@@ -121,7 +123,9 @@
       ],
       "enabled": true,
       "surface": "dark",
-      "kind": "specs"
+      "kind": "specs",
+      "caption": "ESPECIFICACIÓN ACORDADA / CONTROL DE PRODUCCIÓN",
+      "headingAccent": "la entrega."
     },
     {
       "type": "commercial",
@@ -148,19 +152,21 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "process"
+      "kind": "process",
+      "headingAccent": "Un proceso definido."
     },
     {
       "type": "commercial",
       "id": "contacto",
       "heading": "¿Qué datos de voz necesitas?",
-      "body": "Comparte idiomas, perfiles, horas finales, uso previsto y requisitos. Confirmaremos viabilidad y alcance antes de presupuestar.",
+      "body": "Déjanos tu email. Si quieres, añade unas líneas sobre el proyecto y seguimos la conversación.",
       "items": [],
       "enabled": true,
       "surface": "brand",
       "kind": "contact",
       "form": "datasets-es",
-      "email": "audio@digitalks-ai.com"
+      "email": "audio@digitalks-ai.com",
+      "headingAccent": "voz necesitas?"
     }
   ]
 }

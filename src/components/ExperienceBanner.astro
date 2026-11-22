@@ -1,0 +1,14 @@
+---
+import type {Section} from '../lib/content';
+interface Props{section:Section}
+const {section:s}=Astro.props;
+---
+<div class="experience-banner">
+ <div class="experience-lead"><p class="experience-stat">{s.stat}</p><h2>{s.statLabel}</h2></div>
+ <div class="experience-copy"><h3>{s.heading}</h3><p>{s.body}</p></div>
+ <div class="expertise-marquee">
+  <ul class="expertise-static">{s.specialties?.map(label=><li>{label}</li>)}</ul>
+  <div class="marquee-window" aria-hidden="true"><div class="marquee-track">{[0,1].map(()=><div class="marquee-group">{s.specialties?.map(label=><span>{label}<i></i></span>)}</div>)}</div></div>
+ </div>
+ <button class="motion-toggle" type="button" hidden data-pause-label={s.pauseLabel} data-resume-label={s.resumeLabel} aria-pressed="false">{s.pauseLabel}</button>
+</div>

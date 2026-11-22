@@ -6,6 +6,7 @@ import {readFileSync} from 'node:fs';
 import siteCss from '../styles/site.css?inline';
 import fontsCss from '../styles/fonts.css?inline';
 import tokensCss from '../styles/tokens.css?inline';
+import premiumCss from '../styles/premium.css?inline';
 import commercialCss from '../styles/commercial.css?inline';
 import designCss from '../styles/design.css?inline';
 interface Props {page:Page}
@@ -35,7 +36,7 @@ for(const bg of page.backgrounds||[]){
   {!page.design&&<style is:inline set:html={inlineCss}></style>}
   <style is:inline set:html={fontsCss}></style>
   <style is:inline set:html={siteCss}></style>
-  {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style><style is:inline set:html={commercialCss}></style></>}
+  {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style><style is:inline set:html={commercialCss}></style><style is:inline set:html={premiumCss}></style></>}
   <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebPage',mainEntity:page.commercial?{'@type':'Service',name:page.title,provider:{'@type':'Organization',name:'DigiTalks AI',url:general.url}}:undefined,name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
 </head>
 <body class={page.design?'digitalks-design':page.bodyClass||'dt-kit-46024'} data-sender-account={general.senderEnabled?general.senderAccountId:''} data-gtm-id={general.analyticsEnabled&&!general.preview?general.gtmId:''}>
@@ -50,5 +51,6 @@ for(const bg of page.backgrounds||[]){
     <a href={page.lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}>{labels.privacy}</a>
   </dialog>
   <script src="../scripts/client.ts"></script>
+  <script src="../scripts/premium.ts"></script>
 </body>
 </html>

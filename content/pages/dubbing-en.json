@@ -28,7 +28,18 @@
           "label": "Listen to demos",
           "href": "#demos"
         }
-      ]
+      ],
+      "artworkImages": [
+        {
+          "src": "/media/13acb6f128a7.webp",
+          "alt": "DigiTalks ogre character"
+        },
+        {
+          "src": "/media/f051e94840fd.webp",
+          "alt": "DigiTalks pirate character"
+        }
+      ],
+      "caption": "ORIGINAL CHARACTERS · MULTILINGUAL VOICES"
     },
     {
       "type": "commercial",
@@ -47,7 +58,8 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "sectors"
+      "kind": "sectors",
+      "headingAccent": "Different production needs."
     },
     {
       "type": "commercial",
@@ -77,7 +89,8 @@
         "136d449eee15",
         "3af28f6af8be",
         "0abe5c673d61"
-      ]
+      ],
+      "headingAccent": "Compare the languages."
     },
     {
       "type": "commercial",
@@ -112,7 +125,8 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "services"
+      "kind": "services",
+      "headingAccent": "final version."
     },
     {
       "type": "commercial",
@@ -139,7 +153,8 @@
       ],
       "enabled": true,
       "surface": "dark",
-      "note": "Voice rights, consent, permitted uses and any exclusivity are agreed per project."
+      "note": "Voice rights, consent, permitted uses and any exclusivity are agreed per project.",
+      "headingAccent": "each character."
     },
     {
       "type": "commercial",
@@ -170,7 +185,8 @@
       ],
       "enabled": true,
       "surface": "light",
-      "kind": "process"
+      "kind": "process",
+      "headingAccent": "production process."
     },
     {
       "type": "commercial",
@@ -179,19 +195,34 @@
       "body": "A team with professional experience in audio, localization and games. We agree references, review criteria and deliverables to keep languages and production stages consistent. The demos give you results you can assess.",
       "items": [],
       "enabled": true,
-      "surface": "soft"
+      "surface": "dark",
+      "kind": "experience",
+      "stat": "10+",
+      "statLabel": "years of team experience in professional audio production",
+      "specialties": [
+        "Game Audio",
+        "Localization",
+        "Dubbing",
+        "Multilingual Production",
+        "Post-production",
+        "Voice Recording",
+        "Technical QA"
+      ],
+      "pauseLabel": "Pause motion",
+      "resumeLabel": "Resume motion"
     },
     {
       "type": "commercial",
       "id": "contacto",
       "heading": "Which content would you like to take to new markets?",
-      "body": "Tell us about the content, languages and approximate volume. We will review the materials and scope with you.",
+      "body": "Leave your email. Add a few lines about your project if you like, and we can take it from there.",
       "items": [],
       "enabled": true,
       "surface": "brand",
       "kind": "contact",
       "form": "dubbing-en",
-      "email": "audio@digitalks-ai.com"
+      "email": "audio@digitalks-ai.com",
+      "headingAccent": "new markets?"
     }
   ]
 }

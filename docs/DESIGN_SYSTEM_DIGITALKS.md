@@ -63,3 +63,9 @@ Tres composiciones: home creativa con personaje original y galería de 16 demos;
 Hero en Poppins con tamaño fluido 42–70 px; secciones 32–48 px, cuerpo 15–18 px. Mono para etiquetas técnicas y Bebas para pasos/idiomas. Contenedor 1200 px, espacios 8 px, secciones 56–96 px, radios 10/16 px y botones píldora. En móvil se apilan hero/formulario y demos; las demos multilingües conservan todos los reproductores visibles. No hay carrusel ni animación nueva. Los reproductores nativos permiten teclado, volumen y búsqueda; sólo uno reproduce a la vez.
 
 Las capturas de herramientas se muestran completas con pie y acceso al tamaño original. No se recrean pantallas ni instalaciones. Todo el copy comercial, imágenes, listas, CTAs, orden de demos y selección de formulario proviene de JSON editable. El código sólo define composición y comportamiento.
+
+## Evolución premium
+
+`premium.css` y `premium.ts` añaden dirección artística y mejora progresiva sobre la base existente. Hero con personajes en capas y geometría CSS original, banner tipográfico, reproductor con controles accesibles ligados al audio real y formularios compactos. `MOTION_DESIGN_SYSTEM.md` documenta movimiento y alternativas estáticas.
+
+Tras la revisión visual del usuario, los títulos de sección recuperan Bebas Neue: 48–80 px, mayúsculas y acento naranja sobre claro/amarillo sobre oscuro. Los subtítulos de servicio usan Bebas a 26–38 px. H1 y texto comercial conservan Poppins y su contenido. El fragmento destacado se edita en `headingAccent`; no se introducen palabras o promesas distintas mediante CSS. La experiencia/atribución mantiene su tratamiento propio para conservar legibilidad.

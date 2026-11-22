@@ -1,0 +1,128 @@
+{
+  "source": "DigiTalks_Game_Audio_Post_Production_v13.pptx",
+  "sourceSha256": "a16eed550ad2b436ac60f625e70e5536db6777c0855d5696d72c30df34b3eeba",
+  "unique": 10,
+  "identicalDuplicates": 0,
+  "images": [
+    {
+      "entry": "ppt/media/image10.png",
+      "sha256": "b428810b5f0e8f1a0ae6faf5b98b2a9dbc3256b86d880fddae0909275066115a",
+      "bytes": 43626,
+      "width": 2048,
+      "height": 445,
+      "duplicateOf": null,
+      "slides": [
+        2,
+        3,
+        4,
+        5,
+        7,
+        9,
+        10,
+        12
+      ]
+    },
+    {
+      "entry": "ppt/media/image1.png",
+      "sha256": "9b550e11a9580b4094070d9e4edd4cddf35831e275338c7a63cbc6714c658404",
+      "bytes": 107902,
+      "width": 931,
+      "height": 812,
+      "duplicateOf": null,
+      "slides": [
+        3
+      ]
+    },
+    {
+      "entry": "ppt/media/image13.png",
+      "sha256": "a50a6d65552737bf567c6331489dafa4ee70e682d658d52b46939040982fe913",
+      "bytes": 228182,
+      "width": 1915,
+      "height": 912,
+      "duplicateOf": null,
+      "slides": [
+        3
+      ]
+    },
+    {
+      "entry": "ppt/media/image6.png",
+      "sha256": "e06e82f154e379260a568603ec6d15f07418772d965c0142527501fa4c25e306",
+      "bytes": 34010,
+      "width": 824,
+      "height": 824,
+      "duplicateOf": null,
+      "slides": [
+        8
+      ]
+    },
+    {
+      "entry": "ppt/media/image3.png",
+      "sha256": "4ed0e27c52ae204aeafb9741f2e82d12302868035b116b8801d67b89ae4833c4",
+      "bytes": 65587,
+      "width": 966,
+      "height": 761,
+      "duplicateOf": null,
+      "slides": [
+        5
+      ]
+    },
+    {
+      "entry": "ppt/media/image8.png",
+      "sha256": "114f039a6be8dbf145d563fd7accf63698e55ab5f951ec228a7ddc88478e046d",
+      "bytes": 191571,
+      "width": 1919,
+      "height": 898,
+      "duplicateOf": null,
+      "slides": [
+        3
+      ]
+    },
+    {
+      "entry": "ppt/media/image11.png",
+      "sha256": "7ea5c6a3e269a0e7c616260c729a83f3919104266d18049510bb64616dd57e6b",
+      "bytes": 1637659,
+      "width": 1672,
+      "height": 941,
+      "duplicateOf": null,
+      "slides": [
+        1
+      ]
+    },
+    {
+      "entry": "ppt/media/image7.png",
+      "sha256": "13cad79d3906ab306bc92bb780393200af990e6b81822319dab5a40cd6617753",
+      "bytes": 175,
+      "width": 4,
+      "height": 616,
+      "duplicateOf": null,
+      "slides": [
+        7
+      ]
+    },
+    {
+      "entry": "ppt/media/image9.png",
+      "sha256": "69c97a5e56bb415c6a0b3329fd54afc9400f62d486a617d8778d0953c8c24aea",
+      "bytes": 36457,
+      "width": 2048,
+      "height": 445,
+      "duplicateOf": null,
+      "slides": [
+        1,
+        6,
+        11,
+        13
+      ]
+    },
+    {
+      "entry": "ppt/media/image2.png",
+      "sha256": "e99f704958be5f1c5eaeb370c1bfa3419979ddf510d0b383299534c25e5f2324",
+      "bytes": 208717,
+      "width": 1916,
+      "height": 910,
+      "duplicateOf": null,
+      "slides": [
+        4
+      ]
+    }
+  ]
+}

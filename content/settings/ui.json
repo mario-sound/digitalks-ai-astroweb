@@ -8,7 +8,11 @@
     "consentText": "Sólo se almacena tu elección en este navegador. Los servicios externos opcionales permanecen bloqueados hasta que los aceptes.",
     "necessary": "Sólo necesarias",
     "optional": "Aceptar opcionales",
-    "privacy": "Política de privacidad"
+    "privacy": "Política de privacidad",
+    "audioPlay": "Reproducir",
+    "audioPause": "Pausar",
+    "audioSeek": "Posición de audio",
+    "audioMute": "Silenciar"
   },
   "en": {
     "skip": "Skip to content",
@@ -19,6 +23,10 @@
     "consentText": "Only your choice is stored in this browser. Optional external services remain blocked until you accept them.",
     "necessary": "Necessary only",
     "optional": "Accept optional",
-    "privacy": "Privacy policy"
+    "privacy": "Privacy policy",
+    "audioPlay": "Play",
+    "audioPause": "Pause",
+    "audioSeek": "Audio position",
+    "audioMute": "Mute"
   }
 }
