@@ -1,0 +1,31 @@
+---
+import {demos,characters,forms,type Section} from '../lib/content';
+import AudioPlayer from './AudioPlayer.astro';
+import ContactForm from './ContactForm.astro';
+interface Props {section:Section;lang:string}
+const {section:s,lang}=Astro.props;
+const selected=(s.demoIds||[]).map(id=>demos.find(d=>d.id===id)).filter(Boolean).map(d=>({...d!,image:characters.find(c=>c.id===d!.character)?.image||d!.image,title:characters.find(c=>c.id===d!.character)?.title||d!.title})) as typeof demos;
+const singles=selected.filter(d=>d.order<=6);
+const groups=[...new Set(selected.filter(d=>d.order>6).map(d=>d.character))].map(id=>selected.filter(d=>d.character===id));
+const form=forms.find(f=>f.id===s.form);
+---
+{s.enabled!==false&&<section id={s.id} class:list={['design-section','b2b-section',`tone-${s.surface||'light'}`,`b2b-${s.kind||'content'}`]}>
+ <div class="section-shell">
+  <div class="b2b-heading">
+   {s.eyebrow&&<p class="b2b-eyebrow">{s.eyebrow}</p>}
+   {s.kind==='hero'?<h1>{s.heading}</h1>:<h2>{s.heading}</h2>}
+   {s.body&&<p class="b2b-intro">{s.body}</p>}
+   {s.actions?.length&&<div class="hero-actions">{s.actions.map((a,i)=><a class:list={['design-button',{'button-secondary':i>0}]} href={a.href}>{a.label}</a>)}</div>}
+  </div>
+  {s.kind==='hero'&&s.image&&<div class="b2b-hero-art"><span aria-hidden="true" class="voice-orbit"></span><img src={s.image} alt={s.alt||''} width="520" height="520" fetchpriority="high"/></div>}
+  {s.heroMetrics?.length&&<div class="production-stack" aria-label={s.eyebrow}>{s.heroMetrics.map((m,i)=><div><span>{m.title}</span><p>{m.body}</p></div>)}</div>}
+  {!!s.items?.length&&<div class="b2b-items">{(s.items||[]).map((item,i)=><article><span class="item-index" aria-hidden="true">{String(i+1).padStart(2,'0')}</span><h3>{item.title}</h3><p>{item.body}</p></article>)}</div>}
+  {s.kind==='suiteqa'&&s.image&&<figure class="suiteqa-figure"><a href={s.image} target="_blank" rel="noopener"><img src={s.image} alt={s.alt||''} width="1915" height="912" loading="eager"/></a><figcaption>{s.caption}</figcaption></figure>}
+  {s.kind==='demos'&&<div class="b2b-demos">
+   <h3 class="demo-category">{s.characterLabel}</h3><div class="character-grid">{singles.map(d=><article><img src={d.image} alt={d.title} width="260" height="260" loading="lazy"/><div class="demo-card-copy"><h4>{d.title}</h4><p>{d.language}</p><AudioPlayer demo={d} lang={lang}/></div></article>)}</div>
+   <h3 class="demo-category">{s.multilingualLabel}</h3><div class="multilingual-grid">{groups.map(group=><article class="multilingual-character"><img src={group[0].image} alt={group[0].title} width="300" height="300" loading="lazy"/><div><h4>{group[0].title}</h4>{group.map(d=><div class="language-demo"><span lang={d.language.slice(0,2)}>{d.language}</span><AudioPlayer demo={d} lang={lang}/></div>)}</div></article>)}</div>
+  </div>}
+  {s.kind==='contact'&&<div class="b2b-contact-form">{form&&<ContactForm form={form}/>}<p class="contact-direct"><a href={`mailto:${s.email}`}>{s.email}</a> · <a href={lang==='es'?'/politica-de-privacidad/':'/en/privacy-policy/'}>{lang==='es'?'Privacidad':'Privacy'}</a></p></div>}
+  {s.note&&<p class="b2b-note">{s.note}</p>}
+ </div>
+</section>}

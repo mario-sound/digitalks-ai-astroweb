@@ -6,6 +6,7 @@ import {readFileSync} from 'node:fs';
 import siteCss from '../styles/site.css?inline';
 import fontsCss from '../styles/fonts.css?inline';
 import tokensCss from '../styles/tokens.css?inline';
+import commercialCss from '../styles/commercial.css?inline';
 import designCss from '../styles/design.css?inline';
 interface Props {page:Page}
 const {page}=Astro.props;
@@ -24,7 +25,7 @@ for(const bg of page.backgrounds||[]){
 <head>
   <meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>{seo.title}</title><meta name="description" content={seo.description}/>
-  {general.preview&&<meta name="robots" content="noindex,nofollow"/>}
+  {(general.preview||page.id==='ots-retired')&&<meta name="robots" content="noindex,nofollow"/>}
   {general.searchConsoleVerification&&<meta name="google-site-verification" content={general.searchConsoleVerification}/>}
   <link rel="canonical" href={canonical}/>
   {seo.alternates.map(alt=><link rel="alternate" hreflang={alt.lang} href={new URL(alt.path,general.url).href}/>)}
@@ -34,13 +35,13 @@ for(const bg of page.backgrounds||[]){
   {!page.design&&<style is:inline set:html={inlineCss}></style>}
   <style is:inline set:html={fontsCss}></style>
   <style is:inline set:html={siteCss}></style>
-  {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style></>}
-  <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':'WebPage',name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
+  {page.design&&<><style is:inline set:html={tokensCss}></style><style is:inline set:html={designCss}></style><style is:inline set:html={commercialCss}></style></>}
+  <script type="application/ld+json" set:html={JSON.stringify({'@context':'https://schema.org','@type':page.commercial?'Service':'WebPage',provider:page.commercial?{'@type':'Organization',name:'DigiTalks AI',url:general.url}:undefined,name:seo.title,description:seo.description,url:canonical,inLanguage:page.lang}).replaceAll('<','\\u003c')}></script>
 </head>
 <body class={page.design?'digitalks-design':page.bodyClass||'dt-kit-46024'} data-sender-account={general.senderEnabled?general.senderAccountId:''} data-gtm-id={general.analyticsEnabled&&!general.preview?general.gtmId:''}>
   <a class="skip-link" href="#content">{labels.skip}</a>
   <Header page={page} seo={seo}/>
-  <main id="content" class={page.design?'design-content':page.rootClass||''} tabindex="-1">{!page.sections.some(s=>s.template)&&<h1 class="custom-page-title">{page.title}</h1>}<slot/></main>
+  <main id="content" class={page.design?'design-content':page.rootClass||''} tabindex="-1">{!page.commercial&&!page.sections.some(s=>s.template)&&<h1 class="custom-page-title">{page.title}</h1>}<slot/></main>
   <Footer lang={page.lang}/>
   <dialog id="consent-dialog" aria-labelledby="consent-heading">
     <h2 id="consent-heading">{labels.consentTitle}</h2>

@@ -1,29 +1,37 @@
-import {test}from'node:test';import assert from'node:assert/strict';import fs from'node:fs';import {parseHTML}from'linkedom';import YAML from'yaml';
-const baseline=JSON.parse(fs.readFileSync('docs/design/content-baseline.json'));const visualKeys=['surface','layout','artwork','actions','featuredDemos'];
-function editorial(page){const value=structuredClone(page);delete value.design;for(const s of value.sections||[])for(const key of visualKeys)delete s[key];return value}
-test('redesign preserves every original editorial record, demo, form and SEO value',()=>{
- for(const[file,{value}]of Object.entries(baseline)){const actual=JSON.parse(fs.readFileSync('content/'+file));if(/^(pages|services|legal)\//.test(file))assert.deepEqual(editorial(actual),value,file);else assert.deepEqual(actual,value,file);}
+import {test}from'node:test';import assert from'node:assert/strict';import fs from'node:fs';import crypto from'node:crypto';import {parseHTML}from'linkedom';import YAML from'yaml';
+const baseline=JSON.parse(fs.readFileSync('docs/design/content-baseline.json'));
+const read=p=>JSON.parse(fs.readFileSync(p));
+const collection=n=>fs.readdirSync('content/'+n).filter(f=>f.endsWith('.json')).map(f=>read('content/'+n+'/'+f));
+const pages=['pages','services','legal'].flatMap(collection);
+const doc=p=>parseHTML(fs.readFileSync('dist'+p+'index.html','utf8')).document;
+test('strategic rewrite preserves all original audio files and character/language associations',()=>{
+ const demos=collection('demos');assert.equal(demos.length,16);
+ for(const[file,{value}]of Object.entries(baseline).filter(([k])=>k.startsWith('demos/'))){const d=read('content/'+file);for(const key of ['id','audio','character','language','source','order'])assert.equal(d[key],value[key],file+' '+key);const current=fs.readFileSync('public'+d.audio);assert.equal(crypto.createHash('sha256').update(current).digest('hex'),read('docs/strategy/audio-sha256.json')[d.audio]);}
+ for(const p of ['/','/en/start/']){const ids=[...doc(p).querySelectorAll('audio')].map(a=>a.dataset.demo);assert.equal(ids.length,16);assert.deepEqual(new Set(ids),new Set(demos.map(d=>d.id)));}
 });
-test('all original visible content, images, destinations and audio associations survive rendering',()=>{
- const records=JSON.parse(fs.readFileSync('docs/design/functional-baseline.json'));
- for(const before of records){const{document:d}=parseHTML(fs.readFileSync('dist'+before.path+'index.html','utf8'));const text=d.querySelector('main').textContent.replace(/\s/g,'');
- // Compare original semantic fragments; new hero actions/demos may sit between them.
- for(const fragment of before.fragments)assert.ok(text.includes(fragment),before.path+' missing content fragment: '+fragment);
- const images=new Set([...d.querySelectorAll('img[src]')].map(i=>i.getAttribute('src')));for(const src of before.images)assert.ok(images.has(src),before.path+' image '+src);
- const links=new Set([...d.querySelectorAll('a[href]')].map(i=>i.getAttribute('href')));for(const href of before.links)assert.ok(links.has(href),before.path+' link '+href);
- for(const audio of before.audios){const elements=[...d.querySelectorAll('audio')].filter(a=>a.getAttribute('data-demo')===audio.id);assert.ok(elements.some(a=>a.querySelector('source').getAttribute('src')===audio.src&&a.getAttribute('aria-label')===audio.label),before.path+' audio '+audio.id);}
- const forms=[...d.querySelectorAll('form')].map(f=>({fields:[...f.querySelectorAll('input,select,textarea')].map(i=>({name:i.name,type:i.getAttribute('type'),required:i.hasAttribute('required')}))}));assert.deepEqual(forms,before.forms,before.path+' form contract');
- }
+test('six commercial pages have paired translations, real CTAs and distinct service forms',()=>{
+ const commercial=pages.filter(p=>p.commercial);assert.equal(commercial.length,6);assert.equal(collection('forms').length,6);
+ for(const p of commercial){const d=doc(p.path);assert.equal(d.querySelectorAll('h1').length,1);assert.ok(d.querySelector('.b2b-contact form'));assert.ok(d.querySelector('.b2b-contact a[href="mailto:audio@digitalks-ai.com"]'));assert.ok(d.querySelector('link[hreflang="'+(p.lang==='es'?'en':'es')+'"]'));assert.ok(!d.querySelector('.dt-widget-n-carousel'));}
 });
-test('every route uses the shared visual system without exporting the legacy page styles',()=>{
- for(const[file,{value:p}]of Object.entries(baseline).filter(([k])=>/^(pages|services|legal)\//.test(k))){const html=fs.readFileSync('dist'+p.path+'index.html','utf8');assert.ok(html.includes('digitalks-design'),file);assert.ok(!html.includes('--e-global-color-'),file);assert.ok(html.includes('--dt-container'),file);}
+test('every source route is active, explicitly redirected or retired without chains',()=>{
+ const redirects=read('content/settings/redirects.json'),original=read('docs/original/audit.json');const active=new Set(pages.map(p=>p.path));
+ const ht=fs.readFileSync('public/.htaccess','utf8');
+ for(const p of original.pages)assert.ok(active.has(p.path)||redirects[p.path]||p.path==='/ots-audio-data-collection/',p.path);
+ for(const[from,to]of Object.entries(redirects)){assert.ok(active.has(to.split('#')[0]));assert.ok(!redirects[to.split('#')[0]]);assert.ok(ht.includes(from.slice(1)+'?$ '+to+' [R=301,L,NE]'));assert.ok(fs.readFileSync('dist'+from+'index.html','utf8').includes(to));}
+ assert.ok(ht.includes('RewriteRule ^ots-audio-data-collection/?$ - [G,L]'));
 });
-test('CMS retains collections and offers optional visual composition fields',()=>{
- const schema=YAML.parse(fs.readFileSync('.pages.yml','utf8'));for(const name of ['pages','services','legal']){const sections=schema.content.find(c=>c.name===name).fields.find(f=>f.name==='sections');const fields=sections.blocks.find(b=>b.name==='migrated').fields;for(const key of visualKeys)assert.ok(fields.some(f=>f.name===key),name+' '+key);}
+test('commercial CMS exposes copy, screenshots, demos, links, sections and form selection',()=>{
+ const schema=YAML.parse(fs.readFileSync('.pages.yml','utf8'));
+ for(const name of ['pages','services']){const fields=schema.content.find(c=>c.name===name).fields.find(f=>f.name==='sections').blocks.find(b=>b.name==='commercial').fields;for(const key of ['heading','body','items','image','alt','caption','demoIds','form','actions','enabled','surface'])assert.ok(fields.some(f=>f.name===key),key);}
+ for(const p of pages.filter(p=>p.commercial)){assert.ok(p.sections.every(s=>s.type==='commercial'));for(const s of p.sections){assert.ok(s.heading);for(const id of s.demoIds||[])assert.ok(collection('demos').some(d=>d.id===id));if(s.form)assert.ok(collection('forms').some(f=>f.id===s.form));}}
 });
-test('CMS preserves the complete original field tree, formats and storage paths',()=>{
- const before=YAML.parse(fs.readFileSync('docs/design/cms-baseline.yml','utf8'));const after=YAML.parse(fs.readFileSync('.pages.yml','utf8'));
- function fields(items,prefix=''){return(items||[]).flatMap(f=>[{path:prefix+f.name,type:f.type},...fields(f.fields,prefix+f.name+'.'),...(f.blocks||[]).flatMap(b=>fields(b.fields,prefix+f.name+':'+b.name+'.'))]);}
- assert.deepEqual(after.media,before.media);
- for(const original of before.content){const current=after.content.find(c=>c.name===original.name);assert.ok(current,original.name);assert.equal(current.path,original.path);assert.equal(current.format,original.format);const fieldMap=new Map(fields(current.fields).map(f=>[f.path,f.type]));for(const f of fields(original.fields))assert.equal(fieldMap.get(f.path),f.type,original.name+' '+f.path);}
+test('public output excludes private documents, prices, client dashboard and unsupported catalogue offers',()=>{
+ assert.equal(fs.existsSync('dist/refs'),false);
+ const html=pages.filter(p=>p.commercial).map(p=>doc(p.path).querySelector('main').textContent).join(' ');
+ assert.ok(!/€|3[.,]000|B&R360|24\/7|AAA|crowdsourcing|smartphones|call centers/i.test(html));
+ for(const p of pages.filter(p=>p.id.startsWith('datasets'))){const text=doc(p.path).querySelector('main').textContent;assert.ok(/FIGS/.test(text));assert.ok(/consent/i.test(text));assert.ok(!/48\s?kHz/.test(text));}
+});
+test('legal content and operational configuration remain preserved',()=>{
+ for(const[file,{value}]of Object.entries(baseline).filter(([k])=>k.startsWith('legal/'))){const current=read('content/'+file);delete current.design;for(const s of current.sections)for(const k of ['surface','layout','artwork','actions','featuredDemos'])delete s[k];assert.deepEqual(current,value);}
+ assert.deepEqual(read('content/settings/general.json'),baseline['settings/general.json'].value);
 });

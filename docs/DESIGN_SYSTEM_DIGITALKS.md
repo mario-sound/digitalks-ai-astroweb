@@ -53,3 +53,13 @@ Movimiento breve y respeto a prefers-reduced-motion, sin librerías nuevas. No s
 ## Integraciones y alcance
 
 Sender conserva exactamente configuración, campos y bloqueo existentes. No se envían formularios reales ni se inventan listas/automatizaciones. SEO, idiomas, rutas, robots y sitemap se mantienen. No se publica ni se cambia producción. La validación externa de Pages CMS, Sender y Hostinger sigue pendiente.
+
+## Reposicionamiento B2B
+
+El contenido comercial usa ahora `CommercialSection.astro` y `commercial.css`; la adaptación de plantillas permanece únicamente para el contenido legal y como referencia histórica. `EditorialHero` pertenece al checkpoint visual anterior, no a las nuevas páginas comerciales.
+
+Tres composiciones: home creativa con personaje original y galería de 16 demos; post operacional con secuencia EDIT/POST/QC, flujo solapado y captura real SuiteQA; datasets claro y preciso con idiomas y parámetros acordables. Las secciones alternan blanco, gris, negro y un cierre amarillo. Tarjetas sólo donde ayudan a comparar; procesos y servicios usan líneas y numeración discretas.
+
+Hero en Poppins con tamaño fluido 42–70 px; secciones 32–48 px, cuerpo 15–18 px. Mono para etiquetas técnicas y Bebas para pasos/idiomas. Contenedor 1200 px, espacios 8 px, secciones 56–96 px, radios 10/16 px y botones píldora. En móvil se apilan hero/formulario y demos; las demos multilingües conservan todos los reproductores visibles. No hay carrusel ni animación nueva. Los reproductores nativos permiten teclado, volumen y búsqueda; sólo uno reproduce a la vez.
+
+Las capturas de herramientas se muestran completas con pie y acceso al tamaño original. No se recrean pantallas ni instalaciones. Todo el copy comercial, imágenes, listas, CTAs, orden de demos y selección de formulario proviene de JSON editable. El código sólo define composición y comportamiento.

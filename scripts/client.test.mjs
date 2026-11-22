@@ -22,9 +22,3 @@ test('initial consent blocks services, choice persists and can be reopened',()=>
 test('unconfigured form prevents native submission',()=>{
  const{document:d,window:w}=setup('/','necessary');const event=new w.Event('submit',{cancelable:true});d.querySelector('form').dispatchEvent(event);assert.ok(event.defaultPrevented);
 });
-test('FAQ accordion opens by keyboard and closes with Escape',()=>{
- const{document:d,window:w}=setup('/audio-development/','necessary');const button=[...d.querySelectorAll('.ekit-accordion--toggler')].find(x=>x.getAttribute('aria-expanded')==='false');const panel=d.getElementById(button.getAttribute('aria-controls'));key(w,button,' ');assert.equal(button.getAttribute('aria-expanded'),'true');assert.ok(panel.classList.contains('show'));key(w,button,'Escape');assert.equal(button.getAttribute('aria-expanded'),'false');assert.ok(!panel.classList.contains('show'));
-});
-test('YouTube loads only after explicit playback and optional consent',()=>{
- const{document:d}=setup('/voz-ia/','necessary');const button=d.querySelector('[data-video-src]');assert.equal(d.querySelectorAll('iframe').length,0);button.click();assert.equal(d.querySelectorAll('iframe').length,0);d.querySelector('[data-consent="optional"]').click();assert.equal(d.querySelectorAll('iframe').length,1);assert.ok(d.querySelector('iframe').src.startsWith('https://www.youtube-nocookie.com/embed/'));
-});

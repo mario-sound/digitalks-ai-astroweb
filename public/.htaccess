@@ -11,6 +11,14 @@ ErrorDocument 404 /404.html
 </IfModule>
 <IfModule mod_rewrite.c>
   RewriteEngine On
+  RewriteRule ^voz-ia/?$ / [R=301,L,NE]
+  RewriteRule ^en/ia-voice/?$ /en/start/ [R=301,L,NE]
+  RewriteRule ^locucionesia/?$ /#voces [R=301,L,NE]
+  RewriteRule ^en/voiceoverai/?$ /en/start/#voces [R=301,L,NE]
+  RewriteRule ^custom-audio-data-collection/?$ /audio-data-collection/ [R=301,L,NE]
+  RewriteRule ^doblaje-youtube/?$ /#produccion [R=301,L,NE]
+  # Retired catalogue: no equivalent product.
+  RewriteRule ^ots-audio-data-collection/?$ - [G,L]
   # hPanel SSL must be working before deploying. Local Astro preview ignores .htaccess.
   RewriteCond %{HTTPS} !=on
   RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
@@ -25,3 +33,5 @@ ErrorDocument 404 /404.html
 <IfModule mod_deflate.c>
   AddOutputFilterByType DEFLATE text/html text/css application/javascript application/json image/svg+xml
 </IfModule>
+
+ErrorDocument 410 /ots-audio-data-collection/index.html

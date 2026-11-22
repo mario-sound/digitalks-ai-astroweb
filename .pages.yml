@@ -8,50 +8,66 @@ content:
     type: collection
     path: content/pages
     format: json
-    filename: "{primary}.json"
+    filename: "{fields.id}.json"
     view:
       primary: title
-    fields: &a5
-      - name: design
+    fields:
+      - &a1
+        name: design
         type: boolean
         hidden: true
-      - name: id
+      - &a2
+        name: id
         type: string
         required: true
-      - name: title
+      - &a3
+        name: title
         type: string
         required: true
-      - name: path
+      - &a4
+        name: path
         type: string
         required: true
         label: Ruta completa con / inicial y final
-      - name: lang
+      - &a5
+        name: lang
         type: select
         options:
           values:
             - es
             - en
-      - name: seo
+      - &a6
+        name: seo
         type: string
         required: true
         label: ID del registro SEO
-      - name: source
+      - &a7
+        name: commercial
+        type: boolean
+        hidden: true
+      - &a8
+        name: source
         type: string
         readonly: true
-      - name: bodyClass
+      - &a9
+        name: bodyClass
         type: string
         hidden: true
-      - name: rootClass
+      - &a10
+        name: rootClass
         type: string
         hidden: true
-      - name: css
+      - &a11
+        name: css
         type: string
         hidden: true
-      - name: styles
+      - &a12
+        name: styles
         type: string
         list: true
         hidden: true
-      - name: backgrounds
+      - &a13
+        name: backgrounds
         type: object
         list:
           collapsible:
@@ -64,6 +80,440 @@ content:
           - name: src
             type: image
         label: Imágenes de fondo
+      - &a14
+        name: sections
+        type: block
+        label: Secciones comerciales
+        list: true
+        blockKey: type
+        blocks:
+          - name: commercial
+            label: Bloque comercial
+            fields:
+              - name: id
+                type: string
+                readonly: true
+              - name: kind
+                type: select
+                options:
+                  values:
+                    - content
+                    - hero
+                    - sectors
+                    - demos
+                    - services
+                    - process
+                    - contact
+                    - workflow
+                    - suiteqa
+                    - languages
+                    - specs
+              - name: enabled
+                type: boolean
+              - name: surface
+                type: select
+                options:
+                  values:
+                    - light
+                    - soft
+                    - dark
+                    - brand
+              - name: eyebrow
+                type: string
+              - name: heading
+                type: string
+              - name: body
+                type: text
+              - name: items
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: title
+                    type: string
+                  - name: body
+                    type: text
+              - name: heroMetrics
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: title
+                    type: string
+                  - name: body
+                    type: string
+              - name: image
+                type: image
+              - name: alt
+                type: string
+              - name: caption
+                type: string
+              - name: note
+                type: text
+              - name: actions
+                type: object
+                list:
+                  collapsible:
+                    collapsed: true
+                    summary: "{label}"
+                fields:
+                  - name: label
+                    type: string
+                  - name: href
+                    type: string
+              - name: demoIds
+                type: string
+                list: true
+                label: "Demos: IDs en orden de presentación"
+              - name: characterLabel
+                type: string
+              - name: multilingualLabel
+                type: string
+              - name: form
+                type: string
+                label: ID del formulario
+              - name: email
+                type: string
+  - name: services
+    label: Servicios
+    type: collection
+    path: content/services
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - *a1
+      - *a2
+      - *a3
+      - *a4
+      - *a5
+      - *a6
+      - *a7
+      - *a8
+      - *a9
+      - *a10
+      - *a11
+      - *a12
+      - *a13
+      - *a14
+  - name: demos
+    label: Demos
+    type: collection
+    path: content/demos
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+      - name: character
+        type: string
+      - name: language
+        type: string
+      - name: audio
+        type: file
+      - name: image
+        type: image
+        readonly: true
+        label: Retrato heredado; editar en Personajes
+      - name: flag
+        type: image
+      - name: source
+        type: string
+        readonly: true
+      - name: order
+        type: number
+  - name: characters
+    label: Personajes
+    type: collection
+    path: content/characters
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: image
+        type: image
+  - name: languages
+    label: Idiomas
+    type: collection
+    path: content/languages
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: home
+        type: string
+      - name: formError
+        type: string
+  - name: navigation
+    label: Navegación
+    type: file
+    path: content/settings/navigation.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: label
+            type: string
+          - name: href
+            type: string
+      - name: en
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: label
+            type: string
+          - name: href
+            type: string
+  - name: general
+    label: Configuración general
+    type: file
+    path: content/settings/general.json
+    format: json
+    fields:
+      - name: title
+        type: string
+      - name: url
+        type: string
+      - name: logo
+        type: image
+      - name: preview
+        type: boolean
+        label: "Vista previa: bloquea indexación"
+      - name: senderAccountId
+        type: string
+        label: ID público de cuenta Sender (nunca API key)
+      - name: senderEnabled
+        type: boolean
+      - name: gtmId
+        type: string
+      - name: analyticsEnabled
+        type: boolean
+      - name: searchConsoleVerification
+        type: string
+  - name: footer
+    label: Pie de página
+    type: file
+    path: content/settings/footer.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        fields: &a15
+          - name: copyright
+            type: string
+          - name: credit
+            type: string
+          - name: links
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{label}"
+            fields:
+              - name: label
+                type: string
+              - name: href
+                type: string
+          - name: unlinked
+            type: string
+            label: Texto legal sin URL recuperada
+      - name: en
+        type: object
+        fields: *a15
+  - name: interface
+    label: Interfaz y consentimiento
+    type: file
+    path: content/settings/ui.json
+    format: json
+    fields:
+      - name: es
+        type: object
+        fields: &a16
+          - name: skip
+            type: text
+          - name: menu
+            type: text
+          - name: navigation
+            type: text
+          - name: legal
+            type: text
+          - name: consentTitle
+            type: text
+          - name: consentText
+            type: text
+          - name: necessary
+            type: text
+          - name: optional
+            type: text
+          - name: privacy
+            type: text
+      - name: en
+        type: object
+        fields: *a16
+  - name: forms
+    label: Formularios
+    type: collection
+    path: content/forms
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+        required: true
+      - name: title
+        type: string
+      - name: lang
+        type: select
+        options:
+          values:
+            - es
+            - en
+      - name: source
+        type: string
+        readonly: true
+      - name: fields
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: name
+            type: string
+          - name: label
+            type: string
+          - name: type
+            type: select
+            options:
+              values:
+                - text
+                - email
+                - tel
+                - textarea
+                - select
+                - checkbox
+                - url
+                - number
+                - date
+                - heading
+          - name: showLabel
+            type: boolean
+          - name: width
+            type: select
+            options:
+              values:
+                - full
+                - half
+          - name: required
+            type: boolean
+          - name: placeholder
+            type: string
+          - name: options
+            type: object
+            list:
+              collapsible:
+                collapsed: true
+                summary: "{label}"
+            fields:
+              - name: label
+                type: string
+              - name: value
+                type: string
+      - name: submit
+        type: string
+      - name: status
+        type: select
+        options:
+          values:
+            - unconfigured
+            - configured
+      - name: senderFormId
+        type: string
+        label: ID público real del formulario Sender
+      - name: notice
+        type: text
+  - name: seo
+    label: SEO
+    type: collection
+    path: content/seo
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - name: id
+        type: string
+      - name: title
+        type: string
+      - name: description
+        type: text
+      - name: canonical
+        type: string
+      - name: alternates
+        type: object
+        list:
+          collapsible:
+            collapsed: true
+            summary: "{label}"
+        fields:
+          - name: lang
+            type: string
+          - name: path
+            type: string
+      - name: image
+        type: image
+  - name: legal
+    label: Contenido legal
+    type: collection
+    path: content/legal
+    format: json
+    filename: "{fields.id}.json"
+    view:
+      primary: title
+    fields:
+      - *a1
+      - *a2
+      - *a3
+      - *a4
+      - *a5
+      - *a6
+      - *a7
+      - *a8
+      - *a9
+      - *a10
+      - *a11
+      - *a12
+      - *a13
       - name: sections
         type: block
         label: "Secciones: editar y reordenar"
@@ -73,7 +523,7 @@ content:
           - name: migrated
             label: Sección DigiTalks (contenido existente)
             fields:
-              - &a1
+              - &a17
                 name: surface
                 type: select
                 options:
@@ -93,11 +543,11 @@ content:
                     - logos
                     - statement
                     - hero
-              - &a2
+              - &a18
                 name: artwork
                 type: image
                 label: Imagen o fondo de la composición
-              - &a3
+              - &a19
                 name: actions
                 type: object
                 list:
@@ -203,8 +653,8 @@ content:
           - name: text
             label: Texto
             fields:
-              - *a1
-              - &a4
+              - *a17
+              - &a20
                 name: layout
                 type: select
                 options:
@@ -212,8 +662,8 @@ content:
                     - flow
                     - split
                     - statement
-              - *a2
-              - *a3
+              - *a18
+              - *a19
               - name: enabled
                 type: boolean
               - name: heading
@@ -223,10 +673,10 @@ content:
           - name: image
             label: Imagen
             fields:
-              - *a1
-              - *a4
-              - *a2
-              - *a3
+              - *a17
+              - *a20
+              - *a18
+              - *a19
               - name: heading
                 type: string
               - name: image
@@ -236,10 +686,10 @@ content:
           - name: audio
             label: Demo de audio
             fields:
-              - *a1
-              - *a4
-              - *a2
-              - *a3
+              - *a17
+              - *a20
+              - *a18
+              - *a19
               - name: heading
                 type: string
               - name: demo
@@ -247,10 +697,10 @@ content:
           - name: audio-gallery
             label: Galería de demos (orden de colección)
             fields:
-              - *a1
-              - *a4
-              - *a2
-              - *a3
+              - *a17
+              - *a20
+              - *a18
+              - *a19
               - name: heading
                 type: string
               - name: language
@@ -258,318 +708,13 @@ content:
           - name: form
             label: Formulario configurado
             fields:
-              - *a1
-              - *a4
-              - *a2
-              - *a3
+              - *a17
+              - *a20
+              - *a18
+              - *a19
               - name: heading
                 type: string
               - name: body
                 type: text
               - name: form
                 type: string
-  - name: services
-    label: Servicios
-    type: collection
-    path: content/services
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields: *a5
-  - name: demos
-    label: Demos
-    type: collection
-    path: content/demos
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields:
-      - name: id
-        type: string
-        required: true
-      - name: title
-        type: string
-      - name: character
-        type: string
-      - name: language
-        type: string
-      - name: audio
-        type: file
-      - name: image
-        type: image
-      - name: source
-        type: string
-        readonly: true
-      - name: order
-        type: number
-  - name: characters
-    label: Personajes
-    type: collection
-    path: content/characters
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields:
-      - name: id
-        type: string
-      - name: title
-        type: string
-      - name: image
-        type: image
-  - name: languages
-    label: Idiomas
-    type: collection
-    path: content/languages
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields:
-      - name: id
-        type: string
-      - name: title
-        type: string
-      - name: home
-        type: string
-      - name: formError
-        type: string
-  - name: navigation
-    label: Navegación
-    type: file
-    path: content/settings/navigation.json
-    format: json
-    fields:
-      - name: es
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{label}"
-        fields:
-          - name: label
-            type: string
-          - name: href
-            type: string
-      - name: en
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{label}"
-        fields:
-          - name: label
-            type: string
-          - name: href
-            type: string
-  - name: general
-    label: Configuración general
-    type: file
-    path: content/settings/general.json
-    format: json
-    fields:
-      - name: title
-        type: string
-      - name: url
-        type: string
-      - name: logo
-        type: image
-      - name: preview
-        type: boolean
-        label: "Vista previa: bloquea indexación"
-      - name: senderAccountId
-        type: string
-        label: ID público de cuenta Sender (nunca API key)
-      - name: senderEnabled
-        type: boolean
-      - name: gtmId
-        type: string
-      - name: analyticsEnabled
-        type: boolean
-      - name: searchConsoleVerification
-        type: string
-  - name: footer
-    label: Pie de página
-    type: file
-    path: content/settings/footer.json
-    format: json
-    fields:
-      - name: es
-        type: object
-        fields: &a6
-          - name: copyright
-            type: string
-          - name: credit
-            type: string
-          - name: links
-            type: object
-            list:
-              collapsible:
-                collapsed: true
-                summary: "{label}"
-            fields:
-              - name: label
-                type: string
-              - name: href
-                type: string
-          - name: unlinked
-            type: string
-            label: Texto legal sin URL recuperada
-      - name: en
-        type: object
-        fields: *a6
-  - name: interface
-    label: Interfaz y consentimiento
-    type: file
-    path: content/settings/ui.json
-    format: json
-    fields:
-      - name: es
-        type: object
-        fields: &a7
-          - name: skip
-            type: text
-          - name: menu
-            type: text
-          - name: navigation
-            type: text
-          - name: legal
-            type: text
-          - name: consentTitle
-            type: text
-          - name: consentText
-            type: text
-          - name: necessary
-            type: text
-          - name: optional
-            type: text
-          - name: privacy
-            type: text
-      - name: en
-        type: object
-        fields: *a7
-  - name: forms
-    label: Formularios
-    type: collection
-    path: content/forms
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields:
-      - name: id
-        type: string
-        required: true
-      - name: title
-        type: string
-      - name: lang
-        type: select
-        options:
-          values:
-            - es
-            - en
-      - name: source
-        type: string
-        readonly: true
-      - name: fields
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{label}"
-        fields:
-          - name: name
-            type: string
-          - name: label
-            type: string
-          - name: type
-            type: select
-            options:
-              values:
-                - text
-                - email
-                - tel
-                - textarea
-                - select
-                - checkbox
-                - url
-                - number
-                - date
-                - heading
-          - name: showLabel
-            type: boolean
-          - name: width
-            type: select
-            options:
-              values:
-                - full
-                - half
-          - name: required
-            type: boolean
-          - name: placeholder
-            type: string
-          - name: options
-            type: object
-            list:
-              collapsible:
-                collapsed: true
-                summary: "{label}"
-            fields:
-              - name: label
-                type: string
-              - name: value
-                type: string
-      - name: submit
-        type: string
-      - name: status
-        type: select
-        options:
-          values:
-            - unconfigured
-            - configured
-      - name: senderFormId
-        type: string
-        label: ID público real del formulario Sender
-      - name: notice
-        type: text
-  - name: seo
-    label: SEO
-    type: collection
-    path: content/seo
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields:
-      - name: id
-        type: string
-      - name: title
-        type: string
-      - name: description
-        type: text
-      - name: canonical
-        type: string
-      - name: alternates
-        type: object
-        list:
-          collapsible:
-            collapsed: true
-            summary: "{label}"
-        fields:
-          - name: lang
-            type: string
-          - name: path
-            type: string
-      - name: image
-        type: image
-  - name: legal
-    label: Contenido legal
-    type: collection
-    path: content/legal
-    format: json
-    filename: "{primary}.json"
-    view:
-      primary: title
-    fields: *a5

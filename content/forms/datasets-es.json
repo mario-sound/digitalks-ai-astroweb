@@ -105,7 +105,7 @@
       "options": []
     }
   ],
-  "submit": "Solicitar presupuesto",
+  "submit": "Consultar dataset de voz",
   "status": "unconfigured",
   "senderFormId": "",
   "notice": "El envío desde la web está pendiente de configuración. Puedes escribirnos a audio@digitalks-ai.com."

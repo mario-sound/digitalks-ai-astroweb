@@ -1,6 +1,7 @@
 ---
 import {renderSection} from '../lib/render';
 import {renderPresentation} from '../lib/presentation';
+import CommercialSection from './CommercialSection.astro';
 import EditorialHero from './EditorialHero.astro';
 import {demos,forms,type Page,type Section} from '../lib/content';
 import AudioPlayer from './AudioPlayer.astro';
@@ -14,7 +15,7 @@ const actions=(section.actions||[]).filter(a=>a.label&&a.href);
 const artwork=section.image||section.artwork;
 const hasContent=!!(section.template||section.heading||section.body||artwork||actions.length||demo||form||(section.type==='audio-gallery'&&gallery.length));
 ---
-{section.enabled!==false && hasContent && (section.template ? (page?.design&&section.layout==='hero'?<EditorialHero section={section} lang={lang} page={page}/>:<Fragment set:html={page?.design?renderPresentation(section,lang,page):renderSection(section,lang)} />) : <section class:list={page?.design?['design-section',`tone-${section.surface||'light'}`,`layout-${section.layout||'flow'}`]:['custom-section']}>
+{section.type==='commercial'?<CommercialSection section={section} lang={lang}/>:section.enabled!==false && hasContent && (section.template ? (page?.design&&section.layout==='hero'?<EditorialHero section={section} lang={lang} page={page}/>:<Fragment set:html={page?.design?renderPresentation(section,lang,page):renderSection(section,lang)} />) : <section class:list={page?.design?['design-section',`tone-${section.surface||'light'}`,`layout-${section.layout||'flow'}`]:['custom-section']}>
   <div class={page?.design?'section-shell':undefined}><div class="split-copy">
   {section.heading&&<h2>{section.heading}</h2>}
   {section.body&&<p class="preserve-lines">{section.body}</p>}

@@ -62,3 +62,7 @@ La configuración general tiene `preview: true`: bloquea indexación. No cambies
 - `docs/original/`: captura y evidencia pública; **no se publica dentro de dist**.
 
 Los scripts de auditoría/importación son herramientas de una sola migración: no forman parte del build. No los vuelvas a ejecutar sobre contenido editado: pueden sobrescribirlo. Trabaja con Git antes de cualquier reimportación. Los datos originales de CSS deben archivarse antes de retirar cachés; las herramientas de importación son auxiliares, no un sincronizador automático con WordPress.
+
+## Reestructuración comercial B2B
+
+Rama `strategy/b2b-repositioning`: tres servicios ES/EN. Home integra Voz IA; Post y Datasets conservan las URLs anteriores. Ver `docs/WEB_REPOSITIONING_STRATEGY.md`, `docs/CMS_CONTENT_MODEL.md`, `docs/SEO_MIGRATION_PLAN.md` y `docs/QA_REPORT.md`. El archivo comercial anterior está en `content/archive`, fuera de las páginas compiladas. `refs/*.pdf` es material privado local e ignorado; nunca copiarlo a `public`.

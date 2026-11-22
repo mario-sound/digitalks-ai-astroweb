@@ -1,7 +1,7 @@
 name: Validate and build DigiTalks
 on:
   push:
-    branches: [main, develop, 'design/**']
+    branches: [main, develop, 'design/**', 'strategy/**']
   pull_request:
   workflow_dispatch:
 permissions:

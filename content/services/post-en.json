@@ -105,8 +105,8 @@
       "kind": "suiteqa",
       "image": "/media/suiteqa-production.webp",
       "alt": "Actual SuiteQA screenshot: script lines, references and review decisions",
-      "caption": "Internal SuiteQA view from the production documentation. This is not a client portal.",
-      "note": "SuiteQA supports our service workflow. It is not offered as a software licence and does not include client dashboard access."
+      "caption": "SuiteQA · Internal audio and script review view.",
+      "note": "An internal production tool that keeps each line’s context available throughout review."
     },
     {
       "type": "commercial",

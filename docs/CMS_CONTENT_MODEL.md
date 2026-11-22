@@ -9,7 +9,7 @@ Las secciones comerciales son una lista de bloques reordenable. Cada bloque incl
 - Hero: título, introducción, botones, imagen o tres pasos técnicos.
 - Sectores/servicios/proceso: lista de títulos y descripciones; no fragmentos HTML.
 - SuiteQA: captura, alt, pie y nota. Subir únicamente imágenes autorizadas sin datos de proyectos.
-- Demos: IDs en orden. La colección Demos permite editar MP3, retrato, idioma y personaje. Los primeros seis son personajes; los grupos multilingües comparten ID de personaje. No cambiar asociaciones sin revisar el audio.
+- Demos: IDs en orden. La colección Demos permite editar MP3, idioma y referencia de personaje. El título y retrato se editan una sola vez en Personajes y se comparten entre idiomas. Los primeros seis son personajes; los grupos multilingües comparten ID de personaje. No cambiar asociaciones sin revisar el audio.
 - Contacto: título, explicación, ID del formulario y email directo.
 - Formularios: seis registros (tres servicios por dos idiomas), etiquetas, campos, opciones, obligatoriedad, botón, aviso y selección por ID. Configuración real Sender separada en General (IDs públicos, nunca claves). Mientras no está configurado, se muestra formulario accesible desactivado y email.
 - SEO: title, descripción, canonical, alternates e imagen. Editar ES/EN en pareja.
@@ -23,3 +23,5 @@ Los archivos anteriores están en `content/archive/` como referencia reversible,
 Pages CMS guarda JSON y medios en Git. El flujo de GitHub compila y verifica la rama; publicación FTPS sigue desactivada y protegida. Conectar repositorio/Pages CMS y credenciales reales queda pendiente del propietario. La configuración YAML se valida localmente; no se ha iniciado sesión en el servicio externo.
 
 Para ver cambios localmente: `npm run dev`, abrir http://localhost:4321/. Los JSON usan importaciones observadas por Vite y se recargan al guardar. `npm run verify` comprueba tipos, compilación y contratos de medios, enlaces y SEO.
+
+El nombre de archivo usa `{fields.id}.json` para mantener IDs estables aunque cambie el título. Referencias de configuración verificadas: [Filename](https://pagescms.org/docs/configuration/content/filename/), [Block](https://pagescms.org/docs/configuration/fields/block/), [List](https://pagescms.org/docs/configuration/content/list/).

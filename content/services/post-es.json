@@ -105,8 +105,8 @@
       "kind": "suiteqa",
       "image": "/media/suiteqa-production.webp",
       "alt": "Captura real de SuiteQA: líneas de guion, referencias y decisiones de revisión",
-      "caption": "Vista interna de SuiteQA extraída de la documentación de producción. No representa un portal de cliente.",
-      "note": "SuiteQA forma parte de nuestro proceso de servicio. No se ofrece como licencia de software ni se incluye acceso a un dashboard de cliente."
+      "caption": "SuiteQA · Vista interna de revisión de audio y guion.",
+      "note": "Herramienta interna del equipo de producción para mantener el contexto de cada línea durante la revisión."
     },
     {
       "type": "commercial",
