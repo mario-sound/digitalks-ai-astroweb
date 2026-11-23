@@ -198,7 +198,7 @@ collections:
       - { name: title, label: Titulo }
       - { name: character, label: Personaje }
       - { name: language, label: Idioma }
-      - { name: audio, label: Audio, widget: file, media_folder: public/media, public_folder: /media, accept: .mp3,.wav,.ogg }
+      - { name: audio, label: Audio, widget: file, media_folder: public/media, public_folder: /media, accept: audio/* }
       - { name: image, label: Imagen, widget: image, required: false, media_folder: public/media, public_folder: /media }
       - { name: flag, label: Bandera, widget: image, required: false, media_folder: public/media, public_folder: /media }
       - { name: order, label: Orden, widget: number, required: false }
