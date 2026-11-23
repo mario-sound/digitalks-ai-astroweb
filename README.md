@@ -13,6 +13,20 @@ npm run dev
 
 Abre **http://127.0.0.1:4321/**. La versión inglesa empieza en **/en/start/**. Para detener el servidor, pulsa Control+C.
 
+## Constructor visual local
+
+Mientras ejecutas `npm run dev`, abre **http://127.0.0.1:4321/builder/index.html**.
+
+El constructor permite:
+
+- seleccionar una página o servicio;
+- añadir, duplicar, eliminar y reordenar bloques arrastrándolos;
+- editar titulares, textos, enlaces e imágenes de los bloques existentes;
+- guardar cambios directamente en los JSON de `content/`;
+- mostrar la página seleccionada en una vista previa lateral.
+
+El constructor solo está disponible en el servidor de desarrollo. Los cambios deben revisarse y subirse con Git antes de publicar.
+
 Para comprobar exactamente la versión compilada:
 
 ```sh

@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="noindex" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>DigiTalks Page Builder</title>
+  <style>
+    :root{font-family:Inter,system-ui,sans-serif;color:#e8edf7;background:#10151f}
+    *{box-sizing:border-box}body{margin:0;height:100vh;overflow:hidden}
+    .shell{display:grid;grid-template-columns:390px 1fr;height:100vh}
+    aside{border-right:1px solid #283244;background:#151b27;overflow:auto}
+    header{height:64px;padding:12px 16px;display:flex;gap:10px;align-items:center;border-bottom:1px solid #283244}
+    h1{font-size:17px;margin:0}select,button,input,textarea{font:inherit}
+    select{height:38px;min-width:190px;border:1px solid #384558;border-radius:8px;background:#202938;color:#fff;padding:0 10px}
+    button{border:1px solid #384558;background:#202938;color:#fff;border-radius:8px;height:36px;padding:0 12px;cursor:pointer}
+    button.primary{background:#f97316;border-color:#f97316}button.danger{color:#ff9a9a}
+    .top-actions{margin-left:auto}.sections{padding:12px}
+    .section{border:1px solid #303b4d;border-radius:10px;margin:0 0 10px;background:#1b2230}
+    .section.dragging{opacity:.45}.section-head{display:flex;align-items:center;gap:8px;padding:9px 10px;border-bottom:1px solid #303b4d}
+    .drag{cursor:grab;color:#95a3ba}.section-kind{font-size:12px;color:#aeb8c8}.section-actions{margin-left:auto}
+    .fields{padding:10px}.field{margin:0 0 10px}.field label{display:block;font-size:12px;color:#abb6c7;margin-bottom:5px}
+    input[type=text],textarea{width:100%;border:1px solid #384558;border-radius:7px;background:#111722;color:#fff;padding:8px}
+    textarea{min-height:68px;resize:vertical}.nested{border-left:2px solid #384558;padding-left:10px;margin:8px 0}
+    .nested-row{display:grid;grid-template-columns:1fr 1fr 30px;gap:6px;margin:6px 0}.nested-row input{min-width:0}
+    .preview{position:relative;background:#0b0e14}.preview-top{height:64px;border-bottom:1px solid #283244;padding:12px 16px;display:flex;align-items:center;gap:10px}
+    iframe{border:0;width:100%;height:calc(100vh - 64px);background:white}.status{font-size:12px;color:#9da9ba}
+    @media(max-width:900px){.shell{grid-template-columns:310px 1fr}}
+  </style>
+</head>
+<body>
+<div class="shell">
+  <aside>
+    <header><h1>Page Builder</h1><div class="top-actions"><button id="add">Añadir bloque</button><button id="save" class="primary">Guardar</button></div></header>
+    <div style="padding:12px 16px">
+      <label style="display:block;font-size:12px;color:#abb6c7;margin-bottom:5px">Pagina</label>
+      <select id="page"></select>
+      <div class="status" id="status" style="margin-top:8px"></div>
+    </div>
+    <div class="sections" id="sections"></div>
+  </aside>
+  <main class="preview">
+    <div class="preview-top"><strong>Vista previa</strong><span class="status" id="previewStatus"></span><button id="reload" style="margin-left:auto">Recargar</button></div>
+    <iframe id="preview" title="Vista previa"></iframe>
+  </main>
+</div>
+<script>
+const api='/__builder/api';
+const pageSelect=document.querySelector('#page');
+const sectionsEl=document.querySelector('#sections');
+const iframe=document.querySelector('#preview');
+let entries=[],current=null,dragIndex=null;
+const esc=(v='')=>String(v).replaceAll('&','&amp;').replaceAll('<','&lt;').replaceAll('"','&quot;');
+async function loadPages(){
+ entries=await fetch(api).then(r=>r.json());pageSelect.innerHTML=entries.map((p,i)=>`<option value="${i}">${esc(p.title)} — ${esc(p.lang||p.kind)}</option>`).join('');
+ await loadEntry();
+}
+async function loadEntry(){
+ const p=entries[Number(pageSelect.value)];if(!p)return;
+ const data=await fetch(`${api}?kind=${encodeURIComponent(p.kind)}&id=${encodeURIComponent(p.id)}`).then(r=>r.json());
+ current={...p,content:data.content};render();loadPreview();
+}
+function field(section,key,label,textarea=false){
+ return `<div class="field"><label>${esc(label)}</label>${textarea?`<textarea data-key="${key}">${esc(section[key]||'')}</textarea>`:`<input type="text" data-key="${key}" value="${esc(section[key]||'')}">`}</div>`;
+}
+function nestedList(section,key,label){
+ const rows=Array.isArray(section[key])?section[key]:[];
+ return `<div class="nested"><label>${esc(label)}</label>${rows.map((row,i)=>`<div class="nested-row" data-list="${key}" data-index="${i}"><input type="text" data-sub="title" value="${esc(row.title||row.label||row.src||'')}" placeholder="Titulo"><input type="text" data-sub="body" value="${esc(row.body||row.href||row.alt||row.caption||'')}" placeholder="Contenido">${rows.length?'<button class="remove-row" title="Eliminar">×</button>':''}</div>`).join('')}<button class="add-row" data-list="${key}" type="button">Añadir</button></div>`;
+}
+function render(){
+ sectionsEl.innerHTML='';
+ (current.content.sections||[]).forEach((section,index)=>{
+  const card=document.createElement('article');card.className='section';card.draggable=true;card.dataset.index=index;
+  card.innerHTML=`<div class="section-head"><span class="drag">⋮⋮</span><span class="section-kind">${esc(section.kind||section.type||'Sección')} · ${esc(section.id||index)}</span><div class="section-actions"><button class="duplicate" type="button">Duplicar</button><button class="danger remove" type="button">Eliminar</button></div></div>
+   <div class="fields">${field(section,'eyebrow','Etiqueta')}${field(section,'heading','Titular')}${field(section,'headingAccent','Texto destacado')}${field(section,'body','Texto',true)}${field(section,'image','Imagen / ruta')}${field(section,'alt','Texto alternativo')}${field(section,'caption','Pie',true)}${nestedList(section,'items','Tarjetas')}${nestedList(section,'actions','Botones')}${nestedList(section,'heroMetrics','Métricas')}${nestedList(section,'timeline','Cronología')}</div>`;
+  card.querySelectorAll('[data-key]').forEach(input=>input.addEventListener('input',()=>{section[input.dataset.key]=input.value;previewStatus('Cambios sin guardar')}));
+  card.querySelectorAll('[data-list]').forEach(input=>input.addEventListener('input',()=>{
+   const key=input.dataset.list;if(!Array.isArray(section[key]))section[key]=[];
+   if(input.dataset.index!==undefined){const row=section[key][Number(input.dataset.index)]||(section[key][Number(input.dataset.index)]={});row[input.dataset.sub]=input.value;}
+  }));
+  card.querySelectorAll('.remove-row').forEach((button,rowIndex)=>button.addEventListener('click',()=>{const list=button.parentElement.dataset.list;section[list].splice(rowIndex,1);render()}));
+  card.querySelectorAll('.add-row').forEach(button=>button.addEventListener('click',()=>{const key=button.dataset.list;if(!Array.isArray(section[key]))section[key]=[];section[key].push({title:'',body:''});render()}));
+  card.querySelector('.duplicate').addEventListener('click',()=>{current.content.sections.splice(index+1,0,structuredClone(section));render();previewStatus('Cambios sin guardar')});
+  card.querySelector('.remove').addEventListener('click',()=>{current.content.sections.splice(index,1);render();previewStatus('Cambios sin guardar')});
+  card.addEventListener('dragstart',()=>{dragIndex=index;card.classList.add('dragging')});
+  card.addEventListener('dragend',()=>card.classList.remove('dragging'));
+  card.addEventListener('dragover',e=>e.preventDefault());
+  card.addEventListener('drop',e=>{e.preventDefault();if(dragIndex===null||dragIndex===index)return;const [moved]=current.content.sections.splice(dragIndex,1);current.content.sections.splice(index,0,moved);dragIndex=null;render();previewStatus('Cambios sin guardar')});
+  sectionsEl.appendChild(card);
+ });
+}
+function previewStatus(text){document.querySelector('#previewStatus').textContent=text}
+function loadPreview(){if(!current)return;const path=current.path||'/';iframe.src=path+(path.includes('?')?'&':'?')+'builder='+Date.now()}
+pageSelect.addEventListener('change',loadEntry);
+document.querySelector('#reload').addEventListener('click',loadPreview);
+document.querySelector('#add').addEventListener('click',()=>{if(!Array.isArray(current.content.sections))current.content.sections=[];current.content.sections.push({type:'commercial',kind:'content',enabled:true,surface:'light',heading:'Nuevo bloque',body:''});render();previewStatus('Cambios sin guardar')});
+document.querySelector('#save').addEventListener('click',async()=>{
+ document.querySelector('#status').textContent='Guardando…';
+ const p=entries[Number(pageSelect.value)];
+ const response=await fetch(`${api}?kind=${encodeURIComponent(p.kind)}&id=${encodeURIComponent(p.id)}`,{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(current.content)});
+ const result=await response.json();document.querySelector('#status').textContent=response.ok?'Guardado':result.error;previewStatus(response.ok?'Guardado · recargando':'Error');if(response.ok)setTimeout(loadPreview,300);
+});
+loadPages();
+</script>
+</body>
+</html>
