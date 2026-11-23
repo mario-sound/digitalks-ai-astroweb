@@ -7,6 +7,7 @@ const redirects=JSON.parse(readFileSync(new URL('./content/settings/redirects.js
 const builderApi=()=>{
   const root=path.dirname(new URL('./package.json',import.meta.url).pathname);
   const contentRoot=path.join(root,'content');
+  const publicRoot=path.join(root,'public');
   const allowedKinds=new Set(['pages','services','legal']);
   const safeId=(value)=>typeof value==='string'&&/^[a-zA-Z0-9_-]+$/.test(value);
   const send=(res,status,body)=>{
@@ -17,7 +18,25 @@ const builderApi=()=>{
    server.middlewares.use(async(req,res,next)=>{
     try{
      const url=new URL(req.url,'http://127.0.0.1');
+     if(req.method==='GET'&&url.pathname==='/builder/index.html'){
+      res.statusCode=200;res.setHeader('Content-Type','text/html; charset=utf-8');
+      return res.end(fs.readFileSync(path.join(root,'scripts/builder/index.html'),'utf8'));
+     }
      if(!url.pathname.startsWith('/__builder/api'))return next();
+     if(req.method==='GET'&&url.searchParams.has('media')){
+      const directories=['media','images'].map(name=>path.join(publicRoot,name));
+      const files=[];
+      const collect=(directory)=>{
+       if(!fs.existsSync(directory))return;
+       for(const entry of fs.readdirSync(directory,{withFileTypes:true})){
+        const absolute=path.join(directory,entry.name);
+        if(entry.isDirectory())collect(absolute);
+        else if(/\.(avif|gif|jpe?g|png|svg|webp)$/i.test(entry.name))files.push('/'+path.relative(publicRoot,absolute).split(path.sep).join('/'));
+       }
+      };
+      directories.forEach(collect);
+      return send(res,200,files.sort());
+     }
      if(req.method==='GET'&&!url.searchParams.has('kind')){
       const entries=[];for(const kind of allowedKinds){
        const dir=path.join(contentRoot,kind);if(!fs.existsSync(dir))continue;

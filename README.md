@@ -15,15 +15,15 @@ Abre **http://127.0.0.1:4321/**. La versión inglesa empieza en **/en/start/**. 
 
 ## Constructor visual local
 
-Mientras ejecutas `npm run dev`, abre **http://127.0.0.1:4321/builder/index.html**.
+Mientras ejecutas `npm run dev`, abre `http://127.0.0.1:<puerto>/builder/index.html` usando el puerto que muestra Astro en la terminal (normalmente `4321`).
 
 El constructor permite:
 
 - seleccionar una página o servicio;
 - añadir, duplicar, eliminar y reordenar bloques arrastrándolos;
 - editar titulares, textos, enlaces e imágenes de los bloques existentes;
-- guardar cambios directamente en los JSON de `content/`;
-- mostrar la página seleccionada en una vista previa lateral.
+- guardar automáticamente los cambios en los JSON de `content/`;
+- mostrar la página seleccionada en una vista previa lateral que se actualiza al guardar.
 
 El constructor solo está disponible en el servidor de desarrollo. Los cambios deben revisarse y subirse con Git antes de publicar.
 
