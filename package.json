@@ -10,7 +10,8 @@
     "check": "ASTRO_TELEMETRY_DISABLED=1 astro check",
     "test": "node --test scripts/*.test.mjs",
     "verify": "npm run check && npm run build && npm test",
-    "compare": "node scripts/compare-original.mjs"
+    "compare": "node scripts/compare-original.mjs",
+    "cms": "npm run dev"
   },
   "dependencies": {
     "astro": "^5.16.0"
