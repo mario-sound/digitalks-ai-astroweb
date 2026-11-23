@@ -29,10 +29,10 @@ collections:
       - { name: id, label: ID, widget: string }
       - { name: title, label: Titulo, widget: string }
       - { name: path, label: Ruta, widget: string }
-      - { name: lang, label: Idioma, widget: select, options: { values: [es, en] } }
+      - { name: lang, label: Idioma, widget: select, options: [es, en] }
       - { name: seo, label: ID SEO, widget: string }
-      - { name: design, label: Diseno, widget: hidden, required: false }
-      - { name: commercial, label: Comercial, widget: hidden, required: false }
+      - { name: design, label: Diseno, widget: hidden }
+      - { name: commercial, label: Comercial, widget: hidden }
       - name: sections
         label: Secciones
         widget: list
@@ -41,9 +41,9 @@ collections:
         fields:
           - { name: type, label: Tipo, widget: string, required: false }
           - { name: id, label: ID, widget: string, required: false }
-          - { name: kind, label: Tipo comercial, widget: select, required: false, options: { values: [content, hero, sectors, demos, services, process, contact, workflow, suiteqa, languages, specs, experience] } }
+          - { name: kind, label: Tipo comercial, widget: select, required: false, options: [content, hero, sectors, demos, services, process, contact, workflow, suiteqa, languages, specs, experience] }
           - { name: enabled, label: Visible, widget: boolean, required: false }
-          - { name: surface, label: Fondo, widget: select, required: false, options: { values: [light, soft, dark, brand] } }
+          - { name: surface, label: Fondo, widget: select, required: false, options: [light, soft, dark, brand] }
           - { name: eyebrow, label: Etiqueta, widget: string, required: false }
           - { name: heading, label: Titular, widget: string, required: false }
           - { name: headingAccent, label: Parte destacada del titular, widget: string, required: false }
@@ -98,12 +98,12 @@ collections:
             required: false
             fields:
               - { name: id, label: ID, widget: string, required: false }
-              - { name: src, label: Imagen, widget: image, required: false, media_folder: public/images/suiteqa, public_folder: /images/suiteqa, accept: .webp,.avif,.png,.jpg }
+              - { name: src, label: Imagen, widget: image, required: false, media_folder: public/images/suiteqa, public_folder: /images/suiteqa }
               - { name: title, label: Titulo, widget: string, required: false }
               - { name: alt, label: Texto alternativo, widget: string, required: false }
               - { name: caption, label: Pie, widget: text, required: false }
-              - { name: status, label: Estado, widget: select, required: false, options: { values: [internal, development] } }
-              - { name: review, label: Revision, widget: select, required: false, options: { values: [pending, approved] } }
+              - { name: status, label: Estado, widget: select, required: false, options: [internal, development] }
+              - { name: review, label: Revision, widget: select, required: false, options: [pending, approved] }
               - { name: enabled, label: Visible, widget: boolean, required: false }
 
   - name: services
@@ -120,10 +120,10 @@ collections:
       - { name: id, label: ID }
       - { name: title, label: Titulo }
       - { name: path, label: Ruta }
-      - { name: lang, label: Idioma, widget: select, options: { values: [es, en] } }
+      - { name: lang, label: Idioma, widget: select, options: [es, en] }
       - { name: seo, label: ID SEO }
-      - { name: design, label: Diseno, widget: hidden, required: false }
-      - { name: commercial, label: Comercial, widget: hidden, required: false }
+      - { name: design, label: Diseno, widget: hidden }
+      - { name: commercial, label: Comercial, widget: hidden }
       - name: sections
         label: Secciones
         widget: list
@@ -131,9 +131,9 @@ collections:
         fields:
           - { name: type, widget: string, required: false }
           - { name: id, label: ID, required: false }
-          - { name: kind, widget: select, required: false, options: { values: [content, hero, sectors, demos, services, process, contact, workflow, suiteqa, languages, specs, experience] } }
+          - { name: kind, widget: select, required: false, options: [content, hero, sectors, demos, services, process, contact, workflow, suiteqa, languages, specs, experience] }
           - { name: enabled, label: Visible, widget: boolean, required: false }
-          - { name: surface, widget: select, required: false, options: { values: [light, soft, dark, brand] } }
+          - { name: surface, widget: select, required: false, options: [light, soft, dark, brand] }
           - { name: eyebrow, required: false }
           - { name: heading, label: Titular, required: false }
           - { name: headingAccent, label: Parte destacada, required: false }
@@ -182,8 +182,8 @@ collections:
               - { name: title, required: false }
               - { name: alt, required: false }
               - { name: caption, widget: text, required: false }
-              - { name: status, widget: select, required: false, options: { values: [internal, development] } }
-              - { name: review, widget: select, required: false, options: { values: [pending, approved] } }
+              - { name: status, widget: select, required: false, options: [internal, development] }
+              - { name: review, widget: select, required: false, options: [pending, approved] }
               - { name: enabled, widget: boolean, required: false }
 
   - name: demos
@@ -202,7 +202,7 @@ collections:
       - { name: image, label: Imagen, widget: image, required: false, media_folder: public/media, public_folder: /media }
       - { name: flag, label: Bandera, widget: image, required: false, media_folder: public/media, public_folder: /media }
       - { name: order, label: Orden, widget: number, required: false }
-      - { name: source, widget: hidden, required: false }
+      - { name: source, widget: hidden }
 
   - name: characters
     label: Personajes
@@ -256,8 +256,8 @@ collections:
     fields:
       - { name: id, label: ID }
       - { name: title, label: Titulo }
-      - { name: lang, label: Idioma, widget: select, options: { values: [es, en] } }
-      - { name: source, widget: hidden, required: false }
+      - { name: lang, label: Idioma, widget: select, options: [es, en] }
+      - { name: source, widget: hidden }
       - name: fields
         label: Campos
         widget: list
@@ -265,9 +265,9 @@ collections:
         fields:
           - { name: name, label: Nombre }
           - { name: label, label: Etiqueta }
-          - { name: type, widget: select, options: { values: [text, email, tel, textarea, select, checkbox, url, number, date, heading] } }
+          - { name: type, widget: select, options: [text, email, tel, textarea, select, checkbox, url, number, date, heading] }
           - { name: showLabel, widget: boolean, required: false }
-          - { name: width, widget: select, required: false, options: { values: [full, half] } }
+          - { name: width, widget: select, required: false, options: [full, half] }
           - { name: required, widget: boolean, required: false }
           - { name: placeholder, required: false }
           - name: options
@@ -277,7 +277,7 @@ collections:
               - { name: label, required: false }
               - { name: value, required: false }
       - { name: submit, label: Boton enviar }
-      - { name: status, widget: select, options: { values: [unconfigured, configured] } }
+      - { name: status, widget: select, options: [unconfigured, configured] }
       - { name: senderFormId, label: ID publico Sender, required: false }
       - { name: notice, widget: text, required: false }
       - { name: compact, widget: boolean, required: false }
@@ -298,7 +298,7 @@ collections:
       - { name: id, label: ID }
       - { name: title, label: Titulo }
       - { name: path, label: Ruta }
-      - { name: lang, widget: select, options: { values: [es, en] } }
+      - { name: lang, widget: select, options: [es, en] }
       - { name: seo, label: ID SEO }
       - name: sections
         label: Secciones
